@@ -1,0 +1,22 @@
+{
+  "id": "brand_carver",
+  "title": "Carver",
+  "models": [
+    {
+      "id": "model_carver_one",
+      "title": "Carver One",
+      "generations": [
+        {
+          "id": "gen_carver_one",
+          "title": "Carver One",
+          "children": [
+            {
+              "id": "mod_2007_carver_one",
+              "title": "2007 Carver One"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

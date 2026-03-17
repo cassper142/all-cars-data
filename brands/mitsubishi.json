@@ -1,0 +1,2904 @@
+{
+  "id": "brand_mitsubishi",
+  "title": "Mitsubishi",
+  "models": [
+    {
+      "id": "model_mitsubishi_eclipse_cross",
+      "title": "Mitsubishi Eclipse Cross",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_eclipse_cross",
+          "title": "Mitsubishi Eclipse Cross",
+          "children": [
+            {
+              "id": "mod_2017_mitsubishi_eclipse_cross_1_5_di_t_2wd_first_edition",
+              "title": "2017 Mitsubishi Eclipse Cross 1.5 DI-T 2WD First Edition"
+            },
+            {
+              "id": "mod_2017_mitsubishi_eclipse_cross_1_5_di_t_2wd_instyle",
+              "title": "2017 Mitsubishi Eclipse Cross 1.5 DI-T 2WD Instyle"
+            },
+            {
+              "id": "mod_2017_mitsubishi_eclipse_cross_1_5_di_t_2wd_intense",
+              "title": "2017 Mitsubishi Eclipse Cross 1.5 DI-T 2WD Intense"
+            },
+            {
+              "id": "mod_2017_mitsubishi_eclipse_cross_1_5_di_t_2wd_pure",
+              "title": "2017 Mitsubishi Eclipse Cross 1.5 DI-T 2WD Pure"
+            },
+            {
+              "id": "mod_2017_mitsubishi_eclipse_cross_1_5_di_t_4wd_first_edition",
+              "title": "2017 Mitsubishi Eclipse Cross 1.5 DI-T 4WD First Edition"
+            },
+            {
+              "id": "mod_2017_mitsubishi_eclipse_cross_1_5_di_t_4wd_instyle",
+              "title": "2017 Mitsubishi Eclipse Cross 1.5 DI-T 4WD Instyle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_l200_club_cab",
+      "title": "Mitsubishi L200 Club Cab",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_l200_club_cab",
+          "title": "Mitsubishi L200 Club Cab",
+          "children": [
+            {
+              "id": "mod_2020_mitsubishi_l200_club_cab_2_2_di_d_cleartec_intense",
+              "title": "2020 Mitsubishi L200 Club Cab 2.2 DI-D ClearTec Intense"
+            },
+            {
+              "id": "mod_2020_mitsubishi_l200_club_cab_2_2_di_d_cleartec_invite",
+              "title": "2020 Mitsubishi L200 Club Cab 2.2 DI-D ClearTec Invite"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_l200_club_cab",
+          "title": "Mitsubishi L200 Club Cab",
+          "children": [
+            {
+              "id": "mod_2015_mitsubishi_l200_club_cab_2_4_di_d_cleartec_intense",
+              "title": "2015 Mitsubishi L200 Club Cab 2.4 DI-D ClearTec Intense"
+            },
+            {
+              "id": "mod_2015_mitsubishi_l200_club_cab_2_4_di_d_cleartec_invite",
+              "title": "2015 Mitsubishi L200 Club Cab 2.4 DI-D ClearTec Invite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_l200_double_cab",
+      "title": "Mitsubishi L200 Double Cab",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_l200_double_cab",
+          "title": "Mitsubishi L200 Double Cab",
+          "children": [
+            {
+              "id": "mod_2020_mitsubishi_l200_double_cab_2_2_di_d_cleartec_intense",
+              "title": "2020 Mitsubishi L200 Double Cab 2.2 DI-D ClearTec Intense"
+            },
+            {
+              "id": "mod_2020_mitsubishi_l200_double_cab_2_2_di_d_instyle",
+              "title": "2020 Mitsubishi L200 Double Cab 2.2 DI-D Instyle"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_l200_double_cab",
+          "title": "Mitsubishi L200 Double Cab",
+          "children": [
+            {
+              "id": "mod_2015_mitsubishi_l200_double_cab_2_4_di_d_cleartec_intense",
+              "title": "2015 Mitsubishi L200 Double Cab 2.4 DI-D ClearTec Intense"
+            },
+            {
+              "id": "mod_2015_mitsubishi_l200_double_cab_2_4_di_d_cleartec_invite",
+              "title": "2015 Mitsubishi L200 Double Cab 2.4 DI-D ClearTec Invite"
+            },
+            {
+              "id": "mod_2015_mitsubishi_l200_double_cab_2_4_di_d_instyle",
+              "title": "2015 Mitsubishi L200 Double Cab 2.4 DI-D Instyle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_l200",
+      "title": "Mitsubishi L200",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_l200",
+          "title": "Mitsubishi L200",
+          "children": [
+            {
+              "id": "mod_2012_mitsubishi_l200_club_cab_2_5_di_d_4wd_invite",
+              "title": "2012 Mitsubishi L200 Club Cab 2.5 DI-D 4WD Invite"
+            },
+            {
+              "id": "mod_2012_mitsubishi_l200_single_cab_2_5_di_d_2wd_inform",
+              "title": "2012 Mitsubishi L200 Single Cab 2.5 DI-D 2WD Inform"
+            },
+            {
+              "id": "mod_2012_mitsubishi_l200_single_cab_2_5_di_d_4wd_inform",
+              "title": "2012 Mitsubishi L200 Single Cab 2.5 DI-D 4WD Inform"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_l200",
+          "title": "Mitsubishi L200",
+          "children": [
+            {
+              "id": "mod_2012_mitsubishi_l200_double_cab_2_5_di_d_4wd_invite",
+              "title": "2012 Mitsubishi L200 Double Cab 2.5 DI-D 4WD Invite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_asx",
+      "title": "Mitsubishi ASX",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_asx",
+          "title": "Mitsubishi ASX",
+          "children": [
+            {
+              "id": "mod_2019_mitsubishi_asx_2_0_instyle",
+              "title": "2019 Mitsubishi ASX 2.0 Instyle"
+            },
+            {
+              "id": "mod_2019_mitsubishi_asx_2_0_intense",
+              "title": "2019 Mitsubishi ASX 2.0 Intense"
+            },
+            {
+              "id": "mod_2019_mitsubishi_asx_2_0_pure",
+              "title": "2019 Mitsubishi ASX 2.0 Pure"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_asx",
+          "title": "Mitsubishi ASX",
+          "children": [
+            {
+              "id": "mod_2018_mitsubishi_asx_1_6_cleartec_bright",
+              "title": "2018 Mitsubishi ASX 1.6 ClearTec Bright"
+            },
+            {
+              "id": "mod_2018_mitsubishi_asx_1_6_cleartec_connect_pro",
+              "title": "2018 Mitsubishi ASX 1.6 ClearTec Connect Pro"
+            },
+            {
+              "id": "mod_2018_mitsubishi_asx_1_6_cleartec_connect_pro",
+              "title": "2018 Mitsubishi ASX 1.6 ClearTec Connect Pro+"
+            },
+            {
+              "id": "mod_2018_mitsubishi_asx_1_6_cleartec_entry",
+              "title": "2018 Mitsubishi ASX 1.6 ClearTec Entry"
+            },
+            {
+              "id": "mod_2018_mitsubishi_asx_1_6_cleartec_instyle",
+              "title": "2018 Mitsubishi ASX 1.6 ClearTec Instyle"
+            },
+            {
+              "id": "mod_2018_mitsubishi_asx_1_6_cleartec_life",
+              "title": "2018 Mitsubishi ASX 1.6 ClearTec Life"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_asx",
+          "title": "Mitsubishi ASX",
+          "children": [
+            {
+              "id": "mod_2016_mitsubishi_asx_1_6_cleartec_bright",
+              "title": "2016 Mitsubishi ASX 1.6 ClearTec Bright"
+            },
+            {
+              "id": "mod_2016_mitsubishi_asx_1_6_cleartec_entry",
+              "title": "2016 Mitsubishi ASX 1.6 ClearTec Entry"
+            },
+            {
+              "id": "mod_2016_mitsubishi_asx_1_6_cleartec_instyle",
+              "title": "2016 Mitsubishi ASX 1.6 ClearTec Instyle"
+            },
+            {
+              "id": "mod_2016_mitsubishi_asx_1_6_cleartec_intense",
+              "title": "2016 Mitsubishi ASX 1.6 ClearTec Intense"
+            },
+            {
+              "id": "mod_2016_mitsubishi_asx_1_6_cleartec_intense",
+              "title": "2016 Mitsubishi ASX 1.6 ClearTec Intense+"
+            },
+            {
+              "id": "mod_2016_mitsubishi_asx_1_6_di_d_cleartec_instyle",
+              "title": "2016 Mitsubishi ASX 1.6 DI-D ClearTec Instyle"
+            },
+            {
+              "id": "mod_2016_mitsubishi_asx_1_6_di_d_cleartec_intense",
+              "title": "2016 Mitsubishi ASX 1.6 DI-D ClearTec Intense+"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_asx",
+          "title": "Mitsubishi ASX",
+          "children": [
+            {
+              "id": "mod_2012_mitsubishi_asx_1_6_cleartec_inform",
+              "title": "2012 Mitsubishi ASX 1.6 ClearTec Inform"
+            },
+            {
+              "id": "mod_2012_mitsubishi_asx_1_6_cleartec_instyle",
+              "title": "2012 Mitsubishi ASX 1.6 ClearTec Instyle"
+            },
+            {
+              "id": "mod_2012_mitsubishi_asx_1_6_cleartec_intense",
+              "title": "2012 Mitsubishi ASX 1.6 ClearTec Intense"
+            },
+            {
+              "id": "mod_2012_mitsubishi_asx_1_6_cleartec_invite",
+              "title": "2012 Mitsubishi ASX 1.6 ClearTec Invite"
+            },
+            {
+              "id": "mod_2012_mitsubishi_asx_1_8_di_d_cleartec_intense",
+              "title": "2012 Mitsubishi ASX 1.8 DI-D ClearTec Intense"
+            },
+            {
+              "id": "mod_2012_mitsubishi_asx_1_8_di_d_cleartec_invite",
+              "title": "2012 Mitsubishi ASX 1.8 DI-D ClearTec Invite"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_asx",
+          "title": "Mitsubishi ASX",
+          "children": [
+            {
+              "id": "mod_2010_mitsubishi_asx_1_6_cleartec_inform",
+              "title": "2010 Mitsubishi ASX 1.6 ClearTec Inform"
+            },
+            {
+              "id": "mod_2010_mitsubishi_asx_1_6_cleartec_intense",
+              "title": "2010 Mitsubishi ASX 1.6 ClearTec Intense"
+            },
+            {
+              "id": "mod_2010_mitsubishi_asx_1_6_cleartec_intro_edition",
+              "title": "2010 Mitsubishi ASX 1.6 ClearTec Intro Edition"
+            },
+            {
+              "id": "mod_2010_mitsubishi_asx_1_8_di_d_cleartec_intense",
+              "title": "2010 Mitsubishi ASX 1.8 DI-D ClearTec Intense"
+            },
+            {
+              "id": "mod_2010_mitsubishi_asx_1_8_di_d_cleartec_intro_edition",
+              "title": "2010 Mitsubishi ASX 1.8 DI-D ClearTec Intro Edition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_outlander_van",
+      "title": "Mitsubishi Outlander Van",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_outlander_van",
+          "title": "Mitsubishi Outlander Van",
+          "children": [
+            {
+              "id": "mod_2010_mitsubishi_outlander_van_2_0_2wd_intro_edition",
+              "title": "2010 Mitsubishi Outlander Van 2.0 2WD Intro Edition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_i_miev",
+      "title": "Mitsubishi i-MiEV",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_i_miev",
+          "title": "Mitsubishi i-MiEV",
+          "children": [
+            {
+              "id": "mod_2010_mitsubishi_i_miev",
+              "title": "2010 Mitsubishi I-MiEV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_lancer_sportback",
+      "title": "Mitsubishi Lancer Sportback",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_lancer_sportback",
+          "title": "Mitsubishi Lancer Sportback",
+          "children": [
+            {
+              "id": "mod_2008_mitsubishi_lancer_sportback_1_8_inform",
+              "title": "2008 Mitsubishi Lancer Sportback 1.8 Inform"
+            },
+            {
+              "id": "mod_2008_mitsubishi_lancer_sportback_1_8_instyle",
+              "title": "2008 Mitsubishi Lancer Sportback 1.8 Instyle"
+            },
+            {
+              "id": "mod_2008_mitsubishi_lancer_sportback_1_8_intense",
+              "title": "2008 Mitsubishi Lancer Sportback 1.8 Intense"
+            },
+            {
+              "id": "mod_2008_mitsubishi_lancer_sportback_1_8_invite",
+              "title": "2008 Mitsubishi Lancer Sportback 1.8 Invite"
+            },
+            {
+              "id": "mod_2008_mitsubishi_lancer_sportback_2_0_di_d_instyle",
+              "title": "2008 Mitsubishi Lancer Sportback 2.0 DI-D Instyle"
+            },
+            {
+              "id": "mod_2008_mitsubishi_lancer_sportback_2_0_di_d_intense",
+              "title": "2008 Mitsubishi Lancer Sportback 2.0 DI-D Intense"
+            },
+            {
+              "id": "mod_2008_mitsubishi_lancer_sportback_2_0_di_d_invite",
+              "title": "2008 Mitsubishi Lancer Sportback 2.0 DI-D Invite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_colt_cz5",
+      "title": "Mitsubishi Colt CZ5",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_colt_cz5",
+          "title": "Mitsubishi Colt CZ5",
+          "children": [
+            {
+              "id": "mod_2008_mitsubishi_colt_cz5_1_1_inform",
+              "title": "2008 Mitsubishi Colt CZ5 1.1 Inform"
+            },
+            {
+              "id": "mod_2008_mitsubishi_colt_cz5_1_3_inform",
+              "title": "2008 Mitsubishi Colt CZ5 1.3 Inform"
+            },
+            {
+              "id": "mod_2008_mitsubishi_colt_cz5_1_3_instyle",
+              "title": "2008 Mitsubishi Colt CZ5 1.3 Instyle"
+            },
+            {
+              "id": "mod_2008_mitsubishi_colt_cz5_1_3_intro_edition",
+              "title": "2008 Mitsubishi Colt CZ5 1.3 Intro Edition"
+            },
+            {
+              "id": "mod_2008_mitsubishi_colt_cz5_1_3_invite",
+              "title": "2008 Mitsubishi Colt CZ5 1.3 Invite"
+            },
+            {
+              "id": "mod_2008_mitsubishi_colt_cz5_1_5_intense",
+              "title": "2008 Mitsubishi Colt CZ5 1.5 Intense"
+            },
+            {
+              "id": "mod_2008_mitsubishi_colt_cz5_1_5_ralliart",
+              "title": "2008 Mitsubishi Colt CZ5 1.5 Ralliart"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_colt_cz5",
+          "title": "Mitsubishi Colt CZ5",
+          "children": [
+            {
+              "id": "mod_2007_mitsubishi_colt_cz5_1_1_incharge",
+              "title": "2007 Mitsubishi Colt CZ5 1.1 Incharge"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz5_1_1_incharge",
+              "title": "2007 Mitsubishi Colt CZ5 1.1 Incharge+"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz5_1_3_incharge",
+              "title": "2007 Mitsubishi Colt CZ5 1.3 Incharge"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz5_1_3_incharge",
+              "title": "2007 Mitsubishi Colt CZ5 1.3 Incharge+"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz5_1_3_invite",
+              "title": "2007 Mitsubishi Colt CZ5 1.3 Invite"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz5_1_5_di_d_incharge",
+              "title": "2007 Mitsubishi Colt CZ5 1.5 Di-D Incharge"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz5_1_5_instyle",
+              "title": "2007 Mitsubishi Colt CZ5 1.5 Instyle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_pajero_lwb",
+      "title": "Mitsubishi Pajero LWB",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_pajero_lwb",
+          "title": "Mitsubishi Pajero LWB",
+          "children": [
+            {
+              "id": "mod_2006_mitsubishi_pajero_lwb_3_2_did_instyle",
+              "title": "2006 Mitsubishi Pajero LWB 3.2 DiD Instyle"
+            },
+            {
+              "id": "mod_2006_mitsubishi_pajero_lwb_3_2_did_intense",
+              "title": "2006 Mitsubishi Pajero LWB 3.2 DiD Intense"
+            },
+            {
+              "id": "mod_2006_mitsubishi_pajero_lwb_3_2_did_invite",
+              "title": "2006 Mitsubishi Pajero LWB 3.2 DiD Invite"
+            },
+            {
+              "id": "mod_2006_mitsubishi_pajero_lwb_3_8_v6_mivec_instyle",
+              "title": "2006 Mitsubishi Pajero LWB 3.8 V6 Mivec Instyle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_pajero_swb",
+      "title": "Mitsubishi Pajero SWB",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_pajero_swb",
+          "title": "Mitsubishi Pajero SWB",
+          "children": [
+            {
+              "id": "mod_2006_mitsubishi_pajero_swb_3_2_did_invite",
+              "title": "2006 Mitsubishi Pajero SWB 3.2 DiD Invite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_outlander_sport",
+      "title": "Mitsubishi Outlander Sport",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_outlander_sport",
+          "title": "Mitsubishi Outlander Sport",
+          "children": [
+            {
+              "id": "mod_2006_mitsubishi_outlander_sport_2_0_2wd_invite_plus",
+              "title": "2006 Mitsubishi Outlander Sport 2.0 2WD Invite Plus"
+            },
+            {
+              "id": "mod_2006_mitsubishi_outlander_sport_2_0_2wd_invite",
+              "title": "2006 Mitsubishi Outlander Sport 2.0 2WD Invite"
+            },
+            {
+              "id": "mod_2006_mitsubishi_outlander_sport_2_0_4wd_turbo",
+              "title": "2006 Mitsubishi Outlander Sport 2.0 4WD Turbo"
+            },
+            {
+              "id": "mod_2006_mitsubishi_outlander_sport_2_4_4wd_invite_scott",
+              "title": "2006 Mitsubishi Outlander Sport 2.4 4WD Invite Scott"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_colt_czc",
+      "title": "Mitsubishi Colt CZC",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_colt_czc",
+          "title": "Mitsubishi Colt CZC",
+          "children": [
+            {
+              "id": "mod_2007_mitsubishi_colt_czc_1_5_instyle",
+              "title": "2007 Mitsubishi Colt CZC 1.5 Instyle"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_czc_1_5_invite",
+              "title": "2007 Mitsubishi Colt CZC 1.5 Invite"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_czc_1_5_limited_edition",
+              "title": "2007 Mitsubishi Colt CZC 1.5 Limited Edition"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_czc_1_5_turbo",
+              "title": "2007 Mitsubishi Colt CZC 1.5 Turbo"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_czc_1_5",
+              "title": "2007 Mitsubishi Colt CZC 1.5"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_colt_czc",
+          "title": "Mitsubishi Colt CZC",
+          "children": [
+            {
+              "id": "mod_2006_mitsubishi_colt_czc_1_5_instyle",
+              "title": "2006 Mitsubishi Colt CZC 1.5 Instyle"
+            },
+            {
+              "id": "mod_2006_mitsubishi_colt_czc_1_5_invite",
+              "title": "2006 Mitsubishi Colt CZC 1.5 Invite"
+            },
+            {
+              "id": "mod_2006_mitsubishi_colt_czc_1_5_turbo",
+              "title": "2006 Mitsubishi Colt CZC 1.5 Turbo"
+            },
+            {
+              "id": "mod_2006_mitsubishi_colt_czc_1_5",
+              "title": "2006 Mitsubishi Colt CZC 1.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_colt_cz3",
+      "title": "Mitsubishi Colt CZ3",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_colt_cz3",
+          "title": "Mitsubishi Colt CZ3",
+          "children": [
+            {
+              "id": "mod_2008_mitsubishi_colt_cz3_1_1_inbusiness",
+              "title": "2008 Mitsubishi Colt CZ3 1.1 Inbusiness"
+            },
+            {
+              "id": "mod_2008_mitsubishi_colt_cz3_1_1_inform",
+              "title": "2008 Mitsubishi Colt CZ3 1.1 Inform"
+            },
+            {
+              "id": "mod_2008_mitsubishi_colt_cz3_1_1_invite",
+              "title": "2008 Mitsubishi Colt CZ3 1.1 Invite"
+            },
+            {
+              "id": "mod_2008_mitsubishi_colt_cz3_1_3_inform",
+              "title": "2008 Mitsubishi Colt CZ3 1.3 Inform"
+            },
+            {
+              "id": "mod_2008_mitsubishi_colt_cz3_1_3_invite",
+              "title": "2008 Mitsubishi Colt CZ3 1.3 Invite"
+            },
+            {
+              "id": "mod_2008_mitsubishi_colt_cz3_1_5_intense",
+              "title": "2008 Mitsubishi Colt CZ3 1.5 Intense"
+            },
+            {
+              "id": "mod_2008_mitsubishi_colt_cz3_1_5_ralliart",
+              "title": "2008 Mitsubishi Colt CZ3 1.5 Ralliart"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_colt_cz3",
+          "title": "Mitsubishi Colt CZ3",
+          "children": [
+            {
+              "id": "mod_2007_mitsubishi_colt_cz3_1_1_inbusiness",
+              "title": "2007 Mitsubishi Colt CZ3 1.1 Inbusiness"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz3_1_1_incharge",
+              "title": "2007 Mitsubishi Colt CZ3 1.1 Incharge"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz3_1_1_incharge",
+              "title": "2007 Mitsubishi Colt CZ3 1.1 Incharge+"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz3_1_3_incharge",
+              "title": "2007 Mitsubishi Colt CZ3 1.3 Incharge"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz3_1_3_incharge",
+              "title": "2007 Mitsubishi Colt CZ3 1.3 Incharge+"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz3_1_3_invite",
+              "title": "2007 Mitsubishi Colt CZ3 1.3 Invite"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz3_1_5_di_d_inbusiness",
+              "title": "2007 Mitsubishi Colt CZ3 1.5 Di-D Inbusiness"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz3_1_5_di_d_incharge",
+              "title": "2007 Mitsubishi Colt CZ3 1.5 Di-D Incharge"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz3_1_5_instyle",
+              "title": "2007 Mitsubishi Colt CZ3 1.5 Instyle"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_cz3_1_5_qs",
+              "title": "2007 Mitsubishi Colt CZ3 1.5 QS"
+            },
+            {
+              "id": "mod_2007_mitsubishi_colt_czt_1_5_turbo",
+              "title": "2007 Mitsubishi Colt CZT 1.5 Turbo"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_colt_cz3",
+          "title": "Mitsubishi Colt CZ3",
+          "children": [
+            {
+              "id": "mod_2005_mitsubishi_colt_cz3_1_1_inform",
+              "title": "2005 Mitsubishi Colt CZ3 1.1 Inform"
+            },
+            {
+              "id": "mod_2005_mitsubishi_colt_cz3_1_1_invite",
+              "title": "2005 Mitsubishi Colt CZ3 1.1 Invite"
+            },
+            {
+              "id": "mod_2005_mitsubishi_colt_cz3_1_1",
+              "title": "2005 Mitsubishi Colt CZ3 1.1"
+            },
+            {
+              "id": "mod_2005_mitsubishi_colt_cz3_1_3_inform",
+              "title": "2005 Mitsubishi Colt CZ3 1.3 Inform"
+            },
+            {
+              "id": "mod_2005_mitsubishi_colt_cz3_1_3_instyle",
+              "title": "2005 Mitsubishi Colt CZ3 1.3 Instyle"
+            },
+            {
+              "id": "mod_2005_mitsubishi_colt_cz3_1_3_invite",
+              "title": "2005 Mitsubishi Colt CZ3 1.3 Invite"
+            },
+            {
+              "id": "mod_2005_mitsubishi_colt_cz3_1_5_di_d_hp_instyle",
+              "title": "2005 Mitsubishi Colt CZ3 1.5 DI-D HP Instyle"
+            },
+            {
+              "id": "mod_2005_mitsubishi_colt_cz3_1_5_di_d_hp_invite",
+              "title": "2005 Mitsubishi Colt CZ3 1.5 DI-D HP Invite"
+            },
+            {
+              "id": "mod_2005_mitsubishi_colt_cz3_1_5_instyle",
+              "title": "2005 Mitsubishi Colt CZ3 1.5 Instyle"
+            },
+            {
+              "id": "mod_2005_mitsubishi_colt_cz3_1_5_invite",
+              "title": "2005 Mitsubishi Colt CZ3 1.5 Invite"
+            },
+            {
+              "id": "mod_2005_mitsubishi_colt_czt_1_5_turbo",
+              "title": "2005 Mitsubishi Colt CZT 1.5 Turbo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_grandis",
+      "title": "Mitsubishi Grandis",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_grandis",
+          "title": "Mitsubishi Grandis",
+          "children": [
+            {
+              "id": "mod_2004_mitsubishi_grandis_2_4_inform",
+              "title": "2004 Mitsubishi Grandis 2.4 Inform"
+            },
+            {
+              "id": "mod_2004_mitsubishi_grandis_2_4_intense",
+              "title": "2004 Mitsubishi Grandis 2.4 Intense"
+            },
+            {
+              "id": "mod_2004_mitsubishi_grandis_2_4_invite",
+              "title": "2004 Mitsubishi Grandis 2.4 Invite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_outlander",
+      "title": "Mitsubishi Outlander",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_outlander",
+          "title": "Mitsubishi Outlander",
+          "children": [
+            {
+              "id": "mod_2015_mitsubishi_outlander_2_0_cleartec_business_edition_2wd",
+              "title": "2015 Mitsubishi Outlander 2.0 ClearTec Business Edition 2WD"
+            },
+            {
+              "id": "mod_2015_mitsubishi_outlander_2_0_cleartec_executive_edition_2wd",
+              "title": "2015 Mitsubishi Outlander 2.0 ClearTec Executive Edition 2WD"
+            },
+            {
+              "id": "mod_2015_mitsubishi_outlander_2_0_cleartec_instyle_2wd",
+              "title": "2015 Mitsubishi Outlander 2.0 ClearTec Instyle 2WD"
+            },
+            {
+              "id": "mod_2015_mitsubishi_outlander_2_0_cleartec_instyle_4wd",
+              "title": "2015 Mitsubishi Outlander 2.0 ClearTec Instyle+ 4WD"
+            },
+            {
+              "id": "mod_2015_mitsubishi_outlander_2_2_di_d_cleartec_business_edition_2wd",
+              "title": "2015 Mitsubishi Outlander 2.2 DI-D ClearTec Business Edition 2WD"
+            },
+            {
+              "id": "mod_2015_mitsubishi_outlander_2_2_di_d_cleartec_executive_edition_4wd",
+              "title": "2015 Mitsubishi Outlander 2.2 DI-D ClearTec Executive Edition 4WD"
+            },
+            {
+              "id": "mod_2015_mitsubishi_outlander_2_2_di_d_instyle_4wd",
+              "title": "2015 Mitsubishi Outlander 2.2 DI-D Instyle+ 4WD"
+            },
+            {
+              "id": "mod_2015_mitsubishi_outlander_phev_business_edition",
+              "title": "2015 Mitsubishi Outlander PHEV Business Edition"
+            },
+            {
+              "id": "mod_2015_mitsubishi_outlander_phev_executive_edition",
+              "title": "2015 Mitsubishi Outlander PHEV Executive Edition"
+            },
+            {
+              "id": "mod_2015_mitsubishi_outlander_phev_instyle",
+              "title": "2015 Mitsubishi Outlander PHEV Instyle"
+            },
+            {
+              "id": "mod_2015_mitsubishi_outlander_phev_instyle",
+              "title": "2015 Mitsubishi Outlander PHEV Instyle+"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_outlander",
+          "title": "Mitsubishi Outlander",
+          "children": [
+            {
+              "id": "mod_2012_mitsubishi_outlander_2_0_cleartec_instyle_2wd",
+              "title": "2012 Mitsubishi Outlander 2.0 ClearTec Instyle 2WD"
+            },
+            {
+              "id": "mod_2012_mitsubishi_outlander_2_0_cleartec_instyle_4wd",
+              "title": "2012 Mitsubishi Outlander 2.0 ClearTec Instyle 4WD"
+            },
+            {
+              "id": "mod_2012_mitsubishi_outlander_2_0_cleartec_intense_2wd",
+              "title": "2012 Mitsubishi Outlander 2.0 ClearTec Intense 2WD"
+            },
+            {
+              "id": "mod_2012_mitsubishi_outlander_2_0_cleartec_intense_2wd",
+              "title": "2012 Mitsubishi Outlander 2.0 ClearTec Intense+ 2WD"
+            },
+            {
+              "id": "mod_2012_mitsubishi_outlander_2_2_di_d_cleartec_intense_2wd",
+              "title": "2012 Mitsubishi Outlander 2.2 DI-D ClearTec Intense 2WD"
+            },
+            {
+              "id": "mod_2012_mitsubishi_outlander_2_2_di_d_cleartec_intense_4wd",
+              "title": "2012 Mitsubishi Outlander 2.2 DI-D ClearTec Intense+ 4WD"
+            },
+            {
+              "id": "mod_2012_mitsubishi_outlander_2_2_di_d_instyle_4wd",
+              "title": "2012 Mitsubishi Outlander 2.2 DI-D Instyle 4WD"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_outlander",
+          "title": "Mitsubishi Outlander",
+          "children": [
+            {
+              "id": "mod_2010_mitsubishi_outlander_2_0_2wd_intro_edition",
+              "title": "2010 Mitsubishi Outlander 2.0 2WD Intro Edition"
+            },
+            {
+              "id": "mod_2010_mitsubishi_outlander_2_0_2wd_invite",
+              "title": "2010 Mitsubishi Outlander 2.0 2WD Invite"
+            },
+            {
+              "id": "mod_2010_mitsubishi_outlander_2_2_di_d_177hp_2wd_intro_edition",
+              "title": "2010 Mitsubishi Outlander 2.2 Di-D 177hp 2WD Intro Edition"
+            },
+            {
+              "id": "mod_2010_mitsubishi_outlander_2_2_di_d_177hp_4wd_intense",
+              "title": "2010 Mitsubishi Outlander 2.2 Di-D 177hp 4WD Intense"
+            },
+            {
+              "id": "mod_2010_mitsubishi_outlander_2_2_di_d_4wd_instyle",
+              "title": "2010 Mitsubishi Outlander 2.2 Di-D 4WD Instyle"
+            },
+            {
+              "id": "mod_2010_mitsubishi_outlander_2_2_di_d_4wd_intense",
+              "title": "2010 Mitsubishi Outlander 2.2 Di-D 4WD Intense"
+            },
+            {
+              "id": "mod_2010_mitsubishi_outlander_2_4_4wd_instyle",
+              "title": "2010 Mitsubishi Outlander 2.4 4WD Instyle"
+            },
+            {
+              "id": "mod_2010_mitsubishi_outlander_2_4_4wd_intense",
+              "title": "2010 Mitsubishi Outlander 2.4 4WD Intense+"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_outlander",
+          "title": "Mitsubishi Outlander",
+          "children": [
+            {
+              "id": "mod_2007_mitsubishi_outlander_2_0_di_d_4wd_instyle",
+              "title": "2007 Mitsubishi Outlander 2.0 Di-D 4WD Instyle"
+            },
+            {
+              "id": "mod_2007_mitsubishi_outlander_2_0_di_d_4wd_intense",
+              "title": "2007 Mitsubishi Outlander 2.0 Di-D 4WD Intense"
+            },
+            {
+              "id": "mod_2007_mitsubishi_outlander_2_0_di_d_4wd_intense",
+              "title": "2007 Mitsubishi Outlander 2.0 Di-D 4WD Intense+"
+            },
+            {
+              "id": "mod_2007_mitsubishi_outlander_2_0_di_d_4wd_invite",
+              "title": "2007 Mitsubishi Outlander 2.0 Di-D 4WD Invite"
+            },
+            {
+              "id": "mod_2007_mitsubishi_outlander_2_2_di_d_4wd_business_edition",
+              "title": "2007 Mitsubishi Outlander 2.2 Di-D 4WD Business Edition"
+            },
+            {
+              "id": "mod_2007_mitsubishi_outlander_2_2_di_d_4wd_instyle",
+              "title": "2007 Mitsubishi Outlander 2.2 Di-D 4WD Instyle"
+            },
+            {
+              "id": "mod_2007_mitsubishi_outlander_2_2_di_d_4wd_intense",
+              "title": "2007 Mitsubishi Outlander 2.2 Di-D 4WD Intense+"
+            },
+            {
+              "id": "mod_2007_mitsubishi_outlander_2_4_2wd_intro_edition",
+              "title": "2007 Mitsubishi Outlander 2.4 2WD Intro Edition"
+            },
+            {
+              "id": "mod_2007_mitsubishi_outlander_2_4_2wd_invite",
+              "title": "2007 Mitsubishi Outlander 2.4 2WD Invite"
+            },
+            {
+              "id": "mod_2007_mitsubishi_outlander_2_4_4wd_instyle",
+              "title": "2007 Mitsubishi Outlander 2.4 4WD Instyle"
+            },
+            {
+              "id": "mod_2007_mitsubishi_outlander_2_4_4wd_intense",
+              "title": "2007 Mitsubishi Outlander 2.4 4WD Intense+"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_outlander",
+          "title": "Mitsubishi Outlander",
+          "children": [
+            {
+              "id": "mod_2003_mitsubishi_outlander_2_0_2wd_comfort_base",
+              "title": "2003 Mitsubishi Outlander 2.0 2WD Comfort Base"
+            },
+            {
+              "id": "mod_2003_mitsubishi_outlander_2_0_2wd_comfort",
+              "title": "2003 Mitsubishi Outlander 2.0 2WD Comfort"
+            },
+            {
+              "id": "mod_2003_mitsubishi_outlander_2_0_4wd_comfort",
+              "title": "2003 Mitsubishi Outlander 2.0 4WD Comfort"
+            },
+            {
+              "id": "mod_2003_mitsubishi_outlander_2_0_4wd_sport_intro_edition",
+              "title": "2003 Mitsubishi Outlander 2.0 4WD Sport Intro Edition"
+            },
+            {
+              "id": "mod_2003_mitsubishi_outlander_2_0_4wd_sport",
+              "title": "2003 Mitsubishi Outlander 2.0 4WD Sport"
+            },
+            {
+              "id": "mod_2003_mitsubishi_outlander_2_4_4wd_sport_intro_edition",
+              "title": "2003 Mitsubishi Outlander 2.4 4WD Sport Intro Edition"
+            },
+            {
+              "id": "mod_2003_mitsubishi_outlander_2_4_4wd_sport",
+              "title": "2003 Mitsubishi Outlander 2.4 4WD Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_pajero_kort",
+      "title": "Mitsubishi Pajero Kort",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_pajero_kort",
+          "title": "Mitsubishi Pajero Kort",
+          "children": [
+            {
+              "id": "mod_2003_mitsubishi_pajero_2_5_td_gl",
+              "title": "2003 Mitsubishi Pajero 2.5 TD GL"
+            },
+            {
+              "id": "mod_2003_mitsubishi_pajero_3_2_did_gls",
+              "title": "2003 Mitsubishi Pajero 3.2 DiD GLS"
+            },
+            {
+              "id": "mod_2003_mitsubishi_pajero_3_2_did_glx",
+              "title": "2003 Mitsubishi Pajero 3.2 DiD GLX"
+            },
+            {
+              "id": "mod_2003_mitsubishi_pajero_3_5_v6_gdi_gls",
+              "title": "2003 Mitsubishi Pajero 3.5 V6 GDI GLS"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_pajero_kort",
+          "title": "Mitsubishi Pajero Kort",
+          "children": [
+            {
+              "id": "mod_2000_mitsubishi_pajero_2_5_td_gl",
+              "title": "2000 Mitsubishi Pajero 2.5 TD GL"
+            },
+            {
+              "id": "mod_2000_mitsubishi_pajero_3_2_did_gls",
+              "title": "2000 Mitsubishi Pajero 3.2 DiD GLS"
+            },
+            {
+              "id": "mod_2000_mitsubishi_pajero_3_2_did_glx",
+              "title": "2000 Mitsubishi Pajero 3.2 DiD GLX"
+            },
+            {
+              "id": "mod_2000_mitsubishi_pajero_3_5_v6_gdi_gls",
+              "title": "2000 Mitsubishi Pajero 3.5 V6 GDI GLS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_pajero_sport",
+      "title": "Mitsubishi Pajero Sport",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_pajero_sport",
+          "title": "Mitsubishi Pajero Sport",
+          "children": [
+            {
+              "id": "mod_2002_mitsubishi_pajero_sport_2_5_td_gls",
+              "title": "2002 Mitsubishi Pajero Sport 2.5 TD GLS"
+            },
+            {
+              "id": "mod_2002_mitsubishi_pajero_sport_2_5_td_glx",
+              "title": "2002 Mitsubishi Pajero Sport 2.5 TD GLX"
+            },
+            {
+              "id": "mod_2002_mitsubishi_pajero_sport_3_0_v6_gls",
+              "title": "2002 Mitsubishi Pajero Sport 3.0 V6 GLS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_pajero_pinin_long_body",
+      "title": "Mitsubishi Pajero Pinin Long Body",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_pajero_pinin_long_body",
+          "title": "Mitsubishi Pajero Pinin Long Body",
+          "children": [
+            {
+              "id": "mod_2001_mitsubishi_pajero_pinin_long_body_1_8_gl",
+              "title": "2001 Mitsubishi Pajero Pinin Long Body 1.8 GL"
+            },
+            {
+              "id": "mod_2001_mitsubishi_pajero_pinin_long_body_1_8_glx",
+              "title": "2001 Mitsubishi Pajero Pinin Long Body 1.8 GLX"
+            },
+            {
+              "id": "mod_2001_mitsubishi_pajero_pinin_long_body_2_0_gdi_gl",
+              "title": "2001 Mitsubishi Pajero Pinin Long Body 2.0 GDI GL"
+            },
+            {
+              "id": "mod_2001_mitsubishi_pajero_pinin_long_body_2_0_gdi_glx_lsd",
+              "title": "2001 Mitsubishi Pajero Pinin Long Body 2.0 GDI GLX LSD"
+            },
+            {
+              "id": "mod_2001_mitsubishi_pajero_pinin_long_body_2_0_gdi_glx",
+              "title": "2001 Mitsubishi Pajero Pinin Long Body 2.0 GDI GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_lancer_evolution",
+      "title": "Mitsubishi Lancer Evolution",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_lancer_evolution",
+          "title": "Mitsubishi Lancer Evolution",
+          "children": [
+            {
+              "id": "mod_2005_mitsubishi_lancer_evolution_ix",
+              "title": "2005 Mitsubishi Lancer Evolution IX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer_evolution",
+          "title": "Mitsubishi Lancer Evolution",
+          "children": [
+            {
+              "id": "mod_2003_mitsubishi_lancer_evolution_viii",
+              "title": "2003 Mitsubishi Lancer Evolution VIII"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer_evolution",
+          "title": "Mitsubishi Lancer Evolution",
+          "children": [
+            {
+              "id": "mod_2001_mitsubishi_lancer_evolution_vii",
+              "title": "2001 Mitsubishi Lancer Evolution VII"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_pajero_lang",
+      "title": "Mitsubishi Pajero Lang",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_pajero_lang",
+          "title": "Mitsubishi Pajero Lang",
+          "children": [
+            {
+              "id": "mod_2003_mitsubishi_pajero_3_2_did_gls",
+              "title": "2003 Mitsubishi Pajero 3.2 DiD GLS"
+            },
+            {
+              "id": "mod_2003_mitsubishi_pajero_3_2_did_glx",
+              "title": "2003 Mitsubishi Pajero 3.2 DiD GLX"
+            },
+            {
+              "id": "mod_2003_mitsubishi_pajero_3_5_v6_gdi_gls",
+              "title": "2003 Mitsubishi Pajero 3.5 V6 GDI GLS"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_pajero_lang",
+          "title": "Mitsubishi Pajero Lang",
+          "children": [
+            {
+              "id": "mod_2000_mitsubishi_pajero_3_2_did_gls",
+              "title": "2000 Mitsubishi Pajero 3.2 DiD GLS"
+            },
+            {
+              "id": "mod_2000_mitsubishi_pajero_3_2_did_glx",
+              "title": "2000 Mitsubishi Pajero 3.2 DiD GLX"
+            },
+            {
+              "id": "mod_2000_mitsubishi_pajero_3_5_v6_gdi_gls",
+              "title": "2000 Mitsubishi Pajero 3.5 V6 GDI GLS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_pajero_pinin",
+      "title": "Mitsubishi Pajero Pinin",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_pajero_pinin",
+          "title": "Mitsubishi Pajero Pinin",
+          "children": [
+            {
+              "id": "mod_2000_mitsubishi_pajero_pinin_1_8_gdi",
+              "title": "2000 Mitsubishi Pajero Pinin 1.8 GDI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_space_star",
+      "title": "Mitsubishi Space Star",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_space_star",
+          "title": "Mitsubishi Space Star",
+          "children": [
+            {
+              "id": "mod_2020_mitsubishi_space_star_1_0_cool",
+              "title": "2020 Mitsubishi Space Star 1.0 Cool+"
+            },
+            {
+              "id": "mod_2020_mitsubishi_space_star_1_0_entry",
+              "title": "2020 Mitsubishi Space Star 1.0 Entry"
+            },
+            {
+              "id": "mod_2020_mitsubishi_space_star_1_2_active",
+              "title": "2020 Mitsubishi Space Star 1.2 Active"
+            },
+            {
+              "id": "mod_2020_mitsubishi_space_star_1_2_instyle",
+              "title": "2020 Mitsubishi Space Star 1.2 Instyle"
+            },
+            {
+              "id": "mod_2020_mitsubishi_space_star_1_2_nova",
+              "title": "2020 Mitsubishi Space Star 1.2 Nova"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_space_star",
+          "title": "Mitsubishi Space Star",
+          "children": [
+            {
+              "id": "mod_2016_mitsubishi_space_star_1_0_cool",
+              "title": "2016 Mitsubishi Space Star 1.0 Cool+"
+            },
+            {
+              "id": "mod_2016_mitsubishi_space_star_1_0_entry",
+              "title": "2016 Mitsubishi Space Star 1.0 Entry"
+            },
+            {
+              "id": "mod_2016_mitsubishi_space_star_1_0_intense",
+              "title": "2016 Mitsubishi Space Star 1.0 Intense"
+            },
+            {
+              "id": "mod_2016_mitsubishi_space_star_1_0_intense",
+              "title": "2016 Mitsubishi Space Star 1.0 Intense+"
+            },
+            {
+              "id": "mod_2016_mitsubishi_space_star_1_0_life",
+              "title": "2016 Mitsubishi Space Star 1.0 Life"
+            },
+            {
+              "id": "mod_2016_mitsubishi_space_star_1_2_instyle",
+              "title": "2016 Mitsubishi Space Star 1.2 Instyle"
+            },
+            {
+              "id": "mod_2016_mitsubishi_space_star_1_2_life",
+              "title": "2016 Mitsubishi Space Star 1.2 Life"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_space_star",
+          "title": "Mitsubishi Space Star",
+          "children": [
+            {
+              "id": "mod_2013_mitsubishi_space_star_1_0_entry",
+              "title": "2013 Mitsubishi Space Star 1.0 Entry"
+            },
+            {
+              "id": "mod_2013_mitsubishi_space_star_1_0_inform",
+              "title": "2013 Mitsubishi Space Star 1.0 Inform"
+            },
+            {
+              "id": "mod_2013_mitsubishi_space_star_1_0_intense",
+              "title": "2013 Mitsubishi Space Star 1.0 Intense"
+            },
+            {
+              "id": "mod_2013_mitsubishi_space_star_1_2_instyle",
+              "title": "2013 Mitsubishi Space Star 1.2 Instyle"
+            },
+            {
+              "id": "mod_2013_mitsubishi_space_star_1_2_intense",
+              "title": "2013 Mitsubishi Space Star 1.2 Intense"
+            },
+            {
+              "id": "mod_2013_mitsubishi_space_star_1_2_intense",
+              "title": "2013 Mitsubishi Space Star 1.2 Intense+"
+            },
+            {
+              "id": "mod_2013_mitsubishi_space_star_1_2_invite",
+              "title": "2013 Mitsubishi Space Star 1.2 Invite"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_space_star",
+          "title": "Mitsubishi Space Star",
+          "children": [
+            {
+              "id": "mod_2004_mitsubishi_space_star_1_3_inform_silver_pack",
+              "title": "2004 Mitsubishi Space Star 1.3 Inform Silver Pack"
+            },
+            {
+              "id": "mod_2004_mitsubishi_space_star_1_3_inform",
+              "title": "2004 Mitsubishi Space Star 1.3 Inform"
+            },
+            {
+              "id": "mod_2004_mitsubishi_space_star_1_6_inform_silver_pack",
+              "title": "2004 Mitsubishi Space Star 1.6 Inform Silver Pack"
+            },
+            {
+              "id": "mod_2004_mitsubishi_space_star_1_6_inform",
+              "title": "2004 Mitsubishi Space Star 1.6 Inform"
+            },
+            {
+              "id": "mod_2004_mitsubishi_space_star_1_6_invite_silver_pack",
+              "title": "2004 Mitsubishi Space Star 1.6 Invite Silver Pack"
+            },
+            {
+              "id": "mod_2004_mitsubishi_space_star_1_8_instyle_silver_pack",
+              "title": "2004 Mitsubishi Space Star 1.8 Instyle Silver Pack"
+            },
+            {
+              "id": "mod_2004_mitsubishi_space_star_1_9_di_d_hp_invite_silver_pack",
+              "title": "2004 Mitsubishi Space Star 1.9 DI-D HP Invite Silver Pack"
+            },
+            {
+              "id": "mod_2004_mitsubishi_space_star_1_9_di_d_inform_silver_pack",
+              "title": "2004 Mitsubishi Space Star 1.9 DI-D Inform Silver Pack"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_space_star",
+          "title": "Mitsubishi Space Star",
+          "children": [
+            {
+              "id": "mod_2002_mitsubishi_space_star_1_3_comfort",
+              "title": "2002 Mitsubishi Space Star 1.3 Comfort"
+            },
+            {
+              "id": "mod_2002_mitsubishi_space_star_1_3_family",
+              "title": "2002 Mitsubishi Space Star 1.3 Family"
+            },
+            {
+              "id": "mod_2002_mitsubishi_space_star_1_6_avance",
+              "title": "2002 Mitsubishi Space Star 1.6 Avance"
+            },
+            {
+              "id": "mod_2002_mitsubishi_space_star_1_6_comfort",
+              "title": "2002 Mitsubishi Space Star 1.6 Comfort"
+            },
+            {
+              "id": "mod_2002_mitsubishi_space_star_1_6_family",
+              "title": "2002 Mitsubishi Space Star 1.6 Family"
+            },
+            {
+              "id": "mod_2002_mitsubishi_space_star_1_8_avance",
+              "title": "2002 Mitsubishi Space Star 1.8 Avance"
+            },
+            {
+              "id": "mod_2002_mitsubishi_space_star_1_8_comfort",
+              "title": "2002 Mitsubishi Space Star 1.8 Comfort"
+            },
+            {
+              "id": "mod_2002_mitsubishi_space_star_1_9_di_d_comfort",
+              "title": "2002 Mitsubishi Space Star 1.9 DI-D Comfort"
+            },
+            {
+              "id": "mod_2002_mitsubishi_space_star_1_9_di_d_family",
+              "title": "2002 Mitsubishi Space Star 1.9 DI-D Family"
+            },
+            {
+              "id": "mod_2002_mitsubishi_space_star_1_9_di_d_hp_avance",
+              "title": "2002 Mitsubishi Space Star 1.9 DI-D HP Avance"
+            },
+            {
+              "id": "mod_2002_mitsubishi_space_star_1_9_di_d_hp_comfort",
+              "title": "2002 Mitsubishi Space Star 1.9 DI-D HP Comfort"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_space_star",
+          "title": "Mitsubishi Space Star",
+          "children": [
+            {
+              "id": "mod_2000_mitsubishi_space_star_1_3_avance",
+              "title": "2000 Mitsubishi Space Star 1.3 Avance"
+            },
+            {
+              "id": "mod_2000_mitsubishi_space_star_1_3_comfort",
+              "title": "2000 Mitsubishi Space Star 1.3 Comfort"
+            },
+            {
+              "id": "mod_2000_mitsubishi_space_star_1_3_family",
+              "title": "2000 Mitsubishi Space Star 1.3 Family"
+            },
+            {
+              "id": "mod_2000_mitsubishi_space_star_1_8_gdi_avance",
+              "title": "2000 Mitsubishi Space Star 1.8 GDI Avance"
+            },
+            {
+              "id": "mod_2000_mitsubishi_space_star_1_8_gdi_comfort",
+              "title": "2000 Mitsubishi Space Star 1.8 GDI Comfort"
+            },
+            {
+              "id": "mod_2000_mitsubishi_space_star_1_8_gdi_family",
+              "title": "2000 Mitsubishi Space Star 1.8 GDI Family"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_space_star",
+          "title": "Mitsubishi Space Star",
+          "children": [
+            {
+              "id": "mod_1998_mitsubishi_space_star_1_3_gl",
+              "title": "1998 Mitsubishi Space Star 1.3 GL"
+            },
+            {
+              "id": "mod_1998_mitsubishi_space_star_1_3_glx",
+              "title": "1998 Mitsubishi Space Star 1.3 GLX"
+            },
+            {
+              "id": "mod_1998_mitsubishi_space_star_1_8_gdi_gl",
+              "title": "1998 Mitsubishi Space Star 1.8 GDI GL"
+            },
+            {
+              "id": "mod_1998_mitsubishi_space_star_1_8_gdi_glx",
+              "title": "1998 Mitsubishi Space Star 1.8 GDI GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_galant_station_wagon",
+      "title": "Mitsubishi Galant Station Wagon",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_galant_station_wagon",
+          "title": "Mitsubishi Galant Station Wagon",
+          "children": [
+            {
+              "id": "mod_1997_mitsubishi_galant_station_wagon_2_0_glsi",
+              "title": "1997 Mitsubishi Galant Station Wagon 2.0 GLSi"
+            },
+            {
+              "id": "mod_1997_mitsubishi_galant_station_wagon_2_0_glxi",
+              "title": "1997 Mitsubishi Galant Station Wagon 2.0 GLXi"
+            },
+            {
+              "id": "mod_1997_mitsubishi_galant_station_wagon_2_0_td_gls",
+              "title": "1997 Mitsubishi Galant Station Wagon 2.0 TD GLS"
+            },
+            {
+              "id": "mod_1997_mitsubishi_galant_station_wagon_2_5_v6",
+              "title": "1997 Mitsubishi Galant Station Wagon 2.5 V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_carisma",
+      "title": "Mitsubishi Carisma",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_carisma",
+          "title": "Mitsubishi Carisma",
+          "children": [
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_6_classic",
+              "title": "2001 Mitsubishi Carisma 1.6 Classic"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_6_comfort",
+              "title": "2001 Mitsubishi Carisma 1.6 Comfort"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_8_gdi_avance",
+              "title": "2001 Mitsubishi Carisma 1.8 GDI Avance"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_8_gdi_comfort",
+              "title": "2001 Mitsubishi Carisma 1.8 GDI Comfort"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_8_gdi_elegance",
+              "title": "2001 Mitsubishi Carisma 1.8 GDI Elegance"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_9_di_d_classic",
+              "title": "2001 Mitsubishi Carisma 1.9 DI-D Classic"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_9_di_d_comfort",
+              "title": "2001 Mitsubishi Carisma 1.9 DI-D Comfort"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_9_di_d_hp_avance",
+              "title": "2001 Mitsubishi Carisma 1.9 DI-D HP Avance"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_carisma",
+          "title": "Mitsubishi Carisma",
+          "children": [
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_6_avance",
+              "title": "2001 Mitsubishi Carisma 1.6 Avance"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_6_classic",
+              "title": "2001 Mitsubishi Carisma 1.6 Classic"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_6_comfort",
+              "title": "2001 Mitsubishi Carisma 1.6 Comfort"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_8_gdi_avance",
+              "title": "2001 Mitsubishi Carisma 1.8 GDI Avance"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_8_gdi_comfort",
+              "title": "2001 Mitsubishi Carisma 1.8 GDI Comfort"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_8_gdi_elegance",
+              "title": "2001 Mitsubishi Carisma 1.8 GDI Elegance"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_9_di_d_classic",
+              "title": "2001 Mitsubishi Carisma 1.9 DI-D Classic"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_9_di_d_comfort",
+              "title": "2001 Mitsubishi Carisma 1.9 DI-D Comfort"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_9_di_d_hp_avance",
+              "title": "2001 Mitsubishi Carisma 1.9 DI-D HP Avance"
+            },
+            {
+              "id": "mod_2001_mitsubishi_carisma_1_9_di_d_hp_elegance",
+              "title": "2001 Mitsubishi Carisma 1.9 DI-D HP Elegance"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_carisma",
+          "title": "Mitsubishi Carisma",
+          "children": [
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_6_avance",
+              "title": "1999 Mitsubishi Carisma 1.6 Avance"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_6_classic",
+              "title": "1999 Mitsubishi Carisma 1.6 Classic"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_6_comfort",
+              "title": "1999 Mitsubishi Carisma 1.6 Comfort"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_8_gdi_avance",
+              "title": "1999 Mitsubishi Carisma 1.8 GDI Avance"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_8_gdi_classic",
+              "title": "1999 Mitsubishi Carisma 1.8 GDI Classic"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_8_gdi_comfort",
+              "title": "1999 Mitsubishi Carisma 1.8 GDI Comfort"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_8_gdi_elegance",
+              "title": "1999 Mitsubishi Carisma 1.8 GDI Elegance"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_9_td_classic",
+              "title": "1999 Mitsubishi Carisma 1.9 TD Classic"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_9_td_comfort",
+              "title": "1999 Mitsubishi Carisma 1.9 TD Comfort"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_9_td_elegance",
+              "title": "1999 Mitsubishi Carisma 1.9 TD Elegance"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_carisma",
+          "title": "Mitsubishi Carisma",
+          "children": [
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_6_avance",
+              "title": "1999 Mitsubishi Carisma 1.6 Avance"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_6_classic",
+              "title": "1999 Mitsubishi Carisma 1.6 Classic"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_6_comfort",
+              "title": "1999 Mitsubishi Carisma 1.6 Comfort"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_8_gdi_avance",
+              "title": "1999 Mitsubishi Carisma 1.8 GDI Avance"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_8_gdi_classic",
+              "title": "1999 Mitsubishi Carisma 1.8 GDI Classic"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_8_gdi_comfort",
+              "title": "1999 Mitsubishi Carisma 1.8 GDI Comfort"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_8_gdi_elegance",
+              "title": "1999 Mitsubishi Carisma 1.8 GDI Elegance"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_9_td_classic",
+              "title": "1999 Mitsubishi Carisma 1.9 TD Classic"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_9_td_comfort",
+              "title": "1999 Mitsubishi Carisma 1.9 TD Comfort"
+            },
+            {
+              "id": "mod_1999_mitsubishi_carisma_1_9_td_elegance",
+              "title": "1999 Mitsubishi Carisma 1.9 TD Elegance"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_carisma",
+          "title": "Mitsubishi Carisma",
+          "children": [
+            {
+              "id": "mod_1996_mitsubishi_carisma_1_6_glxi",
+              "title": "1996 Mitsubishi Carisma 1.6 GLXi"
+            },
+            {
+              "id": "mod_1996_mitsubishi_carisma_1_6_gli",
+              "title": "1996 Mitsubishi Carisma 1.6 GLi"
+            },
+            {
+              "id": "mod_1996_mitsubishi_carisma_1_8_glsi",
+              "title": "1996 Mitsubishi Carisma 1.8 GLSi"
+            },
+            {
+              "id": "mod_1996_mitsubishi_carisma_1_8_glxi",
+              "title": "1996 Mitsubishi Carisma 1.8 GLXi"
+            },
+            {
+              "id": "mod_1996_mitsubishi_carisma_1_9_td_gl",
+              "title": "1996 Mitsubishi Carisma 1.9 TD GL"
+            },
+            {
+              "id": "mod_1996_mitsubishi_carisma_1_9_td_gls",
+              "title": "1996 Mitsubishi Carisma 1.9 TD GLS"
+            },
+            {
+              "id": "mod_1996_mitsubishi_carisma_1_9_td_glx",
+              "title": "1996 Mitsubishi Carisma 1.9 TD GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_carisma",
+          "title": "Mitsubishi Carisma",
+          "children": [
+            {
+              "id": "mod_1995_mitsubishi_carisma_1_6_glxi",
+              "title": "1995 Mitsubishi Carisma 1.6 GLXi"
+            },
+            {
+              "id": "mod_1995_mitsubishi_carisma_1_6_gli",
+              "title": "1995 Mitsubishi Carisma 1.6 GLi"
+            },
+            {
+              "id": "mod_1995_mitsubishi_carisma_1_6i",
+              "title": "1995 Mitsubishi Carisma 1.6i"
+            },
+            {
+              "id": "mod_1995_mitsubishi_carisma_1_8_glsi",
+              "title": "1995 Mitsubishi Carisma 1.8 GLSi"
+            },
+            {
+              "id": "mod_1995_mitsubishi_carisma_1_8_glxi",
+              "title": "1995 Mitsubishi Carisma 1.8 GLXi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_space_gear",
+      "title": "Mitsubishi Space Gear",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_space_gear",
+          "title": "Mitsubishi Space Gear",
+          "children": [
+            {
+              "id": "mod_1995_mitsubishi_space_gear_2_0_glxi",
+              "title": "1995 Mitsubishi Space Gear 2.0 GLXi"
+            },
+            {
+              "id": "mod_1995_mitsubishi_space_gear_2_0_gli",
+              "title": "1995 Mitsubishi Space Gear 2.0 GLi"
+            },
+            {
+              "id": "mod_1995_mitsubishi_space_gear_2_4_glsi",
+              "title": "1995 Mitsubishi Space Gear 2.4 GLSi"
+            },
+            {
+              "id": "mod_1995_mitsubishi_space_gear_2_5_td_glx",
+              "title": "1995 Mitsubishi Space Gear 2.5 TD GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_sigma_station_wagon",
+      "title": "Mitsubishi Sigma Station Wagon",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_sigma_station_wagon",
+          "title": "Mitsubishi Sigma Station Wagon",
+          "children": [
+            {
+              "id": "mod_1993_mitsubishi_sigma_station_wagon_3_0i_v6",
+              "title": "1993 Mitsubishi Sigma Station Wagon 3.0i V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_eclipse",
+      "title": "Mitsubishi Eclipse",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_eclipse",
+          "title": "Mitsubishi Eclipse",
+          "children": [
+            {
+              "id": "mod_1996_mitsubishi_eclipse_2_0_dohc",
+              "title": "1996 Mitsubishi Eclipse 2.0 DOHC"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_eclipse",
+          "title": "Mitsubishi Eclipse",
+          "children": [
+            {
+              "id": "mod_1992_mitsubishi_eclipse_2_0_gsi_16v",
+              "title": "1992 Mitsubishi Eclipse 2.0 GSi 16V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_3000_gt",
+      "title": "Mitsubishi 3000 GT",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_3000_gt",
+          "title": "Mitsubishi 3000 GT",
+          "children": [
+            {
+              "id": "mod_1992_mitsubishi_3000_gt",
+              "title": "1992 Mitsubishi 3000 GT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_space_runner",
+      "title": "Mitsubishi Space Runner",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_space_runner",
+          "title": "Mitsubishi Space Runner",
+          "children": [
+            {
+              "id": "mod_1999_mitsubishi_space_runner_2_0_glxi",
+              "title": "1999 Mitsubishi Space Runner 2.0 GLXi"
+            },
+            {
+              "id": "mod_1999_mitsubishi_space_runner_2_4_glsi",
+              "title": "1999 Mitsubishi Space Runner 2.4 GLSi"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_space_runner",
+          "title": "Mitsubishi Space Runner",
+          "children": [
+            {
+              "id": "mod_1991_mitsubishi_space_runner_1_8_glxi",
+              "title": "1991 Mitsubishi Space Runner 1.8 GLXi"
+            },
+            {
+              "id": "mod_1991_mitsubishi_space_runner_1_8_gli",
+              "title": "1991 Mitsubishi Space Runner 1.8 GLi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_pajero",
+      "title": "Mitsubishi Pajero",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_pajero",
+          "title": "Mitsubishi Pajero",
+          "children": [
+            {
+              "id": "mod_1997_mitsubishi_pajero_2_5_td_glx",
+              "title": "1997 Mitsubishi Pajero 2.5 TD GLX"
+            },
+            {
+              "id": "mod_1997_mitsubishi_pajero_2_8_td_gls",
+              "title": "1997 Mitsubishi Pajero 2.8 TD GLS"
+            },
+            {
+              "id": "mod_1997_mitsubishi_pajero_3_0_v6_glsi_24v",
+              "title": "1997 Mitsubishi Pajero 3.0 V6 GLSi 24V"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_pajero",
+          "title": "Mitsubishi Pajero",
+          "children": [
+            {
+              "id": "mod_1991_mitsubishi_pajero_2_5_td_gl",
+              "title": "1991 Mitsubishi Pajero 2.5 TD GL"
+            },
+            {
+              "id": "mod_1991_mitsubishi_pajero_2_5_td_glx",
+              "title": "1991 Mitsubishi Pajero 2.5 TD GLX"
+            },
+            {
+              "id": "mod_1991_mitsubishi_pajero_3_0_v6_glsi",
+              "title": "1991 Mitsubishi Pajero 3.0 V6 GLSi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_sigma",
+      "title": "Mitsubishi Sigma",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_sigma",
+          "title": "Mitsubishi Sigma",
+          "children": [
+            {
+              "id": "mod_1991_mitsubishi_sigma_3_0i_v6_4ws_dohc",
+              "title": "1991 Mitsubishi Sigma 3.0i V6 4WS DOHC"
+            },
+            {
+              "id": "mod_1991_mitsubishi_sigma_3_0i_v6_dohc",
+              "title": "1991 Mitsubishi Sigma 3.0i V6 DOHC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_pajero_canvas_top",
+      "title": "Mitsubishi Pajero Canvas Top",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_pajero_canvas_top",
+          "title": "Mitsubishi Pajero Canvas Top",
+          "children": [
+            {
+              "id": "mod_1986_mitsubishi_pajero_canvas_top_2_5_td",
+              "title": "1986 Mitsubishi Pajero Canvas Top 2.5 TD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_pajero_wagon",
+      "title": "Mitsubishi Pajero Wagon",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_pajero_wagon",
+          "title": "Mitsubishi Pajero Wagon",
+          "children": [
+            {
+              "id": "mod_1986_mitsubishi_pajero_wagon_2_5_td",
+              "title": "1986 Mitsubishi Pajero Wagon 2.5 TD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_pajero_long_body",
+      "title": "Mitsubishi Pajero Long Body",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_pajero_long_body",
+          "title": "Mitsubishi Pajero Long Body",
+          "children": [
+            {
+              "id": "mod_1997_mitsubishi_pajero_long_body_2_8_td_gls",
+              "title": "1997 Mitsubishi Pajero Long Body 2.8 TD GLS"
+            },
+            {
+              "id": "mod_1997_mitsubishi_pajero_long_body_2_8_td_glx",
+              "title": "1997 Mitsubishi Pajero Long Body 2.8 TD GLX"
+            },
+            {
+              "id": "mod_1997_mitsubishi_pajero_long_body_3_5_v6_glsi",
+              "title": "1997 Mitsubishi Pajero Long Body 3.5 V6 GLSi"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_pajero_long_body",
+          "title": "Mitsubishi Pajero Long Body",
+          "children": [
+            {
+              "id": "mod_1991_mitsubishi_pajero_long_body_2_5_td_glx",
+              "title": "1991 Mitsubishi Pajero Long Body 2.5 TD GLX"
+            },
+            {
+              "id": "mod_1991_mitsubishi_pajero_long_body_3_0_v6_glsi",
+              "title": "1991 Mitsubishi Pajero Long Body 3.0 V6 GLSi"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_pajero_long_body",
+          "title": "Mitsubishi Pajero Long Body",
+          "children": [
+            {
+              "id": "mod_1986_mitsubishi_pajero_long_body_2_5_td",
+              "title": "1986 Mitsubishi Pajero Long Body 2.5 TD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_pajero_metal_top",
+      "title": "Mitsubishi Pajero Metal Top",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_pajero_metal_top",
+          "title": "Mitsubishi Pajero Metal Top",
+          "children": [
+            {
+              "id": "mod_1986_mitsubishi_pajero_metal_top_2_5_td",
+              "title": "1986 Mitsubishi Pajero Metal Top 2.5 TD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_lancer_wagon",
+      "title": "Mitsubishi Lancer Wagon",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_lancer_wagon",
+          "title": "Mitsubishi Lancer Wagon",
+          "children": [
+            {
+              "id": "mod_2005_mitsubishi_lancer_wagon_1_6_base",
+              "title": "2005 Mitsubishi Lancer Wagon 1.6 Base"
+            },
+            {
+              "id": "mod_2005_mitsubishi_lancer_wagon_1_6_inform",
+              "title": "2005 Mitsubishi Lancer Wagon 1.6 Inform"
+            },
+            {
+              "id": "mod_2005_mitsubishi_lancer_wagon_1_6_invite",
+              "title": "2005 Mitsubishi Lancer Wagon 1.6 Invite"
+            },
+            {
+              "id": "mod_2005_mitsubishi_lancer_wagon_2_0_intense",
+              "title": "2005 Mitsubishi Lancer Wagon 2.0 Intense"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer_wagon",
+          "title": "Mitsubishi Lancer Wagon",
+          "children": [
+            {
+              "id": "mod_2003_mitsubishi_lancer_wagon_1_6_comfort",
+              "title": "2003 Mitsubishi Lancer Wagon 1.6 Comfort"
+            },
+            {
+              "id": "mod_2003_mitsubishi_lancer_wagon_1_6_sport",
+              "title": "2003 Mitsubishi Lancer Wagon 1.6 Sport"
+            },
+            {
+              "id": "mod_2003_mitsubishi_lancer_wagon_2_0_sport",
+              "title": "2003 Mitsubishi Lancer Wagon 2.0 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer_wagon",
+          "title": "Mitsubishi Lancer Wagon",
+          "children": [
+            {
+              "id": "mod_1992_mitsubishi_lancer_wagon_1_6_glxi",
+              "title": "1992 Mitsubishi Lancer Wagon 1.6 GLXi"
+            },
+            {
+              "id": "mod_1992_mitsubishi_lancer_wagon_1_6_gli",
+              "title": "1992 Mitsubishi Lancer Wagon 1.6 GLi"
+            },
+            {
+              "id": "mod_1992_mitsubishi_lancer_wagon_2_0_d_gl",
+              "title": "1992 Mitsubishi Lancer Wagon 2.0 D GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer_wagon",
+          "title": "Mitsubishi Lancer Wagon",
+          "children": [
+            {
+              "id": "mod_1989_mitsubishi_lancer_wagon_1_5_gli",
+              "title": "1989 Mitsubishi Lancer Wagon 1.5 GLi"
+            },
+            {
+              "id": "mod_1989_mitsubishi_lancer_wagon_1_8_d_gl",
+              "title": "1989 Mitsubishi Lancer Wagon 1.8 D GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer_wagon",
+          "title": "Mitsubishi Lancer Wagon",
+          "children": [
+            {
+              "id": "mod_1985_mitsubishi_lancer_wagon_1_5_gl",
+              "title": "1985 Mitsubishi Lancer Wagon 1.5 GL"
+            },
+            {
+              "id": "mod_1985_mitsubishi_lancer_wagon_1_8_d_gl",
+              "title": "1985 Mitsubishi Lancer Wagon 1.8 D GL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_space_wagon",
+      "title": "Mitsubishi Space Wagon",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_space_wagon",
+          "title": "Mitsubishi Space Wagon",
+          "children": [
+            {
+              "id": "mod_1999_mitsubishi_space_wagon_2_4_glxi",
+              "title": "1999 Mitsubishi Space Wagon 2.4 GLXi"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_space_wagon",
+          "title": "Mitsubishi Space Wagon",
+          "children": [
+            {
+              "id": "mod_1991_mitsubishi_space_wagon_1_8_glxi",
+              "title": "1991 Mitsubishi Space Wagon 1.8 GLXi"
+            },
+            {
+              "id": "mod_1991_mitsubishi_space_wagon_1_8_td_glx",
+              "title": "1991 Mitsubishi Space Wagon 1.8 TD GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_space_wagon",
+          "title": "Mitsubishi Space Wagon",
+          "children": [
+            {
+              "id": "mod_1984_mitsubishi_space_wagon_1_8_gl",
+              "title": "1984 Mitsubishi Space Wagon 1.8 GL"
+            },
+            {
+              "id": "mod_1984_mitsubishi_space_wagon_1_8_glx",
+              "title": "1984 Mitsubishi Space Wagon 1.8 GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_colt",
+      "title": "Mitsubishi Colt",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_colt",
+          "title": "Mitsubishi Colt",
+          "children": [
+            {
+              "id": "mod_2004_mitsubishi_colt_1_1_inform_cool_pack",
+              "title": "2004 Mitsubishi Colt 1.1 Inform Cool Pack"
+            },
+            {
+              "id": "mod_2004_mitsubishi_colt_1_1_inform",
+              "title": "2004 Mitsubishi Colt 1.1 Inform"
+            },
+            {
+              "id": "mod_2004_mitsubishi_colt_1_3_inform_cool_pack",
+              "title": "2004 Mitsubishi Colt 1.3 Inform Cool Pack"
+            },
+            {
+              "id": "mod_2004_mitsubishi_colt_1_3_inform_intro_pack",
+              "title": "2004 Mitsubishi Colt 1.3 Inform Intro Pack"
+            },
+            {
+              "id": "mod_2004_mitsubishi_colt_1_3_inform",
+              "title": "2004 Mitsubishi Colt 1.3 Inform"
+            },
+            {
+              "id": "mod_2004_mitsubishi_colt_1_3_instyle",
+              "title": "2004 Mitsubishi Colt 1.3 Instyle"
+            },
+            {
+              "id": "mod_2004_mitsubishi_colt_1_3_invite",
+              "title": "2004 Mitsubishi Colt 1.3 Invite"
+            },
+            {
+              "id": "mod_2004_mitsubishi_colt_1_5_di_d_hp_inform_cool_pack",
+              "title": "2004 Mitsubishi Colt 1.5 DI-D HP Inform Cool Pack"
+            },
+            {
+              "id": "mod_2004_mitsubishi_colt_1_5_di_d_hp_instyle",
+              "title": "2004 Mitsubishi Colt 1.5 DI-D HP Instyle"
+            },
+            {
+              "id": "mod_2004_mitsubishi_colt_1_5_inform_cool_pack",
+              "title": "2004 Mitsubishi Colt 1.5 Inform Cool Pack"
+            },
+            {
+              "id": "mod_2004_mitsubishi_colt_1_5_instyle",
+              "title": "2004 Mitsubishi Colt 1.5 Instyle"
+            },
+            {
+              "id": "mod_2004_mitsubishi_colt_1_5_invite",
+              "title": "2004 Mitsubishi Colt 1.5 Invite"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_colt",
+          "title": "Mitsubishi Colt",
+          "children": [
+            {
+              "id": "mod_1996_mitsubishi_colt_1_3_glxi",
+              "title": "1996 Mitsubishi Colt 1.3 GLXi"
+            },
+            {
+              "id": "mod_1996_mitsubishi_colt_1_3_gli",
+              "title": "1996 Mitsubishi Colt 1.3 GLi"
+            },
+            {
+              "id": "mod_1996_mitsubishi_colt_1_6_glxi",
+              "title": "1996 Mitsubishi Colt 1.6 GLXi"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_colt",
+          "title": "Mitsubishi Colt",
+          "children": [
+            {
+              "id": "mod_1992_mitsubishi_colt_1_3_eli_extra",
+              "title": "1992 Mitsubishi Colt 1.3 ELi Extra"
+            },
+            {
+              "id": "mod_1992_mitsubishi_colt_1_3_eli",
+              "title": "1992 Mitsubishi Colt 1.3 ELi"
+            },
+            {
+              "id": "mod_1992_mitsubishi_colt_1_3_gli",
+              "title": "1992 Mitsubishi Colt 1.3 GLi"
+            },
+            {
+              "id": "mod_1992_mitsubishi_colt_1_6_glxi",
+              "title": "1992 Mitsubishi Colt 1.6 GLXi"
+            },
+            {
+              "id": "mod_1992_mitsubishi_colt_1_6_gli",
+              "title": "1992 Mitsubishi Colt 1.6 GLi"
+            },
+            {
+              "id": "mod_1992_mitsubishi_colt_1_8_gti_16v",
+              "title": "1992 Mitsubishi Colt 1.8 GTi 16V"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_colt",
+          "title": "Mitsubishi Colt",
+          "children": [
+            {
+              "id": "mod_1988_mitsubishi_colt_1_3_el",
+              "title": "1988 Mitsubishi Colt 1.3 EL"
+            },
+            {
+              "id": "mod_1988_mitsubishi_colt_1_3_gl",
+              "title": "1988 Mitsubishi Colt 1.3 GL"
+            },
+            {
+              "id": "mod_1988_mitsubishi_colt_1_5_glxi",
+              "title": "1988 Mitsubishi Colt 1.5 GLXi"
+            },
+            {
+              "id": "mod_1988_mitsubishi_colt_1_5_gli",
+              "title": "1988 Mitsubishi Colt 1.5 GLi"
+            },
+            {
+              "id": "mod_1988_mitsubishi_colt_1_6_gti_16v",
+              "title": "1988 Mitsubishi Colt 1.6 GTi-16V"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_colt",
+          "title": "Mitsubishi Colt",
+          "children": [
+            {
+              "id": "mod_1986_mitsubishi_colt_1_2_dl",
+              "title": "1986 Mitsubishi Colt 1.2 DL"
+            },
+            {
+              "id": "mod_1986_mitsubishi_colt_1_2_el",
+              "title": "1986 Mitsubishi Colt 1.2 EL"
+            },
+            {
+              "id": "mod_1986_mitsubishi_colt_1_2_gl",
+              "title": "1986 Mitsubishi Colt 1.2 GL"
+            },
+            {
+              "id": "mod_1986_mitsubishi_colt_1_5_gl",
+              "title": "1986 Mitsubishi Colt 1.5 GL"
+            },
+            {
+              "id": "mod_1986_mitsubishi_colt_1_5_glx",
+              "title": "1986 Mitsubishi Colt 1.5 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_colt",
+          "title": "Mitsubishi Colt",
+          "children": [
+            {
+              "id": "mod_1984_mitsubishi_colt_1200_eterna",
+              "title": "1984 Mitsubishi Colt 1200 Eterna"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_colt",
+          "title": "Mitsubishi Colt",
+          "children": [
+            {
+              "id": "mod_1984_mitsubishi_colt_1_2_gl",
+              "title": "1984 Mitsubishi Colt 1.2 GL"
+            },
+            {
+              "id": "mod_1984_mitsubishi_colt_1_5_glx",
+              "title": "1984 Mitsubishi Colt 1.5 GLX"
+            },
+            {
+              "id": "mod_1984_mitsubishi_colt_1_8_d_el",
+              "title": "1984 Mitsubishi Colt 1.8 D EL"
+            },
+            {
+              "id": "mod_1984_mitsubishi_colt_1_8_d_gl",
+              "title": "1984 Mitsubishi Colt 1.8 D GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_colt",
+          "title": "Mitsubishi Colt",
+          "children": [
+            {
+              "id": "mod_1979_mitsubishi_colt_1200_gl",
+              "title": "1979 Mitsubishi Colt 1200 GL"
+            },
+            {
+              "id": "mod_1979_mitsubishi_colt_1400_glx",
+              "title": "1979 Mitsubishi Colt 1400 GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_lancer_f",
+      "title": "Mitsubishi Lancer F",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_lancer_f",
+          "title": "Mitsubishi Lancer F",
+          "children": [
+            {
+              "id": "mod_1983_mitsubishi_lancer_f_1200_el",
+              "title": "1983 Mitsubishi Lancer F 1200 EL"
+            },
+            {
+              "id": "mod_1983_mitsubishi_lancer_f_1200_gl",
+              "title": "1983 Mitsubishi Lancer F 1200 GL"
+            },
+            {
+              "id": "mod_1983_mitsubishi_lancer_f_1200_glx",
+              "title": "1983 Mitsubishi Lancer F 1200 GLX"
+            },
+            {
+              "id": "mod_1983_mitsubishi_lancer_f_1400_glx",
+              "title": "1983 Mitsubishi Lancer F 1400 GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_starion",
+      "title": "Mitsubishi Starion",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_starion",
+          "title": "Mitsubishi Starion",
+          "children": [
+            {
+              "id": "mod_1982_mitsubishi_starion_2_0_turbo_ex",
+              "title": "1982 Mitsubishi Starion 2.0 Turbo EX"
+            },
+            {
+              "id": "mod_1982_mitsubishi_starion_2_0_turbo",
+              "title": "1982 Mitsubishi Starion 2.0 Turbo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_tredia",
+      "title": "Mitsubishi Tredia",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_tredia",
+          "title": "Mitsubishi Tredia",
+          "children": [
+            {
+              "id": "mod_1982_mitsubishi_tredia_1400_el",
+              "title": "1982 Mitsubishi Tredia 1400 EL"
+            },
+            {
+              "id": "mod_1982_mitsubishi_tredia_1400_gl",
+              "title": "1982 Mitsubishi Tredia 1400 GL"
+            },
+            {
+              "id": "mod_1982_mitsubishi_tredia_1400_glx",
+              "title": "1982 Mitsubishi Tredia 1400 GLX"
+            },
+            {
+              "id": "mod_1982_mitsubishi_tredia_1600_gls",
+              "title": "1982 Mitsubishi Tredia 1600 GLS"
+            },
+            {
+              "id": "mod_1982_mitsubishi_tredia_1600_turbo",
+              "title": "1982 Mitsubishi Tredia 1600 Turbo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_cordia",
+      "title": "Mitsubishi Cordia",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_cordia",
+          "title": "Mitsubishi Cordia",
+          "children": [
+            {
+              "id": "mod_1982_mitsubishi_cordia_1600_gsl",
+              "title": "1982 Mitsubishi Cordia 1600 GSL"
+            },
+            {
+              "id": "mod_1982_mitsubishi_cordia_1600_sr",
+              "title": "1982 Mitsubishi Cordia 1600 SR"
+            },
+            {
+              "id": "mod_1982_mitsubishi_cordia_1600_turbo",
+              "title": "1982 Mitsubishi Cordia 1600 Turbo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_galant",
+      "title": "Mitsubishi Galant",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_galant",
+          "title": "Mitsubishi Galant",
+          "children": [
+            {
+              "id": "mod_1997_mitsubishi_galant_2_0_glsi",
+              "title": "1997 Mitsubishi Galant 2.0 GLSi"
+            },
+            {
+              "id": "mod_1997_mitsubishi_galant_2_0_glxi",
+              "title": "1997 Mitsubishi Galant 2.0 GLXi"
+            },
+            {
+              "id": "mod_1997_mitsubishi_galant_2_0_td_gls",
+              "title": "1997 Mitsubishi Galant 2.0 TD GLS"
+            },
+            {
+              "id": "mod_1997_mitsubishi_galant_2_5_v6",
+              "title": "1997 Mitsubishi Galant 2.5 V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_galant",
+          "title": "Mitsubishi Galant",
+          "children": [
+            {
+              "id": "mod_1993_mitsubishi_galant_1_8_glsi",
+              "title": "1993 Mitsubishi Galant 1.8 GLSi"
+            },
+            {
+              "id": "mod_1993_mitsubishi_galant_1_8_gli",
+              "title": "1993 Mitsubishi Galant 1.8 GLi"
+            },
+            {
+              "id": "mod_1993_mitsubishi_galant_2_0_glsi",
+              "title": "1993 Mitsubishi Galant 2.0 GLSi"
+            },
+            {
+              "id": "mod_1993_mitsubishi_galant_2_0_gli",
+              "title": "1993 Mitsubishi Galant 2.0 GLi"
+            },
+            {
+              "id": "mod_1993_mitsubishi_galant_2_0_gti_v6",
+              "title": "1993 Mitsubishi Galant 2.0 GTi-V6"
+            },
+            {
+              "id": "mod_1993_mitsubishi_galant_2_0_td_gl",
+              "title": "1993 Mitsubishi Galant 2.0 TD GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_galant",
+          "title": "Mitsubishi Galant",
+          "children": [
+            {
+              "id": "mod_1993_mitsubishi_galant_1_8_gli",
+              "title": "1993 Mitsubishi Galant 1.8 GLi"
+            },
+            {
+              "id": "mod_1993_mitsubishi_galant_2_0_glsi",
+              "title": "1993 Mitsubishi Galant 2.0 GLSi"
+            },
+            {
+              "id": "mod_1993_mitsubishi_galant_2_0_gli",
+              "title": "1993 Mitsubishi Galant 2.0 GLi"
+            },
+            {
+              "id": "mod_1993_mitsubishi_galant_2_0_gti_v6",
+              "title": "1993 Mitsubishi Galant 2.0 GTi-V6"
+            },
+            {
+              "id": "mod_1993_mitsubishi_galant_2_0_td_gl",
+              "title": "1993 Mitsubishi Galant 2.0 TD GL"
+            },
+            {
+              "id": "mod_1993_mitsubishi_galant_2_5_gti_v6_dynamic_4",
+              "title": "1993 Mitsubishi Galant 2.5 GTi-V6 Dynamic-4"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_galant",
+          "title": "Mitsubishi Galant",
+          "children": [
+            {
+              "id": "mod_1989_mitsubishi_galant_1_8_el",
+              "title": "1989 Mitsubishi Galant 1.8 EL"
+            },
+            {
+              "id": "mod_1989_mitsubishi_galant_1_8_gl",
+              "title": "1989 Mitsubishi Galant 1.8 GL"
+            },
+            {
+              "id": "mod_1989_mitsubishi_galant_1_8_gls",
+              "title": "1989 Mitsubishi Galant 1.8 GLS"
+            },
+            {
+              "id": "mod_1989_mitsubishi_galant_1_8_glx",
+              "title": "1989 Mitsubishi Galant 1.8 GLX"
+            },
+            {
+              "id": "mod_1989_mitsubishi_galant_1_8_td_gl",
+              "title": "1989 Mitsubishi Galant 1.8 TD GL"
+            },
+            {
+              "id": "mod_1989_mitsubishi_galant_1_8_td_gls",
+              "title": "1989 Mitsubishi Galant 1.8 TD GLS"
+            },
+            {
+              "id": "mod_1989_mitsubishi_galant_1_8_td_glx",
+              "title": "1989 Mitsubishi Galant 1.8 TD GLX"
+            },
+            {
+              "id": "mod_1989_mitsubishi_galant_2_0_glsi_4wd",
+              "title": "1989 Mitsubishi Galant 2.0 GLSi 4WD"
+            },
+            {
+              "id": "mod_1989_mitsubishi_galant_2_0_glsi",
+              "title": "1989 Mitsubishi Galant 2.0 GLSi"
+            },
+            {
+              "id": "mod_1989_mitsubishi_galant_2_0_glxi",
+              "title": "1989 Mitsubishi Galant 2.0 GLXi"
+            },
+            {
+              "id": "mod_1989_mitsubishi_galant_2_0_gti_16v",
+              "title": "1989 Mitsubishi Galant 2.0 GTi-16V"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_galant",
+          "title": "Mitsubishi Galant",
+          "children": [
+            {
+              "id": "mod_1988_mitsubishi_galant_1_8_el",
+              "title": "1988 Mitsubishi Galant 1.8 EL"
+            },
+            {
+              "id": "mod_1988_mitsubishi_galant_1_8_gl",
+              "title": "1988 Mitsubishi Galant 1.8 GL"
+            },
+            {
+              "id": "mod_1988_mitsubishi_galant_1_8_gls",
+              "title": "1988 Mitsubishi Galant 1.8 GLS"
+            },
+            {
+              "id": "mod_1988_mitsubishi_galant_1_8_glx",
+              "title": "1988 Mitsubishi Galant 1.8 GLX"
+            },
+            {
+              "id": "mod_1988_mitsubishi_galant_1_8_td_gl",
+              "title": "1988 Mitsubishi Galant 1.8 TD GL"
+            },
+            {
+              "id": "mod_1988_mitsubishi_galant_1_8_td_gls",
+              "title": "1988 Mitsubishi Galant 1.8 TD GLS"
+            },
+            {
+              "id": "mod_1988_mitsubishi_galant_2_0_glsi",
+              "title": "1988 Mitsubishi Galant 2.0 GLSi"
+            },
+            {
+              "id": "mod_1988_mitsubishi_galant_2_0_gti_16v",
+              "title": "1988 Mitsubishi Galant 2.0 GTi-16V"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_galant",
+          "title": "Mitsubishi Galant",
+          "children": [
+            {
+              "id": "mod_1984_mitsubishi_galant_1_6_el",
+              "title": "1984 Mitsubishi Galant 1.6 EL"
+            },
+            {
+              "id": "mod_1984_mitsubishi_galant_1_6_gl",
+              "title": "1984 Mitsubishi Galant 1.6 GL"
+            },
+            {
+              "id": "mod_1984_mitsubishi_galant_1_6_glx",
+              "title": "1984 Mitsubishi Galant 1.6 GLX"
+            },
+            {
+              "id": "mod_1984_mitsubishi_galant_1_8_td_gl",
+              "title": "1984 Mitsubishi Galant 1.8 TD GL"
+            },
+            {
+              "id": "mod_1984_mitsubishi_galant_1_8_td_glx",
+              "title": "1984 Mitsubishi Galant 1.8 TD GLX"
+            },
+            {
+              "id": "mod_1984_mitsubishi_galant_2_0_gls",
+              "title": "1984 Mitsubishi Galant 2.0 GLS"
+            },
+            {
+              "id": "mod_1984_mitsubishi_galant_2_0_turbo",
+              "title": "1984 Mitsubishi Galant 2.0 Turbo"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_galant",
+          "title": "Mitsubishi Galant",
+          "children": [
+            {
+              "id": "mod_1980_mitsubishi_galant_1600_el",
+              "title": "1980 Mitsubishi Galant 1600 EL"
+            },
+            {
+              "id": "mod_1980_mitsubishi_galant_1600_gl",
+              "title": "1980 Mitsubishi Galant 1600 GL"
+            },
+            {
+              "id": "mod_1980_mitsubishi_galant_1600_glx",
+              "title": "1980 Mitsubishi Galant 1600 GLX"
+            },
+            {
+              "id": "mod_1980_mitsubishi_galant_2000_gls",
+              "title": "1980 Mitsubishi Galant 2000 GLS"
+            },
+            {
+              "id": "mod_1980_mitsubishi_galant_2000_glx",
+              "title": "1980 Mitsubishi Galant 2000 GLX"
+            },
+            {
+              "id": "mod_1980_mitsubishi_galant_2300_glx_turbo_d",
+              "title": "1980 Mitsubishi Galant 2300 GLX Turbo D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_galant_stationwagon",
+      "title": "Mitsubishi Galant Stationwagon",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_galant_stationwagon",
+          "title": "Mitsubishi Galant Stationwagon",
+          "children": [
+            {
+              "id": "mod_1980_mitsubishi_galant_stationwagon_1600_gl",
+              "title": "1980 Mitsubishi Galant Stationwagon 1600 GL"
+            },
+            {
+              "id": "mod_1980_mitsubishi_galant_stationwagon_2000_glx",
+              "title": "1980 Mitsubishi Galant Stationwagon 2000 GLX"
+            },
+            {
+              "id": "mod_1980_mitsubishi_galant_stationwagon_2300_glx_turbo_d",
+              "title": "1980 Mitsubishi Galant Stationwagon 2300 GLX Turbo D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_sapporo",
+      "title": "Mitsubishi Sapporo",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_sapporo",
+          "title": "Mitsubishi Sapporo",
+          "children": [
+            {
+              "id": "mod_1987_mitsubishi_sapporo_2_4i",
+              "title": "1987 Mitsubishi Sapporo 2.4i"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_sapporo",
+          "title": "Mitsubishi Sapporo",
+          "children": [
+            {
+              "id": "mod_1980_mitsubishi_sapporo_2000_gls",
+              "title": "1980 Mitsubishi Sapporo 2000 GLS"
+            },
+            {
+              "id": "mod_1980_mitsubishi_sapporo_2000_gsr",
+              "title": "1980 Mitsubishi Sapporo 2000 GSR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_lancer",
+      "title": "Mitsubishi Lancer",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_lancer",
+          "title": "Mitsubishi Lancer",
+          "children": [
+            {
+              "id": "mod_2007_mitsubishi_lancer_1_5_inform_intro_edition",
+              "title": "2007 Mitsubishi Lancer 1.5 Inform Intro Edition"
+            },
+            {
+              "id": "mod_2007_mitsubishi_lancer_1_5_inform",
+              "title": "2007 Mitsubishi Lancer 1.5 Inform"
+            },
+            {
+              "id": "mod_2007_mitsubishi_lancer_1_5_invite",
+              "title": "2007 Mitsubishi Lancer 1.5 Invite"
+            },
+            {
+              "id": "mod_2007_mitsubishi_lancer_2_0_di_d_inform",
+              "title": "2007 Mitsubishi Lancer 2.0 DI-D Inform"
+            },
+            {
+              "id": "mod_2007_mitsubishi_lancer_2_0_di_d_instyle",
+              "title": "2007 Mitsubishi Lancer 2.0 DI-D Instyle"
+            },
+            {
+              "id": "mod_2007_mitsubishi_lancer_2_0_di_d_intense",
+              "title": "2007 Mitsubishi Lancer 2.0 DI-D Intense"
+            },
+            {
+              "id": "mod_2007_mitsubishi_lancer_2_0_di_d_invite",
+              "title": "2007 Mitsubishi Lancer 2.0 DI-D Invite"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer",
+          "title": "Mitsubishi Lancer",
+          "children": [
+            {
+              "id": "mod_2003_mitsubishi_lancer_1_6_comfort",
+              "title": "2003 Mitsubishi Lancer 1.6 Comfort"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer",
+          "title": "Mitsubishi Lancer",
+          "children": [
+            {
+              "id": "mod_1996_mitsubishi_lancer_1_3_glxi",
+              "title": "1996 Mitsubishi Lancer 1.3 GLXi"
+            },
+            {
+              "id": "mod_1996_mitsubishi_lancer_1_3_gli",
+              "title": "1996 Mitsubishi Lancer 1.3 GLi"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer",
+          "title": "Mitsubishi Lancer",
+          "children": [
+            {
+              "id": "mod_1994_mitsubishi_lancer_1_3i_match",
+              "title": "1994 Mitsubishi Lancer 1.3i Match"
+            },
+            {
+              "id": "mod_1994_mitsubishi_lancer_1_6_glxi",
+              "title": "1994 Mitsubishi Lancer 1.6 GLXi"
+            },
+            {
+              "id": "mod_1994_mitsubishi_lancer_1_6_gli",
+              "title": "1994 Mitsubishi Lancer 1.6 GLi"
+            },
+            {
+              "id": "mod_1994_mitsubishi_lancer_1_8_gti",
+              "title": "1994 Mitsubishi Lancer 1.8 GTi"
+            },
+            {
+              "id": "mod_1994_mitsubishi_lancer_2_0_d_el_extra",
+              "title": "1994 Mitsubishi Lancer 2.0 D EL Extra"
+            },
+            {
+              "id": "mod_1994_mitsubishi_lancer_2_0_d_el",
+              "title": "1994 Mitsubishi Lancer 2.0 D EL"
+            },
+            {
+              "id": "mod_1994_mitsubishi_lancer_2_0_d_gl",
+              "title": "1994 Mitsubishi Lancer 2.0 D GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer",
+          "title": "Mitsubishi Lancer",
+          "children": [
+            {
+              "id": "mod_1993_mitsubishi_lancer_1_3_gli",
+              "title": "1993 Mitsubishi Lancer 1.3 GLi"
+            },
+            {
+              "id": "mod_1993_mitsubishi_lancer_1_6_gli",
+              "title": "1993 Mitsubishi Lancer 1.6 GLi"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer",
+          "title": "Mitsubishi Lancer",
+          "children": [
+            {
+              "id": "mod_1989_mitsubishi_lancer_1_5_glxi",
+              "title": "1989 Mitsubishi Lancer 1.5 GLXi"
+            },
+            {
+              "id": "mod_1989_mitsubishi_lancer_1_5_gli",
+              "title": "1989 Mitsubishi Lancer 1.5 GLi"
+            },
+            {
+              "id": "mod_1989_mitsubishi_lancer_1_8_d_gl",
+              "title": "1989 Mitsubishi Lancer 1.8 D GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer",
+          "title": "Mitsubishi Lancer",
+          "children": [
+            {
+              "id": "mod_1988_mitsubishi_lancer_1_3_el",
+              "title": "1988 Mitsubishi Lancer 1.3 EL"
+            },
+            {
+              "id": "mod_1988_mitsubishi_lancer_1_3_gl",
+              "title": "1988 Mitsubishi Lancer 1.3 GL"
+            },
+            {
+              "id": "mod_1988_mitsubishi_lancer_1_5_glxi",
+              "title": "1988 Mitsubishi Lancer 1.5 GLXi"
+            },
+            {
+              "id": "mod_1988_mitsubishi_lancer_1_5_gli",
+              "title": "1988 Mitsubishi Lancer 1.5 GLi"
+            },
+            {
+              "id": "mod_1988_mitsubishi_lancer_1_8_d_el",
+              "title": "1988 Mitsubishi Lancer 1.8 D EL"
+            },
+            {
+              "id": "mod_1988_mitsubishi_lancer_1_8_d_gl",
+              "title": "1988 Mitsubishi Lancer 1.8 D GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer",
+          "title": "Mitsubishi Lancer",
+          "children": [
+            {
+              "id": "mod_1984_mitsubishi_lancer_1_2_el",
+              "title": "1984 Mitsubishi Lancer 1.2 EL"
+            },
+            {
+              "id": "mod_1984_mitsubishi_lancer_1_2_gl",
+              "title": "1984 Mitsubishi Lancer 1.2 GL"
+            },
+            {
+              "id": "mod_1984_mitsubishi_lancer_1_5_glx",
+              "title": "1984 Mitsubishi Lancer 1.5 GLX"
+            },
+            {
+              "id": "mod_1984_mitsubishi_lancer_1_8_d_el",
+              "title": "1984 Mitsubishi Lancer 1.8 D EL"
+            },
+            {
+              "id": "mod_1984_mitsubishi_lancer_1_8_d_gl",
+              "title": "1984 Mitsubishi Lancer 1.8 D GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_mitsubishi_lancer",
+          "title": "Mitsubishi Lancer",
+          "children": [
+            {
+              "id": "mod_1979_mitsubishi_lancer_1200_el",
+              "title": "1979 Mitsubishi Lancer 1200 EL"
+            },
+            {
+              "id": "mod_1979_mitsubishi_lancer_1200_gl",
+              "title": "1979 Mitsubishi Lancer 1200 GL"
+            },
+            {
+              "id": "mod_1979_mitsubishi_lancer_1400_gl",
+              "title": "1979 Mitsubishi Lancer 1400 GL"
+            },
+            {
+              "id": "mod_1979_mitsubishi_lancer_1400_glx",
+              "title": "1979 Mitsubishi Lancer 1400 GLX"
+            },
+            {
+              "id": "mod_1979_mitsubishi_lancer_1600_gsr",
+              "title": "1979 Mitsubishi Lancer 1600 GSR"
+            },
+            {
+              "id": "mod_1979_mitsubishi_lancer_2000_turbo",
+              "title": "1979 Mitsubishi Lancer 2000 Turbo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mitsubishi_celeste",
+      "title": "Mitsubishi Celeste",
+      "generations": [
+        {
+          "id": "gen_mitsubishi_celeste",
+          "title": "Mitsubishi Celeste",
+          "children": [
+            {
+              "id": "mod_1976_mitsubishi_celeste_1600_st",
+              "title": "1976 Mitsubishi Celeste 1600 ST"
+            },
+            {
+              "id": "mod_1976_mitsubishi_celeste_2000_gt",
+              "title": "1976 Mitsubishi Celeste 2000 GT"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

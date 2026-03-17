@@ -1,0 +1,234 @@
+{
+  "id": "brand_lamborghini",
+  "title": "Lamborghini",
+  "models": [
+    {
+      "id": "model_lamborghini_urus",
+      "title": "Lamborghini Urus",
+      "generations": [
+        {
+          "id": "gen_lamborghini_urus",
+          "title": "Lamborghini Urus",
+          "children": [
+            {
+              "id": "mod_2018_lamborghini_urus",
+              "title": "2018 Lamborghini Urus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lamborghini_hurac_n_spyder",
+      "title": "Lamborghini HuracÃ¡n Spyder",
+      "generations": [
+        {
+          "id": "gen_lamborghini_hurac_n_spyder",
+          "title": "Lamborghini HuracÃ¡n Spyder",
+          "children": [
+            {
+              "id": "mod_2016_lamborghini_huracan_spyder_lp610_4",
+              "title": "2016 Lamborghini Huracan Spyder LP610-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lamborghini_hurac_n",
+      "title": "Lamborghini HuracÃ¡n",
+      "generations": [
+        {
+          "id": "gen_lamborghini_hurac_n",
+          "title": "Lamborghini HuracÃ¡n",
+          "children": [
+            {
+              "id": "mod_2014_lamborghini_huracan_lp610_4",
+              "title": "2014 Lamborghini Huracan LP610-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lamborghini_aventador_roadster",
+      "title": "Lamborghini Aventador Roadster",
+      "generations": [
+        {
+          "id": "gen_lamborghini_aventador_roadster",
+          "title": "Lamborghini Aventador Roadster",
+          "children": [
+            {
+              "id": "mod_2017_lamborghini_aventador_roadster_s",
+              "title": "2017 Lamborghini Aventador Roadster S"
+            }
+          ]
+        },
+        {
+          "id": "gen_lamborghini_aventador_roadster",
+          "title": "Lamborghini Aventador Roadster",
+          "children": [
+            {
+              "id": "mod_2013_lamborghini_aventador_roadster_lp700_4",
+              "title": "2013 Lamborghini Aventador Roadster LP700-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lamborghini_aventador",
+      "title": "Lamborghini Aventador",
+      "generations": [
+        {
+          "id": "gen_lamborghini_aventador",
+          "title": "Lamborghini Aventador",
+          "children": [
+            {
+              "id": "mod_2017_lamborghini_aventador_s",
+              "title": "2017 Lamborghini Aventador S"
+            }
+          ]
+        },
+        {
+          "id": "gen_lamborghini_aventador",
+          "title": "Lamborghini Aventador",
+          "children": [
+            {
+              "id": "mod_2011_lamborghini_aventador_lp700_4",
+              "title": "2011 Lamborghini Aventador LP700-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lamborghini_gallardo_spyder",
+      "title": "Lamborghini Gallardo Spyder",
+      "generations": [
+        {
+          "id": "gen_lamborghini_gallardo_spyder",
+          "title": "Lamborghini Gallardo Spyder",
+          "children": [
+            {
+              "id": "mod_2006_lamborghini_gallardo_spyder",
+              "title": "2006 Lamborghini Gallardo Spyder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lamborghini_murcielago_roadster",
+      "title": "Lamborghini Murcielago Roadster",
+      "generations": [
+        {
+          "id": "gen_lamborghini_murcielago_roadster",
+          "title": "Lamborghini Murcielago Roadster",
+          "children": [
+            {
+              "id": "mod_2007_lamborghini_murcielago_roadster_lp640",
+              "title": "2007 Lamborghini Murcielago Roadster LP640"
+            }
+          ]
+        },
+        {
+          "id": "gen_lamborghini_murcielago_roadster",
+          "title": "Lamborghini Murcielago Roadster",
+          "children": [
+            {
+              "id": "mod_2004_lamborghini_murcielago_roadster",
+              "title": "2004 Lamborghini Murcielago Roadster"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lamborghini_gallardo",
+      "title": "Lamborghini Gallardo",
+      "generations": [
+        {
+          "id": "gen_lamborghini_gallardo",
+          "title": "Lamborghini Gallardo",
+          "children": [
+            {
+              "id": "mod_2003_lamborghini_gallardo",
+              "title": "2003 Lamborghini Gallardo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lamborghini_murcielago",
+      "title": "Lamborghini Murcielago",
+      "generations": [
+        {
+          "id": "gen_lamborghini_murcielago",
+          "title": "Lamborghini Murcielago",
+          "children": [
+            {
+              "id": "mod_2006_lamborghini_murcielago_lp640",
+              "title": "2006 Lamborghini Murcielago LP640"
+            }
+          ]
+        },
+        {
+          "id": "gen_lamborghini_murcielago",
+          "title": "Lamborghini Murcielago",
+          "children": [
+            {
+              "id": "mod_2001_lamborghini_murcielago",
+              "title": "2001 Lamborghini Murcielago"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lamborghini_diablo",
+      "title": "Lamborghini Diablo",
+      "generations": [
+        {
+          "id": "gen_lamborghini_diablo",
+          "title": "Lamborghini Diablo",
+          "children": [
+            {
+              "id": "mod_2000_lamborghini_diablo_6_0",
+              "title": "2000 Lamborghini Diablo 6.0"
+            }
+          ]
+        },
+        {
+          "id": "gen_lamborghini_diablo",
+          "title": "Lamborghini Diablo",
+          "children": [
+            {
+              "id": "mod_1999_lamborghini_diablo_roadster",
+              "title": "1999 Lamborghini Diablo Roadster"
+            },
+            {
+              "id": "mod_1999_lamborghini_diablo_sv",
+              "title": "1999 Lamborghini Diablo SV"
+            },
+            {
+              "id": "mod_1999_lamborghini_diablo_vt",
+              "title": "1999 Lamborghini Diablo VT"
+            }
+          ]
+        },
+        {
+          "id": "gen_lamborghini_diablo",
+          "title": "Lamborghini Diablo",
+          "children": [
+            {
+              "id": "mod_1990_lamborghini_diablo",
+              "title": "1990 Lamborghini Diablo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

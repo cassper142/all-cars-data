@@ -1,0 +1,38 @@
+{
+  "id": "brand_corvette",
+  "title": "Corvette",
+  "models": [
+    {
+      "id": "model_corvette_c6_convertible",
+      "title": "Corvette C6 Convertible",
+      "generations": [
+        {
+          "id": "gen_corvette_c6_convertible",
+          "title": "Corvette C6 Convertible",
+          "children": [
+            {
+              "id": "mod_2005_corvette_c6_convertible",
+              "title": "2005 Corvette C6 Convertible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_corvette_c6_coupe",
+      "title": "Corvette C6 Coupe",
+      "generations": [
+        {
+          "id": "gen_corvette_c6_coupe",
+          "title": "Corvette C6 Coupe",
+          "children": [
+            {
+              "id": "mod_2004_corvette_c6_coupe",
+              "title": "2004 Corvette C6 Coupe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

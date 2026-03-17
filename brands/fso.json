@@ -1,0 +1,132 @@
+{
+  "id": "brand_fso",
+  "title": "FSO",
+  "models": [
+    {
+      "id": "model_fso_caro",
+      "title": "FSO Caro",
+      "generations": [
+        {
+          "id": "gen_fso_caro",
+          "title": "FSO Caro",
+          "children": [
+            {
+              "id": "mod_1996_fso_caro_1_4_gli_16v",
+              "title": "1996 FSO Caro 1.4 GLi 16V"
+            },
+            {
+              "id": "mod_1996_fso_caro_1_6_slxi",
+              "title": "1996 FSO Caro 1.6 SLXi"
+            },
+            {
+              "id": "mod_1996_fso_caro_1_9_gld",
+              "title": "1996 FSO Caro 1.9 GLD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_fso_celina",
+      "title": "FSO Celina",
+      "generations": [
+        {
+          "id": "gen_fso_celina",
+          "title": "FSO Celina",
+          "children": [
+            {
+              "id": "mod_1996_fso_celina_1_6_gli",
+              "title": "1996 FSO Celina 1.6 GLi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_fso_classic",
+      "title": "FSO Classic",
+      "generations": [
+        {
+          "id": "gen_fso_classic",
+          "title": "FSO Classic",
+          "children": [
+            {
+              "id": "mod_1988_fso_classic_1_5_sle",
+              "title": "1988 FSO Classic 1.5 SLE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_fso_classic_estate",
+      "title": "FSO Classic Estate",
+      "generations": [
+        {
+          "id": "gen_fso_classic_estate",
+          "title": "FSO Classic Estate",
+          "children": [
+            {
+              "id": "mod_1988_fso_classic_1_5_estate",
+              "title": "1988 FSO Classic 1.5 Estate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_fso_prima",
+      "title": "FSO Prima",
+      "generations": [
+        {
+          "id": "gen_fso_prima",
+          "title": "FSO Prima",
+          "children": [
+            {
+              "id": "mod_1988_fso_prima_1_5_cle",
+              "title": "1988 FSO Prima 1.5 CLE"
+            },
+            {
+              "id": "mod_1988_fso_prima_1_5_sle",
+              "title": "1988 FSO Prima 1.5 SLE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_fso_polonez",
+      "title": "FSO Polonez",
+      "generations": [
+        {
+          "id": "gen_fso_polonez",
+          "title": "FSO Polonez",
+          "children": [
+            {
+              "id": "mod_1983_fso_polonez_1_5_classic",
+              "title": "1983 FSO Polonez 1.5 Classic"
+            },
+            {
+              "id": "mod_1983_fso_polonez_1_5_le",
+              "title": "1983 FSO Polonez 1.5 LE"
+            },
+            {
+              "id": "mod_1983_fso_polonez_1_5",
+              "title": "1983 FSO Polonez 1.5"
+            }
+          ]
+        },
+        {
+          "id": "gen_fso_polonez",
+          "title": "FSO Polonez",
+          "children": [
+            {
+              "id": "mod_1983_fso_polonez_1_5_estate",
+              "title": "1983 FSO Polonez 1.5 Estate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

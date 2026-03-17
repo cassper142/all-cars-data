@@ -1,0 +1,606 @@
+{
+  "id": "brand_infiniti",
+  "title": "Infiniti",
+  "models": [
+    {
+      "id": "model_infiniti_qx30",
+      "title": "Infiniti QX30",
+      "generations": [
+        {
+          "id": "gen_infiniti_qx30",
+          "title": "Infiniti QX30",
+          "children": [
+            {
+              "id": "mod_2016_infiniti_qx30_2_2d_awd_premium_tech",
+              "title": "2016 Infiniti QX30 2.2d AWD Premium Tech"
+            },
+            {
+              "id": "mod_2016_infiniti_qx30_2_2d_awd_premium",
+              "title": "2016 Infiniti QX30 2.2d AWD Premium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_q30",
+      "title": "Infiniti Q30",
+      "generations": [
+        {
+          "id": "gen_infiniti_q30",
+          "title": "Infiniti Q30",
+          "children": [
+            {
+              "id": "mod_2015_infiniti_q30_1_5d_business_executive",
+              "title": "2015 Infiniti Q30 1.5d Business Executive"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_5d_business",
+              "title": "2015 Infiniti Q30 1.5d Business"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_5d_city_black_edition",
+              "title": "2015 Infiniti Q30 1.5d City Black Edition"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_5d_premium_tech",
+              "title": "2015 Infiniti Q30 1.5d Premium Tech"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_5d_premium",
+              "title": "2015 Infiniti Q30 1.5d Premium"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_5d_sport",
+              "title": "2015 Infiniti Q30 1.5d Sport"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_5d",
+              "title": "2015 Infiniti Q30 1.5d"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_6t_115kw_premium_tech",
+              "title": "2015 Infiniti Q30 1.6t 115kW Premium Tech"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_6t_115kw_sport",
+              "title": "2015 Infiniti Q30 1.6t 115kW Sport"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_6t_90kw_business_executive",
+              "title": "2015 Infiniti Q30 1.6t 90kW Business Executive"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_6t_90kw_business",
+              "title": "2015 Infiniti Q30 1.6t 90kW Business"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_6t_90kw_city_black_edition",
+              "title": "2015 Infiniti Q30 1.6t 90kW City Black Edition"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_6t_90kw_premium_tech",
+              "title": "2015 Infiniti Q30 1.6t 90kW Premium Tech"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_6t_90kw_premium",
+              "title": "2015 Infiniti Q30 1.6t 90kW Premium"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_1_6t_90kw_pure",
+              "title": "2015 Infiniti Q30 1.6t 90kW Pure"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_2_0t_155kw_awd_sport",
+              "title": "2015 Infiniti Q30 2.0t 155kW AWD Sport"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_2_2d_awd_city_black_edition",
+              "title": "2015 Infiniti Q30 2.2d AWD City Black Edition"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_2_2d_awd_premium_tech",
+              "title": "2015 Infiniti Q30 2.2d AWD Premium Tech"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_2_2d_awd_premium",
+              "title": "2015 Infiniti Q30 2.2d AWD Premium"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_2_2d_awd_sport",
+              "title": "2015 Infiniti Q30 2.2d AWD Sport"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_2_2d_business_executive",
+              "title": "2015 Infiniti Q30 2.2d Business Executive"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_2_2d_business",
+              "title": "2015 Infiniti Q30 2.2d Business"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_2_2d_premium_tech",
+              "title": "2015 Infiniti Q30 2.2d Premium Tech"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_2_2d_premium",
+              "title": "2015 Infiniti Q30 2.2d Premium"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_2_2d_pure",
+              "title": "2015 Infiniti Q30 2.2d Pure"
+            },
+            {
+              "id": "mod_2015_infiniti_q30_2_2d_sport",
+              "title": "2015 Infiniti Q30 2.2d Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_q70",
+      "title": "Infiniti Q70",
+      "generations": [
+        {
+          "id": "gen_infiniti_q70",
+          "title": "Infiniti Q70",
+          "children": [
+            {
+              "id": "mod_2015_infiniti_q70_2_2d_business_premium",
+              "title": "2015 Infiniti Q70 2.2d Business Premium"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_2_2d_business_premium",
+              "title": "2015 Infiniti Q70 2.2d Business Premium+"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_2_2d_business",
+              "title": "2015 Infiniti Q70 2.2d Business"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_2_2d_performance",
+              "title": "2015 Infiniti Q70 2.2d Performance"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_2_2d_performance",
+              "title": "2015 Infiniti Q70 2.2d Performance+"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_2_2d_premium_executive",
+              "title": "2015 Infiniti Q70 2.2d Premium Executive"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_2_2d_premium_tech",
+              "title": "2015 Infiniti Q70 2.2d Premium Tech"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_2_2d_premium",
+              "title": "2015 Infiniti Q70 2.2d Premium"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_2_2d_sport_tech",
+              "title": "2015 Infiniti Q70 2.2d Sport Tech"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_2_2d_sport",
+              "title": "2015 Infiniti Q70 2.2d Sport"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_2_2d_welcome_edition",
+              "title": "2015 Infiniti Q70 2.2d Welcome Edition"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_2_2d",
+              "title": "2015 Infiniti Q70 2.2d"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_3_5_v6_hybrid_business_premium",
+              "title": "2015 Infiniti Q70 3.5 V6 Hybrid Business Premium"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_3_5_v6_hybrid_business_premium",
+              "title": "2015 Infiniti Q70 3.5 V6 Hybrid Business Premium+"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_3_5_v6_hybrid_premium_tech",
+              "title": "2015 Infiniti Q70 3.5 V6 Hybrid Premium Tech"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_3_5_v6_hybrid_premium",
+              "title": "2015 Infiniti Q70 3.5 V6 Hybrid Premium"
+            },
+            {
+              "id": "mod_2015_infiniti_q70_3_7_v6_sport_tech",
+              "title": "2015 Infiniti Q70 3.7 V6 Sport Tech"
+            }
+          ]
+        },
+        {
+          "id": "gen_infiniti_q70",
+          "title": "Infiniti Q70",
+          "children": [
+            {
+              "id": "mod_2014_infiniti_q70_3_0d_gt_premium",
+              "title": "2014 Infiniti Q70 3.0D GT Premium"
+            },
+            {
+              "id": "mod_2014_infiniti_q70_3_0d_gt",
+              "title": "2014 Infiniti Q70 3.0D GT"
+            },
+            {
+              "id": "mod_2014_infiniti_q70_3_0d_s_premium",
+              "title": "2014 Infiniti Q70 3.0D S Premium"
+            },
+            {
+              "id": "mod_2014_infiniti_q70_3_0d_s",
+              "title": "2014 Infiniti Q70 3.0D S"
+            },
+            {
+              "id": "mod_2014_infiniti_q70_3_5_v6_hybrid_gt_premium",
+              "title": "2014 Infiniti Q70 3.5 V6 Hybrid GT Premium"
+            },
+            {
+              "id": "mod_2014_infiniti_q70_3_5_v6_hybrid_gt",
+              "title": "2014 Infiniti Q70 3.5 V6 Hybrid GT"
+            },
+            {
+              "id": "mod_2014_infiniti_q70_3_7_v6_s_premium",
+              "title": "2014 Infiniti Q70 3.7 V6 S Premium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_q50",
+      "title": "Infiniti Q50",
+      "generations": [
+        {
+          "id": "gen_infiniti_q50",
+          "title": "Infiniti Q50",
+          "children": [
+            {
+              "id": "mod_2013_infiniti_q50_2_2d_premium",
+              "title": "2013 Infiniti Q50 2.2d Premium"
+            },
+            {
+              "id": "mod_2013_infiniti_q50_2_2d_sport",
+              "title": "2013 Infiniti Q50 2.2d Sport"
+            },
+            {
+              "id": "mod_2013_infiniti_q50_2_2d",
+              "title": "2013 Infiniti Q50 2.2d"
+            },
+            {
+              "id": "mod_2013_infiniti_q50_s_hybrid_awd_sport",
+              "title": "2013 Infiniti Q50 S Hybrid AWD Sport"
+            },
+            {
+              "id": "mod_2013_infiniti_q50_s_hybrid_sport",
+              "title": "2013 Infiniti Q50 S Hybrid Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_q60_cabrio",
+      "title": "Infiniti Q60 Cabrio",
+      "generations": [
+        {
+          "id": "gen_infiniti_q60_cabrio",
+          "title": "Infiniti Q60 Cabrio",
+          "children": [
+            {
+              "id": "mod_2013_infiniti_q60_cabrio_gt_premium",
+              "title": "2013 Infiniti Q60 Cabrio GT Premium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_q60_coupe",
+      "title": "Infiniti Q60 Coupe",
+      "generations": [
+        {
+          "id": "gen_infiniti_q60_coupe",
+          "title": "Infiniti Q60 Coupe",
+          "children": [
+            {
+              "id": "mod_2016_infiniti_q60_2_0t_premium_tech",
+              "title": "2016 Infiniti Q60 2.0T Premium Tech"
+            },
+            {
+              "id": "mod_2016_infiniti_q60_2_0t_premium",
+              "title": "2016 Infiniti Q60 2.0T Premium"
+            },
+            {
+              "id": "mod_2016_infiniti_q60_2_0t_sport_tech",
+              "title": "2016 Infiniti Q60 2.0T Sport Tech"
+            },
+            {
+              "id": "mod_2016_infiniti_q60_2_0t_sport",
+              "title": "2016 Infiniti Q60 2.0T Sport"
+            },
+            {
+              "id": "mod_2016_infiniti_q60_3_0t_awd_sport_tech",
+              "title": "2016 Infiniti Q60 3.0T AWD Sport Tech"
+            },
+            {
+              "id": "mod_2016_infiniti_q60_3_0t_awd_sport",
+              "title": "2016 Infiniti Q60 3.0T AWD Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_infiniti_q60_coupe",
+          "title": "Infiniti Q60 Coupe",
+          "children": [
+            {
+              "id": "mod_2013_infiniti_q60_gt_coupe",
+              "title": "2013 Infiniti Q60 GT Coupe"
+            },
+            {
+              "id": "mod_2013_infiniti_q60_s_coupe",
+              "title": "2013 Infiniti Q60 S Coupe"
+            },
+            {
+              "id": "mod_2013_infiniti_q60_s_premium_coupe",
+              "title": "2013 Infiniti Q60 S Premium Coupe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_qx50",
+      "title": "Infiniti QX50",
+      "generations": [
+        {
+          "id": "gen_infiniti_qx50",
+          "title": "Infiniti QX50",
+          "children": [
+            {
+              "id": "mod_2013_infiniti_qx50_3_0d_gt_premium",
+              "title": "2013 Infiniti QX50 3.0d GT Premium"
+            },
+            {
+              "id": "mod_2013_infiniti_qx50_3_0d_gt",
+              "title": "2013 Infiniti QX50 3.0d GT"
+            },
+            {
+              "id": "mod_2013_infiniti_qx50_3_7_v6_gt_premium",
+              "title": "2013 Infiniti QX50 3.7 V6 GT Premium"
+            },
+            {
+              "id": "mod_2013_infiniti_qx50_3_7_v6_gt",
+              "title": "2013 Infiniti QX50 3.7 V6 GT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_qx70",
+      "title": "Infiniti QX70",
+      "generations": [
+        {
+          "id": "gen_infiniti_qx70",
+          "title": "Infiniti QX70",
+          "children": [
+            {
+              "id": "mod_2013_infiniti_qx70_3_0d_v6_gt_premium",
+              "title": "2013 Infiniti QX70 3.0d V6 GT Premium"
+            },
+            {
+              "id": "mod_2013_infiniti_qx70_3_0d_v6_gt",
+              "title": "2013 Infiniti QX70 3.0d V6 GT"
+            },
+            {
+              "id": "mod_2013_infiniti_qx70_3_0d_v6_s_premium",
+              "title": "2013 Infiniti QX70 3.0d V6 S Premium"
+            },
+            {
+              "id": "mod_2013_infiniti_qx70_3_0d_v6_s",
+              "title": "2013 Infiniti QX70 3.0d V6 S"
+            },
+            {
+              "id": "mod_2013_infiniti_qx70_3_7_v6_gt_premium",
+              "title": "2013 Infiniti QX70 3.7 V6 GT Premium"
+            },
+            {
+              "id": "mod_2013_infiniti_qx70_3_7_v6_gt",
+              "title": "2013 Infiniti QX70 3.7 V6 GT"
+            },
+            {
+              "id": "mod_2013_infiniti_qx70_3_7_v6_s_premium",
+              "title": "2013 Infiniti QX70 3.7 V6 S Premium"
+            },
+            {
+              "id": "mod_2013_infiniti_qx70_3_7_v6_s",
+              "title": "2013 Infiniti QX70 3.7 V6 S"
+            },
+            {
+              "id": "mod_2013_infiniti_qx70_5_0_v8_s_premium",
+              "title": "2013 Infiniti QX70 5.0 V8 S Premium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_m",
+      "title": "Infiniti M",
+      "generations": [
+        {
+          "id": "gen_infiniti_m",
+          "title": "Infiniti M",
+          "children": [
+            {
+              "id": "mod_2010_infiniti_m30d_gt_premium",
+              "title": "2010 Infiniti M30d GT Premium"
+            },
+            {
+              "id": "mod_2010_infiniti_m30d_gt",
+              "title": "2010 Infiniti M30d GT"
+            },
+            {
+              "id": "mod_2010_infiniti_m30d_s_premium",
+              "title": "2010 Infiniti M30d S Premium"
+            },
+            {
+              "id": "mod_2010_infiniti_m30d_s",
+              "title": "2010 Infiniti M30d S"
+            },
+            {
+              "id": "mod_2010_infiniti_m30d",
+              "title": "2010 Infiniti M30d"
+            },
+            {
+              "id": "mod_2010_infiniti_m37_gt_premium",
+              "title": "2010 Infiniti M37 GT Premium"
+            },
+            {
+              "id": "mod_2010_infiniti_m37_gt",
+              "title": "2010 Infiniti M37 GT"
+            },
+            {
+              "id": "mod_2010_infiniti_m37_s_premium",
+              "title": "2010 Infiniti M37 S Premium"
+            },
+            {
+              "id": "mod_2010_infiniti_m37_s",
+              "title": "2010 Infiniti M37 S"
+            },
+            {
+              "id": "mod_2010_infiniti_m37",
+              "title": "2010 Infiniti M37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_g_cabrio",
+      "title": "Infiniti G Cabrio",
+      "generations": [
+        {
+          "id": "gen_infiniti_g_cabrio",
+          "title": "Infiniti G Cabrio",
+          "children": [
+            {
+              "id": "mod_2009_infiniti_g37_cabrio_gt_premium",
+              "title": "2009 Infiniti G37 Cabrio GT Premium"
+            },
+            {
+              "id": "mod_2009_infiniti_g37_cabrio_gt",
+              "title": "2009 Infiniti G37 Cabrio GT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_ex",
+      "title": "Infiniti EX",
+      "generations": [
+        {
+          "id": "gen_infiniti_ex",
+          "title": "Infiniti EX",
+          "children": [
+            {
+              "id": "mod_2008_infiniti_ex37_gt",
+              "title": "2008 Infiniti EX37 GT"
+            },
+            {
+              "id": "mod_2008_infiniti_ex37",
+              "title": "2008 Infiniti EX37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_fx",
+      "title": "Infiniti FX",
+      "generations": [
+        {
+          "id": "gen_infiniti_fx",
+          "title": "Infiniti FX",
+          "children": [
+            {
+              "id": "mod_2008_infiniti_fx37_gt",
+              "title": "2008 Infiniti FX37 GT"
+            },
+            {
+              "id": "mod_2008_infiniti_fx37_s",
+              "title": "2008 Infiniti FX37 S"
+            },
+            {
+              "id": "mod_2008_infiniti_fx50_s",
+              "title": "2008 Infiniti FX50 S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_g",
+      "title": "Infiniti G",
+      "generations": [
+        {
+          "id": "gen_infiniti_g",
+          "title": "Infiniti G",
+          "children": [
+            {
+              "id": "mod_2008_infiniti_g37_awd",
+              "title": "2008 Infiniti G37 AWD"
+            },
+            {
+              "id": "mod_2008_infiniti_g37_gt_awd",
+              "title": "2008 Infiniti G37 GT AWD"
+            },
+            {
+              "id": "mod_2008_infiniti_g37_gt",
+              "title": "2008 Infiniti G37 GT"
+            },
+            {
+              "id": "mod_2008_infiniti_g37_s",
+              "title": "2008 Infiniti G37 S"
+            },
+            {
+              "id": "mod_2008_infiniti_g37",
+              "title": "2008 Infiniti G37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_infiniti_g_coupe",
+      "title": "Infiniti G Coupe",
+      "generations": [
+        {
+          "id": "gen_infiniti_g_coupe",
+          "title": "Infiniti G Coupe",
+          "children": [
+            {
+              "id": "mod_2008_infiniti_g37_coupe",
+              "title": "2008 Infiniti G37 Coupe"
+            },
+            {
+              "id": "mod_2008_infiniti_g37_gt_coupe",
+              "title": "2008 Infiniti G37 GT Coupe"
+            },
+            {
+              "id": "mod_2008_infiniti_g37_s_coupe",
+              "title": "2008 Infiniti G37 S Coupe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

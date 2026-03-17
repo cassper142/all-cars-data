@@ -1,0 +1,38 @@
+{
+  "id": "brand_noble",
+  "title": "Noble",
+  "models": [
+    {
+      "id": "model_noble_m12",
+      "title": "Noble M12",
+      "generations": [
+        {
+          "id": "gen_noble_m12",
+          "title": "Noble M12",
+          "children": [
+            {
+              "id": "mod_2005_noble_m12_gto_3r",
+              "title": "2005 Noble M12 GTO 3R"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_noble_m400",
+      "title": "Noble M400",
+      "generations": [
+        {
+          "id": "gen_noble_m400",
+          "title": "Noble M400",
+          "children": [
+            {
+              "id": "mod_2005_noble_m400",
+              "title": "2005 Noble M400"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

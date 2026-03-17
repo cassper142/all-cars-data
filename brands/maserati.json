@@ -1,0 +1,380 @@
+{
+  "id": "brand_maserati",
+  "title": "Maserati",
+  "models": [
+    {
+      "id": "model_maserati_levante",
+      "title": "Maserati Levante",
+      "generations": [
+        {
+          "id": "gen_maserati_levante",
+          "title": "Maserati Levante",
+          "children": [
+            {
+              "id": "mod_2016_maserati_levante_diesel",
+              "title": "2016 Maserati Levante Diesel"
+            },
+            {
+              "id": "mod_2016_maserati_levante_s",
+              "title": "2016 Maserati Levante S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_maserati_grancabrio",
+      "title": "Maserati GranCabrio",
+      "generations": [
+        {
+          "id": "gen_maserati_grancabrio",
+          "title": "Maserati GranCabrio",
+          "children": [
+            {
+              "id": "mod_2018_maserati_grancabrio_mc",
+              "title": "2018 Maserati GranCabrio MC"
+            },
+            {
+              "id": "mod_2018_maserati_grancabrio_sport",
+              "title": "2018 Maserati GranCabrio Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_maserati_grancabrio",
+          "title": "Maserati GranCabrio",
+          "children": [
+            {
+              "id": "mod_2010_maserati_grancabrio",
+              "title": "2010 Maserati GranCabrio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_maserati_granturismo",
+      "title": "Maserati GranTurismo",
+      "generations": [
+        {
+          "id": "gen_maserati_granturismo",
+          "title": "Maserati GranTurismo",
+          "children": [
+            {
+              "id": "mod_2018_maserati_granturismo_mc",
+              "title": "2018 Maserati GranTurismo MC"
+            },
+            {
+              "id": "mod_2018_maserati_granturismo_sport",
+              "title": "2018 Maserati GranTurismo Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_maserati_granturismo",
+          "title": "Maserati GranTurismo",
+          "children": [
+            {
+              "id": "mod_2007_maserati_granturismo",
+              "title": "2007 Maserati GranTurismo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_maserati_coupe",
+      "title": "Maserati Coupe",
+      "generations": [
+        {
+          "id": "gen_maserati_coupe",
+          "title": "Maserati Coupe",
+          "children": [
+            {
+              "id": "mod_2002_maserati_coupe_cambiocorsa",
+              "title": "2002 Maserati Coupe Cambiocorsa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_maserati_spyder",
+      "title": "Maserati Spyder",
+      "generations": [
+        {
+          "id": "gen_maserati_spyder",
+          "title": "Maserati Spyder",
+          "children": [
+            {
+              "id": "mod_2001_maserati_spyder_cambiocorsa",
+              "title": "2001 Maserati Spyder Cambiocorsa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_maserati_3200_gt",
+      "title": "Maserati 3200 GT",
+      "generations": [
+        {
+          "id": "gen_maserati_3200_gt",
+          "title": "Maserati 3200 GT",
+          "children": [
+            {
+              "id": "mod_1998_maserati_3200_gt",
+              "title": "1998 Maserati 3200 GT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_maserati_quattroporte",
+      "title": "Maserati Quattroporte",
+      "generations": [
+        {
+          "id": "gen_maserati_quattroporte",
+          "title": "Maserati Quattroporte",
+          "children": [
+            {
+              "id": "mod_2017_maserati_quattroporte_3_0_v6_s_granlusso",
+              "title": "2017 Maserati Quattroporte 3.0 V6 S GranLusso"
+            },
+            {
+              "id": "mod_2017_maserati_quattroporte_3_0_v6_s_gransport",
+              "title": "2017 Maserati Quattroporte 3.0 V6 S GranSport"
+            },
+            {
+              "id": "mod_2017_maserati_quattroporte_3_0_v6_s_q4_granlusso",
+              "title": "2017 Maserati Quattroporte 3.0 V6 S Q4 GranLusso"
+            },
+            {
+              "id": "mod_2017_maserati_quattroporte_3_0_v6_s_q4_gransport",
+              "title": "2017 Maserati Quattroporte 3.0 V6 S Q4 GranSport"
+            },
+            {
+              "id": "mod_2017_maserati_quattroporte_3_0_v6_s_q4",
+              "title": "2017 Maserati Quattroporte 3.0 V6 S Q4"
+            },
+            {
+              "id": "mod_2017_maserati_quattroporte_3_0_v6_s",
+              "title": "2017 Maserati Quattroporte 3.0 V6 S"
+            },
+            {
+              "id": "mod_2017_maserati_quattroporte_3_8_v8_gts_granlusso",
+              "title": "2017 Maserati Quattroporte 3.8 V8 GTS GranLusso"
+            },
+            {
+              "id": "mod_2017_maserati_quattroporte_3_8_v8_gts_gransport",
+              "title": "2017 Maserati Quattroporte 3.8 V8 GTS GranSport"
+            },
+            {
+              "id": "mod_2017_maserati_quattroporte_diesel_v6_granlusso",
+              "title": "2017 Maserati Quattroporte Diesel V6 GranLusso"
+            },
+            {
+              "id": "mod_2017_maserati_quattroporte_diesel_v6_gransport",
+              "title": "2017 Maserati Quattroporte Diesel V6 GranSport"
+            },
+            {
+              "id": "mod_2017_maserati_quattroporte_diesel_v6",
+              "title": "2017 Maserati Quattroporte Diesel V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_maserati_quattroporte",
+          "title": "Maserati Quattroporte",
+          "children": [
+            {
+              "id": "mod_2016_maserati_quattroporte_3_0_v6_s_granlusso",
+              "title": "2016 Maserati Quattroporte 3.0 V6 S GranLusso"
+            },
+            {
+              "id": "mod_2016_maserati_quattroporte_3_0_v6_s_gransport",
+              "title": "2016 Maserati Quattroporte 3.0 V6 S GranSport"
+            },
+            {
+              "id": "mod_2016_maserati_quattroporte_3_0_v6_s_q4_granlusso",
+              "title": "2016 Maserati Quattroporte 3.0 V6 S Q4 GranLusso"
+            },
+            {
+              "id": "mod_2016_maserati_quattroporte_3_0_v6_s_q4_gransport",
+              "title": "2016 Maserati Quattroporte 3.0 V6 S Q4 GranSport"
+            },
+            {
+              "id": "mod_2016_maserati_quattroporte_3_0_v6_s_q4",
+              "title": "2016 Maserati Quattroporte 3.0 V6 S Q4"
+            },
+            {
+              "id": "mod_2016_maserati_quattroporte_3_0_v6_s",
+              "title": "2016 Maserati Quattroporte 3.0 V6 S"
+            },
+            {
+              "id": "mod_2016_maserati_quattroporte_3_8_v8_gts_granlusso",
+              "title": "2016 Maserati Quattroporte 3.8 V8 GTS GranLusso"
+            },
+            {
+              "id": "mod_2016_maserati_quattroporte_3_8_v8_gts_gransport",
+              "title": "2016 Maserati Quattroporte 3.8 V8 GTS GranSport"
+            },
+            {
+              "id": "mod_2016_maserati_quattroporte_diesel_v6_granlusso",
+              "title": "2016 Maserati Quattroporte Diesel V6 GranLusso"
+            },
+            {
+              "id": "mod_2016_maserati_quattroporte_diesel_v6_gransport",
+              "title": "2016 Maserati Quattroporte Diesel V6 GranSport"
+            },
+            {
+              "id": "mod_2016_maserati_quattroporte_diesel_v6",
+              "title": "2016 Maserati Quattroporte Diesel V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_maserati_quattroporte",
+          "title": "Maserati Quattroporte",
+          "children": [
+            {
+              "id": "mod_2013_maserati_quattroporte_3_0_v6_s_q4",
+              "title": "2013 Maserati Quattroporte 3.0 V6 S Q4"
+            },
+            {
+              "id": "mod_2013_maserati_quattroporte_3_8_v8_gts",
+              "title": "2013 Maserati Quattroporte 3.8 V8 GTS"
+            }
+          ]
+        },
+        {
+          "id": "gen_maserati_quattroporte",
+          "title": "Maserati Quattroporte",
+          "children": [
+            {
+              "id": "mod_2008_maserati_quattroporte_s",
+              "title": "2008 Maserati Quattroporte S"
+            },
+            {
+              "id": "mod_2008_maserati_quattroporte",
+              "title": "2008 Maserati Quattroporte"
+            }
+          ]
+        },
+        {
+          "id": "gen_maserati_quattroporte",
+          "title": "Maserati Quattroporte",
+          "children": [
+            {
+              "id": "mod_2004_maserati_quattroporte",
+              "title": "2004 Maserati Quattroporte"
+            }
+          ]
+        },
+        {
+          "id": "gen_maserati_quattroporte",
+          "title": "Maserati Quattroporte",
+          "children": [
+            {
+              "id": "mod_1995_maserati_quattroporte",
+              "title": "1995 Maserati Quattroporte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_maserati_ghibli",
+      "title": "Maserati Ghibli",
+      "generations": [
+        {
+          "id": "gen_maserati_ghibli",
+          "title": "Maserati Ghibli",
+          "children": [
+            {
+              "id": "mod_2017_maserati_ghibli_3_0_v6_diesel_granlusso",
+              "title": "2017 Maserati Ghibli 3.0 V6 Diesel GranLusso"
+            },
+            {
+              "id": "mod_2017_maserati_ghibli_3_0_v6_diesel_gransport",
+              "title": "2017 Maserati Ghibli 3.0 V6 Diesel GranSport"
+            },
+            {
+              "id": "mod_2017_maserati_ghibli_3_0_v6_diesel",
+              "title": "2017 Maserati Ghibli 3.0 V6 Diesel"
+            },
+            {
+              "id": "mod_2017_maserati_ghibli_3_0_v6_granlusso",
+              "title": "2017 Maserati Ghibli 3.0 V6 GranLusso"
+            },
+            {
+              "id": "mod_2017_maserati_ghibli_3_0_v6_gransport",
+              "title": "2017 Maserati Ghibli 3.0 V6 GranSport"
+            },
+            {
+              "id": "mod_2017_maserati_ghibli_3_0_v6_s_granlusso",
+              "title": "2017 Maserati Ghibli 3.0 V6 S GranLusso"
+            },
+            {
+              "id": "mod_2017_maserati_ghibli_3_0_v6_s_gransport",
+              "title": "2017 Maserati Ghibli 3.0 V6 S GranSport"
+            },
+            {
+              "id": "mod_2017_maserati_ghibli_3_0_v6_s_q4_granlusso",
+              "title": "2017 Maserati Ghibli 3.0 V6 S Q4 GranLusso"
+            },
+            {
+              "id": "mod_2017_maserati_ghibli_3_0_v6_s_q4_gransport",
+              "title": "2017 Maserati Ghibli 3.0 V6 S Q4 GranSport"
+            },
+            {
+              "id": "mod_2017_maserati_ghibli_3_0_v6_s_q4",
+              "title": "2017 Maserati Ghibli 3.0 V6 S Q4"
+            },
+            {
+              "id": "mod_2017_maserati_ghibli_3_0_v6_s",
+              "title": "2017 Maserati Ghibli 3.0 V6 S"
+            },
+            {
+              "id": "mod_2017_maserati_ghibli_3_0_v6",
+              "title": "2017 Maserati Ghibli 3.0 V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_maserati_ghibli",
+          "title": "Maserati Ghibli",
+          "children": [
+            {
+              "id": "mod_2013_maserati_ghibli_3_0_v6_bi_turbo",
+              "title": "2013 Maserati Ghibli 3.0 V6 Bi-Turbo"
+            },
+            {
+              "id": "mod_2013_maserati_ghibli_3_0_v6_diesel",
+              "title": "2013 Maserati Ghibli 3.0 V6 Diesel"
+            },
+            {
+              "id": "mod_2013_maserati_ghibli_s_3_0_v6_bi_turbo_4wd",
+              "title": "2013 Maserati Ghibli S 3.0 V6 Bi-Turbo 4WD"
+            },
+            {
+              "id": "mod_2013_maserati_ghibli_s_3_0_v6_bi_turbo",
+              "title": "2013 Maserati Ghibli S 3.0 V6 Bi-Turbo"
+            }
+          ]
+        },
+        {
+          "id": "gen_maserati_ghibli",
+          "title": "Maserati Ghibli",
+          "children": [
+            {
+              "id": "mod_1994_maserati_ghibli",
+              "title": "1994 Maserati Ghibli"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "brand_dodge",
+  "title": "Dodge",
+  "models": [
+    {
+      "id": "model_dodge_journey",
+      "title": "Dodge Journey",
+      "generations": [
+        {
+          "id": "gen_dodge_journey",
+          "title": "Dodge Journey",
+          "children": [
+            {
+              "id": "mod_2008_dodge_journey_2_0_crd_r_t",
+              "title": "2008 Dodge Journey 2.0 CRD R/T"
+            },
+            {
+              "id": "mod_2008_dodge_journey_2_0_crd_se",
+              "title": "2008 Dodge Journey 2.0 CRD SE"
+            },
+            {
+              "id": "mod_2008_dodge_journey_2_0_crd_sxt",
+              "title": "2008 Dodge Journey 2.0 CRD SXT"
+            },
+            {
+              "id": "mod_2008_dodge_journey_2_4_se",
+              "title": "2008 Dodge Journey 2.4 SE"
+            },
+            {
+              "id": "mod_2008_dodge_journey_2_4_sxt",
+              "title": "2008 Dodge Journey 2.4 SXT"
+            },
+            {
+              "id": "mod_2008_dodge_journey_2_7_r_t",
+              "title": "2008 Dodge Journey 2.7 R/T"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_dodge_nitro",
+      "title": "Dodge Nitro",
+      "generations": [
+        {
+          "id": "gen_dodge_nitro",
+          "title": "Dodge Nitro",
+          "children": [
+            {
+              "id": "mod_2007_dodge_nitro_2_8_crd_4x2_se",
+              "title": "2007 Dodge Nitro 2.8 CRD 4x2 SE"
+            },
+            {
+              "id": "mod_2007_dodge_nitro_2_8_crd_4x4_r_t",
+              "title": "2007 Dodge Nitro 2.8 CRD 4x4 R/T"
+            },
+            {
+              "id": "mod_2007_dodge_nitro_2_8_crd_4x4_se",
+              "title": "2007 Dodge Nitro 2.8 CRD 4x4 SE"
+            },
+            {
+              "id": "mod_2007_dodge_nitro_2_8_crd_4x4_sxt",
+              "title": "2007 Dodge Nitro 2.8 CRD 4x4 SXT"
+            },
+            {
+              "id": "mod_2007_dodge_nitro_3_7_v6_4x4_se",
+              "title": "2007 Dodge Nitro 3.7 V6 4x4 SE"
+            },
+            {
+              "id": "mod_2007_dodge_nitro_3_7_v6_4x4_sxt",
+              "title": "2007 Dodge Nitro 3.7 V6 4x4 SXT"
+            },
+            {
+              "id": "mod_2007_dodge_nitro_4_0_v6_4x4_r_t",
+              "title": "2007 Dodge Nitro 4.0 V6 4x4 R/T"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_dodge_avenger",
+      "title": "Dodge Avenger",
+      "generations": [
+        {
+          "id": "gen_dodge_avenger",
+          "title": "Dodge Avenger",
+          "children": [
+            {
+              "id": "mod_2007_dodge_avenger_2_0_crd_se",
+              "title": "2007 Dodge Avenger 2.0 CRD SE"
+            },
+            {
+              "id": "mod_2007_dodge_avenger_2_0_crd_sxt",
+              "title": "2007 Dodge Avenger 2.0 CRD SXT"
+            },
+            {
+              "id": "mod_2007_dodge_avenger_2_0_se",
+              "title": "2007 Dodge Avenger 2.0 SE"
+            },
+            {
+              "id": "mod_2007_dodge_avenger_2_0_sxt",
+              "title": "2007 Dodge Avenger 2.0 SXT"
+            },
+            {
+              "id": "mod_2007_dodge_avenger_2_4_se",
+              "title": "2007 Dodge Avenger 2.4 SE"
+            },
+            {
+              "id": "mod_2007_dodge_avenger_2_7_v6_sxt",
+              "title": "2007 Dodge Avenger 2.7 V6 SXT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_dodge_caliber",
+      "title": "Dodge Caliber",
+      "generations": [
+        {
+          "id": "gen_dodge_caliber",
+          "title": "Dodge Caliber",
+          "children": [
+            {
+              "id": "mod_2006_dodge_caliber_1_8_s",
+              "title": "2006 Dodge Caliber 1.8 S"
+            },
+            {
+              "id": "mod_2006_dodge_caliber_1_8_se",
+              "title": "2006 Dodge Caliber 1.8 SE"
+            },
+            {
+              "id": "mod_2006_dodge_caliber_1_8_sxt",
+              "title": "2006 Dodge Caliber 1.8 SXT"
+            },
+            {
+              "id": "mod_2006_dodge_caliber_2_0_crd_s",
+              "title": "2006 Dodge Caliber 2.0 CRD S"
+            },
+            {
+              "id": "mod_2006_dodge_caliber_2_0_crd_se",
+              "title": "2006 Dodge Caliber 2.0 CRD SE"
+            },
+            {
+              "id": "mod_2006_dodge_caliber_2_0_crd_sxt",
+              "title": "2006 Dodge Caliber 2.0 CRD SXT"
+            },
+            {
+              "id": "mod_2006_dodge_caliber_2_0_se",
+              "title": "2006 Dodge Caliber 2.0 SE"
+            },
+            {
+              "id": "mod_2006_dodge_caliber_2_0_sxt",
+              "title": "2006 Dodge Caliber 2.0 SXT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_dodge_viper",
+      "title": "Dodge Viper",
+      "generations": [
+        {
+          "id": "gen_dodge_viper",
+          "title": "Dodge Viper",
+          "children": [
+            {
+              "id": "mod_2005_dodge_viper_srt10",
+              "title": "2005 Dodge Viper SRT10"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

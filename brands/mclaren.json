@@ -1,0 +1,177 @@
+{
+  "id": "brand_mclaren",
+  "title": "McLaren",
+  "models": [
+    {
+      "id": "model_mclaren_600lt",
+      "title": "Mclaren 600LT",
+      "generations": [
+        {
+          "id": "gen_mclaren_600lt",
+          "title": "Mclaren 600LT",
+          "children": [
+            {
+              "id": "mod_2018_mclaren_600lt",
+              "title": "2018 Mclaren 600LT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mclaren_720s",
+      "title": "Mclaren 720S",
+      "generations": [
+        {
+          "id": "gen_mclaren_720s",
+          "title": "Mclaren 720S",
+          "children": [
+            {
+              "id": "mod_2017_mclaren_720s",
+              "title": "2017 Mclaren 720S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mclaren_570s_spider",
+      "title": "Mclaren 570S Spider",
+      "generations": [
+        {
+          "id": "gen_mclaren_570s_spider",
+          "title": "Mclaren 570S Spider",
+          "children": [
+            {
+              "id": "mod_2017_mclaren_570s_spider",
+              "title": "2017 Mclaren 570S Spider"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mclaren_675lt",
+      "title": "Mclaren 675LT",
+      "generations": [
+        {
+          "id": "gen_mclaren_675lt",
+          "title": "Mclaren 675LT",
+          "children": [
+            {
+              "id": "mod_2015_mclaren_675lt",
+              "title": "2015 Mclaren 675LT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mclaren_540c",
+      "title": "Mclaren 540C",
+      "generations": [
+        {
+          "id": "gen_mclaren_540c",
+          "title": "Mclaren 540C",
+          "children": [
+            {
+              "id": "mod_2015_mclaren_540c",
+              "title": "2015 Mclaren 540C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mclaren_570gt",
+      "title": "Mclaren 570GT",
+      "generations": [
+        {
+          "id": "gen_mclaren_570gt",
+          "title": "Mclaren 570GT",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "model_mclaren_570s",
+      "title": "Mclaren 570S",
+      "generations": [
+        {
+          "id": "gen_mclaren_570s",
+          "title": "Mclaren 570S",
+          "children": [
+            {
+              "id": "mod_2015_mclaren_570s",
+              "title": "2015 Mclaren 570S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mclaren_650s",
+      "title": "Mclaren 650S",
+      "generations": [
+        {
+          "id": "gen_mclaren_650s",
+          "title": "Mclaren 650S",
+          "children": [
+            {
+              "id": "mod_2014_mclaren_650s",
+              "title": "2014 Mclaren 650S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mclaren_650s_spider",
+      "title": "Mclaren 650S Spider",
+      "generations": [
+        {
+          "id": "gen_mclaren_650s_spider",
+          "title": "Mclaren 650S Spider",
+          "children": [
+            {
+              "id": "mod_2014_mclaren_650s_spider",
+              "title": "2014 Mclaren 650S Spider"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mclaren_12c_spider",
+      "title": "McLaren 12C Spider",
+      "generations": [
+        {
+          "id": "gen_mclaren_12c_spider",
+          "title": "McLaren 12C Spider",
+          "children": [
+            {
+              "id": "mod_2012_mclaren_12c_spider",
+              "title": "2012 McLaren 12C Spider"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mclaren_12c",
+      "title": "McLaren 12C",
+      "generations": [
+        {
+          "id": "gen_mclaren_12c",
+          "title": "McLaren 12C",
+          "children": [
+            {
+              "id": "mod_2011_mclaren_mp4_12c",
+              "title": "2011 McLaren MP4-12C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

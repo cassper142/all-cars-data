@@ -1,0 +1,30 @@
+{
+  "id": "brand_fisker",
+  "title": "Fisker",
+  "models": [
+    {
+      "id": "model_fisker_karma",
+      "title": "Fisker Karma",
+      "generations": [
+        {
+          "id": "gen_fisker_karma",
+          "title": "Fisker Karma",
+          "children": [
+            {
+              "id": "mod_2011_fisker_karma_ecochic",
+              "title": "2011 Fisker Karma EcoChic"
+            },
+            {
+              "id": "mod_2011_fisker_karma_ecosport",
+              "title": "2011 Fisker Karma EcoSport"
+            },
+            {
+              "id": "mod_2011_fisker_karma_ecostandard",
+              "title": "2011 Fisker Karma EcoStandard"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

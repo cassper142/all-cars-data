@@ -1,0 +1,22 @@
+{
+  "id": "brand_buick",
+  "title": "Buick",
+  "models": [
+    {
+      "id": "model_buick_park_avenue",
+      "title": "Buick Park Avenue",
+      "generations": [
+        {
+          "id": "gen_buick_park_avenue",
+          "title": "Buick Park Avenue",
+          "children": [
+            {
+              "id": "mod_1991_buick_park_avenue",
+              "title": "1991 Buick Park Avenue"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

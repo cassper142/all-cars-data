@@ -1,0 +1,26 @@
+{
+  "id": "brand_mega",
+  "title": "Mega",
+  "models": [
+    {
+      "id": "model_mega_tjaffer",
+      "title": "Mega Tjaffer",
+      "generations": [
+        {
+          "id": "gen_mega_tjaffer",
+          "title": "Mega Tjaffer",
+          "children": [
+            {
+              "id": "mod_1994_mega_tjaffer_1_1i_cabrio",
+              "title": "1994 Mega Tjaffer 1.1i Cabrio"
+            },
+            {
+              "id": "mod_1994_mega_tjaffer_1_4_cabrio_diesel",
+              "title": "1994 Mega Tjaffer 1.4 Cabrio Diesel"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "brand_hummer",
+  "title": "Hummer",
+  "models": [
+    {
+      "id": "model_hummer_h2_sut",
+      "title": "Hummer H2 SUT",
+      "generations": [
+        {
+          "id": "gen_hummer_h2_sut",
+          "title": "Hummer H2 SUT",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "model_hummer_h3",
+      "title": "Hummer H3",
+      "generations": [
+        {
+          "id": "gen_hummer_h3",
+          "title": "Hummer H3",
+          "children": [
+            {
+              "id": "mod_2007_hummer_h3_3_7_adventure",
+              "title": "2007 Hummer H3 3.7 Adventure"
+            },
+            {
+              "id": "mod_2007_hummer_h3_3_7_luxury",
+              "title": "2007 Hummer H3 3.7 Luxury"
+            },
+            {
+              "id": "mod_2007_hummer_h3_3_7",
+              "title": "2007 Hummer H3 3.7"
+            }
+          ]
+        },
+        {
+          "id": "gen_hummer_h3",
+          "title": "Hummer H3",
+          "children": [
+            {
+              "id": "mod_2005_hummer_h3_3_5_advantage",
+              "title": "2005 Hummer H3 3.5 Advantage"
+            },
+            {
+              "id": "mod_2005_hummer_h3_3_5_comfort",
+              "title": "2005 Hummer H3 3.5 Comfort"
+            },
+            {
+              "id": "mod_2005_hummer_h3_3_5_executive",
+              "title": "2005 Hummer H3 3.5 Executive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_hummer_h2",
+      "title": "Hummer H2",
+      "generations": [
+        {
+          "id": "gen_hummer_h2",
+          "title": "Hummer H2",
+          "children": [
+            {
+              "id": "mod_2004_hummer_h2_6_0_v8_adventure",
+              "title": "2004 Hummer H2 6.0 V8 Adventure"
+            },
+            {
+              "id": "mod_2004_hummer_h2_6_0_v8_exclusive",
+              "title": "2004 Hummer H2 6.0 V8 Exclusive"
+            },
+            {
+              "id": "mod_2004_hummer_h2_6_0_v8_pure",
+              "title": "2004 Hummer H2 6.0 V8 Pure"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

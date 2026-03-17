@@ -1,0 +1,30 @@
+{
+  "id": "brand_aiways",
+  "title": "Aiways",
+  "models": [
+    {
+      "id": "model_aiways_u5",
+      "title": "Aiways U5",
+      "generations": [
+        {
+          "id": "gen_aiways_u5",
+          "title": "Aiways U5",
+          "children": [
+            {
+              "id": "mod_2020_aiways_u5_premium",
+              "title": "2020 Aiways U5 Premium"
+            },
+            {
+              "id": "mod_2020_aiways_u5_showroom",
+              "title": "2020 Aiways U5 Showroom"
+            },
+            {
+              "id": "mod_2020_aiways_u5_standaard",
+              "title": "2020 Aiways U5 Standaard"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

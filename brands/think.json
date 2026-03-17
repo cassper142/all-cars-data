@@ -1,0 +1,22 @@
+{
+  "id": "brand_think",
+  "title": "Think",
+  "models": [
+    {
+      "id": "model_think_city",
+      "title": "Think City",
+      "generations": [
+        {
+          "id": "gen_think_city",
+          "title": "Think City",
+          "children": [
+            {
+              "id": "mod_2009_think_city",
+              "title": "2009 Think City"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

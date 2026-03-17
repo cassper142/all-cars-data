@@ -1,0 +1,34 @@
+{
+  "id": "brand_autobianchi",
+  "title": "Autobianchi",
+  "models": [
+    {
+      "id": "model_autobianchi_a112",
+      "title": "Autobianchi A112",
+      "generations": [
+        {
+          "id": "gen_autobianchi_a112",
+          "title": "Autobianchi A112",
+          "children": [
+            {
+              "id": "mod_1980_autobianchi_a112_abarth",
+              "title": "1980 Autobianchi A112 Abarth"
+            },
+            {
+              "id": "mod_1980_autobianchi_a112_elegante",
+              "title": "1980 Autobianchi A112 Elegante"
+            },
+            {
+              "id": "mod_1980_autobianchi_a112_elite",
+              "title": "1980 Autobianchi A112 Elite"
+            },
+            {
+              "id": "mod_1980_autobianchi_a112_junior",
+              "title": "1980 Autobianchi A112 Junior"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

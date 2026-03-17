@@ -1,0 +1,3850 @@
+{
+  "id": "brand_kia",
+  "title": "Kia",
+  "models": [
+    {
+      "id": "model_kia_e_soul",
+      "title": "Kia e-Soul",
+      "generations": [
+        {
+          "id": "gen_kia_e_soul",
+          "title": "Kia e-Soul",
+          "children": [
+            {
+              "id": "mod_2019_kia_e_soul_64kwh_dynamicline",
+              "title": "2019 Kia E-Soul 64kWh DynamicLine"
+            },
+            {
+              "id": "mod_2019_kia_e_soul_64kwh_executiveline",
+              "title": "2019 Kia E-Soul 64kWh ExecutiveLine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_proceed",
+      "title": "Kia ProCeed",
+      "generations": [
+        {
+          "id": "gen_kia_proceed",
+          "title": "Kia ProCeed",
+          "children": [
+            {
+              "id": "mod_2019_kia_proceed_1_0_t_gdi_gt_line",
+              "title": "2019 Kia ProCeed 1.0 T-GDi GT-Line"
+            },
+            {
+              "id": "mod_2019_kia_proceed_1_0_t_gdi_gt_plusline",
+              "title": "2019 Kia ProCeed 1.0 T-GDi GT-PlusLine"
+            },
+            {
+              "id": "mod_2019_kia_proceed_1_4_t_gdi_gt_line",
+              "title": "2019 Kia ProCeed 1.4 T-GDi GT-Line"
+            },
+            {
+              "id": "mod_2019_kia_proceed_1_4_t_gdi_gt_plusline",
+              "title": "2019 Kia ProCeed 1.4 T-GDi GT-PlusLine"
+            },
+            {
+              "id": "mod_2019_kia_proceed_1_6_crdi_gt_line",
+              "title": "2019 Kia ProCeed 1.6 CRDi GT-Line"
+            },
+            {
+              "id": "mod_2019_kia_proceed_1_6_crdi_gt_plusline",
+              "title": "2019 Kia ProCeed 1.6 CRDi GT-PlusLine"
+            },
+            {
+              "id": "mod_2019_kia_proceed_1_6_t_gdi_gt",
+              "title": "2019 Kia ProCeed 1.6 T-GDi GT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_xceed",
+      "title": "Kia XCeed",
+      "generations": [
+        {
+          "id": "gen_kia_xceed",
+          "title": "Kia XCeed",
+          "children": [
+            {
+              "id": "mod_2019_kia_xceed_1_0_t_gdi_dynamicline",
+              "title": "2019 Kia XCeed 1.0 T-GDi DynamicLine"
+            },
+            {
+              "id": "mod_2019_kia_xceed_1_0_t_gdi_dynamicplusline",
+              "title": "2019 Kia XCeed 1.0 T-GDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2019_kia_xceed_1_0_t_gdi_executiveline",
+              "title": "2019 Kia XCeed 1.0 T-GDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2019_kia_xceed_1_4_t_gdi_dynamicline",
+              "title": "2019 Kia XCeed 1.4 T-GDi DynamicLine"
+            },
+            {
+              "id": "mod_2019_kia_xceed_1_4_t_gdi_dynamicplusline",
+              "title": "2019 Kia XCeed 1.4 T-GDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2019_kia_xceed_1_4_t_gdi_executiveline",
+              "title": "2019 Kia XCeed 1.4 T-GDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2019_kia_xceed_1_6_t_gdi_dynamicplusline",
+              "title": "2019 Kia XCeed 1.6 T-GDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2019_kia_xceed_1_6_t_gdi_executiveline",
+              "title": "2019 Kia XCeed 1.6 T-GDi ExecutiveLine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_e_niro",
+      "title": "Kia e-Niro",
+      "generations": [
+        {
+          "id": "gen_kia_e_niro",
+          "title": "Kia e-Niro",
+          "children": [
+            {
+              "id": "mod_2019_kia_e_niro_64kwh_dynamicline",
+              "title": "2019 Kia E-Niro 64kWh DynamicLine"
+            },
+            {
+              "id": "mod_2019_kia_e_niro_64kwh_executiveline",
+              "title": "2019 Kia E-Niro 64kWh ExecutiveLine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_ceed_sportswagon",
+      "title": "Kia Ceed Sportswagon",
+      "generations": [
+        {
+          "id": "gen_kia_ceed_sportswagon",
+          "title": "Kia Ceed Sportswagon",
+          "children": [
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_0_t_gdi_comfortline",
+              "title": "2018 Kia Ceed Sportswagon 1.0 T-GDi ComfortLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_0_t_gdi_dynamicline",
+              "title": "2018 Kia Ceed Sportswagon 1.0 T-GDi DynamicLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_0_t_gdi_dynamicplusline",
+              "title": "2018 Kia Ceed Sportswagon 1.0 T-GDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_0_t_gdi_executiveline",
+              "title": "2018 Kia Ceed Sportswagon 1.0 T-GDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_0_t_gdi_gt_line",
+              "title": "2018 Kia Ceed Sportswagon 1.0 T-GDi GT-Line"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_0_t_gdi_gt_plusline",
+              "title": "2018 Kia Ceed Sportswagon 1.0 T-GDi GT-PlusLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_4_t_gdi_dynamicline",
+              "title": "2018 Kia Ceed Sportswagon 1.4 T-GDi DynamicLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_4_t_gdi_dynamicplusline",
+              "title": "2018 Kia Ceed Sportswagon 1.4 T-GDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_4_t_gdi_executiveline",
+              "title": "2018 Kia Ceed Sportswagon 1.4 T-GDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_4_t_gdi_gt_line",
+              "title": "2018 Kia Ceed Sportswagon 1.4 T-GDi GT-Line"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_4_t_gdi_gt_plusline",
+              "title": "2018 Kia Ceed Sportswagon 1.4 T-GDi GT-PlusLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_6_crdi_dynamicline",
+              "title": "2018 Kia Ceed Sportswagon 1.6 CRDi DynamicLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_6_crdi_dynamicplusline",
+              "title": "2018 Kia Ceed Sportswagon 1.6 CRDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_6_crdi_executiveline",
+              "title": "2018 Kia Ceed Sportswagon 1.6 CRDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_6_crdi_gt_line",
+              "title": "2018 Kia Ceed Sportswagon 1.6 CRDi GT-Line"
+            },
+            {
+              "id": "mod_2018_kia_ceed_sportswagon_1_6_crdi_gt_plusline",
+              "title": "2018 Kia Ceed Sportswagon 1.6 CRDi GT-PlusLine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_stinger",
+      "title": "Kia Stinger",
+      "generations": [
+        {
+          "id": "gen_kia_stinger",
+          "title": "Kia Stinger",
+          "children": [
+            {
+              "id": "mod_2017_kia_stinger_2_0_turbo_gt_line",
+              "title": "2017 Kia Stinger 2.0 Turbo GT-Line"
+            },
+            {
+              "id": "mod_2017_kia_stinger_2_2_crdi_gt_line",
+              "title": "2017 Kia Stinger 2.2 CRDi GT-Line"
+            },
+            {
+              "id": "mod_2017_kia_stinger_3_3_twin_turbo_v6_awd_gt",
+              "title": "2017 Kia Stinger 3.3 Twin-Turbo V6 AWD GT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_stonic",
+      "title": "Kia Stonic",
+      "generations": [
+        {
+          "id": "gen_kia_stonic",
+          "title": "Kia Stonic",
+          "children": [
+            {
+              "id": "mod_2020_kia_stonic_1_0_t_gdi_mhev_100hp_comfortline",
+              "title": "2020 Kia Stonic 1.0 T-GDi MHEV 100hp ComfortLine"
+            },
+            {
+              "id": "mod_2020_kia_stonic_1_0_t_gdi_mhev_100hp_dynamicline",
+              "title": "2020 Kia Stonic 1.0 T-GDi MHEV 100hp DynamicLine"
+            },
+            {
+              "id": "mod_2020_kia_stonic_1_0_t_gdi_mhev_100hp_dynamicplusline",
+              "title": "2020 Kia Stonic 1.0 T-GDi MHEV 100hp DynamicPlusLine"
+            },
+            {
+              "id": "mod_2020_kia_stonic_1_0_t_gdi_mhev_100hp_gt_line",
+              "title": "2020 Kia Stonic 1.0 T-GDi MHEV 100hp GT-Line"
+            },
+            {
+              "id": "mod_2020_kia_stonic_1_0_t_gdi_mhev_100hp_gt_plusline",
+              "title": "2020 Kia Stonic 1.0 T-GDi MHEV 100hp GT-PlusLine"
+            },
+            {
+              "id": "mod_2020_kia_stonic_1_0_t_gdi_mhev_120hp_dynamicline",
+              "title": "2020 Kia Stonic 1.0 T-GDi MHEV 120hp DynamicLine"
+            },
+            {
+              "id": "mod_2020_kia_stonic_1_0_t_gdi_mhev_120hp_dynamicplusline",
+              "title": "2020 Kia Stonic 1.0 T-GDi MHEV 120hp DynamicPlusLine"
+            },
+            {
+              "id": "mod_2020_kia_stonic_1_0_t_gdi_mhev_120hp_gt_line",
+              "title": "2020 Kia Stonic 1.0 T-GDi MHEV 120hp GT-Line"
+            },
+            {
+              "id": "mod_2020_kia_stonic_1_0_t_gdi_mhev_120hp_gt_plusline",
+              "title": "2020 Kia Stonic 1.0 T-GDi MHEV 120hp GT-PlusLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_stonic",
+          "title": "Kia Stonic",
+          "children": [
+            {
+              "id": "mod_2017_kia_stonic_1_0_t_gdi_120hp_comfortplusline_navigator",
+              "title": "2017 Kia Stonic 1.0 T-GDi 120hp ComfortPlusLine Navigator"
+            },
+            {
+              "id": "mod_2017_kia_stonic_1_0_t_gdi_120hp_dynamicline",
+              "title": "2017 Kia Stonic 1.0 T-GDi 120hp DynamicLine"
+            },
+            {
+              "id": "mod_2017_kia_stonic_1_0_t_gdi_120hp_executiveline",
+              "title": "2017 Kia Stonic 1.0 T-GDi 120hp ExecutiveLine"
+            },
+            {
+              "id": "mod_2017_kia_stonic_1_2_mpi_comfortline",
+              "title": "2017 Kia Stonic 1.2 MPi ComfortLine"
+            },
+            {
+              "id": "mod_2017_kia_stonic_1_2_mpi_comfortplusline_navigator",
+              "title": "2017 Kia Stonic 1.2 MPi ComfortPlusLine Navigator"
+            },
+            {
+              "id": "mod_2017_kia_stonic_1_2_mpi_economyline",
+              "title": "2017 Kia Stonic 1.2 MPi EconomyLine"
+            },
+            {
+              "id": "mod_2017_kia_stonic_1_6_crdi_business_dynamicline",
+              "title": "2017 Kia Stonic 1.6 CRDi Business DynamicLine"
+            },
+            {
+              "id": "mod_2017_kia_stonic_1_6_crdi_business_navigator",
+              "title": "2017 Kia Stonic 1.6 CRDi Business Navigator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_niro",
+      "title": "Kia Niro",
+      "generations": [
+        {
+          "id": "gen_kia_niro",
+          "title": "Kia Niro",
+          "children": [
+            {
+              "id": "mod_2019_kia_niro_1_6_gdi_hybrid_comfortline",
+              "title": "2019 Kia Niro 1.6 GDi Hybrid Comfortline"
+            },
+            {
+              "id": "mod_2019_kia_niro_1_6_gdi_hybrid_dynamicline",
+              "title": "2019 Kia Niro 1.6 GDi Hybrid DynamicLine"
+            },
+            {
+              "id": "mod_2019_kia_niro_1_6_gdi_hybrid_dynamicplusline",
+              "title": "2019 Kia Niro 1.6 GDi Hybrid DynamicPlusLine"
+            },
+            {
+              "id": "mod_2019_kia_niro_1_6_gdi_hybrid_edition",
+              "title": "2019 Kia Niro 1.6 GDi Hybrid Edition"
+            },
+            {
+              "id": "mod_2019_kia_niro_1_6_gdi_hybrid_executiveline",
+              "title": "2019 Kia Niro 1.6 GDi Hybrid ExecutiveLine"
+            },
+            {
+              "id": "mod_2019_kia_niro_1_6_gdi_hybrid_style_edition",
+              "title": "2019 Kia Niro 1.6 GDi Hybrid Style Edition"
+            },
+            {
+              "id": "mod_2019_kia_niro_1_6_gdi_phev_dynamicline",
+              "title": "2019 Kia Niro 1.6 GDi PHEV DynamicLine"
+            },
+            {
+              "id": "mod_2019_kia_niro_1_6_gdi_phev_dynamicplusline",
+              "title": "2019 Kia Niro 1.6 GDi PHEV DynamicPlusLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_niro",
+          "title": "Kia Niro",
+          "children": [
+            {
+              "id": "mod_2016_kia_niro_1_6_gdi_hybrid_businessline",
+              "title": "2016 Kia Niro 1.6 GDi Hybrid BusinessLine"
+            },
+            {
+              "id": "mod_2016_kia_niro_1_6_gdi_hybrid_comfortline_style_pack",
+              "title": "2016 Kia Niro 1.6 GDi Hybrid Comfortline Style Pack"
+            },
+            {
+              "id": "mod_2016_kia_niro_1_6_gdi_hybrid_comfortline",
+              "title": "2016 Kia Niro 1.6 GDi Hybrid Comfortline"
+            },
+            {
+              "id": "mod_2016_kia_niro_1_6_gdi_hybrid_executiveline",
+              "title": "2016 Kia Niro 1.6 GDi Hybrid ExecutiveLine"
+            },
+            {
+              "id": "mod_2016_kia_niro_1_6_gdi_hybrid_first_edition",
+              "title": "2016 Kia Niro 1.6 GDi Hybrid First Edition"
+            },
+            {
+              "id": "mod_2016_kia_niro_1_6_gdi_hybrid_sportsline",
+              "title": "2016 Kia Niro 1.6 GDi Hybrid SportsLine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_optima_sw",
+      "title": "Kia Optima SW",
+      "generations": [
+        {
+          "id": "gen_kia_optima_sw",
+          "title": "Kia Optima SW",
+          "children": [
+            {
+              "id": "mod_2018_kia_optima_sw_1_6_crdi_dynamicplusline",
+              "title": "2018 Kia Optima SW 1.6 CRDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_optima_sw_1_6_crdi_gt_line",
+              "title": "2018 Kia Optima SW 1.6 CRDi GT-Line"
+            },
+            {
+              "id": "mod_2018_kia_optima_sw_1_6_t_gdi_dynamicplusline",
+              "title": "2018 Kia Optima SW 1.6 T-GDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_optima_sw_1_6_t_gdi_gt_line",
+              "title": "2018 Kia Optima SW 1.6 T-GDi GT-Line"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_optima_sw",
+          "title": "Kia Optima SW",
+          "children": [
+            {
+              "id": "mod_2016_kia_optima_sw_1_7_crdi_comfortplusline",
+              "title": "2016 Kia Optima SW 1.7 CRDi ComfortPlusLine"
+            },
+            {
+              "id": "mod_2016_kia_optima_sw_1_7_crdi_dynamicline",
+              "title": "2016 Kia Optima SW 1.7 CRDi DynamicLine"
+            },
+            {
+              "id": "mod_2016_kia_optima_sw_1_7_crdi_executiveline",
+              "title": "2016 Kia Optima SW 1.7 CRDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2016_kia_optima_sw_1_7_crdi_gt_line",
+              "title": "2016 Kia Optima SW 1.7 CRDi GT-Line"
+            },
+            {
+              "id": "mod_2016_kia_optima_sw_2_0_t_gdi_gt",
+              "title": "2016 Kia Optima SW 2.0 T-GDi GT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_ceed_sw",
+      "title": "Kia Ceed SW",
+      "generations": [
+        {
+          "id": "gen_kia_ceed_sw",
+          "title": "Kia Ceed SW",
+          "children": [
+            {
+              "id": "mod_2015_kia_ceed_sw_1_0_t_gdi_100hp_comfortline",
+              "title": "2015 Kia Ceed SW 1.0 T-GDI 100hp ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_0_t_gdi_100hp_dynamicline",
+              "title": "2015 Kia Ceed SW 1.0 T-GDI 100hp DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_0_t_gdi_120hp_comfortline",
+              "title": "2015 Kia Ceed SW 1.0 T-GDI 120hp ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_0_t_gdi_120hp_dynamicline",
+              "title": "2015 Kia Ceed SW 1.0 T-GDI 120hp DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_0_t_gdi_120hp_executiveline",
+              "title": "2015 Kia Ceed SW 1.0 T-GDI 120hp ExecutiveLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_0_t_gdi_120hp_first_edition",
+              "title": "2015 Kia Ceed SW 1.0 T-GDI 120hp First Edition"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_0_t_gdi_120hp_gt_line",
+              "title": "2015 Kia Ceed SW 1.0 T-GDI 120hp GT-Line"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_6_crdi_comfortline",
+              "title": "2015 Kia Ceed SW 1.6 CRDi ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_6_crdi_dynamicline",
+              "title": "2015 Kia Ceed SW 1.6 CRDi DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_6_crdi_executiveline",
+              "title": "2015 Kia Ceed SW 1.6 CRDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_6_crdi_gt_line",
+              "title": "2015 Kia Ceed SW 1.6 CRDi GT-Line"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_6_gdi_comfortline",
+              "title": "2015 Kia Ceed SW 1.6 GDI ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_6_gdi_dynamicline",
+              "title": "2015 Kia Ceed SW 1.6 GDI DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_6_gdi_executiveline",
+              "title": "2015 Kia Ceed SW 1.6 GDI ExecutiveLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_sw_1_6_gdi_first_edition",
+              "title": "2015 Kia Ceed SW 1.6 GDI First Edition"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_ceed_sw",
+          "title": "Kia Ceed SW",
+          "children": [
+            {
+              "id": "mod_2012_kia_ceed_sw_1_6_crdi_business_pack",
+              "title": "2012 Kia Ceed SW 1.6 CRDi Business Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_sw_1_6_crdi_comfort_pack",
+              "title": "2012 Kia Ceed SW 1.6 CRDi Comfort Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_sw_1_6_crdi_premium_pack",
+              "title": "2012 Kia Ceed SW 1.6 CRDi Premium Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_sw_1_6_crdi_super_pack",
+              "title": "2012 Kia Ceed SW 1.6 CRDi Super Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_sw_1_6_crdi",
+              "title": "2012 Kia Ceed SW 1.6 CRDi"
+            },
+            {
+              "id": "mod_2012_kia_ceed_sw_1_6_gdi_business_pack",
+              "title": "2012 Kia Ceed SW 1.6 GDI Business Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_sw_1_6_gdi_comfort_pack",
+              "title": "2012 Kia Ceed SW 1.6 GDI Comfort Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_sw_1_6_gdi_premium_pack",
+              "title": "2012 Kia Ceed SW 1.6 GDI Premium Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_sw_1_6_gdi_super_pack",
+              "title": "2012 Kia Ceed SW 1.6 GDI Super Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_sw_1_6_gdi",
+              "title": "2012 Kia Ceed SW 1.6 GDI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_optima",
+      "title": "Kia Optima",
+      "generations": [
+        {
+          "id": "gen_kia_optima",
+          "title": "Kia Optima",
+          "children": [
+            {
+              "id": "mod_2018_kia_optima_1_6_crdi_dynamicplusline",
+              "title": "2018 Kia Optima 1.6 CRDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_optima_1_6_crdi_gt_line",
+              "title": "2018 Kia Optima 1.6 CRDi GT-Line"
+            },
+            {
+              "id": "mod_2018_kia_optima_1_6_t_gdi_dynamicplusline",
+              "title": "2018 Kia Optima 1.6 T-GDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_optima_1_6_t_gdi_gt_line",
+              "title": "2018 Kia Optima 1.6 T-GDi GT-Line"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_optima",
+          "title": "Kia Optima",
+          "children": [
+            {
+              "id": "mod_2015_kia_optima_1_7_crdi_comfortplusline",
+              "title": "2015 Kia Optima 1.7 CRDi ComfortPlusLine"
+            },
+            {
+              "id": "mod_2015_kia_optima_1_7_crdi_dynamicline",
+              "title": "2015 Kia Optima 1.7 CRDi DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_optima_1_7_crdi_first_edition",
+              "title": "2015 Kia Optima 1.7 CRDi First Edition"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_optima",
+          "title": "Kia Optima",
+          "children": [
+            {
+              "id": "mod_2014_kia_optima_1_7_crdi_executiveline",
+              "title": "2014 Kia Optima 1.7 CRDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2014_kia_optima_2_0_cvvt_hybrid_businessline",
+              "title": "2014 Kia Optima 2.0 CVVT Hybrid BusinessLine"
+            },
+            {
+              "id": "mod_2014_kia_optima_2_0_cvvt_hybrid_executiveline",
+              "title": "2014 Kia Optima 2.0 CVVT Hybrid ExecutiveLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_optima",
+          "title": "Kia Optima",
+          "children": [
+            {
+              "id": "mod_2012_kia_optima_1_7_crdi_super_pack",
+              "title": "2012 Kia Optima 1.7 CRDi Super Pack"
+            },
+            {
+              "id": "mod_2012_kia_optima_2_0_cvvt_hybrid_plus_pack",
+              "title": "2012 Kia Optima 2.0 CVVT Hybrid Plus Pack"
+            },
+            {
+              "id": "mod_2012_kia_optima_2_0_cvvt_hybrid_super_pack",
+              "title": "2012 Kia Optima 2.0 CVVT Hybrid Super Pack"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_picanto",
+      "title": "Kia Picanto",
+      "generations": [
+        {
+          "id": "gen_kia_picanto",
+          "title": "Kia Picanto",
+          "children": [
+            {
+              "id": "mod_2020_kia_picanto_1_0_dpi_comfortline_4_zits",
+              "title": "2020 Kia Picanto 1.0 DPi ComfortLine 4-zits"
+            },
+            {
+              "id": "mod_2020_kia_picanto_1_0_dpi_comfortline_5_zits",
+              "title": "2020 Kia Picanto 1.0 DPi ComfortLine 5-zits"
+            },
+            {
+              "id": "mod_2020_kia_picanto_1_0_dpi_dynamicline_4_zits",
+              "title": "2020 Kia Picanto 1.0 DPi DynamicLine 4-zits"
+            },
+            {
+              "id": "mod_2020_kia_picanto_1_0_dpi_dynamicline_5_zits",
+              "title": "2020 Kia Picanto 1.0 DPi DynamicLine 5-zits"
+            },
+            {
+              "id": "mod_2020_kia_picanto_1_0_dpi_dynamicplusline_4_zits",
+              "title": "2020 Kia Picanto 1.0 DPi DynamicPlusLine 4-zits"
+            },
+            {
+              "id": "mod_2020_kia_picanto_1_0_dpi_dynamicplusline_5_zits",
+              "title": "2020 Kia Picanto 1.0 DPi DynamicPlusLine 5-zits"
+            },
+            {
+              "id": "mod_2020_kia_picanto_1_0_dpi_gt_line_4_zits",
+              "title": "2020 Kia Picanto 1.0 DPi GT-Line 4-zits"
+            },
+            {
+              "id": "mod_2020_kia_picanto_1_0_t_gdi_gt_line",
+              "title": "2020 Kia Picanto 1.0 T-GDI GT-Line"
+            },
+            {
+              "id": "mod_2020_kia_picanto_1_0_t_gdi_x_line",
+              "title": "2020 Kia Picanto 1.0 T-GDI X-Line"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_picanto",
+          "title": "Kia Picanto",
+          "children": [
+            {
+              "id": "mod_2017_kia_picanto_1_0_cvvt_comfortline_4_zits",
+              "title": "2017 Kia Picanto 1.0 CVVT ComfortLine 4-zits"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_0_cvvt_comfortline_navigator",
+              "title": "2017 Kia Picanto 1.0 CVVT ComfortLine Navigator"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_0_cvvt_dynamicline_4_zits",
+              "title": "2017 Kia Picanto 1.0 CVVT DynamicLine 4-zits"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_0_cvvt_dynamicplusline",
+              "title": "2017 Kia Picanto 1.0 CVVT DynamicPlusLine"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_0_cvvt_economyline_4_zits",
+              "title": "2017 Kia Picanto 1.0 CVVT EconomyLine 4-zits"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_0_cvvt_economyline_5_zits",
+              "title": "2017 Kia Picanto 1.0 CVVT EconomyLine 5-zits"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_0_cvvt_economyplusline_4_zits",
+              "title": "2017 Kia Picanto 1.0 CVVT EconomyPlusLine 4-zits"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_0_cvvt_economyplusline_5_zits",
+              "title": "2017 Kia Picanto 1.0 CVVT EconomyPlusLine 5-zits"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_0_cvvt_executiveline",
+              "title": "2017 Kia Picanto 1.0 CVVT ExecutiveLine"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_0_cvvt_first_edition",
+              "title": "2017 Kia Picanto 1.0 CVVT First Edition"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_0_t_gdi_gt_line",
+              "title": "2017 Kia Picanto 1.0 T-GDI GT-Line"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_0_t_gdi_x_line",
+              "title": "2017 Kia Picanto 1.0 T-GDI X-Line"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_2_cvvt_first_edition",
+              "title": "2017 Kia Picanto 1.2 CVVT First Edition"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_2_cvvt_gt_line",
+              "title": "2017 Kia Picanto 1.2 CVVT GT-Line"
+            },
+            {
+              "id": "mod_2017_kia_picanto_1_2_cvvt_x_line",
+              "title": "2017 Kia Picanto 1.2 CVVT X-Line"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_picanto",
+          "title": "Kia Picanto",
+          "children": [
+            {
+              "id": "mod_2015_kia_picanto_1_0_cvvt_colorline",
+              "title": "2015 Kia Picanto 1.0 CVVT ColorLine"
+            },
+            {
+              "id": "mod_2015_kia_picanto_1_0_cvvt_comfortline",
+              "title": "2015 Kia Picanto 1.0 CVVT ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_picanto_1_0_cvvt_dynamicline",
+              "title": "2015 Kia Picanto 1.0 CVVT DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_picanto_1_0_cvvt_economyline",
+              "title": "2015 Kia Picanto 1.0 CVVT EconomyLine"
+            },
+            {
+              "id": "mod_2015_kia_picanto_1_0_cvvt_first_edition",
+              "title": "2015 Kia Picanto 1.0 CVVT First Edition"
+            },
+            {
+              "id": "mod_2015_kia_picanto_1_0_cvvt_lpg_comfortline",
+              "title": "2015 Kia Picanto 1.0 CVVT LPG ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_picanto_1_2_cvvt_colorline",
+              "title": "2015 Kia Picanto 1.2 CVVT ColorLine"
+            },
+            {
+              "id": "mod_2015_kia_picanto_1_2_cvvt_dynamicline",
+              "title": "2015 Kia Picanto 1.2 CVVT DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_picanto_1_2_cvvt_first_edition",
+              "title": "2015 Kia Picanto 1.2 CVVT First Edition"
+            },
+            {
+              "id": "mod_2015_kia_picanto_1_2_cvvt_sportsline",
+              "title": "2015 Kia Picanto 1.2 CVVT SportsLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_picanto",
+          "title": "Kia Picanto",
+          "children": [
+            {
+              "id": "mod_2015_kia_picanto_1_0_cvvt_comfortline",
+              "title": "2015 Kia Picanto 1.0 CVVT ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_picanto_1_0_cvvt_dynamicline",
+              "title": "2015 Kia Picanto 1.0 CVVT DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_picanto_1_0_cvvt_economyline",
+              "title": "2015 Kia Picanto 1.0 CVVT EconomyLine"
+            },
+            {
+              "id": "mod_2015_kia_picanto_1_2_cvvt_sportsline",
+              "title": "2015 Kia Picanto 1.2 CVVT SportsLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_picanto",
+          "title": "Kia Picanto",
+          "children": [
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_comfort_pack",
+              "title": "2011 Kia Picanto 1.0 CVVT Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_exterior_pack",
+              "title": "2011 Kia Picanto 1.0 CVVT Exterior Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_isg_comfort_pack",
+              "title": "2011 Kia Picanto 1.0 CVVT ISG Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_isg_exterior_pack",
+              "title": "2011 Kia Picanto 1.0 CVVT ISG Exterior Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_isg_style_pack",
+              "title": "2011 Kia Picanto 1.0 CVVT ISG Style Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_isg",
+              "title": "2011 Kia Picanto 1.0 CVVT ISG"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_style_pack",
+              "title": "2011 Kia Picanto 1.0 CVVT Style Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt",
+              "title": "2011 Kia Picanto 1.0 CVVT"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_comfort_pack",
+              "title": "2011 Kia Picanto 1.2 CVVT Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_exterior_pack",
+              "title": "2011 Kia Picanto 1.2 CVVT Exterior Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_isg_comfort_pack",
+              "title": "2011 Kia Picanto 1.2 CVVT ISG Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_isg_exterior_pack",
+              "title": "2011 Kia Picanto 1.2 CVVT ISG Exterior Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_isg_style_pack",
+              "title": "2011 Kia Picanto 1.2 CVVT ISG Style Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_isg",
+              "title": "2011 Kia Picanto 1.2 CVVT ISG"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_style_pack",
+              "title": "2011 Kia Picanto 1.2 CVVT Style Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt",
+              "title": "2011 Kia Picanto 1.2 CVVT"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_picanto",
+          "title": "Kia Picanto",
+          "children": [
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_comfort_pack",
+              "title": "2011 Kia Picanto 1.0 CVVT Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_exterior_pack",
+              "title": "2011 Kia Picanto 1.0 CVVT Exterior Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_isg_comfort_pack",
+              "title": "2011 Kia Picanto 1.0 CVVT ISG Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_isg_exterior_pack",
+              "title": "2011 Kia Picanto 1.0 CVVT ISG Exterior Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_isg_style_pack",
+              "title": "2011 Kia Picanto 1.0 CVVT ISG Style Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_isg",
+              "title": "2011 Kia Picanto 1.0 CVVT ISG"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt_style_pack",
+              "title": "2011 Kia Picanto 1.0 CVVT Style Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_0_cvvt",
+              "title": "2011 Kia Picanto 1.0 CVVT"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_comfort_pack",
+              "title": "2011 Kia Picanto 1.2 CVVT Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_exterior_pack",
+              "title": "2011 Kia Picanto 1.2 CVVT Exterior Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_isg_comfort_pack",
+              "title": "2011 Kia Picanto 1.2 CVVT ISG Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_isg_exterior_pack",
+              "title": "2011 Kia Picanto 1.2 CVVT ISG Exterior Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_isg_style_pack",
+              "title": "2011 Kia Picanto 1.2 CVVT ISG Style Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_isg",
+              "title": "2011 Kia Picanto 1.2 CVVT ISG"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt_style_pack",
+              "title": "2011 Kia Picanto 1.2 CVVT Style Pack"
+            },
+            {
+              "id": "mod_2011_kia_picanto_1_2_cvvt",
+              "title": "2011 Kia Picanto 1.2 CVVT"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_picanto",
+          "title": "Kia Picanto",
+          "children": [
+            {
+              "id": "mod_2010_kia_picanto_1_0_seven",
+              "title": "2010 Kia Picanto 1.0 Seven"
+            },
+            {
+              "id": "mod_2010_kia_picanto_1_0_x",
+              "title": "2010 Kia Picanto 1.0 X"
+            },
+            {
+              "id": "mod_2010_kia_picanto_1_0_x_ecutive",
+              "title": "2010 Kia Picanto 1.0 X-ecutive"
+            },
+            {
+              "id": "mod_2010_kia_picanto_1_0_x_pect",
+              "title": "2010 Kia Picanto 1.0 X-pect"
+            },
+            {
+              "id": "mod_2010_kia_picanto_1_1_x_clusive",
+              "title": "2010 Kia Picanto 1.1 X-clusive"
+            },
+            {
+              "id": "mod_2010_kia_picanto_1_1_x_ecutive",
+              "title": "2010 Kia Picanto 1.1 X-ecutive"
+            },
+            {
+              "id": "mod_2010_kia_picanto_1_1_x_pect",
+              "title": "2010 Kia Picanto 1.1 X-pect"
+            },
+            {
+              "id": "mod_2010_kia_picanto_1_1_x_tra",
+              "title": "2010 Kia Picanto 1.1 X-tra"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_picanto",
+          "title": "Kia Picanto",
+          "children": [
+            {
+              "id": "mod_2007_kia_picanto_1_0_x",
+              "title": "2007 Kia Picanto 1.0 X"
+            },
+            {
+              "id": "mod_2007_kia_picanto_1_0_x_ecutive",
+              "title": "2007 Kia Picanto 1.0 X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_picanto_1_0_x_pect",
+              "title": "2007 Kia Picanto 1.0 X-pect"
+            },
+            {
+              "id": "mod_2007_kia_picanto_1_0_x_tra",
+              "title": "2007 Kia Picanto 1.0 X-tra"
+            },
+            {
+              "id": "mod_2007_kia_picanto_1_1_crdi_vgt_x_ecutive",
+              "title": "2007 Kia Picanto 1.1 CRDi VGT X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_picanto_1_1_crdi_vgt_x_tra",
+              "title": "2007 Kia Picanto 1.1 CRDi VGT X-tra"
+            },
+            {
+              "id": "mod_2007_kia_picanto_1_1_x_clusive",
+              "title": "2007 Kia Picanto 1.1 X-clusive"
+            },
+            {
+              "id": "mod_2007_kia_picanto_1_1_x_ecutive",
+              "title": "2007 Kia Picanto 1.1 X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_picanto_1_1_x_pect",
+              "title": "2007 Kia Picanto 1.1 X-pect"
+            },
+            {
+              "id": "mod_2007_kia_picanto_1_1_x_tra",
+              "title": "2007 Kia Picanto 1.1 X-tra"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_picanto",
+          "title": "Kia Picanto",
+          "children": [
+            {
+              "id": "mod_2004_kia_picanto_1_0_ex_sport",
+              "title": "2004 Kia Picanto 1.0 EX Sport"
+            },
+            {
+              "id": "mod_2004_kia_picanto_1_0_ex",
+              "title": "2004 Kia Picanto 1.0 EX"
+            },
+            {
+              "id": "mod_2004_kia_picanto_1_0_lx",
+              "title": "2004 Kia Picanto 1.0 LX"
+            },
+            {
+              "id": "mod_2004_kia_picanto_1_0_lxe",
+              "title": "2004 Kia Picanto 1.0 LXE"
+            },
+            {
+              "id": "mod_2004_kia_picanto_1_1_ex_sport",
+              "title": "2004 Kia Picanto 1.1 EX Sport"
+            },
+            {
+              "id": "mod_2004_kia_picanto_1_1_ex",
+              "title": "2004 Kia Picanto 1.1 EX"
+            },
+            {
+              "id": "mod_2004_kia_picanto_1_1_lx",
+              "title": "2004 Kia Picanto 1.1 LX"
+            },
+            {
+              "id": "mod_2004_kia_picanto_1_1_lxe",
+              "title": "2004 Kia Picanto 1.1 LXE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_soul",
+      "title": "Kia Soul",
+      "generations": [
+        {
+          "id": "gen_kia_soul",
+          "title": "Kia Soul",
+          "children": [
+            {
+              "id": "mod_2014_kia_soul_ev_executiveline",
+              "title": "2014 Kia Soul EV ExecutiveLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_soul",
+          "title": "Kia Soul",
+          "children": [
+            {
+              "id": "mod_2012_kia_soul_1_6_gdi_rhythm",
+              "title": "2012 Kia Soul 1.6 GDi Rhythm"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_soul",
+          "title": "Kia Soul",
+          "children": [
+            {
+              "id": "mod_2009_kia_soul_1_6_crdi_x_ecutive",
+              "title": "2009 Kia Soul 1.6 CRDi X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_soul_1_6_crdi_x_pect_cool",
+              "title": "2009 Kia Soul 1.6 CRDi X-pect Cool"
+            },
+            {
+              "id": "mod_2009_kia_soul_1_6_crdi_x_tra",
+              "title": "2009 Kia Soul 1.6 CRDi X-tra"
+            },
+            {
+              "id": "mod_2009_kia_soul_1_6_cvvt_x",
+              "title": "2009 Kia Soul 1.6 CVVT X"
+            },
+            {
+              "id": "mod_2009_kia_soul_1_6_cvvt_x_ecutive",
+              "title": "2009 Kia Soul 1.6 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_soul_1_6_cvvt_x_pect_cool",
+              "title": "2009 Kia Soul 1.6 CVVT X-pect Cool"
+            },
+            {
+              "id": "mod_2009_kia_soul_1_6_cvvt_x_tra",
+              "title": "2009 Kia Soul 1.6 CVVT X-tra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_venga",
+      "title": "Kia Venga",
+      "generations": [
+        {
+          "id": "gen_kia_venga",
+          "title": "Kia Venga",
+          "children": [
+            {
+              "id": "mod_2015_kia_venga_1_4_cvvt_comfortline",
+              "title": "2015 Kia Venga 1.4 CVVT ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_venga_1_4_cvvt_dynamicline",
+              "title": "2015 Kia Venga 1.4 CVVT DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_venga_1_4_cvvt_dynamicplusline",
+              "title": "2015 Kia Venga 1.4 CVVT DynamicPlusLine"
+            },
+            {
+              "id": "mod_2015_kia_venga_1_4_cvvt_economyline",
+              "title": "2015 Kia Venga 1.4 CVVT EconomyLine"
+            },
+            {
+              "id": "mod_2015_kia_venga_1_4_cvvt_executiveline",
+              "title": "2015 Kia Venga 1.4 CVVT ExecutiveLine"
+            },
+            {
+              "id": "mod_2015_kia_venga_1_6_cvvt_dynamicline",
+              "title": "2015 Kia Venga 1.6 CVVT DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_venga_1_6_cvvt_dynamicplusline",
+              "title": "2015 Kia Venga 1.6 CVVT DynamicPlusLine"
+            },
+            {
+              "id": "mod_2015_kia_venga_1_6_cvvt_executiveline",
+              "title": "2015 Kia Venga 1.6 CVVT ExecutiveLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_venga",
+          "title": "Kia Venga",
+          "children": [
+            {
+              "id": "mod_2009_kia_venga_1_4_crdi_75_x_ecutive",
+              "title": "2009 Kia Venga 1.4 CRDi 75 X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_venga_1_4_crdi_75_x_pect",
+              "title": "2009 Kia Venga 1.4 CRDi 75 X-pect"
+            },
+            {
+              "id": "mod_2009_kia_venga_1_4_crdi_75_x_tra",
+              "title": "2009 Kia Venga 1.4 CRDi 75 X-tra"
+            },
+            {
+              "id": "mod_2009_kia_venga_1_4_crdi_90_x_ecutive",
+              "title": "2009 Kia Venga 1.4 CRDi 90 X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_venga_1_4_crdi_90_x_tra",
+              "title": "2009 Kia Venga 1.4 CRDi 90 X-tra"
+            },
+            {
+              "id": "mod_2009_kia_venga_1_4_cvvt_x_ecutive",
+              "title": "2009 Kia Venga 1.4 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_venga_1_4_cvvt_x_pect",
+              "title": "2009 Kia Venga 1.4 CVVT X-pect"
+            },
+            {
+              "id": "mod_2009_kia_venga_1_4_cvvt_x_tra",
+              "title": "2009 Kia Venga 1.4 CVVT X-tra"
+            },
+            {
+              "id": "mod_2009_kia_venga_1_6_crdi_x_ecutive",
+              "title": "2009 Kia Venga 1.6 CRDi X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_venga_1_6_crdi_x_tra",
+              "title": "2009 Kia Venga 1.6 CRDi X-tra"
+            },
+            {
+              "id": "mod_2009_kia_venga_1_6_cvvt_x_ecutive",
+              "title": "2009 Kia Venga 1.6 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_venga_1_6_cvvt_x_tra",
+              "title": "2009 Kia Venga 1.6 CVVT X-tra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_sorento_van",
+      "title": "Kia Sorento Van",
+      "generations": [
+        {
+          "id": "gen_kia_sorento_van",
+          "title": "Kia Sorento Van",
+          "children": [
+            {
+              "id": "mod_2009_kia_sorento_2_2_crdi_x_clusive_4wd",
+              "title": "2009 Kia Sorento 2.2 CRDi X-clusive 4WD"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_2_crdi_x_clusive",
+              "title": "2009 Kia Sorento 2.2 CRDi X-clusive"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_2_crdi_x_ecutive_4wd",
+              "title": "2009 Kia Sorento 2.2 CRDi X-ecutive 4WD"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_2_crdi_x_ecutive",
+              "title": "2009 Kia Sorento 2.2 CRDi X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_4_x_clusive_4wd",
+              "title": "2009 Kia Sorento 2.4 X-clusive 4WD"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_4_x_clusive",
+              "title": "2009 Kia Sorento 2.4 X-clusive"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_4_x_ecutive_4wd",
+              "title": "2009 Kia Sorento 2.4 X-ecutive 4WD"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_4_x_ecutive",
+              "title": "2009 Kia Sorento 2.4 X-ecutive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_pro_ceed",
+      "title": "Kia Pro_Ceed",
+      "generations": [
+        {
+          "id": "gen_kia_pro_ceed",
+          "title": "Kia Pro_Ceed",
+          "children": [
+            {
+              "id": "mod_2015_kia_pro_ceed_1_6_t_gdi_gt",
+              "title": "2015 Kia Pro_Ceed 1.6 T-GDI GT"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_pro_ceed",
+          "title": "Kia Pro_Ceed",
+          "children": [
+            {
+              "id": "mod_2013_kia_pro_ceed_1_6_crdi_business_pack",
+              "title": "2013 Kia Pro_Ceed 1.6 CRDi Business Pack"
+            },
+            {
+              "id": "mod_2013_kia_pro_ceed_1_6_crdi_comfort_pack",
+              "title": "2013 Kia Pro_Ceed 1.6 CRDi Comfort Pack"
+            },
+            {
+              "id": "mod_2013_kia_pro_ceed_1_6_crdi_premium_pack",
+              "title": "2013 Kia Pro_Ceed 1.6 CRDi Premium Pack"
+            },
+            {
+              "id": "mod_2013_kia_pro_ceed_1_6_crdi_super_pack",
+              "title": "2013 Kia Pro_Ceed 1.6 CRDi Super Pack"
+            },
+            {
+              "id": "mod_2013_kia_pro_ceed_1_6_crdi",
+              "title": "2013 Kia Pro_Ceed 1.6 CRDi"
+            },
+            {
+              "id": "mod_2013_kia_pro_ceed_1_6_gdi_business_pack",
+              "title": "2013 Kia Pro_Ceed 1.6 GDI Business Pack"
+            },
+            {
+              "id": "mod_2013_kia_pro_ceed_1_6_gdi_comfort_pack",
+              "title": "2013 Kia Pro_Ceed 1.6 GDI Comfort Pack"
+            },
+            {
+              "id": "mod_2013_kia_pro_ceed_1_6_gdi_premium_pack",
+              "title": "2013 Kia Pro_Ceed 1.6 GDI Premium Pack"
+            },
+            {
+              "id": "mod_2013_kia_pro_ceed_1_6_gdi_super_pack",
+              "title": "2013 Kia Pro_Ceed 1.6 GDI Super Pack"
+            },
+            {
+              "id": "mod_2013_kia_pro_ceed_1_6_gdi",
+              "title": "2013 Kia Pro_Ceed 1.6 GDI"
+            },
+            {
+              "id": "mod_2013_kia_pro_ceed_1_6_t_gdi_gt_first_edition",
+              "title": "2013 Kia Pro_Ceed 1.6 T-GDI GT First Edition"
+            },
+            {
+              "id": "mod_2013_kia_pro_ceed_1_6_t_gdi_gt",
+              "title": "2013 Kia Pro_Ceed 1.6 T-GDI GT"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_pro_ceed",
+          "title": "Kia Pro_Ceed",
+          "children": [
+            {
+              "id": "mod_2011_kia_pro_ceed_1_4_cvvt_brooklyn",
+              "title": "2011 Kia Pro_Ceed 1.4 CVVT Brooklyn"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_4_cvvt_navigator_plus_pack",
+              "title": "2011 Kia Pro_Ceed 1.4 CVVT Navigator Plus Pack"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_4_cvvt_seven",
+              "title": "2011 Kia Pro_Ceed 1.4 CVVT Seven"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_4_cvvt",
+              "title": "2011 Kia Pro_Ceed 1.4 CVVT"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_6_crdi_115_brooklyn",
+              "title": "2011 Kia Pro_Ceed 1.6 CRDi 115 Brooklyn"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_6_crdi_115_navigator_plus_pack",
+              "title": "2011 Kia Pro_Ceed 1.6 CRDi 115 Navigator Plus Pack"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_6_crdi_115_seven",
+              "title": "2011 Kia Pro_Ceed 1.6 CRDi 115 Seven"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_6_crdi_115",
+              "title": "2011 Kia Pro_Ceed 1.6 CRDi 115"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_6_crdi_128_brooklyn_sport",
+              "title": "2011 Kia Pro_Ceed 1.6 CRDi 128 Brooklyn Sport"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_6_crdi_128_seven_sport",
+              "title": "2011 Kia Pro_Ceed 1.6 CRDi 128 Seven Sport"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_6_crdi_128_super_pack",
+              "title": "2011 Kia Pro_Ceed 1.6 CRDi 128 Super Pack"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_6_cvvt_brooklyn_sport",
+              "title": "2011 Kia Pro_Ceed 1.6 CVVT Brooklyn Sport"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_6_cvvt_brooklyn",
+              "title": "2011 Kia Pro_Ceed 1.6 CVVT Brooklyn"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_6_cvvt_seven_sport",
+              "title": "2011 Kia Pro_Ceed 1.6 CVVT Seven Sport"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_6_cvvt_seven",
+              "title": "2011 Kia Pro_Ceed 1.6 CVVT Seven"
+            },
+            {
+              "id": "mod_2011_kia_pro_ceed_1_6_cvvt_super_pack",
+              "title": "2011 Kia Pro_Ceed 1.6 CVVT Super Pack"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_pro_ceed",
+          "title": "Kia Pro_Ceed",
+          "children": [
+            {
+              "id": "mod_2010_kia_pro_ceed_1_4_cvvt_se7en",
+              "title": "2010 Kia Pro_Ceed 1.4 CVVT Se7en"
+            },
+            {
+              "id": "mod_2010_kia_pro_ceed_1_4_cvvt_x_ecutive",
+              "title": "2010 Kia Pro_Ceed 1.4 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2010_kia_pro_ceed_1_4_cvvt_x_pect",
+              "title": "2010 Kia Pro_Ceed 1.4 CVVT X-pect"
+            },
+            {
+              "id": "mod_2010_kia_pro_ceed_1_4_cvvt_x_tra",
+              "title": "2010 Kia Pro_Ceed 1.4 CVVT X-tra"
+            },
+            {
+              "id": "mod_2010_kia_pro_ceed_1_6_crdi_115_x_ecutive",
+              "title": "2010 Kia Pro_Ceed 1.6 CRDi 115 X-ecutive"
+            },
+            {
+              "id": "mod_2010_kia_pro_ceed_1_6_crdi_115_x_tra",
+              "title": "2010 Kia Pro_Ceed 1.6 CRDi 115 X-tra"
+            },
+            {
+              "id": "mod_2010_kia_pro_ceed_1_6_crdi_90_x_ecutive",
+              "title": "2010 Kia Pro_Ceed 1.6 CRDi 90 X-ecutive"
+            },
+            {
+              "id": "mod_2010_kia_pro_ceed_1_6_crdi_90_x_pect",
+              "title": "2010 Kia Pro_Ceed 1.6 CRDi 90 X-pect"
+            },
+            {
+              "id": "mod_2010_kia_pro_ceed_1_6_crdi_90_x_tra",
+              "title": "2010 Kia Pro_Ceed 1.6 CRDi 90 X-tra"
+            },
+            {
+              "id": "mod_2010_kia_pro_ceed_1_6_cvvt_x_ecutive",
+              "title": "2010 Kia Pro_Ceed 1.6 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2010_kia_pro_ceed_1_6_cvvt_x_tra",
+              "title": "2010 Kia Pro_Ceed 1.6 CVVT X-tra"
+            },
+            {
+              "id": "mod_2010_kia_pro_ceed_2_0_cvvt_x_ecutive",
+              "title": "2010 Kia Pro_Ceed 2.0 CVVT X-ecutive"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_pro_ceed",
+          "title": "Kia Pro_Ceed",
+          "children": [
+            {
+              "id": "mod_2008_kia_pro_ceed_1_4_cvvt_isg_x_ecutive",
+              "title": "2008 Kia Pro_Ceed 1.4 CVVT ISG X-ecutive"
+            },
+            {
+              "id": "mod_2008_kia_pro_ceed_1_4_cvvt_isg_x_pect",
+              "title": "2008 Kia Pro_Ceed 1.4 CVVT ISG X-pect"
+            },
+            {
+              "id": "mod_2008_kia_pro_ceed_1_4_cvvt_isg_x_tra",
+              "title": "2008 Kia Pro_Ceed 1.4 CVVT ISG X-tra"
+            },
+            {
+              "id": "mod_2008_kia_pro_ceed_1_6_crdi_115_x_clusive",
+              "title": "2008 Kia Pro_Ceed 1.6 CRDi 115 X-clusive"
+            },
+            {
+              "id": "mod_2008_kia_pro_ceed_1_6_crdi_115_x_ecutive",
+              "title": "2008 Kia Pro_Ceed 1.6 CRDi 115 X-ecutive"
+            },
+            {
+              "id": "mod_2008_kia_pro_ceed_1_6_crdi_115_x_tra",
+              "title": "2008 Kia Pro_Ceed 1.6 CRDi 115 X-tra"
+            },
+            {
+              "id": "mod_2008_kia_pro_ceed_1_6_cvvt_x_clusive",
+              "title": "2008 Kia Pro_Ceed 1.6 CVVT X-clusive"
+            },
+            {
+              "id": "mod_2008_kia_pro_ceed_1_6_cvvt_x_ecutive",
+              "title": "2008 Kia Pro_Ceed 1.6 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2008_kia_pro_ceed_1_6_cvvt_x_tra",
+              "title": "2008 Kia Pro_Ceed 1.6 CVVT X-tra"
+            },
+            {
+              "id": "mod_2008_kia_pro_ceed_2_0_crdi_x_clusive",
+              "title": "2008 Kia Pro_Ceed 2.0 CRDi X-clusive"
+            },
+            {
+              "id": "mod_2008_kia_pro_ceed_2_0_crdi_x_ecutive",
+              "title": "2008 Kia Pro_Ceed 2.0 CRDi X-ecutive"
+            },
+            {
+              "id": "mod_2008_kia_pro_ceed_2_0_cvvt_x_clusive",
+              "title": "2008 Kia Pro_Ceed 2.0 CVVT X-clusive"
+            },
+            {
+              "id": "mod_2008_kia_pro_ceed_2_0_cvvt_x_ecutive",
+              "title": "2008 Kia Pro_Ceed 2.0 CVVT X-ecutive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_ceed",
+      "title": "Kia Ceed",
+      "generations": [
+        {
+          "id": "gen_kia_ceed",
+          "title": "Kia Ceed",
+          "children": [
+            {
+              "id": "mod_2018_kia_ceed_1_0_t_gdi_comfortline",
+              "title": "2018 Kia Ceed 1.0 T-GDi ComfortLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_0_t_gdi_dynamicline",
+              "title": "2018 Kia Ceed 1.0 T-GDi DynamicLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_0_t_gdi_dynamicplusline",
+              "title": "2018 Kia Ceed 1.0 T-GDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_0_t_gdi_executiveline",
+              "title": "2018 Kia Ceed 1.0 T-GDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_0_t_gdi_gt_line",
+              "title": "2018 Kia Ceed 1.0 T-GDi GT-Line"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_0_t_gdi_gt_plusline",
+              "title": "2018 Kia Ceed 1.0 T-GDi GT-PlusLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_4_t_gdi_dynamicline",
+              "title": "2018 Kia Ceed 1.4 T-GDi DynamicLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_4_t_gdi_dynamicplusline",
+              "title": "2018 Kia Ceed 1.4 T-GDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_4_t_gdi_executiveline",
+              "title": "2018 Kia Ceed 1.4 T-GDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_4_t_gdi_gt_line",
+              "title": "2018 Kia Ceed 1.4 T-GDi GT-Line"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_4_t_gdi_gt_plusline",
+              "title": "2018 Kia Ceed 1.4 T-GDi GT-PlusLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_6_crdi_dynamicline",
+              "title": "2018 Kia Ceed 1.6 CRDi DynamicLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_6_crdi_dynamicplusline",
+              "title": "2018 Kia Ceed 1.6 CRDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_6_crdi_executiveline",
+              "title": "2018 Kia Ceed 1.6 CRDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_6_crdi_gt_line",
+              "title": "2018 Kia Ceed 1.6 CRDi GT-Line"
+            },
+            {
+              "id": "mod_2018_kia_ceed_1_6_crdi_gt_plusline",
+              "title": "2018 Kia Ceed 1.6 CRDi GT-PlusLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_ceed",
+          "title": "Kia Ceed",
+          "children": [
+            {
+              "id": "mod_2015_kia_ceed_1_0_t_gdi_100hp_comfortline",
+              "title": "2015 Kia Ceed 1.0 T-GDI 100hp ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_0_t_gdi_100hp_dynamicline",
+              "title": "2015 Kia Ceed 1.0 T-GDI 100hp DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_0_t_gdi_100hp_navigator",
+              "title": "2015 Kia Ceed 1.0 T-GDI 100hp Navigator"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_0_t_gdi_120hp_comfortline",
+              "title": "2015 Kia Ceed 1.0 T-GDI 120hp ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_0_t_gdi_120hp_dynamicline",
+              "title": "2015 Kia Ceed 1.0 T-GDI 120hp DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_0_t_gdi_120hp_executiveline",
+              "title": "2015 Kia Ceed 1.0 T-GDI 120hp ExecutiveLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_0_t_gdi_120hp_first_edition",
+              "title": "2015 Kia Ceed 1.0 T-GDI 120hp First Edition"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_0_t_gdi_120hp_gt_line",
+              "title": "2015 Kia Ceed 1.0 T-GDI 120hp GT-Line"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_6_crdi_comfortline",
+              "title": "2015 Kia Ceed 1.6 CRDi ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_6_crdi_dynamicline",
+              "title": "2015 Kia Ceed 1.6 CRDi DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_6_crdi_executiveline",
+              "title": "2015 Kia Ceed 1.6 CRDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_6_crdi_gt_line",
+              "title": "2015 Kia Ceed 1.6 CRDi GT-Line"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_6_gdi_comfortline",
+              "title": "2015 Kia Ceed 1.6 GDI ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_6_gdi_dynamicline",
+              "title": "2015 Kia Ceed 1.6 GDI DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_6_gdi_executiveline",
+              "title": "2015 Kia Ceed 1.6 GDI ExecutiveLine"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_6_gdi_first_edition",
+              "title": "2015 Kia Ceed 1.6 GDI First Edition"
+            },
+            {
+              "id": "mod_2015_kia_ceed_1_6_t_gdi_gt",
+              "title": "2015 Kia Ceed 1.6 T-GDI GT"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_ceed",
+          "title": "Kia Ceed",
+          "children": [
+            {
+              "id": "mod_2012_kia_ceed_1_6_crdi_business_pack",
+              "title": "2012 Kia Ceed 1.6 CRDi Business Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_1_6_crdi_comfort_pack",
+              "title": "2012 Kia Ceed 1.6 CRDi Comfort Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_1_6_crdi_premium_pack",
+              "title": "2012 Kia Ceed 1.6 CRDi Premium Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_1_6_crdi_super_pack",
+              "title": "2012 Kia Ceed 1.6 CRDi Super Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_1_6_crdi",
+              "title": "2012 Kia Ceed 1.6 CRDi"
+            },
+            {
+              "id": "mod_2012_kia_ceed_1_6_gdi_business_pack",
+              "title": "2012 Kia Ceed 1.6 GDI Business Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_1_6_gdi_comfort_pack",
+              "title": "2012 Kia Ceed 1.6 GDI Comfort Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_1_6_gdi_premium_pack",
+              "title": "2012 Kia Ceed 1.6 GDI Premium Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_1_6_gdi_super_pack",
+              "title": "2012 Kia Ceed 1.6 GDI Super Pack"
+            },
+            {
+              "id": "mod_2012_kia_ceed_1_6_gdi",
+              "title": "2012 Kia Ceed 1.6 GDI"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_ceed",
+          "title": "Kia Ceed",
+          "children": [
+            {
+              "id": "mod_2009_kia_ceed_1_4_cvvt_se7en_business",
+              "title": "2009 Kia Ceed 1.4 CVVT Se7en Business"
+            },
+            {
+              "id": "mod_2009_kia_ceed_1_4_cvvt_se7en",
+              "title": "2009 Kia Ceed 1.4 CVVT Se7en"
+            },
+            {
+              "id": "mod_2009_kia_ceed_1_4_cvvt_x_ecutive",
+              "title": "2009 Kia Ceed 1.4 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_ceed_1_4_cvvt_x_pect",
+              "title": "2009 Kia Ceed 1.4 CVVT X-pect"
+            },
+            {
+              "id": "mod_2009_kia_ceed_1_4_cvvt_x_tra",
+              "title": "2009 Kia Ceed 1.4 CVVT X-tra"
+            },
+            {
+              "id": "mod_2009_kia_ceed_1_6_crdi_115_x_ecutive",
+              "title": "2009 Kia Ceed 1.6 CRDi 115 X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_ceed_1_6_crdi_115_x_tra",
+              "title": "2009 Kia Ceed 1.6 CRDi 115 X-tra"
+            },
+            {
+              "id": "mod_2009_kia_ceed_1_6_crdi_90_x_ecutive",
+              "title": "2009 Kia Ceed 1.6 CRDi 90 X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_ceed_1_6_crdi_90_x_pect",
+              "title": "2009 Kia Ceed 1.6 CRDi 90 X-pect"
+            },
+            {
+              "id": "mod_2009_kia_ceed_1_6_crdi_90_x_tra",
+              "title": "2009 Kia Ceed 1.6 CRDi 90 X-tra"
+            },
+            {
+              "id": "mod_2009_kia_ceed_1_6_cvvt_x_ecutive",
+              "title": "2009 Kia Ceed 1.6 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_ceed_1_6_cvvt_x_tra",
+              "title": "2009 Kia Ceed 1.6 CVVT X-tra"
+            },
+            {
+              "id": "mod_2009_kia_ceed_2_0_crdi_x_ecutive",
+              "title": "2009 Kia Ceed 2.0 CRDi X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_ceed_2_0_cvvt_x_ecutive",
+              "title": "2009 Kia Ceed 2.0 CVVT X-ecutive"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_ceed",
+          "title": "Kia Ceed",
+          "children": [
+            {
+              "id": "mod_2007_kia_ceed_1_4_cvvt_x_ecutive",
+              "title": "2007 Kia Ceed 1.4 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_1_4_cvvt_x_pect",
+              "title": "2007 Kia Ceed 1.4 CVVT X-pect"
+            },
+            {
+              "id": "mod_2007_kia_ceed_1_4_cvvt_x_tra",
+              "title": "2007 Kia Ceed 1.4 CVVT X-tra"
+            },
+            {
+              "id": "mod_2007_kia_ceed_1_6_crdi_115_business_edition",
+              "title": "2007 Kia Ceed 1.6 CRDi 115 Business Edition"
+            },
+            {
+              "id": "mod_2007_kia_ceed_1_6_crdi_115_x_clusive",
+              "title": "2007 Kia Ceed 1.6 CRDi 115 X-clusive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_1_6_crdi_115_x_ecutive",
+              "title": "2007 Kia Ceed 1.6 CRDi 115 X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_1_6_crdi_115_x_tra",
+              "title": "2007 Kia Ceed 1.6 CRDi 115 X-tra"
+            },
+            {
+              "id": "mod_2007_kia_ceed_1_6_cvvt_x_clusive",
+              "title": "2007 Kia Ceed 1.6 CVVT X-clusive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_1_6_cvvt_x_ecutive",
+              "title": "2007 Kia Ceed 1.6 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_1_6_cvvt_x_tra",
+              "title": "2007 Kia Ceed 1.6 CVVT X-tra"
+            },
+            {
+              "id": "mod_2007_kia_ceed_2_0_crdi_x_clusive",
+              "title": "2007 Kia Ceed 2.0 CRDi X-clusive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_2_0_crdi_x_ecutive",
+              "title": "2007 Kia Ceed 2.0 CRDi X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_2_0_cvvt_x_clusive",
+              "title": "2007 Kia Ceed 2.0 CVVT X-clusive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_2_0_cvvt_x_ecutive",
+              "title": "2007 Kia Ceed 2.0 CVVT X-ecutive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_ceed_sporty_wagon",
+      "title": "Kia Ceed Sporty Wagon",
+      "generations": [
+        {
+          "id": "gen_kia_ceed_sporty_wagon",
+          "title": "Kia Ceed Sporty Wagon",
+          "children": [
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_4_cvvt_se7en_business",
+              "title": "2009 Kia Ceed Sporty Wagon 1.4 CVVT Se7en Business"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_4_cvvt_se7en",
+              "title": "2009 Kia Ceed Sporty Wagon 1.4 CVVT Se7en"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_4_cvvt_x_ecutive",
+              "title": "2009 Kia Ceed Sporty Wagon 1.4 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_4_cvvt_x_pect",
+              "title": "2009 Kia Ceed Sporty Wagon 1.4 CVVT X-pect"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_4_cvvt_x_tra",
+              "title": "2009 Kia Ceed Sporty Wagon 1.4 CVVT X-tra"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_6_crdi_115_x_ecutive",
+              "title": "2009 Kia Ceed Sporty Wagon 1.6 CRDi 115 X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_6_crdi_115_x_tra",
+              "title": "2009 Kia Ceed Sporty Wagon 1.6 CRDi 115 X-tra"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_6_crdi_90_x_ecutive",
+              "title": "2009 Kia Ceed Sporty Wagon 1.6 CRDi 90 X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_6_crdi_90_x_pect",
+              "title": "2009 Kia Ceed Sporty Wagon 1.6 CRDi 90 X-pect"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_6_crdi_90_x_tra",
+              "title": "2009 Kia Ceed Sporty Wagon 1.6 CRDi 90 X-tra"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_6_cvvt_se7en_business",
+              "title": "2009 Kia Ceed Sporty Wagon 1.6 CVVT Se7en Business"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_6_cvvt_x_ecutive",
+              "title": "2009 Kia Ceed Sporty Wagon 1.6 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_1_6_cvvt_x_tra",
+              "title": "2009 Kia Ceed Sporty Wagon 1.6 CVVT X-tra"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_2_0_crdi_x_ecutive",
+              "title": "2009 Kia Ceed Sporty Wagon 2.0 CRDi X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_ceed_sporty_wagon_2_0_cvvt_x_ecutive",
+              "title": "2009 Kia Ceed Sporty Wagon 2.0 CVVT X-ecutive"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_ceed_sporty_wagon",
+          "title": "Kia Ceed Sporty Wagon",
+          "children": [
+            {
+              "id": "mod_2007_kia_ceed_sporty_wagon_1_6_crdi_115_business_edition",
+              "title": "2007 Kia Ceed Sporty Wagon 1.6 CRDi 115 Business Edition"
+            },
+            {
+              "id": "mod_2007_kia_ceed_sporty_wagon_1_6_crdi_115_x_clusive",
+              "title": "2007 Kia Ceed Sporty Wagon 1.6 CRDi 115 X-clusive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_sporty_wagon_1_6_crdi_115_x_ecutive",
+              "title": "2007 Kia Ceed Sporty Wagon 1.6 CRDi 115 X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_sporty_wagon_1_6_crdi_115_x_tra",
+              "title": "2007 Kia Ceed Sporty Wagon 1.6 CRDi 115 X-tra"
+            },
+            {
+              "id": "mod_2007_kia_ceed_sporty_wagon_1_6_cvvt_business_edition",
+              "title": "2007 Kia Ceed Sporty Wagon 1.6 CVVT Business Edition"
+            },
+            {
+              "id": "mod_2007_kia_ceed_sporty_wagon_1_6_cvvt_x_clusive",
+              "title": "2007 Kia Ceed Sporty Wagon 1.6 CVVT X-clusive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_sporty_wagon_1_6_cvvt_x_ecutive",
+              "title": "2007 Kia Ceed Sporty Wagon 1.6 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_sporty_wagon_1_6_cvvt_x_tra",
+              "title": "2007 Kia Ceed Sporty Wagon 1.6 CVVT X-tra"
+            },
+            {
+              "id": "mod_2007_kia_ceed_sporty_wagon_2_0_crdi_x_clusive",
+              "title": "2007 Kia Ceed Sporty Wagon 2.0 CRDi X-clusive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_sporty_wagon_2_0_crdi_x_ecutive",
+              "title": "2007 Kia Ceed Sporty Wagon 2.0 CRDi X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_sporty_wagon_2_0_cvvt_x_clusive",
+              "title": "2007 Kia Ceed Sporty Wagon 2.0 CVVT X-clusive"
+            },
+            {
+              "id": "mod_2007_kia_ceed_sporty_wagon_2_0_cvvt_x_ecutive",
+              "title": "2007 Kia Ceed Sporty Wagon 2.0 CVVT X-ecutive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_cerato",
+      "title": "Kia Cerato",
+      "generations": [
+        {
+          "id": "gen_kia_cerato",
+          "title": "Kia Cerato",
+          "children": [
+            {
+              "id": "mod_2007_kia_cerato_1_6_crdi_vgt_ex",
+              "title": "2007 Kia Cerato 1.6 CRDi VGT EX"
+            },
+            {
+              "id": "mod_2007_kia_cerato_1_6_crdi_vgt_lx",
+              "title": "2007 Kia Cerato 1.6 CRDi VGT LX"
+            },
+            {
+              "id": "mod_2007_kia_cerato_1_6_crdi_vgt_x_ecutive",
+              "title": "2007 Kia Cerato 1.6 CRDi VGT X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_cerato_1_6_crdi_vgt_x_tra",
+              "title": "2007 Kia Cerato 1.6 CRDi VGT X-tra"
+            },
+            {
+              "id": "mod_2007_kia_cerato_1_6_lx",
+              "title": "2007 Kia Cerato 1.6 LX"
+            },
+            {
+              "id": "mod_2007_kia_cerato_1_6_x_tra",
+              "title": "2007 Kia Cerato 1.6 X-tra"
+            },
+            {
+              "id": "mod_2007_kia_cerato_2_0_cvvt_ex",
+              "title": "2007 Kia Cerato 2.0 CVVT EX"
+            },
+            {
+              "id": "mod_2007_kia_cerato_2_0_cvvt_x_ecutive",
+              "title": "2007 Kia Cerato 2.0 CVVT X-ecutive"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_cerato",
+          "title": "Kia Cerato",
+          "children": [
+            {
+              "id": "mod_2004_kia_cerato_1_6_lx",
+              "title": "2004 Kia Cerato 1.6 LX"
+            },
+            {
+              "id": "mod_2004_kia_cerato_2_0_crdi_ex",
+              "title": "2004 Kia Cerato 2.0 CRDi EX"
+            },
+            {
+              "id": "mod_2004_kia_cerato_2_0_crdi_lx",
+              "title": "2004 Kia Cerato 2.0 CRDi LX"
+            },
+            {
+              "id": "mod_2004_kia_cerato_2_0_cvvt_ex",
+              "title": "2004 Kia Cerato 2.0 CVVT EX"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_cerato",
+          "title": "Kia Cerato",
+          "children": [
+            {
+              "id": "mod_2004_kia_cerato_1_6_lx",
+              "title": "2004 Kia Cerato 1.6 LX"
+            },
+            {
+              "id": "mod_2004_kia_cerato_2_0_crdi_ex",
+              "title": "2004 Kia Cerato 2.0 CRDi EX"
+            },
+            {
+              "id": "mod_2004_kia_cerato_2_0_crdi_lx",
+              "title": "2004 Kia Cerato 2.0 CRDi LX"
+            },
+            {
+              "id": "mod_2004_kia_cerato_2_0_cvvt_ex",
+              "title": "2004 Kia Cerato 2.0 CVVT EX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_opirus",
+      "title": "Kia Opirus",
+      "generations": [
+        {
+          "id": "gen_kia_opirus",
+          "title": "Kia Opirus",
+          "children": [
+            {
+              "id": "mod_2003_kia_opirus_3_5_v6",
+              "title": "2003 Kia Opirus 3.5 V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_carens",
+      "title": "Kia Carens",
+      "generations": [
+        {
+          "id": "gen_kia_carens",
+          "title": "Kia Carens",
+          "children": [
+            {
+              "id": "mod_2016_kia_carens_1_6_gdi_comfortline",
+              "title": "2016 Kia Carens 1.6 GDI ComfortLine"
+            },
+            {
+              "id": "mod_2016_kia_carens_1_6_gdi_dynamicline",
+              "title": "2016 Kia Carens 1.6 GDI DynamicLine"
+            },
+            {
+              "id": "mod_2016_kia_carens_1_6_gdi_executiveline",
+              "title": "2016 Kia Carens 1.6 GDI ExecutiveLine"
+            },
+            {
+              "id": "mod_2016_kia_carens_1_6_gdi_first_edition",
+              "title": "2016 Kia Carens 1.6 GDI First Edition"
+            },
+            {
+              "id": "mod_2016_kia_carens_1_7_crdi_business_dynamicline",
+              "title": "2016 Kia Carens 1.7 CRDi Business DynamicLine"
+            },
+            {
+              "id": "mod_2016_kia_carens_2_0_gdi_dynamicline",
+              "title": "2016 Kia Carens 2.0 GDI DynamicLine"
+            },
+            {
+              "id": "mod_2016_kia_carens_2_0_gdi_executiveline",
+              "title": "2016 Kia Carens 2.0 GDI ExecutiveLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_carens",
+          "title": "Kia Carens",
+          "children": [
+            {
+              "id": "mod_2013_kia_carens_1_6_gdi_business_pack",
+              "title": "2013 Kia Carens 1.6 GDI Business Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_6_gdi_comfort_pack",
+              "title": "2013 Kia Carens 1.6 GDI Comfort Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_6_gdi_first_edition",
+              "title": "2013 Kia Carens 1.6 GDI First Edition"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_6_gdi_premium_pack",
+              "title": "2013 Kia Carens 1.6 GDI Premium Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_6_gdi_super_pack",
+              "title": "2013 Kia Carens 1.6 GDI Super Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_7_crdi_115hp_business_pack",
+              "title": "2013 Kia Carens 1.7 CRDi 115hp Business Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_7_crdi_115hp_comfort_pack",
+              "title": "2013 Kia Carens 1.7 CRDi 115hp Comfort Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_7_crdi_115hp_first_edition",
+              "title": "2013 Kia Carens 1.7 CRDi 115hp First Edition"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_7_crdi_115hp_premium_pack",
+              "title": "2013 Kia Carens 1.7 CRDi 115hp Premium Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_7_crdi_115hp_super_pack",
+              "title": "2013 Kia Carens 1.7 CRDi 115hp Super Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_7_crdi_136hp_business_pack",
+              "title": "2013 Kia Carens 1.7 CRDi 136hp Business Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_7_crdi_136hp_first_edition",
+              "title": "2013 Kia Carens 1.7 CRDi 136hp First Edition"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_7_crdi_136hp_premium_pack",
+              "title": "2013 Kia Carens 1.7 CRDi 136hp Premium Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_1_7_crdi_136hp_super_pack",
+              "title": "2013 Kia Carens 1.7 CRDi 136hp Super Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_2_0_gdi_business_pack",
+              "title": "2013 Kia Carens 2.0 GDI Business Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_2_0_gdi_first_edition",
+              "title": "2013 Kia Carens 2.0 GDI First Edition"
+            },
+            {
+              "id": "mod_2013_kia_carens_2_0_gdi_premium_pack",
+              "title": "2013 Kia Carens 2.0 GDI Premium Pack"
+            },
+            {
+              "id": "mod_2013_kia_carens_2_0_gdi_super_pack",
+              "title": "2013 Kia Carens 2.0 GDI Super Pack"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_carens",
+          "title": "Kia Carens",
+          "children": [
+            {
+              "id": "mod_2006_kia_carens_2_0_crdi_x_clusive",
+              "title": "2006 Kia Carens 2.0 CRDi X-clusive"
+            },
+            {
+              "id": "mod_2006_kia_carens_2_0_crdi_x_ecutive",
+              "title": "2006 Kia Carens 2.0 CRDi X-ecutive"
+            },
+            {
+              "id": "mod_2006_kia_carens_2_0_crdi_x_tra",
+              "title": "2006 Kia Carens 2.0 CRDi X-tra"
+            },
+            {
+              "id": "mod_2006_kia_carens_2_0_cvvt_x_clusive",
+              "title": "2006 Kia Carens 2.0 CVVT X-clusive"
+            },
+            {
+              "id": "mod_2006_kia_carens_2_0_cvvt_x_ecutive",
+              "title": "2006 Kia Carens 2.0 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2006_kia_carens_2_0_cvvt_x_tra",
+              "title": "2006 Kia Carens 2.0 CVVT X-tra"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_carens",
+          "title": "Kia Carens",
+          "children": [
+            {
+              "id": "mod_2002_kia_carens_1_6_ex",
+              "title": "2002 Kia Carens 1.6 EX"
+            },
+            {
+              "id": "mod_2002_kia_carens_1_6_lx",
+              "title": "2002 Kia Carens 1.6 LX"
+            },
+            {
+              "id": "mod_2002_kia_carens_1_8_ex_luxe",
+              "title": "2002 Kia Carens 1.8 EX Luxe"
+            },
+            {
+              "id": "mod_2002_kia_carens_1_8_ex",
+              "title": "2002 Kia Carens 1.8 EX"
+            },
+            {
+              "id": "mod_2002_kia_carens_1_8_lx",
+              "title": "2002 Kia Carens 1.8 LX"
+            },
+            {
+              "id": "mod_2002_kia_carens_2_0_crdi_ex_luxe",
+              "title": "2002 Kia Carens 2.0 CRDi EX Luxe"
+            },
+            {
+              "id": "mod_2002_kia_carens_2_0_crdi_ex",
+              "title": "2002 Kia Carens 2.0 CRDi EX"
+            },
+            {
+              "id": "mod_2002_kia_carens_2_0_crdi_lx",
+              "title": "2002 Kia Carens 2.0 CRDi LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_carens",
+          "title": "Kia Carens",
+          "children": [
+            {
+              "id": "mod_2000_kia_carens_1_8_ls",
+              "title": "2000 Kia Carens 1.8 LS"
+            },
+            {
+              "id": "mod_2000_kia_carens_1_8_rs",
+              "title": "2000 Kia Carens 1.8 RS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_sorento",
+      "title": "Kia Sorento",
+      "generations": [
+        {
+          "id": "gen_kia_sorento",
+          "title": "Kia Sorento",
+          "children": [
+            {
+              "id": "mod_2020_kia_sorento_1_6_t_gdi_hybrid_comfortline",
+              "title": "2020 Kia Sorento 1.6 T-GDi Hybrid ComfortLine"
+            },
+            {
+              "id": "mod_2020_kia_sorento_1_6_t_gdi_hybrid_dynamicline",
+              "title": "2020 Kia Sorento 1.6 T-GDi Hybrid DynamicLine"
+            },
+            {
+              "id": "mod_2020_kia_sorento_1_6_t_gdi_hybrid_dynamicplusline",
+              "title": "2020 Kia Sorento 1.6 T-GDi Hybrid DynamicPlusLine"
+            },
+            {
+              "id": "mod_2020_kia_sorento_1_6_t_gdi_hybrid_executiveline",
+              "title": "2020 Kia Sorento 1.6 T-GDi Hybrid ExecutiveLine"
+            },
+            {
+              "id": "mod_2020_kia_sorento_1_6_t_gdi_plug_in_hybrid_4wd_comfortline",
+              "title": "2020 Kia Sorento 1.6 T-GDi Plug-in Hybrid 4WD ComfortLine"
+            },
+            {
+              "id": "mod_2020_kia_sorento_1_6_t_gdi_plug_in_hybrid_4wd_dynamicline",
+              "title": "2020 Kia Sorento 1.6 T-GDi Plug-in Hybrid 4WD DynamicLine"
+            },
+            {
+              "id": "mod_2020_kia_sorento_1_6_t_gdi_plug_in_hybrid_4wd_dynamicplusline",
+              "title": "2020 Kia Sorento 1.6 T-GDi Plug-in Hybrid 4WD DynamicPlusLine"
+            },
+            {
+              "id": "mod_2020_kia_sorento_1_6_t_gdi_plug_in_hybrid_4wd_executiveline",
+              "title": "2020 Kia Sorento 1.6 T-GDi Plug-in Hybrid 4WD ExecutiveLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sorento",
+          "title": "Kia Sorento",
+          "children": [
+            {
+              "id": "mod_2017_kia_sorento_2_2_crdi_2wd_dynamicline",
+              "title": "2017 Kia Sorento 2.2 CRDi 2WD DynamicLine"
+            },
+            {
+              "id": "mod_2017_kia_sorento_2_2_crdi_2wd_executiveline",
+              "title": "2017 Kia Sorento 2.2 CRDi 2WD ExecutiveLine"
+            },
+            {
+              "id": "mod_2017_kia_sorento_2_2_crdi_2wd_gt_line",
+              "title": "2017 Kia Sorento 2.2 CRDi 2WD GT-Line"
+            },
+            {
+              "id": "mod_2017_kia_sorento_2_2_crdi_4wd_gt_line",
+              "title": "2017 Kia Sorento 2.2 CRDi 4WD GT-Line"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sorento",
+          "title": "Kia Sorento",
+          "children": [
+            {
+              "id": "mod_2015_kia_sorento_2_2_crdi_2wd_dynamicline",
+              "title": "2015 Kia Sorento 2.2 CRDi 2WD DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_sorento_2_2_crdi_2wd_executiveline",
+              "title": "2015 Kia Sorento 2.2 CRDi 2WD ExecutiveLine"
+            },
+            {
+              "id": "mod_2015_kia_sorento_2_2_crdi_4wd_executiveline",
+              "title": "2015 Kia Sorento 2.2 CRDi 4WD ExecutiveLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sorento",
+          "title": "Kia Sorento",
+          "children": [
+            {
+              "id": "mod_2013_kia_sorento_2_2_crdi_4wd_super_pack",
+              "title": "2013 Kia Sorento 2.2 CRDi 4WD Super Pack"
+            },
+            {
+              "id": "mod_2013_kia_sorento_2_2_crdi_plus_pack",
+              "title": "2013 Kia Sorento 2.2 CRDi Plus Pack"
+            },
+            {
+              "id": "mod_2013_kia_sorento_2_2_crdi_super_pack",
+              "title": "2013 Kia Sorento 2.2 CRDi Super Pack"
+            },
+            {
+              "id": "mod_2013_kia_sorento_2_4_gdi_plus_pack",
+              "title": "2013 Kia Sorento 2.4 GDI Plus Pack"
+            },
+            {
+              "id": "mod_2013_kia_sorento_2_4_gdi_4wd_super_pack",
+              "title": "2013 Kia Sorento 2.4 GDi 4WD Super Pack"
+            },
+            {
+              "id": "mod_2013_kia_sorento_2_4_gdi_super_pack",
+              "title": "2013 Kia Sorento 2.4 GDi Super Pack"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sorento",
+          "title": "Kia Sorento",
+          "children": [
+            {
+              "id": "mod_2012_kia_sorento_2_2_crdi_4wd_super_pack",
+              "title": "2012 Kia Sorento 2.2 CRDi 4WD Super Pack"
+            },
+            {
+              "id": "mod_2012_kia_sorento_2_2_crdi_plus_pack",
+              "title": "2012 Kia Sorento 2.2 CRDi Plus Pack"
+            },
+            {
+              "id": "mod_2012_kia_sorento_2_2_crdi_super_pack",
+              "title": "2012 Kia Sorento 2.2 CRDi Super Pack"
+            },
+            {
+              "id": "mod_2012_kia_sorento_2_4_gdi_4wd_super_pack",
+              "title": "2012 Kia Sorento 2.4 GDI 4WD Super Pack"
+            },
+            {
+              "id": "mod_2012_kia_sorento_2_4_gdi_plus_pack",
+              "title": "2012 Kia Sorento 2.4 GDI Plus Pack"
+            },
+            {
+              "id": "mod_2012_kia_sorento_2_4_gdi_super_pack",
+              "title": "2012 Kia Sorento 2.4 GDI Super Pack"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sorento",
+          "title": "Kia Sorento",
+          "children": [
+            {
+              "id": "mod_2009_kia_sorento_2_2_crdi_x_clusive_4wd",
+              "title": "2009 Kia Sorento 2.2 CRDi X-clusive 4WD"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_2_crdi_x_clusive",
+              "title": "2009 Kia Sorento 2.2 CRDi X-clusive"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_2_crdi_x_ecutive_4wd",
+              "title": "2009 Kia Sorento 2.2 CRDi X-ecutive 4WD"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_2_crdi_x_ecutive",
+              "title": "2009 Kia Sorento 2.2 CRDi X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_2_crdi_x_tra_4wd",
+              "title": "2009 Kia Sorento 2.2 CRDi X-tra 4WD"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_2_crdi_x_tra",
+              "title": "2009 Kia Sorento 2.2 CRDi X-tra"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_4_x_clusive_4wd",
+              "title": "2009 Kia Sorento 2.4 X-clusive 4WD"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_4_x_clusive",
+              "title": "2009 Kia Sorento 2.4 X-clusive"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_4_x_ecutive_4wd",
+              "title": "2009 Kia Sorento 2.4 X-ecutive 4WD"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_4_x_ecutive",
+              "title": "2009 Kia Sorento 2.4 X-ecutive"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_4_x_pect_cool",
+              "title": "2009 Kia Sorento 2.4 X-pect Cool"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_4_x_tra_4wd",
+              "title": "2009 Kia Sorento 2.4 X-tra 4WD"
+            },
+            {
+              "id": "mod_2009_kia_sorento_2_4_x_tra",
+              "title": "2009 Kia Sorento 2.4 X-tra"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sorento",
+          "title": "Kia Sorento",
+          "children": [
+            {
+              "id": "mod_2006_kia_sorento_2_5_crdi_vgt_adventure",
+              "title": "2006 Kia Sorento 2.5 CRDi VGT Adventure"
+            },
+            {
+              "id": "mod_2006_kia_sorento_2_5_crdi_vgt_comfort",
+              "title": "2006 Kia Sorento 2.5 CRDi VGT Comfort"
+            },
+            {
+              "id": "mod_2006_kia_sorento_2_5_crdi_vgt_x_clusive",
+              "title": "2006 Kia Sorento 2.5 CRDi VGT X-clusive"
+            },
+            {
+              "id": "mod_2006_kia_sorento_3_3_v6_adventure",
+              "title": "2006 Kia Sorento 3.3 V6 Adventure"
+            },
+            {
+              "id": "mod_2006_kia_sorento_3_3_v6_x_clusive",
+              "title": "2006 Kia Sorento 3.3 V6 X-clusive"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sorento",
+          "title": "Kia Sorento",
+          "children": [
+            {
+              "id": "mod_2002_kia_sorento_2_4_16v_ex_custom",
+              "title": "2002 Kia Sorento 2.4 16V EX Custom"
+            },
+            {
+              "id": "mod_2002_kia_sorento_2_4_16v_ex_luxe",
+              "title": "2002 Kia Sorento 2.4 16V EX Luxe"
+            },
+            {
+              "id": "mod_2002_kia_sorento_2_4_16v_ex",
+              "title": "2002 Kia Sorento 2.4 16V EX"
+            },
+            {
+              "id": "mod_2002_kia_sorento_2_4_16v_lx",
+              "title": "2002 Kia Sorento 2.4 16V LX"
+            },
+            {
+              "id": "mod_2002_kia_sorento_2_5_crdi_ex_custom",
+              "title": "2002 Kia Sorento 2.5 CRDi EX Custom"
+            },
+            {
+              "id": "mod_2002_kia_sorento_2_5_crdi_ex_luxe",
+              "title": "2002 Kia Sorento 2.5 CRDi EX Luxe"
+            },
+            {
+              "id": "mod_2002_kia_sorento_2_5_crdi_ex",
+              "title": "2002 Kia Sorento 2.5 CRDi EX"
+            },
+            {
+              "id": "mod_2002_kia_sorento_2_5_crdi_lx",
+              "title": "2002 Kia Sorento 2.5 CRDi LX"
+            },
+            {
+              "id": "mod_2002_kia_sorento_3_5_v6_ex_luxe",
+              "title": "2002 Kia Sorento 3.5 V6 EX Luxe"
+            },
+            {
+              "id": "mod_2002_kia_sorento_3_5_v6_ex",
+              "title": "2002 Kia Sorento 3.5 V6 EX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_magentis",
+      "title": "Kia Magentis",
+      "generations": [
+        {
+          "id": "gen_kia_magentis",
+          "title": "Kia Magentis",
+          "children": [
+            {
+              "id": "mod_2006_kia_magentis_2_0_crdi_vgt_ex",
+              "title": "2006 Kia Magentis 2.0 CRDi VGT EX"
+            },
+            {
+              "id": "mod_2006_kia_magentis_2_0_cvvt_ex",
+              "title": "2006 Kia Magentis 2.0 CVVT EX"
+            },
+            {
+              "id": "mod_2006_kia_magentis_2_7_v6_ex_luxe",
+              "title": "2006 Kia Magentis 2.7 V6 EX Luxe"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_magentis",
+          "title": "Kia Magentis",
+          "children": [
+            {
+              "id": "mod_2003_kia_magentis_2_0_se",
+              "title": "2003 Kia Magentis 2.0 SE"
+            },
+            {
+              "id": "mod_2003_kia_magentis_2_5_v6_se_luxe",
+              "title": "2003 Kia Magentis 2.5 V6 SE Luxe"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_magentis",
+          "title": "Kia Magentis",
+          "children": [
+            {
+              "id": "mod_2001_kia_magentis_2_0",
+              "title": "2001 Kia Magentis 2.0"
+            },
+            {
+              "id": "mod_2001_kia_magentis_2_5_v6",
+              "title": "2001 Kia Magentis 2.5 V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_mentor",
+      "title": "Kia Mentor",
+      "generations": [
+        {
+          "id": "gen_kia_mentor",
+          "title": "Kia Mentor",
+          "children": [
+            {
+              "id": "mod_2001_kia_mentor_1_6_ls",
+              "title": "2001 Kia Mentor 1.6 LS"
+            },
+            {
+              "id": "mod_2001_kia_mentor_1_6_rs",
+              "title": "2001 Kia Mentor 1.6 RS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_rio",
+      "title": "Kia Rio",
+      "generations": [
+        {
+          "id": "gen_kia_rio",
+          "title": "Kia Rio",
+          "children": [
+            {
+              "id": "mod_2020_kia_rio_1_0_t_gdi_mhev_100hp_comfortline",
+              "title": "2020 Kia Rio 1.0 T-GDI MHEV 100hp ComfortLine"
+            },
+            {
+              "id": "mod_2020_kia_rio_1_0_t_gdi_mhev_100hp_dynamicline",
+              "title": "2020 Kia Rio 1.0 T-GDI MHEV 100hp DynamicLine"
+            },
+            {
+              "id": "mod_2020_kia_rio_1_0_t_gdi_mhev_100hp_dynamicplusline",
+              "title": "2020 Kia Rio 1.0 T-GDI MHEV 100hp DynamicPlusLine"
+            },
+            {
+              "id": "mod_2020_kia_rio_1_0_t_gdi_mhev_100hp_gt_line",
+              "title": "2020 Kia Rio 1.0 T-GDI MHEV 100hp GT-Line"
+            },
+            {
+              "id": "mod_2020_kia_rio_1_0_t_gdi_mhev_120hp_dynamicline",
+              "title": "2020 Kia Rio 1.0 T-GDI MHEV 120hp DynamicLine"
+            },
+            {
+              "id": "mod_2020_kia_rio_1_0_t_gdi_mhev_120hp_dynamicplusline",
+              "title": "2020 Kia Rio 1.0 T-GDI MHEV 120hp DynamicPlusLine"
+            },
+            {
+              "id": "mod_2020_kia_rio_1_0_t_gdi_mhev_120hp_gt_line",
+              "title": "2020 Kia Rio 1.0 T-GDI MHEV 120hp GT-Line"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_rio",
+          "title": "Kia Rio",
+          "children": [
+            {
+              "id": "mod_2017_kia_rio_1_0_t_gdi_100hp_comfortline",
+              "title": "2017 Kia Rio 1.0 T-GDI 100hp ComfortLine"
+            },
+            {
+              "id": "mod_2017_kia_rio_1_0_t_gdi_100hp_comfortplusline",
+              "title": "2017 Kia Rio 1.0 T-GDI 100hp ComfortPlusLine"
+            },
+            {
+              "id": "mod_2017_kia_rio_1_0_t_gdi_100hp_dynamicline",
+              "title": "2017 Kia Rio 1.0 T-GDI 100hp DynamicLine"
+            },
+            {
+              "id": "mod_2017_kia_rio_1_0_t_gdi_100hp_economyline",
+              "title": "2017 Kia Rio 1.0 T-GDI 100hp EconomyLine"
+            },
+            {
+              "id": "mod_2017_kia_rio_1_0_t_gdi_100hp_executiveline",
+              "title": "2017 Kia Rio 1.0 T-GDI 100hp ExecutiveLine"
+            },
+            {
+              "id": "mod_2017_kia_rio_1_0_t_gdi_100hp_first_edition",
+              "title": "2017 Kia Rio 1.0 T-GDI 100hp First Edition"
+            },
+            {
+              "id": "mod_2017_kia_rio_1_0_t_gdi_120hp_dynamicline",
+              "title": "2017 Kia Rio 1.0 T-GDI 120hp DynamicLine"
+            },
+            {
+              "id": "mod_2017_kia_rio_1_0_t_gdi_120hp_executiveline",
+              "title": "2017 Kia Rio 1.0 T-GDI 120hp ExecutiveLine"
+            },
+            {
+              "id": "mod_2017_kia_rio_1_4_crdi_business_dynamicline",
+              "title": "2017 Kia Rio 1.4 CRDi Business DynamicLine"
+            },
+            {
+              "id": "mod_2017_kia_rio_1_4_crdi_business_navigator",
+              "title": "2017 Kia Rio 1.4 CRDi Business Navigator"
+            },
+            {
+              "id": "mod_2017_kia_rio_1_4_cvvt_dynamicline",
+              "title": "2017 Kia Rio 1.4 CVVT DynamicLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_rio",
+          "title": "Kia Rio",
+          "children": [
+            {
+              "id": "mod_2015_kia_rio_1_2_cvvt_comfortline",
+              "title": "2015 Kia Rio 1.2 CVVT ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_rio_1_2_cvvt_dynamicline_navigator",
+              "title": "2015 Kia Rio 1.2 CVVT DynamicLine Navigator"
+            },
+            {
+              "id": "mod_2015_kia_rio_1_2_cvvt_dynamicline",
+              "title": "2015 Kia Rio 1.2 CVVT DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_rio_1_2_cvvt_economyline",
+              "title": "2015 Kia Rio 1.2 CVVT EconomyLine"
+            },
+            {
+              "id": "mod_2015_kia_rio_1_2_cvvt_executiveline",
+              "title": "2015 Kia Rio 1.2 CVVT ExecutiveLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_rio",
+          "title": "Kia Rio",
+          "children": [
+            {
+              "id": "mod_2015_kia_rio_1_1_crdi_comfortline",
+              "title": "2015 Kia Rio 1.1 CRDi ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_rio_1_2_cvvt_comfortline",
+              "title": "2015 Kia Rio 1.2 CVVT ComfortLine"
+            },
+            {
+              "id": "mod_2015_kia_rio_1_2_cvvt_dynamicline_navigator",
+              "title": "2015 Kia Rio 1.2 CVVT DynamicLine Navigator"
+            },
+            {
+              "id": "mod_2015_kia_rio_1_2_cvvt_dynamicline",
+              "title": "2015 Kia Rio 1.2 CVVT DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_rio_1_2_cvvt_executiveline",
+              "title": "2015 Kia Rio 1.2 CVVT ExecutiveLine"
+            },
+            {
+              "id": "mod_2015_kia_rio_1_4_cvvt_dynamicline_navigator",
+              "title": "2015 Kia Rio 1.4 CVVT DynamicLine Navigator"
+            },
+            {
+              "id": "mod_2015_kia_rio_1_4_cvvt_dynamicline",
+              "title": "2015 Kia Rio 1.4 CVVT DynamicLine"
+            },
+            {
+              "id": "mod_2015_kia_rio_1_4_cvvt_executiveline",
+              "title": "2015 Kia Rio 1.4 CVVT ExecutiveLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_rio",
+          "title": "Kia Rio",
+          "children": [
+            {
+              "id": "mod_2011_kia_rio_1_1_crdi_comfort_pack",
+              "title": "2011 Kia Rio 1.1 CRDi Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_1_crdi_plus_pack",
+              "title": "2011 Kia Rio 1.1 CRDi Plus Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_1_crdi_super_pack",
+              "title": "2011 Kia Rio 1.1 CRDi Super Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_1_crdi",
+              "title": "2011 Kia Rio 1.1 CRDi"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_2_cvvt_comfort_pack",
+              "title": "2011 Kia Rio 1.2 CVVT Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_2_cvvt_plus_pack",
+              "title": "2011 Kia Rio 1.2 CVVT Plus Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_2_cvvt_super_pack",
+              "title": "2011 Kia Rio 1.2 CVVT Super Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_2_cvvt",
+              "title": "2011 Kia Rio 1.2 CVVT"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_4_crdi_comfort_pack",
+              "title": "2011 Kia Rio 1.4 CRDi Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_4_crdi_plus_pack",
+              "title": "2011 Kia Rio 1.4 CRDi Plus Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_4_crdi_super_pack",
+              "title": "2011 Kia Rio 1.4 CRDi Super Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_4_cvvt_comfort_pack",
+              "title": "2011 Kia Rio 1.4 CVVT Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_4_cvvt_plus_pack",
+              "title": "2011 Kia Rio 1.4 CVVT Plus Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_4_cvvt_super_pack",
+              "title": "2011 Kia Rio 1.4 CVVT Super Pack"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_rio",
+          "title": "Kia Rio",
+          "children": [
+            {
+              "id": "mod_2011_kia_rio_1_1_crdi_comfort_pack",
+              "title": "2011 Kia Rio 1.1 CRDi Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_1_crdi_plus_pack",
+              "title": "2011 Kia Rio 1.1 CRDi Plus Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_1_crdi_super_pack",
+              "title": "2011 Kia Rio 1.1 CRDi Super Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_1_crdi",
+              "title": "2011 Kia Rio 1.1 CRDi"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_2_cvvt_comfort_pack",
+              "title": "2011 Kia Rio 1.2 CVVT Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_2_cvvt_plus_pack",
+              "title": "2011 Kia Rio 1.2 CVVT Plus Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_2_cvvt_super_pack",
+              "title": "2011 Kia Rio 1.2 CVVT Super Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_2_cvvt",
+              "title": "2011 Kia Rio 1.2 CVVT"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_4_crdi_comfort_pack",
+              "title": "2011 Kia Rio 1.4 CRDi Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_4_crdi_plus_pack",
+              "title": "2011 Kia Rio 1.4 CRDi Plus Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_4_crdi_super_pack",
+              "title": "2011 Kia Rio 1.4 CRDi Super Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_4_cvvt_comfort_pack",
+              "title": "2011 Kia Rio 1.4 CVVT Comfort Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_4_cvvt_plus_pack",
+              "title": "2011 Kia Rio 1.4 CVVT Plus Pack"
+            },
+            {
+              "id": "mod_2011_kia_rio_1_4_cvvt_super_pack",
+              "title": "2011 Kia Rio 1.4 CVVT Super Pack"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_rio",
+          "title": "Kia Rio",
+          "children": [
+            {
+              "id": "mod_2005_kia_rio_1_4_l",
+              "title": "2005 Kia Rio 1.4 L"
+            },
+            {
+              "id": "mod_2005_kia_rio_1_4_lx",
+              "title": "2005 Kia Rio 1.4 LX"
+            },
+            {
+              "id": "mod_2005_kia_rio_1_4_lxe",
+              "title": "2005 Kia Rio 1.4 LXE"
+            },
+            {
+              "id": "mod_2005_kia_rio_1_5_crdi_vgt_ex",
+              "title": "2005 Kia Rio 1.5 CRDi VGT EX"
+            },
+            {
+              "id": "mod_2005_kia_rio_1_5_crdi_vgt_lx",
+              "title": "2005 Kia Rio 1.5 CRDi VGT LX"
+            },
+            {
+              "id": "mod_2005_kia_rio_1_5_crdi_vgt_lxe",
+              "title": "2005 Kia Rio 1.5 CRDi VGT LXE"
+            },
+            {
+              "id": "mod_2005_kia_rio_1_6_cvvt_ex",
+              "title": "2005 Kia Rio 1.6 CVVT EX"
+            },
+            {
+              "id": "mod_2005_kia_rio_1_6_cvvt_x_treme",
+              "title": "2005 Kia Rio 1.6 CVVT X-treme"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_rio",
+          "title": "Kia Rio",
+          "children": [
+            {
+              "id": "mod_2003_kia_rio_1_3_ls",
+              "title": "2003 Kia Rio 1.3 LS"
+            },
+            {
+              "id": "mod_2003_kia_rio_1_3_rs_visto",
+              "title": "2003 Kia Rio 1.3 RS Visto"
+            },
+            {
+              "id": "mod_2003_kia_rio_1_3_rs",
+              "title": "2003 Kia Rio 1.3 RS"
+            },
+            {
+              "id": "mod_2003_kia_rio_1_5_ls_ice",
+              "title": "2003 Kia Rio 1.5 LS Ice"
+            },
+            {
+              "id": "mod_2003_kia_rio_1_5_ls",
+              "title": "2003 Kia Rio 1.5 LS"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_rio",
+          "title": "Kia Rio",
+          "children": [
+            {
+              "id": "mod_2003_kia_rio_1_3_ls",
+              "title": "2003 Kia Rio 1.3 LS"
+            },
+            {
+              "id": "mod_2003_kia_rio_1_3_rs_visto",
+              "title": "2003 Kia Rio 1.3 RS Visto"
+            },
+            {
+              "id": "mod_2003_kia_rio_1_3_rs",
+              "title": "2003 Kia Rio 1.3 RS"
+            },
+            {
+              "id": "mod_2003_kia_rio_1_5_ls_ice",
+              "title": "2003 Kia Rio 1.5 LS Ice"
+            },
+            {
+              "id": "mod_2003_kia_rio_1_5_ls",
+              "title": "2003 Kia Rio 1.5 LS"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_rio",
+          "title": "Kia Rio",
+          "children": [
+            {
+              "id": "mod_2000_kia_rio_1_3_ls",
+              "title": "2000 Kia Rio 1.3 LS"
+            },
+            {
+              "id": "mod_2000_kia_rio_1_3_rs",
+              "title": "2000 Kia Rio 1.3 RS"
+            },
+            {
+              "id": "mod_2000_kia_rio_1_5_ls",
+              "title": "2000 Kia Rio 1.5 LS"
+            },
+            {
+              "id": "mod_2000_kia_rio_1_5_rs",
+              "title": "2000 Kia Rio 1.5 RS"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_rio",
+          "title": "Kia Rio",
+          "children": [
+            {
+              "id": "mod_2000_kia_rio_1_3_ls",
+              "title": "2000 Kia Rio 1.3 LS"
+            },
+            {
+              "id": "mod_2000_kia_rio_1_3_rs",
+              "title": "2000 Kia Rio 1.3 RS"
+            },
+            {
+              "id": "mod_2000_kia_rio_1_5_ls",
+              "title": "2000 Kia Rio 1.5 LS"
+            },
+            {
+              "id": "mod_2000_kia_rio_1_5_rs",
+              "title": "2000 Kia Rio 1.5 RS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_clarus_wagon",
+      "title": "Kia Clarus Wagon",
+      "generations": [
+        {
+          "id": "gen_kia_clarus_wagon",
+          "title": "Kia Clarus Wagon",
+          "children": [
+            {
+              "id": "mod_1999_kia_clarus_wagon_1_8_slx",
+              "title": "1999 Kia Clarus Wagon 1.8 SLX"
+            },
+            {
+              "id": "mod_1999_kia_clarus_wagon_2_0_glx",
+              "title": "1999 Kia Clarus Wagon 2.0 GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_joice",
+      "title": "Kia Joice",
+      "generations": [
+        {
+          "id": "gen_kia_joice",
+          "title": "Kia Joice",
+          "children": [
+            {
+              "id": "mod_1999_kia_joice_2_0_ls",
+              "title": "1999 Kia Joice 2.0 LS"
+            },
+            {
+              "id": "mod_1999_kia_joice_2_0_rs",
+              "title": "1999 Kia Joice 2.0 RS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_pride_wagon",
+      "title": "Kia Pride Wagon",
+      "generations": [
+        {
+          "id": "gen_kia_pride_wagon",
+          "title": "Kia Pride Wagon",
+          "children": [
+            {
+              "id": "mod_1999_kia_pride_wagon_glx",
+              "title": "1999 Kia Pride Wagon GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_carnival",
+      "title": "Kia Carnival",
+      "generations": [
+        {
+          "id": "gen_kia_carnival",
+          "title": "Kia Carnival",
+          "children": [
+            {
+              "id": "mod_2006_kia_carnival_2_7_v6_ex_luxe",
+              "title": "2006 Kia Carnival 2.7 V6 EX Luxe"
+            },
+            {
+              "id": "mod_2006_kia_carnival_2_7_v6_ex",
+              "title": "2006 Kia Carnival 2.7 V6 EX"
+            },
+            {
+              "id": "mod_2006_kia_carnival_2_7_v6_lx",
+              "title": "2006 Kia Carnival 2.7 V6 LX"
+            },
+            {
+              "id": "mod_2006_kia_carnival_2_9_crdi_vgt_ex_luxe",
+              "title": "2006 Kia Carnival 2.9 CRDi VGT EX Luxe"
+            },
+            {
+              "id": "mod_2006_kia_carnival_2_9_crdi_vgt_ex",
+              "title": "2006 Kia Carnival 2.9 CRDi VGT EX"
+            },
+            {
+              "id": "mod_2006_kia_carnival_2_9_crdi_vgt_lx",
+              "title": "2006 Kia Carnival 2.9 CRDi VGT LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_carnival",
+          "title": "Kia Carnival",
+          "children": [
+            {
+              "id": "mod_2002_kia_carnival_2_5_v6_ex_luxe",
+              "title": "2002 Kia Carnival 2.5 V6 EX Luxe"
+            },
+            {
+              "id": "mod_2002_kia_carnival_2_5_v6_ex",
+              "title": "2002 Kia Carnival 2.5 V6 EX"
+            },
+            {
+              "id": "mod_2002_kia_carnival_2_5_v6_lx",
+              "title": "2002 Kia Carnival 2.5 V6 LX"
+            },
+            {
+              "id": "mod_2002_kia_carnival_2_9_hpdi_ex_luxe",
+              "title": "2002 Kia Carnival 2.9 HPDI EX Luxe"
+            },
+            {
+              "id": "mod_2002_kia_carnival_2_9_hpdi_ex",
+              "title": "2002 Kia Carnival 2.9 HPDI EX"
+            },
+            {
+              "id": "mod_2002_kia_carnival_2_9_hpdi_lx",
+              "title": "2002 Kia Carnival 2.9 HPDI LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_carnival",
+          "title": "Kia Carnival",
+          "children": [
+            {
+              "id": "mod_1999_kia_carnival_2_5_v6",
+              "title": "1999 Kia Carnival 2.5 V6"
+            },
+            {
+              "id": "mod_1999_kia_carnival_2_9_tdi",
+              "title": "1999 Kia Carnival 2.9 TDi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_shuma",
+      "title": "Kia Shuma",
+      "generations": [
+        {
+          "id": "gen_kia_shuma",
+          "title": "Kia Shuma",
+          "children": [
+            {
+              "id": "mod_2001_kia_shuma_1_6_ls",
+              "title": "2001 Kia Shuma 1.6 LS"
+            },
+            {
+              "id": "mod_2001_kia_shuma_1_6_rs",
+              "title": "2001 Kia Shuma 1.6 RS"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_shuma",
+          "title": "Kia Shuma",
+          "children": [
+            {
+              "id": "mod_1998_kia_shuma_1_5_ls",
+              "title": "1998 Kia Shuma 1.5 LS"
+            },
+            {
+              "id": "mod_1998_kia_shuma_1_5_rs",
+              "title": "1998 Kia Shuma 1.5 RS"
+            },
+            {
+              "id": "mod_1998_kia_shuma_1_8_gs",
+              "title": "1998 Kia Shuma 1.8 GS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_clarus",
+      "title": "Kia Clarus",
+      "generations": [
+        {
+          "id": "gen_kia_clarus",
+          "title": "Kia Clarus",
+          "children": [
+            {
+              "id": "mod_1999_kia_clarus_1_8_slx",
+              "title": "1999 Kia Clarus 1.8 SLX"
+            },
+            {
+              "id": "mod_1999_kia_clarus_2_0_glx",
+              "title": "1999 Kia Clarus 2.0 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_clarus",
+          "title": "Kia Clarus",
+          "children": [
+            {
+              "id": "mod_1996_kia_clarus_1_8_slx",
+              "title": "1996 Kia Clarus 1.8 SLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_pride",
+      "title": "Kia Pride",
+      "generations": [
+        {
+          "id": "gen_kia_pride",
+          "title": "Kia Pride",
+          "children": [
+            {
+              "id": "mod_1995_kia_pride_glx",
+              "title": "1995 Kia Pride GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_pride",
+          "title": "Kia Pride",
+          "children": [
+            {
+              "id": "mod_1995_kia_pride_glx",
+              "title": "1995 Kia Pride GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_sportage",
+      "title": "Kia Sportage",
+      "generations": [
+        {
+          "id": "gen_kia_sportage",
+          "title": "Kia Sportage",
+          "children": [
+            {
+              "id": "mod_2018_kia_sportage_1_6_crdi_dynamicline",
+              "title": "2018 Kia Sportage 1.6 CRDi DynamicLine"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_crdi_dynamicplusline",
+              "title": "2018 Kia Sportage 1.6 CRDi DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_crdi_gt_line",
+              "title": "2018 Kia Sportage 1.6 CRDi GT-Line"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_crdi_gt_plusline",
+              "title": "2018 Kia Sportage 1.6 CRDi GT-PlusLine"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_gdi_comfortline",
+              "title": "2018 Kia Sportage 1.6 GDI ComfortLine"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_gdi_dynamicline",
+              "title": "2018 Kia Sportage 1.6 GDI DynamicLine"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_t_gdi_4wd_dynamicline",
+              "title": "2018 Kia Sportage 1.6 T-GDI 4WD DynamicLine"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_t_gdi_4wd_dynamicplusline",
+              "title": "2018 Kia Sportage 1.6 T-GDI 4WD DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_t_gdi_4wd_gt_line",
+              "title": "2018 Kia Sportage 1.6 T-GDI 4WD GT-Line"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_t_gdi_4wd_gt_plusline",
+              "title": "2018 Kia Sportage 1.6 T-GDI 4WD GT-PlusLine"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_t_gdi_dynamicline",
+              "title": "2018 Kia Sportage 1.6 T-GDI DynamicLine"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_t_gdi_dynamicplusline",
+              "title": "2018 Kia Sportage 1.6 T-GDI DynamicPlusLine"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_t_gdi_gt_line",
+              "title": "2018 Kia Sportage 1.6 T-GDI GT-Line"
+            },
+            {
+              "id": "mod_2018_kia_sportage_1_6_t_gdi_gt_plusline",
+              "title": "2018 Kia Sportage 1.6 T-GDI GT-PlusLine"
+            },
+            {
+              "id": "mod_2018_kia_sportage_2_0_crdi_awd_gt_line",
+              "title": "2018 Kia Sportage 2.0 CRDi AWD GT-Line"
+            },
+            {
+              "id": "mod_2018_kia_sportage_2_0_crdi_awd_gt_plusline",
+              "title": "2018 Kia Sportage 2.0 CRDi AWD GT-PlusLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sportage",
+          "title": "Kia Sportage",
+          "children": [
+            {
+              "id": "mod_2016_kia_sportage_1_6_gdi_comfortline_navigator",
+              "title": "2016 Kia Sportage 1.6 GDI ComfortLine Navigator"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_gdi_comfortline",
+              "title": "2016 Kia Sportage 1.6 GDI ComfortLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_gdi_dynamicline",
+              "title": "2016 Kia Sportage 1.6 GDI DynamicLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_gdi_economyline",
+              "title": "2016 Kia Sportage 1.6 GDI EconomyLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_gdi_executiveline",
+              "title": "2016 Kia Sportage 1.6 GDI ExecutiveLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_gdi_first_edition",
+              "title": "2016 Kia Sportage 1.6 GDI First Edition"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_t_gdi_4wd_dynamicline",
+              "title": "2016 Kia Sportage 1.6 T-GDI 4WD DynamicLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_t_gdi_4wd_dynamicplusline",
+              "title": "2016 Kia Sportage 1.6 T-GDI 4WD DynamicPlusLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_t_gdi_4wd_gt_line_first_edition",
+              "title": "2016 Kia Sportage 1.6 T-GDI 4WD GT-Line First Edition"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_t_gdi_4wd_gt_line",
+              "title": "2016 Kia Sportage 1.6 T-GDI 4WD GT-Line"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_t_gdi_4wd_gt_plusline",
+              "title": "2016 Kia Sportage 1.6 T-GDI 4WD GT-PlusLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_t_gdi_dynamicline",
+              "title": "2016 Kia Sportage 1.6 T-GDI DynamicLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_t_gdi_dynamicplusline",
+              "title": "2016 Kia Sportage 1.6 T-GDI DynamicPlusLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_t_gdi_gt_line_first_edition",
+              "title": "2016 Kia Sportage 1.6 T-GDI GT-Line First Edition"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_t_gdi_gt_line",
+              "title": "2016 Kia Sportage 1.6 T-GDI GT-Line"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_6_t_gdi_gt_plusline",
+              "title": "2016 Kia Sportage 1.6 T-GDI GT-PlusLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_7_crdi_115hp_dynamicline",
+              "title": "2016 Kia Sportage 1.7 CRDi 115hp DynamicLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_7_crdi_115hp_dynamicplusline",
+              "title": "2016 Kia Sportage 1.7 CRDi 115hp DynamicPlusLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_7_crdi_115hp_executiveline",
+              "title": "2016 Kia Sportage 1.7 CRDi 115hp ExecutiveLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_7_crdi_141hp_dynamicline",
+              "title": "2016 Kia Sportage 1.7 CRDi 141hp DynamicLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_7_crdi_141hp_dynamicplusline",
+              "title": "2016 Kia Sportage 1.7 CRDi 141hp DynamicPlusLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_1_7_crdi_141hp_executiveline",
+              "title": "2016 Kia Sportage 1.7 CRDi 141hp ExecutiveLine"
+            },
+            {
+              "id": "mod_2016_kia_sportage_2_0_crdi_awd_executiveline",
+              "title": "2016 Kia Sportage 2.0 CRDi AWD ExecutiveLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sportage",
+          "title": "Kia Sportage",
+          "children": [
+            {
+              "id": "mod_2014_kia_sportage_1_6_gdi_businessline",
+              "title": "2014 Kia Sportage 1.6 GDI BusinessLine"
+            },
+            {
+              "id": "mod_2014_kia_sportage_1_6_gdi_businessplusline",
+              "title": "2014 Kia Sportage 1.6 GDI BusinessPlusLine"
+            },
+            {
+              "id": "mod_2014_kia_sportage_1_6_gdi_comfortline",
+              "title": "2014 Kia Sportage 1.6 GDI ComfortLine"
+            },
+            {
+              "id": "mod_2014_kia_sportage_1_6_gdi_economyline",
+              "title": "2014 Kia Sportage 1.6 GDI EconomyLine"
+            },
+            {
+              "id": "mod_2014_kia_sportage_1_6_gdi_executiveline",
+              "title": "2014 Kia Sportage 1.6 GDI ExecutiveLine"
+            },
+            {
+              "id": "mod_2014_kia_sportage_1_7_crdi_businessline",
+              "title": "2014 Kia Sportage 1.7 CRDi BusinessLine"
+            },
+            {
+              "id": "mod_2014_kia_sportage_1_7_crdi_businessplusline",
+              "title": "2014 Kia Sportage 1.7 CRDi BusinessPlusLine"
+            },
+            {
+              "id": "mod_2014_kia_sportage_1_7_crdi_executiveline",
+              "title": "2014 Kia Sportage 1.7 CRDi ExecutiveLine"
+            },
+            {
+              "id": "mod_2014_kia_sportage_2_0_crdi_hp_4wd_executiveline",
+              "title": "2014 Kia Sportage 2.0 CRDi HP 4WD ExecutiveLine"
+            },
+            {
+              "id": "mod_2014_kia_sportage_2_0_gdi_4wd_executiveline",
+              "title": "2014 Kia Sportage 2.0 GDI 4WD ExecutiveLine"
+            },
+            {
+              "id": "mod_2014_kia_sportage_2_0_gdi_businessline",
+              "title": "2014 Kia Sportage 2.0 GDI BusinessLine"
+            },
+            {
+              "id": "mod_2014_kia_sportage_2_0_gdi_businessplusline",
+              "title": "2014 Kia Sportage 2.0 GDI BusinessPlusLine"
+            },
+            {
+              "id": "mod_2014_kia_sportage_2_0_gdi_executiveline",
+              "title": "2014 Kia Sportage 2.0 GDI ExecutiveLine"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sportage",
+          "title": "Kia Sportage",
+          "children": [
+            {
+              "id": "mod_2010_kia_sportage_1_6_gdi_x_ecutive",
+              "title": "2010 Kia Sportage 1.6 GDI X-ecutive"
+            },
+            {
+              "id": "mod_2010_kia_sportage_1_6_gdi_x_tra",
+              "title": "2010 Kia Sportage 1.6 GDI X-tra"
+            },
+            {
+              "id": "mod_2010_kia_sportage_1_7_crdi_x_clusive",
+              "title": "2010 Kia Sportage 1.7 CRDi X-clusive"
+            },
+            {
+              "id": "mod_2010_kia_sportage_1_7_crdi_x_ecutive",
+              "title": "2010 Kia Sportage 1.7 CRDi X-ecutive"
+            },
+            {
+              "id": "mod_2010_kia_sportage_2_0_crdi_awd_x_clusive",
+              "title": "2010 Kia Sportage 2.0 CRDi AWD X-clusive"
+            },
+            {
+              "id": "mod_2010_kia_sportage_2_0_crdi_awd_x_ecutive",
+              "title": "2010 Kia Sportage 2.0 CRDi AWD X-ecutive"
+            },
+            {
+              "id": "mod_2010_kia_sportage_2_0_crdi_awd_x_tra",
+              "title": "2010 Kia Sportage 2.0 CRDi AWD X-tra"
+            },
+            {
+              "id": "mod_2010_kia_sportage_2_0_crdi_x_clusive",
+              "title": "2010 Kia Sportage 2.0 CRDi X-clusive"
+            },
+            {
+              "id": "mod_2010_kia_sportage_2_0_crdi_x_ecutive",
+              "title": "2010 Kia Sportage 2.0 CRDi X-ecutive"
+            },
+            {
+              "id": "mod_2010_kia_sportage_2_0_crdi_x_tra",
+              "title": "2010 Kia Sportage 2.0 CRDi X-tra"
+            },
+            {
+              "id": "mod_2010_kia_sportage_2_0_cvvt_awd_x_clusive",
+              "title": "2010 Kia Sportage 2.0 CVVT AWD X-clusive"
+            },
+            {
+              "id": "mod_2010_kia_sportage_2_0_cvvt_awd_x_ecutive",
+              "title": "2010 Kia Sportage 2.0 CVVT AWD X-ecutive"
+            },
+            {
+              "id": "mod_2010_kia_sportage_2_0_cvvt_awd_x_tra",
+              "title": "2010 Kia Sportage 2.0 CVVT AWD X-tra"
+            },
+            {
+              "id": "mod_2010_kia_sportage_2_0_cvvt_x_clusive",
+              "title": "2010 Kia Sportage 2.0 CVVT X-clusive"
+            },
+            {
+              "id": "mod_2010_kia_sportage_2_0_cvvt_x_ecutive",
+              "title": "2010 Kia Sportage 2.0 CVVT X-ecutive"
+            },
+            {
+              "id": "mod_2010_kia_sportage_2_0_cvvt_x_tra",
+              "title": "2010 Kia Sportage 2.0 CVVT X-tra"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sportage",
+          "title": "Kia Sportage",
+          "children": [
+            {
+              "id": "mod_2008_kia_sportage_2_0_crdi_vgt_2wd_x_clusive",
+              "title": "2008 Kia Sportage 2.0 CRDi VGT 2WD X-clusive"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_crdi_vgt_2wd_x_ecutive",
+              "title": "2008 Kia Sportage 2.0 CRDi VGT 2WD X-ecutive"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_crdi_vgt_2wd_x_pect_cool",
+              "title": "2008 Kia Sportage 2.0 CRDi VGT 2WD X-pect Cool"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_crdi_vgt_2wd_x_tra",
+              "title": "2008 Kia Sportage 2.0 CRDi VGT 2WD X-tra"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_crdi_vgt_4wd_x_clusive",
+              "title": "2008 Kia Sportage 2.0 CRDi VGT 4WD X-clusive"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_crdi_vgt_4wd_x_ecutive",
+              "title": "2008 Kia Sportage 2.0 CRDi VGT 4WD X-ecutive"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_crdi_vgt_4wd_x_pect_cool",
+              "title": "2008 Kia Sportage 2.0 CRDi VGT 4WD X-pect Cool"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_crdi_vgt_4wd_x_tra",
+              "title": "2008 Kia Sportage 2.0 CRDi VGT 4WD X-tra"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_cvvt_2wd_x_clusive",
+              "title": "2008 Kia Sportage 2.0 CVVT 2WD X-clusive"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_cvvt_2wd_x_ecutive",
+              "title": "2008 Kia Sportage 2.0 CVVT 2WD X-ecutive"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_cvvt_2wd_x_pect_cool",
+              "title": "2008 Kia Sportage 2.0 CVVT 2WD X-pect Cool"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_cvvt_2wd_x_tra",
+              "title": "2008 Kia Sportage 2.0 CVVT 2WD X-tra"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_cvvt_4wd_x_clusive",
+              "title": "2008 Kia Sportage 2.0 CVVT 4WD X-clusive"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_cvvt_4wd_x_ecutive",
+              "title": "2008 Kia Sportage 2.0 CVVT 4WD X-ecutive"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_cvvt_4wd_x_pect_cool",
+              "title": "2008 Kia Sportage 2.0 CVVT 4WD X-pect Cool"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_0_cvvt_4wd_x_tra",
+              "title": "2008 Kia Sportage 2.0 CVVT 4WD X-tra"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_7_v6_4wd_x_clusive",
+              "title": "2008 Kia Sportage 2.7 V6 4WD X-clusive"
+            },
+            {
+              "id": "mod_2008_kia_sportage_2_7_v6_4wd_x_ecutive",
+              "title": "2008 Kia Sportage 2.7 V6 4WD X-ecutive"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sportage",
+          "title": "Kia Sportage",
+          "children": [
+            {
+              "id": "mod_2007_kia_sportage_2_0_crdi_vgt_2wd_comfort",
+              "title": "2007 Kia Sportage 2.0 CRDi VGT 2WD Comfort"
+            },
+            {
+              "id": "mod_2007_kia_sportage_2_0_crdi_vgt_2wd_x_ecutive",
+              "title": "2007 Kia Sportage 2.0 CRDi VGT 2WD X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_sportage_2_0_crdi_vgt_4wd_adventure",
+              "title": "2007 Kia Sportage 2.0 CRDi VGT 4WD Adventure"
+            },
+            {
+              "id": "mod_2007_kia_sportage_2_0_crdi_vgt_4wd_x_treme",
+              "title": "2007 Kia Sportage 2.0 CRDi VGT 4WD X-treme"
+            },
+            {
+              "id": "mod_2007_kia_sportage_2_0_cvvt_2wd_comfort",
+              "title": "2007 Kia Sportage 2.0 CVVT 2WD Comfort"
+            },
+            {
+              "id": "mod_2007_kia_sportage_2_0_cvvt_2wd_x_ecutive",
+              "title": "2007 Kia Sportage 2.0 CVVT 2WD X-ecutive"
+            },
+            {
+              "id": "mod_2007_kia_sportage_2_0_cvvt_2wd_x_pect",
+              "title": "2007 Kia Sportage 2.0 CVVT 2WD X-pect"
+            },
+            {
+              "id": "mod_2007_kia_sportage_2_0_cvvt_4wd_adventure",
+              "title": "2007 Kia Sportage 2.0 CVVT 4WD Adventure"
+            },
+            {
+              "id": "mod_2007_kia_sportage_2_0_cvvt_4wd_x_treme",
+              "title": "2007 Kia Sportage 2.0 CVVT 4WD X-treme"
+            },
+            {
+              "id": "mod_2007_kia_sportage_2_7_v6_4wd_adventure",
+              "title": "2007 Kia Sportage 2.7 V6 4WD Adventure"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sportage",
+          "title": "Kia Sportage",
+          "children": [
+            {
+              "id": "mod_2004_kia_sportage_2_0_crdi_2wd_comfort",
+              "title": "2004 Kia Sportage 2.0 CRDi 2WD Comfort"
+            },
+            {
+              "id": "mod_2004_kia_sportage_2_0_crdi_2wd_executive",
+              "title": "2004 Kia Sportage 2.0 CRDi 2WD Executive"
+            },
+            {
+              "id": "mod_2004_kia_sportage_2_0_crdi_4wd_adventure",
+              "title": "2004 Kia Sportage 2.0 CRDi 4WD Adventure"
+            },
+            {
+              "id": "mod_2004_kia_sportage_2_0_crdi_4wd_x_treme",
+              "title": "2004 Kia Sportage 2.0 CRDi 4WD X-treme"
+            },
+            {
+              "id": "mod_2004_kia_sportage_2_0_cvvt_2wd_comfort",
+              "title": "2004 Kia Sportage 2.0 CVVT 2WD Comfort"
+            },
+            {
+              "id": "mod_2004_kia_sportage_2_0_cvvt_2wd_executive",
+              "title": "2004 Kia Sportage 2.0 CVVT 2WD Executive"
+            },
+            {
+              "id": "mod_2004_kia_sportage_2_0_cvvt_4wd_adventure",
+              "title": "2004 Kia Sportage 2.0 CVVT 4WD Adventure"
+            },
+            {
+              "id": "mod_2004_kia_sportage_2_0_cvvt_4wd_x_treme",
+              "title": "2004 Kia Sportage 2.0 CVVT 4WD X-treme"
+            },
+            {
+              "id": "mod_2004_kia_sportage_2_7_v6_4wd_adventure",
+              "title": "2004 Kia Sportage 2.7 V6 4WD Adventure"
+            },
+            {
+              "id": "mod_2004_kia_sportage_2_7_v6_4wd_x_treme",
+              "title": "2004 Kia Sportage 2.7 V6 4WD X-treme"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sportage",
+          "title": "Kia Sportage",
+          "children": [
+            {
+              "id": "mod_1999_kia_sportage_2_0_16v_dohc",
+              "title": "1999 Kia Sportage 2.0 16V DOHC"
+            },
+            {
+              "id": "mod_1999_kia_sportage_2_0_td",
+              "title": "1999 Kia Sportage 2.0 TD"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sportage",
+          "title": "Kia Sportage",
+          "children": [
+            {
+              "id": "mod_1994_kia_sportage_2_0i_16v_dohc",
+              "title": "1994 Kia Sportage 2.0i 16V DOHC"
+            },
+            {
+              "id": "mod_1994_kia_sportage_2_0i_sohc",
+              "title": "1994 Kia Sportage 2.0i SOHC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_kia_sephia",
+      "title": "Kia Sephia",
+      "generations": [
+        {
+          "id": "gen_kia_sephia",
+          "title": "Kia Sephia",
+          "children": [
+            {
+              "id": "mod_1998_kia_sephia_1_5_ls",
+              "title": "1998 Kia Sephia 1.5 LS"
+            },
+            {
+              "id": "mod_1998_kia_sephia_1_5_rs",
+              "title": "1998 Kia Sephia 1.5 RS"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sephia",
+          "title": "Kia Sephia",
+          "children": [
+            {
+              "id": "mod_1996_kia_sephia_1_5i_gtx",
+              "title": "1996 Kia Sephia 1.5i GTX"
+            },
+            {
+              "id": "mod_1996_kia_sephia_1_5i_nlx",
+              "title": "1996 Kia Sephia 1.5i NLX"
+            },
+            {
+              "id": "mod_1996_kia_sephia_1_5i_slx",
+              "title": "1996 Kia Sephia 1.5i SLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sephia",
+          "title": "Kia Sephia",
+          "children": [
+            {
+              "id": "mod_1995_kia_sephia_1_5i_gtx",
+              "title": "1995 Kia Sephia 1.5i GTX"
+            },
+            {
+              "id": "mod_1995_kia_sephia_1_5i_nlx",
+              "title": "1995 Kia Sephia 1.5i NLX"
+            },
+            {
+              "id": "mod_1995_kia_sephia_1_5i_slx",
+              "title": "1995 Kia Sephia 1.5i SLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_kia_sephia",
+          "title": "Kia Sephia",
+          "children": [
+            {
+              "id": "mod_1993_kia_sephia_1_6i_gtx",
+              "title": "1993 Kia Sephia 1.6i GTX"
+            },
+            {
+              "id": "mod_1993_kia_sephia_1_6i_slx",
+              "title": "1993 Kia Sephia 1.6i SLX"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

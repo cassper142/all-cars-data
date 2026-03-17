@@ -1,0 +1,1143 @@
+{
+  "schema_version": "2.1",
+  "dictionaries": {
+    "car_brands": [
+      {
+        "id": "abarth",
+        "title": "Abarth"
+      },
+      {
+        "id": "aiways",
+        "title": "Aiways"
+      },
+      {
+        "id": "alfa_romeo",
+        "title": "Alfa Romeo"
+      },
+      {
+        "id": "alpine",
+        "title": "Alpine"
+      },
+      {
+        "id": "asia_motors",
+        "title": "Asia Motors"
+      },
+      {
+        "id": "aston_martin",
+        "title": "Aston Martin"
+      },
+      {
+        "id": "audi",
+        "title": "Audi"
+      },
+      {
+        "id": "austin",
+        "title": "Austin"
+      },
+      {
+        "id": "autobianchi",
+        "title": "Autobianchi"
+      },
+      {
+        "id": "bentley",
+        "title": "Bentley"
+      },
+      {
+        "id": "bmw",
+        "title": "BMW"
+      },
+      {
+        "id": "bugatti",
+        "title": "Bugatti"
+      },
+      {
+        "id": "buick",
+        "title": "Buick"
+      },
+      {
+        "id": "cadillac",
+        "title": "Cadillac"
+      },
+      {
+        "id": "carver",
+        "title": "Carver"
+      },
+      {
+        "id": "chevrolet",
+        "title": "Chevrolet"
+      },
+      {
+        "id": "chrysler",
+        "title": "Chrysler"
+      },
+      {
+        "id": "citroen",
+        "title": "Citroen"
+      },
+      {
+        "id": "corvette",
+        "title": "Corvette"
+      },
+      {
+        "id": "cupra",
+        "title": "Cupra"
+      },
+      {
+        "id": "dacia",
+        "title": "Dacia"
+      },
+      {
+        "id": "daewoo",
+        "title": "Daewoo"
+      },
+      {
+        "id": "daihatsu",
+        "title": "Daihatsu"
+      },
+      {
+        "id": "daimler",
+        "title": "Daimler"
+      },
+      {
+        "id": "datsun",
+        "title": "Datsun"
+      },
+      {
+        "id": "dodge",
+        "title": "Dodge"
+      },
+      {
+        "id": "donkervoort",
+        "title": "Donkervoort"
+      },
+      {
+        "id": "ds",
+        "title": "DS"
+      },
+      {
+        "id": "ferrari",
+        "title": "Ferrari"
+      },
+      {
+        "id": "fiat",
+        "title": "Fiat"
+      },
+      {
+        "id": "fisker",
+        "title": "Fisker"
+      },
+      {
+        "id": "ford",
+        "title": "Ford"
+      },
+      {
+        "id": "fso",
+        "title": "FSO"
+      },
+      {
+        "id": "galloper",
+        "title": "Galloper"
+      },
+      {
+        "id": "honda",
+        "title": "Honda"
+      },
+      {
+        "id": "hummer",
+        "title": "Hummer"
+      },
+      {
+        "id": "hyundai",
+        "title": "Hyundai"
+      },
+      {
+        "id": "infiniti",
+        "title": "Infiniti"
+      },
+      {
+        "id": "innocenti",
+        "title": "Innocenti"
+      },
+      {
+        "id": "iveco",
+        "title": "Iveco"
+      },
+      {
+        "id": "jaguar",
+        "title": "Jaguar"
+      },
+      {
+        "id": "jeep",
+        "title": "Jeep"
+      },
+      {
+        "id": "josse",
+        "title": "Josse"
+      },
+      {
+        "id": "kia",
+        "title": "Kia"
+      },
+      {
+        "id": "lada",
+        "title": "Lada"
+      },
+      {
+        "id": "lamborghini",
+        "title": "Lamborghini"
+      },
+      {
+        "id": "lancia",
+        "title": "Lancia"
+      },
+      {
+        "id": "land_rover",
+        "title": "Land Rover"
+      },
+      {
+        "id": "landwind",
+        "title": "Landwind"
+      },
+      {
+        "id": "lexus",
+        "title": "Lexus"
+      },
+      {
+        "id": "lincoln",
+        "title": "Lincoln"
+      },
+      {
+        "id": "lotus",
+        "title": "Lotus"
+      },
+      {
+        "id": "marcos",
+        "title": "Marcos"
+      },
+      {
+        "id": "maserati",
+        "title": "Maserati"
+      },
+      {
+        "id": "maybach",
+        "title": "Maybach"
+      },
+      {
+        "id": "mazda",
+        "title": "Mazda"
+      },
+      {
+        "id": "mclaren",
+        "title": "McLaren"
+      },
+      {
+        "id": "mega",
+        "title": "Mega"
+      },
+      {
+        "id": "mercedes_benz",
+        "title": "Mercedes-Benz"
+      },
+      {
+        "id": "mercury",
+        "title": "Mercury"
+      },
+      {
+        "id": "mg",
+        "title": "MG"
+      },
+      {
+        "id": "mini",
+        "title": "Mini"
+      },
+      {
+        "id": "mitsubishi",
+        "title": "Mitsubishi"
+      },
+      {
+        "id": "morgan",
+        "title": "Morgan"
+      },
+      {
+        "id": "morris",
+        "title": "Morris"
+      },
+      {
+        "id": "nissan",
+        "title": "Nissan"
+      },
+      {
+        "id": "noble",
+        "title": "Noble"
+      },
+      {
+        "id": "opel",
+        "title": "Opel"
+      },
+      {
+        "id": "peugeot",
+        "title": "Peugeot"
+      },
+      {
+        "id": "pgo",
+        "title": "PGO"
+      },
+      {
+        "id": "polestar",
+        "title": "Polestar"
+      },
+      {
+        "id": "pontiac",
+        "title": "Pontiac"
+      },
+      {
+        "id": "porsche",
+        "title": "Porsche"
+      },
+      {
+        "id": "princess",
+        "title": "Princess"
+      },
+      {
+        "id": "renault",
+        "title": "Renault"
+      },
+      {
+        "id": "rolls_royce",
+        "title": "Rolls-Royce"
+      },
+      {
+        "id": "rover",
+        "title": "Rover"
+      },
+      {
+        "id": "saab",
+        "title": "Saab"
+      },
+      {
+        "id": "seat",
+        "title": "Seat"
+      },
+      {
+        "id": "skoda",
+        "title": "Skoda"
+      },
+      {
+        "id": "smart",
+        "title": "Smart"
+      },
+      {
+        "id": "spectre",
+        "title": "Spectre"
+      },
+      {
+        "id": "ssangyong",
+        "title": "Ssangyong"
+      },
+      {
+        "id": "subaru",
+        "title": "Subaru"
+      },
+      {
+        "id": "suzuki",
+        "title": "Suzuki"
+      },
+      {
+        "id": "talbot",
+        "title": "Talbot"
+      },
+      {
+        "id": "tesla",
+        "title": "Tesla"
+      },
+      {
+        "id": "think",
+        "title": "Think"
+      },
+      {
+        "id": "toyota",
+        "title": "Toyota"
+      },
+      {
+        "id": "triumph",
+        "title": "Triumph"
+      },
+      {
+        "id": "tvr",
+        "title": "TVR"
+      },
+      {
+        "id": "volkswagen",
+        "title": "Volkswagen"
+      },
+      {
+        "id": "volvo",
+        "title": "Volvo"
+      },
+      {
+        "id": "yugo",
+        "title": "Yugo"
+      }
+    ]
+  },
+  "themes": [
+    {
+      "id": "cars_catalog",
+      "title": "Каталог автомобилей",
+      "children": [
+        {
+          "id": "brand_abarth",
+          "title": "Abarth",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/abarth.json"
+        },
+        {
+          "id": "brand_aiways",
+          "title": "Aiways",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/aiways.json"
+        },
+        {
+          "id": "brand_alfa_romeo",
+          "title": "Alfa Romeo",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/alfa_romeo.json"
+        },
+        {
+          "id": "brand_alpine",
+          "title": "Alpine",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/alpine.json"
+        },
+        {
+          "id": "brand_asia_motors",
+          "title": "Asia Motors",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/asia_motors.json"
+        },
+        {
+          "id": "brand_aston_martin",
+          "title": "Aston Martin",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/aston_martin.json"
+        },
+        {
+          "id": "brand_audi",
+          "title": "Audi",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/audi.json"
+        },
+        {
+          "id": "brand_austin",
+          "title": "Austin",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/austin.json"
+        },
+        {
+          "id": "brand_autobianchi",
+          "title": "Autobianchi",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/autobianchi.json"
+        },
+        {
+          "id": "brand_bentley",
+          "title": "Bentley",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/bentley.json"
+        },
+        {
+          "id": "brand_bmw",
+          "title": "BMW",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/bmw.json"
+        },
+        {
+          "id": "brand_bugatti",
+          "title": "Bugatti",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/bugatti.json"
+        },
+        {
+          "id": "brand_buick",
+          "title": "Buick",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/buick.json"
+        },
+        {
+          "id": "brand_cadillac",
+          "title": "Cadillac",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/cadillac.json"
+        },
+        {
+          "id": "brand_carver",
+          "title": "Carver",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/carver.json"
+        },
+        {
+          "id": "brand_chevrolet",
+          "title": "Chevrolet",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/chevrolet.json"
+        },
+        {
+          "id": "brand_chrysler",
+          "title": "Chrysler",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/chrysler.json"
+        },
+        {
+          "id": "brand_citroen",
+          "title": "Citroen",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/citroen.json"
+        },
+        {
+          "id": "brand_corvette",
+          "title": "Corvette",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/corvette.json"
+        },
+        {
+          "id": "brand_cupra",
+          "title": "Cupra",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/cupra.json"
+        },
+        {
+          "id": "brand_dacia",
+          "title": "Dacia",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/dacia.json"
+        },
+        {
+          "id": "brand_daewoo",
+          "title": "Daewoo",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/daewoo.json"
+        },
+        {
+          "id": "brand_daihatsu",
+          "title": "Daihatsu",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/daihatsu.json"
+        },
+        {
+          "id": "brand_daimler",
+          "title": "Daimler",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/daimler.json"
+        },
+        {
+          "id": "brand_datsun",
+          "title": "Datsun",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/datsun.json"
+        },
+        {
+          "id": "brand_dodge",
+          "title": "Dodge",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/dodge.json"
+        },
+        {
+          "id": "brand_donkervoort",
+          "title": "Donkervoort",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/donkervoort.json"
+        },
+        {
+          "id": "brand_ds",
+          "title": "DS",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/ds.json"
+        },
+        {
+          "id": "brand_ferrari",
+          "title": "Ferrari",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/ferrari.json"
+        },
+        {
+          "id": "brand_fiat",
+          "title": "Fiat",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/fiat.json"
+        },
+        {
+          "id": "brand_fisker",
+          "title": "Fisker",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/fisker.json"
+        },
+        {
+          "id": "brand_ford",
+          "title": "Ford",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/ford.json"
+        },
+        {
+          "id": "brand_fso",
+          "title": "FSO",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/fso.json"
+        },
+        {
+          "id": "brand_galloper",
+          "title": "Galloper",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/galloper.json"
+        },
+        {
+          "id": "brand_honda",
+          "title": "Honda",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/honda.json"
+        },
+        {
+          "id": "brand_hummer",
+          "title": "Hummer",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/hummer.json"
+        },
+        {
+          "id": "brand_hyundai",
+          "title": "Hyundai",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/hyundai.json"
+        },
+        {
+          "id": "brand_infiniti",
+          "title": "Infiniti",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/infiniti.json"
+        },
+        {
+          "id": "brand_innocenti",
+          "title": "Innocenti",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/innocenti.json"
+        },
+        {
+          "id": "brand_iveco",
+          "title": "Iveco",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/iveco.json"
+        },
+        {
+          "id": "brand_jaguar",
+          "title": "Jaguar",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/jaguar.json"
+        },
+        {
+          "id": "brand_jeep",
+          "title": "Jeep",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/jeep.json"
+        },
+        {
+          "id": "brand_josse",
+          "title": "Josse",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/josse.json"
+        },
+        {
+          "id": "brand_kia",
+          "title": "Kia",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/kia.json"
+        },
+        {
+          "id": "brand_lada",
+          "title": "Lada",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/lada.json"
+        },
+        {
+          "id": "brand_lamborghini",
+          "title": "Lamborghini",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/lamborghini.json"
+        },
+        {
+          "id": "brand_lancia",
+          "title": "Lancia",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/lancia.json"
+        },
+        {
+          "id": "brand_land_rover",
+          "title": "Land Rover",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/land_rover.json"
+        },
+        {
+          "id": "brand_landwind",
+          "title": "Landwind",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/landwind.json"
+        },
+        {
+          "id": "brand_lexus",
+          "title": "Lexus",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/lexus.json"
+        },
+        {
+          "id": "brand_lincoln",
+          "title": "Lincoln",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/lincoln.json"
+        },
+        {
+          "id": "brand_lotus",
+          "title": "Lotus",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/lotus.json"
+        },
+        {
+          "id": "brand_marcos",
+          "title": "Marcos",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/marcos.json"
+        },
+        {
+          "id": "brand_maserati",
+          "title": "Maserati",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/maserati.json"
+        },
+        {
+          "id": "brand_maybach",
+          "title": "Maybach",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/maybach.json"
+        },
+        {
+          "id": "brand_mazda",
+          "title": "Mazda",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/mazda.json"
+        },
+        {
+          "id": "brand_mclaren",
+          "title": "McLaren",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/mclaren.json"
+        },
+        {
+          "id": "brand_mega",
+          "title": "Mega",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/mega.json"
+        },
+        {
+          "id": "brand_mercedes_benz",
+          "title": "Mercedes-Benz",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/mercedes_benz.json"
+        },
+        {
+          "id": "brand_mercury",
+          "title": "Mercury",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/mercury.json"
+        },
+        {
+          "id": "brand_mg",
+          "title": "MG",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/mg.json"
+        },
+        {
+          "id": "brand_mini",
+          "title": "Mini",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/mini.json"
+        },
+        {
+          "id": "brand_mitsubishi",
+          "title": "Mitsubishi",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/mitsubishi.json"
+        },
+        {
+          "id": "brand_morgan",
+          "title": "Morgan",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/morgan.json"
+        },
+        {
+          "id": "brand_morris",
+          "title": "Morris",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/morris.json"
+        },
+        {
+          "id": "brand_nissan",
+          "title": "Nissan",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/nissan.json"
+        },
+        {
+          "id": "brand_noble",
+          "title": "Noble",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/noble.json"
+        },
+        {
+          "id": "brand_opel",
+          "title": "Opel",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/opel.json"
+        },
+        {
+          "id": "brand_peugeot",
+          "title": "Peugeot",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/peugeot.json"
+        },
+        {
+          "id": "brand_pgo",
+          "title": "PGO",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/pgo.json"
+        },
+        {
+          "id": "brand_polestar",
+          "title": "Polestar",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/polestar.json"
+        },
+        {
+          "id": "brand_pontiac",
+          "title": "Pontiac",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/pontiac.json"
+        },
+        {
+          "id": "brand_porsche",
+          "title": "Porsche",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/porsche.json"
+        },
+        {
+          "id": "brand_princess",
+          "title": "Princess",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/princess.json"
+        },
+        {
+          "id": "brand_renault",
+          "title": "Renault",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/renault.json"
+        },
+        {
+          "id": "brand_rolls_royce",
+          "title": "Rolls-Royce",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/rolls_royce.json"
+        },
+        {
+          "id": "brand_rover",
+          "title": "Rover",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/rover.json"
+        },
+        {
+          "id": "brand_saab",
+          "title": "Saab",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/saab.json"
+        },
+        {
+          "id": "brand_seat",
+          "title": "Seat",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/seat.json"
+        },
+        {
+          "id": "brand_skoda",
+          "title": "Skoda",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/skoda.json"
+        },
+        {
+          "id": "brand_smart",
+          "title": "Smart",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/smart.json"
+        },
+        {
+          "id": "brand_spectre",
+          "title": "Spectre",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/spectre.json"
+        },
+        {
+          "id": "brand_ssangyong",
+          "title": "Ssangyong",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/ssangyong.json"
+        },
+        {
+          "id": "brand_subaru",
+          "title": "Subaru",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/subaru.json"
+        },
+        {
+          "id": "brand_suzuki",
+          "title": "Suzuki",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/suzuki.json"
+        },
+        {
+          "id": "brand_talbot",
+          "title": "Talbot",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/talbot.json"
+        },
+        {
+          "id": "brand_tesla",
+          "title": "Tesla",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/tesla.json"
+        },
+        {
+          "id": "brand_think",
+          "title": "Think",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/think.json"
+        },
+        {
+          "id": "brand_toyota",
+          "title": "Toyota",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/toyota.json"
+        },
+        {
+          "id": "brand_triumph",
+          "title": "Triumph",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/triumph.json"
+        },
+        {
+          "id": "brand_tvr",
+          "title": "TVR",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/tvr.json"
+        },
+        {
+          "id": "brand_volkswagen",
+          "title": "Volkswagen",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/volkswagen.json"
+        },
+        {
+          "id": "brand_volvo",
+          "title": "Volvo",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/volvo.json"
+        },
+        {
+          "id": "brand_yugo",
+          "title": "Yugo",
+          "refs": [
+            "car_brands"
+          ],
+          "url": "/static/brands/yugo.json"
+        }
+      ]
+    }
+  ]
+}

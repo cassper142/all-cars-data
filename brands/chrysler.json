@@ -1,0 +1,1020 @@
+{
+  "id": "brand_chrysler",
+  "title": "Chrysler",
+  "models": [
+    {
+      "id": "model_chrysler_grand_voyager",
+      "title": "Chrysler Grand Voyager",
+      "generations": [
+        {
+          "id": "gen_chrysler_grand_voyager",
+          "title": "Chrysler Grand Voyager",
+          "children": [
+            {
+              "id": "mod_2008_chrysler_grand_voyager_2_8_crd_lx",
+              "title": "2008 Chrysler Grand Voyager 2.8 CRD LX"
+            },
+            {
+              "id": "mod_2008_chrysler_grand_voyager_2_8_crd_limited",
+              "title": "2008 Chrysler Grand Voyager 2.8 CRD Limited"
+            },
+            {
+              "id": "mod_2008_chrysler_grand_voyager_2_8_crd_touring",
+              "title": "2008 Chrysler Grand Voyager 2.8 CRD Touring"
+            },
+            {
+              "id": "mod_2008_chrysler_grand_voyager_3_8_v6_lx",
+              "title": "2008 Chrysler Grand Voyager 3.8 V6 LX"
+            },
+            {
+              "id": "mod_2008_chrysler_grand_voyager_3_8_v6_limited",
+              "title": "2008 Chrysler Grand Voyager 3.8 V6 Limited"
+            },
+            {
+              "id": "mod_2008_chrysler_grand_voyager_3_8_v6_touring",
+              "title": "2008 Chrysler Grand Voyager 3.8 V6 Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_grand_voyager",
+          "title": "Chrysler Grand Voyager",
+          "children": [
+            {
+              "id": "mod_2004_chrysler_grand_voyager_2_4i_se_luxe",
+              "title": "2004 Chrysler Grand Voyager 2.4i SE Luxe"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_2_4i_se",
+              "title": "2004 Chrysler Grand Voyager 2.4i SE"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_2_5_crd_lx",
+              "title": "2004 Chrysler Grand Voyager 2.5 CRD LX"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_2_5_crd_limited",
+              "title": "2004 Chrysler Grand Voyager 2.5 CRD Limited"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_2_5_crd_se_luxe",
+              "title": "2004 Chrysler Grand Voyager 2.5 CRD SE Luxe"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_2_5_crd_se",
+              "title": "2004 Chrysler Grand Voyager 2.5 CRD SE"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_2_8_crd_lx",
+              "title": "2004 Chrysler Grand Voyager 2.8 CRD LX"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_2_8_crd_limited",
+              "title": "2004 Chrysler Grand Voyager 2.8 CRD Limited"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_2_8_crd_se_luxe",
+              "title": "2004 Chrysler Grand Voyager 2.8 CRD SE Luxe"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_2_8_crd_se",
+              "title": "2004 Chrysler Grand Voyager 2.8 CRD SE"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_3_3i_v6_lx",
+              "title": "2004 Chrysler Grand Voyager 3.3i V6 LX"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_3_3i_v6_limited_awd",
+              "title": "2004 Chrysler Grand Voyager 3.3i V6 Limited AWD"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_3_3i_v6_limited",
+              "title": "2004 Chrysler Grand Voyager 3.3i V6 Limited"
+            },
+            {
+              "id": "mod_2004_chrysler_grand_voyager_3_3i_v6_se_luxe",
+              "title": "2004 Chrysler Grand Voyager 3.3i V6 SE Luxe"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_grand_voyager",
+          "title": "Chrysler Grand Voyager",
+          "children": [
+            {
+              "id": "mod_2001_chrysler_grand_voyager_2_4i_lx_plus",
+              "title": "2001 Chrysler Grand Voyager 2.4i LX Plus"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_2_4i_lx",
+              "title": "2001 Chrysler Grand Voyager 2.4i LX"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_2_4i_se_luxe",
+              "title": "2001 Chrysler Grand Voyager 2.4i SE Luxe"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_2_4i_se",
+              "title": "2001 Chrysler Grand Voyager 2.4i SE"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_2_5_crd_lx_plus",
+              "title": "2001 Chrysler Grand Voyager 2.5 CRD LX Plus"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_2_5_crd_lx",
+              "title": "2001 Chrysler Grand Voyager 2.5 CRD LX"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_2_5_crd_limited",
+              "title": "2001 Chrysler Grand Voyager 2.5 CRD Limited"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_2_5_crd_se_luxe",
+              "title": "2001 Chrysler Grand Voyager 2.5 CRD SE Luxe"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_2_5_crd_se",
+              "title": "2001 Chrysler Grand Voyager 2.5 CRD SE"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_3_3i_v6_lx_awd",
+              "title": "2001 Chrysler Grand Voyager 3.3i V6 LX AWD"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_3_3i_v6_lx_plus_awd",
+              "title": "2001 Chrysler Grand Voyager 3.3i V6 LX Plus AWD"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_3_3i_v6_lx_plus",
+              "title": "2001 Chrysler Grand Voyager 3.3i V6 LX Plus"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_3_3i_v6_lx",
+              "title": "2001 Chrysler Grand Voyager 3.3i V6 LX"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_3_3i_v6_limited_awd",
+              "title": "2001 Chrysler Grand Voyager 3.3i V6 Limited AWD"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_3_3i_v6_limited",
+              "title": "2001 Chrysler Grand Voyager 3.3i V6 Limited"
+            },
+            {
+              "id": "mod_2001_chrysler_grand_voyager_3_3i_v6_se_luxe",
+              "title": "2001 Chrysler Grand Voyager 3.3i V6 SE Luxe"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_grand_voyager",
+          "title": "Chrysler Grand Voyager",
+          "children": [
+            {
+              "id": "mod_1996_chrysler_grand_voyager_2_5_td_se",
+              "title": "1996 Chrysler Grand Voyager 2.5 TD SE"
+            },
+            {
+              "id": "mod_1996_chrysler_grand_voyager_3_3i_v6_le",
+              "title": "1996 Chrysler Grand Voyager 3.3i V6 LE"
+            },
+            {
+              "id": "mod_1996_chrysler_grand_voyager_3_3i_v6_se",
+              "title": "1996 Chrysler Grand Voyager 3.3i V6 SE"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_grand_voyager",
+          "title": "Chrysler Grand Voyager",
+          "children": [
+            {
+              "id": "mod_1991_chrysler_grand_voyager_3_3i_v6_le",
+              "title": "1991 Chrysler Grand Voyager 3.3i V6 LE"
+            },
+            {
+              "id": "mod_1991_chrysler_grand_voyager_3_3i_v6_se",
+              "title": "1991 Chrysler Grand Voyager 3.3i V6 SE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_300c_touring",
+      "title": "Chrysler 300C Touring",
+      "generations": [
+        {
+          "id": "gen_chrysler_300c_touring",
+          "title": "Chrysler 300C Touring",
+          "children": [
+            {
+              "id": "mod_2004_chrysler_300c_touring_2_7_v6",
+              "title": "2004 Chrysler 300C Touring 2.7 V6"
+            },
+            {
+              "id": "mod_2004_chrysler_300c_touring_3_5_v6_awd",
+              "title": "2004 Chrysler 300C Touring 3.5 V6 AWD"
+            },
+            {
+              "id": "mod_2004_chrysler_300c_touring_3_5_v6",
+              "title": "2004 Chrysler 300C Touring 3.5 V6"
+            },
+            {
+              "id": "mod_2004_chrysler_300c_touring_hemi_5_7_v8_awd",
+              "title": "2004 Chrysler 300C Touring HEMI 5.7 V8 AWD"
+            },
+            {
+              "id": "mod_2004_chrysler_300c_touring_hemi_5_7_v8",
+              "title": "2004 Chrysler 300C Touring HEMI 5.7 V8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_crossfire_roadster",
+      "title": "Chrysler Crossfire Roadster",
+      "generations": [
+        {
+          "id": "gen_chrysler_crossfire_roadster",
+          "title": "Chrysler Crossfire Roadster",
+          "children": [
+            {
+              "id": "mod_2004_chrysler_crossfire_roadster_3_2i_v6_black_edition",
+              "title": "2004 Chrysler Crossfire Roadster 3.2i V6 Black Edition"
+            },
+            {
+              "id": "mod_2004_chrysler_crossfire_roadster_3_2i_v6_limited",
+              "title": "2004 Chrysler Crossfire Roadster 3.2i V6 Limited"
+            },
+            {
+              "id": "mod_2004_chrysler_crossfire_roadster_3_2i_v6_srt6",
+              "title": "2004 Chrysler Crossfire Roadster 3.2i V6 SRT6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_pt_cruiser_cabrio",
+      "title": "Chrysler PT Cruiser Cabrio",
+      "generations": [
+        {
+          "id": "gen_chrysler_pt_cruiser_cabrio",
+          "title": "Chrysler PT Cruiser Cabrio",
+          "children": [
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_cabrio_2_4i_gt_turbo",
+              "title": "2006 Chrysler PT Cruiser Cabrio 2.4i GT Turbo"
+            },
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_cabrio_2_4i_limited",
+              "title": "2006 Chrysler PT Cruiser Cabrio 2.4i Limited"
+            },
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_cabrio_2_4i_touring",
+              "title": "2006 Chrysler PT Cruiser Cabrio 2.4i Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_pt_cruiser_cabrio",
+          "title": "Chrysler PT Cruiser Cabrio",
+          "children": [
+            {
+              "id": "mod_2004_chrysler_pt_cruiser_cabrio_2_4i_gt_turbo",
+              "title": "2004 Chrysler PT Cruiser Cabrio 2.4i GT Turbo"
+            },
+            {
+              "id": "mod_2004_chrysler_pt_cruiser_cabrio_2_4i_limited",
+              "title": "2004 Chrysler PT Cruiser Cabrio 2.4i Limited"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_300c",
+      "title": "Chrysler 300C",
+      "generations": [
+        {
+          "id": "gen_chrysler_300c",
+          "title": "Chrysler 300C",
+          "children": [
+            {
+              "id": "mod_2004_chrysler_300c_2_7_v6",
+              "title": "2004 Chrysler 300C 2.7 V6"
+            },
+            {
+              "id": "mod_2004_chrysler_300c_3_5_v6",
+              "title": "2004 Chrysler 300C 3.5 V6"
+            },
+            {
+              "id": "mod_2004_chrysler_300c_hemi_5_7_v8",
+              "title": "2004 Chrysler 300C HEMI 5.7 V8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_crossfire",
+      "title": "Chrysler Crossfire",
+      "generations": [
+        {
+          "id": "gen_chrysler_crossfire",
+          "title": "Chrysler Crossfire",
+          "children": [
+            {
+              "id": "mod_2003_chrysler_crossfire_3_2i_v6_limited",
+              "title": "2003 Chrysler Crossfire 3.2i V6 Limited"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_sebring_cabrio",
+      "title": "Chrysler Sebring Cabrio",
+      "generations": [
+        {
+          "id": "gen_chrysler_sebring_cabrio",
+          "title": "Chrysler Sebring Cabrio",
+          "children": [
+            {
+              "id": "mod_2007_chrysler_sebring_cabrio_2_0_crd_limited",
+              "title": "2007 Chrysler Sebring Cabrio 2.0 CRD Limited"
+            },
+            {
+              "id": "mod_2007_chrysler_sebring_cabrio_2_0_crd_touring",
+              "title": "2007 Chrysler Sebring Cabrio 2.0 CRD Touring"
+            },
+            {
+              "id": "mod_2007_chrysler_sebring_cabrio_2_7_v6_limited",
+              "title": "2007 Chrysler Sebring Cabrio 2.7 V6 Limited"
+            },
+            {
+              "id": "mod_2007_chrysler_sebring_cabrio_2_7_v6_touring",
+              "title": "2007 Chrysler Sebring Cabrio 2.7 V6 Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_sebring_cabrio",
+          "title": "Chrysler Sebring Cabrio",
+          "children": [
+            {
+              "id": "mod_2003_chrysler_sebring_cabrio_2_0i_16v_lx",
+              "title": "2003 Chrysler Sebring Cabrio 2.0i 16V LX"
+            },
+            {
+              "id": "mod_2003_chrysler_sebring_cabrio_2_7i_24v_lx",
+              "title": "2003 Chrysler Sebring Cabrio 2.7i 24V LX"
+            },
+            {
+              "id": "mod_2003_chrysler_sebring_cabrio_2_7i_24v_limited",
+              "title": "2003 Chrysler Sebring Cabrio 2.7i 24V Limited"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_sebring_cabrio",
+          "title": "Chrysler Sebring Cabrio",
+          "children": [
+            {
+              "id": "mod_2001_chrysler_sebring_cabrio_2_0i_16v_lx",
+              "title": "2001 Chrysler Sebring Cabrio 2.0i 16V LX"
+            },
+            {
+              "id": "mod_2001_chrysler_sebring_cabrio_2_7i_24v_lx",
+              "title": "2001 Chrysler Sebring Cabrio 2.7i 24V LX"
+            },
+            {
+              "id": "mod_2001_chrysler_sebring_cabrio_2_7i_24v_limited",
+              "title": "2001 Chrysler Sebring Cabrio 2.7i 24V Limited"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_sebring",
+      "title": "Chrysler Sebring",
+      "generations": [
+        {
+          "id": "gen_chrysler_sebring",
+          "title": "Chrysler Sebring",
+          "children": [
+            {
+              "id": "mod_2007_chrysler_sebring_2_0_16v_limited",
+              "title": "2007 Chrysler Sebring 2.0 16V Limited"
+            },
+            {
+              "id": "mod_2007_chrysler_sebring_2_0_16v_touring",
+              "title": "2007 Chrysler Sebring 2.0 16V Touring"
+            },
+            {
+              "id": "mod_2007_chrysler_sebring_2_0_crd_limited",
+              "title": "2007 Chrysler Sebring 2.0 CRD Limited"
+            },
+            {
+              "id": "mod_2007_chrysler_sebring_2_0_crd_touring",
+              "title": "2007 Chrysler Sebring 2.0 CRD Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_sebring",
+          "title": "Chrysler Sebring",
+          "children": [
+            {
+              "id": "mod_2003_chrysler_sebring_2_0i_16v_le",
+              "title": "2003 Chrysler Sebring 2.0i 16V LE"
+            },
+            {
+              "id": "mod_2003_chrysler_sebring_2_7i_24v_le",
+              "title": "2003 Chrysler Sebring 2.7i 24V LE"
+            },
+            {
+              "id": "mod_2003_chrysler_sebring_2_7i_24v_lx",
+              "title": "2003 Chrysler Sebring 2.7i 24V LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_sebring",
+          "title": "Chrysler Sebring",
+          "children": [
+            {
+              "id": "mod_2001_chrysler_sebring_2_0i_16v_le",
+              "title": "2001 Chrysler Sebring 2.0i 16V LE"
+            },
+            {
+              "id": "mod_2001_chrysler_sebring_2_7i_24v_le",
+              "title": "2001 Chrysler Sebring 2.7i 24V LE"
+            },
+            {
+              "id": "mod_2001_chrysler_sebring_2_7i_24v_lx",
+              "title": "2001 Chrysler Sebring 2.7i 24V LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_pt_cruiser",
+      "title": "Chrysler PT Cruiser",
+      "generations": [
+        {
+          "id": "gen_chrysler_pt_cruiser",
+          "title": "Chrysler PT Cruiser",
+          "children": [
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_1_6i_challenger",
+              "title": "2006 Chrysler PT Cruiser 1.6i Challenger"
+            },
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_1_6i_classic",
+              "title": "2006 Chrysler PT Cruiser 1.6i Classic"
+            },
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_1_6i_touring",
+              "title": "2006 Chrysler PT Cruiser 1.6i Touring"
+            },
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_2_2_crd_challenger",
+              "title": "2006 Chrysler PT Cruiser 2.2 CRD Challenger"
+            },
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_2_2_crd_classic",
+              "title": "2006 Chrysler PT Cruiser 2.2 CRD Classic"
+            },
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_2_2_crd_limited",
+              "title": "2006 Chrysler PT Cruiser 2.2 CRD Limited"
+            },
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_2_2_crd_touring",
+              "title": "2006 Chrysler PT Cruiser 2.2 CRD Touring"
+            },
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_2_4i_classic",
+              "title": "2006 Chrysler PT Cruiser 2.4i Classic"
+            },
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_2_4i_gt_turbo",
+              "title": "2006 Chrysler PT Cruiser 2.4i GT Turbo"
+            },
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_2_4i_limited",
+              "title": "2006 Chrysler PT Cruiser 2.4i Limited"
+            },
+            {
+              "id": "mod_2006_chrysler_pt_cruiser_2_4i_touring",
+              "title": "2006 Chrysler PT Cruiser 2.4i Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_pt_cruiser",
+          "title": "Chrysler PT Cruiser",
+          "children": [
+            {
+              "id": "mod_2000_chrysler_pt_cruiser_2_0i_classic",
+              "title": "2000 Chrysler PT Cruiser 2.0i Classic"
+            },
+            {
+              "id": "mod_2000_chrysler_pt_cruiser_2_0i_limited",
+              "title": "2000 Chrysler PT Cruiser 2.0i Limited"
+            },
+            {
+              "id": "mod_2000_chrysler_pt_cruiser_2_0i_touring",
+              "title": "2000 Chrysler PT Cruiser 2.0i Touring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_300m",
+      "title": "Chrysler 300M",
+      "generations": [
+        {
+          "id": "gen_chrysler_300m",
+          "title": "Chrysler 300M",
+          "children": [
+            {
+              "id": "mod_1998_chrysler_300m_2_7i_v6_se",
+              "title": "1998 Chrysler 300M 2.7i V6 SE"
+            },
+            {
+              "id": "mod_1998_chrysler_300m_3_5i_v6_le",
+              "title": "1998 Chrysler 300M 3.5i V6 LE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_viper_gts",
+      "title": "Chrysler Viper GTS",
+      "generations": [
+        {
+          "id": "gen_chrysler_viper_gts",
+          "title": "Chrysler Viper GTS",
+          "children": [
+            {
+              "id": "mod_1997_chrysler_viper_gts",
+              "title": "1997 Chrysler Viper GTS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_stratus_convertible",
+      "title": "Chrysler Stratus Convertible",
+      "generations": [
+        {
+          "id": "gen_chrysler_stratus_convertible",
+          "title": "Chrysler Stratus Convertible",
+          "children": [
+            {
+              "id": "mod_1996_chrysler_stratus_convertible_2_0i_16v_le",
+              "title": "1996 Chrysler Stratus Convertible 2.0i 16V LE"
+            },
+            {
+              "id": "mod_1996_chrysler_stratus_convertible_2_5i_24v_lx",
+              "title": "1996 Chrysler Stratus Convertible 2.5i 24V LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_new_yorker",
+      "title": "Chrysler New Yorker",
+      "generations": [
+        {
+          "id": "gen_chrysler_new_yorker",
+          "title": "Chrysler New Yorker",
+          "children": [
+            {
+              "id": "mod_1995_chrysler_new_yorker_3_5i_v6_24v",
+              "title": "1995 Chrysler New Yorker 3.5i V6 24V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_stratus",
+      "title": "Chrysler Stratus",
+      "generations": [
+        {
+          "id": "gen_chrysler_stratus",
+          "title": "Chrysler Stratus",
+          "children": [
+            {
+              "id": "mod_1995_chrysler_stratus_2_0i_16v_le",
+              "title": "1995 Chrysler Stratus 2.0i 16V LE"
+            },
+            {
+              "id": "mod_1995_chrysler_stratus_2_5i_24v_lx",
+              "title": "1995 Chrysler Stratus 2.5i 24V LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_neon",
+      "title": "Chrysler Neon",
+      "generations": [
+        {
+          "id": "gen_chrysler_neon",
+          "title": "Chrysler Neon",
+          "children": [
+            {
+              "id": "mod_1999_chrysler_neon_2_0i_16v_le",
+              "title": "1999 Chrysler Neon 2.0i 16V LE"
+            },
+            {
+              "id": "mod_1999_chrysler_neon_2_0i_16v_lx",
+              "title": "1999 Chrysler Neon 2.0i 16V LX"
+            },
+            {
+              "id": "mod_1999_chrysler_neon_2_0i_16v_se",
+              "title": "1999 Chrysler Neon 2.0i 16V SE"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_neon",
+          "title": "Chrysler Neon",
+          "children": [
+            {
+              "id": "mod_1994_chrysler_neon_2_0i_16v_le",
+              "title": "1994 Chrysler Neon 2.0i 16V LE"
+            },
+            {
+              "id": "mod_1994_chrysler_neon_2_0i_16v_se",
+              "title": "1994 Chrysler Neon 2.0i 16V SE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_vision",
+      "title": "Chrysler Vision",
+      "generations": [
+        {
+          "id": "gen_chrysler_vision",
+          "title": "Chrysler Vision",
+          "children": [
+            {
+              "id": "mod_1993_chrysler_vision_3_5i_v6_24v_le",
+              "title": "1993 Chrysler Vision 3.5i V6 24V LE"
+            },
+            {
+              "id": "mod_1993_chrysler_vision_3_5i_v6_24v",
+              "title": "1993 Chrysler Vision 3.5i V6 24V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_viper",
+      "title": "Chrysler Viper",
+      "generations": [
+        {
+          "id": "gen_chrysler_viper",
+          "title": "Chrysler Viper",
+          "children": [
+            {
+              "id": "mod_1993_chrysler_viper_rt_10",
+              "title": "1993 Chrysler Viper RT/10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_daytona",
+      "title": "Chrysler Daytona",
+      "generations": [
+        {
+          "id": "gen_chrysler_daytona",
+          "title": "Chrysler Daytona",
+          "children": [
+            {
+              "id": "mod_1992_chrysler_daytona_shelby",
+              "title": "1992 Chrysler Daytona Shelby"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_saratoga",
+      "title": "Chrysler Saratoga",
+      "generations": [
+        {
+          "id": "gen_chrysler_saratoga",
+          "title": "Chrysler Saratoga",
+          "children": [
+            {
+              "id": "mod_1989_chrysler_saratoga_2_5i",
+              "title": "1989 Chrysler Saratoga 2.5i"
+            },
+            {
+              "id": "mod_1989_chrysler_saratoga_3_0i_se",
+              "title": "1989 Chrysler Saratoga 3.0i SE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_le_baron_convertible",
+      "title": "Chrysler Le Baron Convertible",
+      "generations": [
+        {
+          "id": "gen_chrysler_le_baron_convertible",
+          "title": "Chrysler Le Baron Convertible",
+          "children": [
+            {
+              "id": "mod_1988_chrysler_le_baron_convertible",
+              "title": "1988 Chrysler Le Baron Convertible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_voyager",
+      "title": "Chrysler Voyager",
+      "generations": [
+        {
+          "id": "gen_chrysler_voyager",
+          "title": "Chrysler Voyager",
+          "children": [
+            {
+              "id": "mod_2004_chrysler_voyager_2_4i_16v_lx",
+              "title": "2004 Chrysler Voyager 2.4i 16V LX"
+            },
+            {
+              "id": "mod_2004_chrysler_voyager_2_4i_16v_se_luxe",
+              "title": "2004 Chrysler Voyager 2.4i 16V SE Luxe"
+            },
+            {
+              "id": "mod_2004_chrysler_voyager_2_4i_16v_se",
+              "title": "2004 Chrysler Voyager 2.4i 16V SE"
+            },
+            {
+              "id": "mod_2004_chrysler_voyager_2_5_crd_lx",
+              "title": "2004 Chrysler Voyager 2.5 CRD LX"
+            },
+            {
+              "id": "mod_2004_chrysler_voyager_2_5_crd_se_luxe",
+              "title": "2004 Chrysler Voyager 2.5 CRD SE Luxe"
+            },
+            {
+              "id": "mod_2004_chrysler_voyager_2_5_crd_se",
+              "title": "2004 Chrysler Voyager 2.5 CRD SE"
+            },
+            {
+              "id": "mod_2004_chrysler_voyager_2_8_crd_lx",
+              "title": "2004 Chrysler Voyager 2.8 CRD LX"
+            },
+            {
+              "id": "mod_2004_chrysler_voyager_2_8_crd_se_luxe",
+              "title": "2004 Chrysler Voyager 2.8 CRD SE Luxe"
+            },
+            {
+              "id": "mod_2004_chrysler_voyager_2_8_crd_se",
+              "title": "2004 Chrysler Voyager 2.8 CRD SE"
+            },
+            {
+              "id": "mod_2004_chrysler_voyager_3_3i_v6_lx",
+              "title": "2004 Chrysler Voyager 3.3i V6 LX"
+            },
+            {
+              "id": "mod_2004_chrysler_voyager_3_3i_v6_se_luxe",
+              "title": "2004 Chrysler Voyager 3.3i V6 SE Luxe"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_voyager",
+          "title": "Chrysler Voyager",
+          "children": [
+            {
+              "id": "mod_2001_chrysler_voyager_2_4i_16v_lx_plus",
+              "title": "2001 Chrysler Voyager 2.4i 16V LX Plus"
+            },
+            {
+              "id": "mod_2001_chrysler_voyager_2_4i_16v_lx",
+              "title": "2001 Chrysler Voyager 2.4i 16V LX"
+            },
+            {
+              "id": "mod_2001_chrysler_voyager_2_4i_16v_se_luxe",
+              "title": "2001 Chrysler Voyager 2.4i 16V SE Luxe"
+            },
+            {
+              "id": "mod_2001_chrysler_voyager_2_4i_16v_se",
+              "title": "2001 Chrysler Voyager 2.4i 16V SE"
+            },
+            {
+              "id": "mod_2001_chrysler_voyager_2_5_crd_lx_plus",
+              "title": "2001 Chrysler Voyager 2.5 CRD LX Plus"
+            },
+            {
+              "id": "mod_2001_chrysler_voyager_2_5_crd_lx",
+              "title": "2001 Chrysler Voyager 2.5 CRD LX"
+            },
+            {
+              "id": "mod_2001_chrysler_voyager_2_5_crd_se_luxe",
+              "title": "2001 Chrysler Voyager 2.5 CRD SE Luxe"
+            },
+            {
+              "id": "mod_2001_chrysler_voyager_2_5_crd_se",
+              "title": "2001 Chrysler Voyager 2.5 CRD SE"
+            },
+            {
+              "id": "mod_2001_chrysler_voyager_3_3i_v6_lx_plus",
+              "title": "2001 Chrysler Voyager 3.3i V6 LX Plus"
+            },
+            {
+              "id": "mod_2001_chrysler_voyager_3_3i_v6_lx",
+              "title": "2001 Chrysler Voyager 3.3i V6 LX"
+            },
+            {
+              "id": "mod_2001_chrysler_voyager_3_3i_v6_se_luxe",
+              "title": "2001 Chrysler Voyager 3.3i V6 SE Luxe"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_voyager",
+          "title": "Chrysler Voyager",
+          "children": [
+            {
+              "id": "mod_1996_chrysler_voyager_2_4i_16v_s",
+              "title": "1996 Chrysler Voyager 2.4i 16V S"
+            },
+            {
+              "id": "mod_1996_chrysler_voyager_2_4i_16v_se",
+              "title": "1996 Chrysler Voyager 2.4i 16V SE"
+            },
+            {
+              "id": "mod_1996_chrysler_voyager_2_5_td_s",
+              "title": "1996 Chrysler Voyager 2.5 TD S"
+            },
+            {
+              "id": "mod_1996_chrysler_voyager_2_5_td_se",
+              "title": "1996 Chrysler Voyager 2.5 TD SE"
+            },
+            {
+              "id": "mod_1996_chrysler_voyager_3_3i_v6_le",
+              "title": "1996 Chrysler Voyager 3.3i V6 LE"
+            },
+            {
+              "id": "mod_1996_chrysler_voyager_3_3i_v6_se",
+              "title": "1996 Chrysler Voyager 3.3i V6 SE"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_voyager",
+          "title": "Chrysler Voyager",
+          "children": [
+            {
+              "id": "mod_1991_chrysler_voyager_2_5i_se",
+              "title": "1991 Chrysler Voyager 2.5i SE"
+            },
+            {
+              "id": "mod_1991_chrysler_voyager_3_0i_v6_le",
+              "title": "1991 Chrysler Voyager 3.0i V6 LE"
+            },
+            {
+              "id": "mod_1991_chrysler_voyager_3_0i_v6_se",
+              "title": "1991 Chrysler Voyager 3.0i V6 SE"
+            },
+            {
+              "id": "mod_1991_chrysler_voyager_3_3i_v6_le_awd",
+              "title": "1991 Chrysler Voyager 3.3i V6 LE AWD"
+            },
+            {
+              "id": "mod_1991_chrysler_voyager_3_3i_v6_le",
+              "title": "1991 Chrysler Voyager 3.3i V6 LE"
+            },
+            {
+              "id": "mod_1991_chrysler_voyager_3_3i_v6_se_awd",
+              "title": "1991 Chrysler Voyager 3.3i V6 SE AWD"
+            },
+            {
+              "id": "mod_1991_chrysler_voyager_3_3i_v6_se",
+              "title": "1991 Chrysler Voyager 3.3i V6 SE"
+            }
+          ]
+        },
+        {
+          "id": "gen_chrysler_voyager",
+          "title": "Chrysler Voyager",
+          "children": [
+            {
+              "id": "mod_1988_chrysler_voyager_2_5i_se",
+              "title": "1988 Chrysler Voyager 2.5i SE"
+            },
+            {
+              "id": "mod_1988_chrysler_voyager_3_0i_le",
+              "title": "1988 Chrysler Voyager 3.0i LE"
+            },
+            {
+              "id": "mod_1988_chrysler_voyager_3_0i_se",
+              "title": "1988 Chrysler Voyager 3.0i SE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_es",
+      "title": "Chrysler ES",
+      "generations": [
+        {
+          "id": "gen_chrysler_es",
+          "title": "Chrysler ES",
+          "children": [
+            {
+              "id": "mod_1988_chrysler_es_turbo",
+              "title": "1988 Chrysler ES Turbo"
+            },
+            {
+              "id": "mod_1988_chrysler_es",
+              "title": "1988 Chrysler ES"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_gs",
+      "title": "Chrysler GS",
+      "generations": [
+        {
+          "id": "gen_chrysler_gs",
+          "title": "Chrysler GS",
+          "children": [
+            {
+              "id": "mod_1988_chrysler_gs_turbo",
+              "title": "1988 Chrysler GS Turbo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_gts",
+      "title": "Chrysler GTS",
+      "generations": [
+        {
+          "id": "gen_chrysler_gts",
+          "title": "Chrysler GTS",
+          "children": [
+            {
+              "id": "mod_1988_chrysler_gts_turbo",
+              "title": "1988 Chrysler GTS Turbo"
+            },
+            {
+              "id": "mod_1988_chrysler_gts",
+              "title": "1988 Chrysler GTS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chrysler_le_baron_coupe",
+      "title": "Chrysler Le Baron Coupe",
+      "generations": [
+        {
+          "id": "gen_chrysler_le_baron_coupe",
+          "title": "Chrysler Le Baron Coupe",
+          "children": [
+            {
+              "id": "mod_1988_chrysler_le_baron_coupe",
+              "title": "1988 Chrysler Le Baron Coupe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

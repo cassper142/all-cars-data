@@ -1,0 +1,1240 @@
+{
+  "id": "brand_daihatsu",
+  "title": "Daihatsu",
+  "models": [
+    {
+      "id": "model_daihatsu_materia",
+      "title": "Daihatsu Materia",
+      "generations": [
+        {
+          "id": "gen_daihatsu_materia",
+          "title": "Daihatsu Materia",
+          "children": [
+            {
+              "id": "mod_2007_daihatsu_materia_1_3_funk",
+              "title": "2007 Daihatsu Materia 1.3 Funk"
+            },
+            {
+              "id": "mod_2007_daihatsu_materia_1_3_rythm",
+              "title": "2007 Daihatsu Materia 1.3 Rythm"
+            },
+            {
+              "id": "mod_2007_daihatsu_materia_1_5_rock_4wd",
+              "title": "2007 Daihatsu Materia 1.5 Rock 4WD"
+            },
+            {
+              "id": "mod_2007_daihatsu_materia_1_5_soul",
+              "title": "2007 Daihatsu Materia 1.5 Soul"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_trevis",
+      "title": "Daihatsu Trevis",
+      "generations": [
+        {
+          "id": "gen_daihatsu_trevis",
+          "title": "Daihatsu Trevis",
+          "children": [
+            {
+              "id": "mod_2006_daihatsu_trevis",
+              "title": "2006 Daihatsu Trevis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_sirion_2",
+      "title": "Daihatsu Sirion 2",
+      "generations": [
+        {
+          "id": "gen_daihatsu_sirion_2",
+          "title": "Daihatsu Sirion 2",
+          "children": [
+            {
+              "id": "mod_2005_daihatsu_sirion_2_1_0_12v_dvvt_premium",
+              "title": "2005 Daihatsu Sirion 2 1.0 12V DVVT Premium"
+            },
+            {
+              "id": "mod_2005_daihatsu_sirion_2_1_0_12v_dvvt_trend",
+              "title": "2005 Daihatsu Sirion 2 1.0 12V DVVT Trend"
+            },
+            {
+              "id": "mod_2005_daihatsu_sirion_2_1_3_16v_dvvt_comfort",
+              "title": "2005 Daihatsu Sirion 2 1.3 16V DVVT Comfort"
+            },
+            {
+              "id": "mod_2005_daihatsu_sirion_2_1_3_16v_dvvt_prestige",
+              "title": "2005 Daihatsu Sirion 2 1.3 16V DVVT Prestige"
+            },
+            {
+              "id": "mod_2005_daihatsu_sirion_2_1_3_16v_dvvt_sport",
+              "title": "2005 Daihatsu Sirion 2 1.3 16V DVVT Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_copen",
+      "title": "Daihatsu Copen",
+      "generations": [
+        {
+          "id": "gen_daihatsu_copen",
+          "title": "Daihatsu Copen",
+          "children": [
+            {
+              "id": "mod_2006_daihatsu_copen_roadster_1_3_16v_dvvt_classic",
+              "title": "2006 Daihatsu Copen Roadster 1.3 16V DVVT Classic"
+            },
+            {
+              "id": "mod_2006_daihatsu_copen_roadster_1_3_16v_dvvt_gt",
+              "title": "2006 Daihatsu Copen Roadster 1.3 16V DVVT GT"
+            },
+            {
+              "id": "mod_2006_daihatsu_copen_roadster_1_3_16v_dvvt_sport",
+              "title": "2006 Daihatsu Copen Roadster 1.3 16V DVVT Sport"
+            },
+            {
+              "id": "mod_2006_daihatsu_copen_roadster_1_3_16v_dvvt",
+              "title": "2006 Daihatsu Copen Roadster 1.3 16V DVVT"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_copen",
+          "title": "Daihatsu Copen",
+          "children": [
+            {
+              "id": "mod_2004_daihatsu_copen_type_1",
+              "title": "2004 Daihatsu Copen Type 1"
+            },
+            {
+              "id": "mod_2004_daihatsu_copen_type_2",
+              "title": "2004 Daihatsu Copen Type 2"
+            },
+            {
+              "id": "mod_2004_daihatsu_copen_type_3",
+              "title": "2004 Daihatsu Copen Type 3"
+            },
+            {
+              "id": "mod_2004_daihatsu_copen_type_s",
+              "title": "2004 Daihatsu Copen Type S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_young_rv",
+      "title": "Daihatsu Young RV",
+      "generations": [
+        {
+          "id": "gen_daihatsu_young_rv",
+          "title": "Daihatsu Young RV",
+          "children": [
+            {
+              "id": "mod_2001_daihatsu_young_rv_1_0_12v_rti",
+              "title": "2001 Daihatsu Young RV 1.0 12V RTi"
+            },
+            {
+              "id": "mod_2001_daihatsu_young_rv_1_0_12v_sti",
+              "title": "2001 Daihatsu Young RV 1.0 12V STi"
+            },
+            {
+              "id": "mod_2001_daihatsu_young_rv_1_0_12v_sxi",
+              "title": "2001 Daihatsu Young RV 1.0 12V SXi"
+            },
+            {
+              "id": "mod_2001_daihatsu_young_rv_1_3_16v_s",
+              "title": "2001 Daihatsu Young RV 1.3 16V S"
+            },
+            {
+              "id": "mod_2001_daihatsu_young_rv_1_3_16v_vti",
+              "title": "2001 Daihatsu Young RV 1.3 16V VTi"
+            },
+            {
+              "id": "mod_2001_daihatsu_young_rv_1_3_16v_xti",
+              "title": "2001 Daihatsu Young RV 1.3 16V XTi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_terios",
+      "title": "Daihatsu Terios",
+      "generations": [
+        {
+          "id": "gen_daihatsu_terios",
+          "title": "Daihatsu Terios",
+          "children": [
+            {
+              "id": "mod_2010_daihatsu_terios_1_5_16v_dvvt_2wd_tour",
+              "title": "2010 Daihatsu Terios 1.5 16V DVVT 2WD Tour"
+            },
+            {
+              "id": "mod_2010_daihatsu_terios_1_5_16v_dvvt_2wd_traffic",
+              "title": "2010 Daihatsu Terios 1.5 16V DVVT 2WD Traffic"
+            },
+            {
+              "id": "mod_2010_daihatsu_terios_1_5_16v_dvvt_2wd_trophy",
+              "title": "2010 Daihatsu Terios 1.5 16V DVVT 2WD Trophy"
+            },
+            {
+              "id": "mod_2010_daihatsu_terios_1_5_16v_dvvt_4wd_top",
+              "title": "2010 Daihatsu Terios 1.5 16V DVVT 4WD Top"
+            },
+            {
+              "id": "mod_2010_daihatsu_terios_1_5_16v_dvvt_4wd_track",
+              "title": "2010 Daihatsu Terios 1.5 16V DVVT 4WD Track"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_terios",
+          "title": "Daihatsu Terios",
+          "children": [
+            {
+              "id": "mod_2006_daihatsu_terios_1_5_16v_dvvt_2wd_expedition",
+              "title": "2006 Daihatsu Terios 1.5 16V DVVT 2WD Expedition"
+            },
+            {
+              "id": "mod_2006_daihatsu_terios_1_5_16v_dvvt_2wd_explore",
+              "title": "2006 Daihatsu Terios 1.5 16V DVVT 2WD Explore"
+            },
+            {
+              "id": "mod_2006_daihatsu_terios_1_5_16v_dvvt_2wd",
+              "title": "2006 Daihatsu Terios 1.5 16V DVVT 2WD"
+            },
+            {
+              "id": "mod_2006_daihatsu_terios_1_5_16v_dvvt_4wd_adventure",
+              "title": "2006 Daihatsu Terios 1.5 16V DVVT 4WD Adventure"
+            },
+            {
+              "id": "mod_2006_daihatsu_terios_1_5_16v_dvvt_4wd_exclusive",
+              "title": "2006 Daihatsu Terios 1.5 16V DVVT 4WD Exclusive"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_terios",
+          "title": "Daihatsu Terios",
+          "children": [
+            {
+              "id": "mod_2000_daihatsu_terios_2wd_1_3i_dx",
+              "title": "2000 Daihatsu Terios 2WD 1.3i DX"
+            },
+            {
+              "id": "mod_2000_daihatsu_terios_2wd_1_3i_sxe",
+              "title": "2000 Daihatsu Terios 2WD 1.3i SXE"
+            },
+            {
+              "id": "mod_2000_daihatsu_terios_4wd_1_3i_dx",
+              "title": "2000 Daihatsu Terios 4WD 1.3i DX"
+            },
+            {
+              "id": "mod_2000_daihatsu_terios_4wd_1_3i_sxe",
+              "title": "2000 Daihatsu Terios 4WD 1.3i SXE"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_terios",
+          "title": "Daihatsu Terios",
+          "children": [
+            {
+              "id": "mod_1997_daihatsu_terios_1_3i_sx",
+              "title": "1997 Daihatsu Terios 1.3i SX"
+            },
+            {
+              "id": "mod_1997_daihatsu_terios_1_3i",
+              "title": "1997 Daihatsu Terios 1.3i"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_sirion",
+      "title": "Daihatsu Sirion",
+      "generations": [
+        {
+          "id": "gen_daihatsu_sirion",
+          "title": "Daihatsu Sirion",
+          "children": [
+            {
+              "id": "mod_2002_daihatsu_sirion_1_0_12v_rti",
+              "title": "2002 Daihatsu Sirion 1.0 12V RTi"
+            },
+            {
+              "id": "mod_2002_daihatsu_sirion_1_0_12v_sxi",
+              "title": "2002 Daihatsu Sirion 1.0 12V SXi"
+            },
+            {
+              "id": "mod_2002_daihatsu_sirion_1_3_16v_sr",
+              "title": "2002 Daihatsu Sirion 1.3 16V SR"
+            },
+            {
+              "id": "mod_2002_daihatsu_sirion_1_3_16v_vtr",
+              "title": "2002 Daihatsu Sirion 1.3 16V VTR"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_sirion",
+          "title": "Daihatsu Sirion",
+          "children": [
+            {
+              "id": "mod_1998_daihatsu_sirion_1_0_12v_rti",
+              "title": "1998 Daihatsu Sirion 1.0 12V RTi"
+            },
+            {
+              "id": "mod_1998_daihatsu_sirion_1_0_12v_sti",
+              "title": "1998 Daihatsu Sirion 1.0 12V STi"
+            },
+            {
+              "id": "mod_1998_daihatsu_sirion_1_0_12v_xti",
+              "title": "1998 Daihatsu Sirion 1.0 12V XTi"
+            },
+            {
+              "id": "mod_1998_daihatsu_sirion_1_0_12v_zti",
+              "title": "1998 Daihatsu Sirion 1.0 12V ZTi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_gran_move",
+      "title": "Daihatsu Gran Move",
+      "generations": [
+        {
+          "id": "gen_daihatsu_gran_move",
+          "title": "Daihatsu Gran Move",
+          "children": [
+            {
+              "id": "mod_1999_daihatsu_gran_move_1_6i_cx",
+              "title": "1999 Daihatsu Gran Move 1.6i CX"
+            },
+            {
+              "id": "mod_1999_daihatsu_gran_move_1_6i",
+              "title": "1999 Daihatsu Gran Move 1.6i"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_gran_move",
+          "title": "Daihatsu Gran Move",
+          "children": [
+            {
+              "id": "mod_1997_daihatsu_gran_move_1_5i_cx",
+              "title": "1997 Daihatsu Gran Move 1.5i CX"
+            },
+            {
+              "id": "mod_1997_daihatsu_gran_move_1_5i",
+              "title": "1997 Daihatsu Gran Move 1.5i"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_move",
+      "title": "Daihatsu Move",
+      "generations": [
+        {
+          "id": "gen_daihatsu_move",
+          "title": "Daihatsu Move",
+          "children": [
+            {
+              "id": "mod_2001_daihatsu_move",
+              "title": "2001 Daihatsu Move"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_move",
+          "title": "Daihatsu Move",
+          "children": [
+            {
+              "id": "mod_1999_daihatsu_move",
+              "title": "1999 Daihatsu Move"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_move",
+          "title": "Daihatsu Move",
+          "children": [
+            {
+              "id": "mod_1997_daihatsu_move_x",
+              "title": "1997 Daihatsu Move X"
+            },
+            {
+              "id": "mod_1997_daihatsu_move",
+              "title": "1997 Daihatsu Move"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_valera",
+      "title": "Daihatsu Valera",
+      "generations": [
+        {
+          "id": "gen_daihatsu_valera",
+          "title": "Daihatsu Valera",
+          "children": [
+            {
+              "id": "mod_1996_daihatsu_valera_1_5_sgi",
+              "title": "1996 Daihatsu Valera 1.5 SGi"
+            },
+            {
+              "id": "mod_1996_daihatsu_valera_1_5_sri",
+              "title": "1996 Daihatsu Valera 1.5 SRi"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_valera",
+          "title": "Daihatsu Valera",
+          "children": [
+            {
+              "id": "mod_1995_daihatsu_valera_1_5_sgi",
+              "title": "1995 Daihatsu Valera 1.5 SGi"
+            },
+            {
+              "id": "mod_1995_daihatsu_valera_1_5_sri",
+              "title": "1995 Daihatsu Valera 1.5 SRi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_rocky",
+      "title": "Daihatsu Rocky",
+      "generations": [
+        {
+          "id": "gen_daihatsu_rocky",
+          "title": "Daihatsu Rocky",
+          "children": [
+            {
+              "id": "mod_1994_daihatsu_rocky_hardtop_se_diesel",
+              "title": "1994 Daihatsu Rocky Hardtop SE Diesel"
+            },
+            {
+              "id": "mod_1994_daihatsu_rocky_hardtop_se_turbo_diesel",
+              "title": "1994 Daihatsu Rocky Hardtop SE Turbo Diesel"
+            },
+            {
+              "id": "mod_1994_daihatsu_rocky_wagon_se_diesel",
+              "title": "1994 Daihatsu Rocky Wagon SE Diesel"
+            },
+            {
+              "id": "mod_1994_daihatsu_rocky_wagon_se_turbo_diesel",
+              "title": "1994 Daihatsu Rocky Wagon SE Turbo Diesel"
+            },
+            {
+              "id": "mod_1994_daihatsu_rocky_wagon_sx_turbo_diesel",
+              "title": "1994 Daihatsu Rocky Wagon SX Turbo Diesel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_feroza",
+      "title": "Daihatsu Feroza",
+      "generations": [
+        {
+          "id": "gen_daihatsu_feroza",
+          "title": "Daihatsu Feroza",
+          "children": [
+            {
+              "id": "mod_1995_daihatsu_feroza_soft_top",
+              "title": "1995 Daihatsu Feroza Soft-Top"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_feroza",
+          "title": "Daihatsu Feroza",
+          "children": [
+            {
+              "id": "mod_1991_daihatsu_feroza_resin_top_el",
+              "title": "1991 Daihatsu Feroza Resin-Top EL"
+            },
+            {
+              "id": "mod_1991_daihatsu_feroza_resin_top_el_ii",
+              "title": "1991 Daihatsu Feroza Resin-Top EL-II"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_applause",
+      "title": "Daihatsu Applause",
+      "generations": [
+        {
+          "id": "gen_daihatsu_applause",
+          "title": "Daihatsu Applause",
+          "children": [
+            {
+              "id": "mod_1998_daihatsu_applause_1_6i",
+              "title": "1998 Daihatsu Applause 1.6i"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_applause",
+          "title": "Daihatsu Applause",
+          "children": [
+            {
+              "id": "mod_1989_daihatsu_applause_16_li",
+              "title": "1989 Daihatsu Applause 16 Li"
+            },
+            {
+              "id": "mod_1989_daihatsu_applause_16_xi",
+              "title": "1989 Daihatsu Applause 16 Xi"
+            },
+            {
+              "id": "mod_1989_daihatsu_applause_16_zi_4wd",
+              "title": "1989 Daihatsu Applause 16 Zi 4WD"
+            },
+            {
+              "id": "mod_1989_daihatsu_applause_16i",
+              "title": "1989 Daihatsu Applause 16i"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_rocky_wagon",
+      "title": "Daihatsu Rocky Wagon",
+      "generations": [
+        {
+          "id": "gen_daihatsu_rocky_wagon",
+          "title": "Daihatsu Rocky Wagon",
+          "children": [
+            {
+              "id": "mod_1988_daihatsu_rocky_wagon_dx_diesel",
+              "title": "1988 Daihatsu Rocky Wagon DX Diesel"
+            },
+            {
+              "id": "mod_1988_daihatsu_rocky_wagon_dx_turbo_diesel",
+              "title": "1988 Daihatsu Rocky Wagon DX Turbo Diesel"
+            },
+            {
+              "id": "mod_1988_daihatsu_rocky_wagon_dx",
+              "title": "1988 Daihatsu Rocky Wagon DX"
+            },
+            {
+              "id": "mod_1988_daihatsu_rocky_wagon_ex_diesel",
+              "title": "1988 Daihatsu Rocky Wagon EX Diesel"
+            },
+            {
+              "id": "mod_1988_daihatsu_rocky_wagon_ex_turbo_diesel",
+              "title": "1988 Daihatsu Rocky Wagon EX Turbo Diesel"
+            },
+            {
+              "id": "mod_1988_daihatsu_rocky_wagon_ex",
+              "title": "1988 Daihatsu Rocky Wagon EX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_rocky_hardtop",
+      "title": "Daihatsu Rocky Hardtop",
+      "generations": [
+        {
+          "id": "gen_daihatsu_rocky_hardtop",
+          "title": "Daihatsu Rocky Hardtop",
+          "children": [
+            {
+              "id": "mod_1988_daihatsu_rocky_hardtop_bx_diesel",
+              "title": "1988 Daihatsu Rocky Hardtop BX Diesel"
+            },
+            {
+              "id": "mod_1988_daihatsu_rocky_hardtop_bx",
+              "title": "1988 Daihatsu Rocky Hardtop BX"
+            },
+            {
+              "id": "mod_1988_daihatsu_rocky_hardtop_dx_diesel",
+              "title": "1988 Daihatsu Rocky Hardtop DX Diesel"
+            },
+            {
+              "id": "mod_1988_daihatsu_rocky_hardtop_dx_turbo_diesel",
+              "title": "1988 Daihatsu Rocky Hardtop DX Turbo Diesel"
+            },
+            {
+              "id": "mod_1988_daihatsu_rocky_hardtop_dx",
+              "title": "1988 Daihatsu Rocky Hardtop DX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_rocky_softtop",
+      "title": "Daihatsu Rocky Softtop",
+      "generations": [
+        {
+          "id": "gen_daihatsu_rocky_softtop",
+          "title": "Daihatsu Rocky Softtop",
+          "children": [
+            {
+              "id": "mod_1988_daihatsu_rocky_softtop_bx_diesel",
+              "title": "1988 Daihatsu Rocky Softtop BX Diesel"
+            },
+            {
+              "id": "mod_1988_daihatsu_rocky_softtop_bx",
+              "title": "1988 Daihatsu Rocky Softtop BX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_cuore",
+      "title": "Daihatsu Cuore",
+      "generations": [
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_2007_daihatsu_cuore_1_0_premium",
+              "title": "2007 Daihatsu Cuore 1.0 Premium"
+            },
+            {
+              "id": "mod_2007_daihatsu_cuore_1_0_trend",
+              "title": "2007 Daihatsu Cuore 1.0 Trend"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_2006_daihatsu_cuore_1_0_12v_dvvt_nagano",
+              "title": "2006 Daihatsu Cuore 1.0 12V DVVT Nagano"
+            },
+            {
+              "id": "mod_2006_daihatsu_cuore_1_0_12v_dvvt_sport",
+              "title": "2006 Daihatsu Cuore 1.0 12V DVVT Sport"
+            },
+            {
+              "id": "mod_2006_daihatsu_cuore_1_0_12v_dvvt_tokyo",
+              "title": "2006 Daihatsu Cuore 1.0 12V DVVT Tokyo"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_2006_daihatsu_cuore_1_0_12v_dvvt_nagano",
+              "title": "2006 Daihatsu Cuore 1.0 12V DVVT Nagano"
+            },
+            {
+              "id": "mod_2006_daihatsu_cuore_1_0_12v_dvvt_osaka",
+              "title": "2006 Daihatsu Cuore 1.0 12V DVVT Osaka"
+            },
+            {
+              "id": "mod_2006_daihatsu_cuore_1_0_12v_dvvt_sport",
+              "title": "2006 Daihatsu Cuore 1.0 12V DVVT Sport"
+            },
+            {
+              "id": "mod_2006_daihatsu_cuore_1_0_12v_dvvt_tokyo",
+              "title": "2006 Daihatsu Cuore 1.0 12V DVVT Tokyo"
+            },
+            {
+              "id": "mod_2006_daihatsu_cuore_1_0_12v_dvvt",
+              "title": "2006 Daihatsu Cuore 1.0 12V DVVT"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_2003_daihatsu_cuore_1_0_12v_nagano",
+              "title": "2003 Daihatsu Cuore 1.0 12V Nagano"
+            },
+            {
+              "id": "mod_2003_daihatsu_cuore_1_0_12v_tokyo",
+              "title": "2003 Daihatsu Cuore 1.0 12V Tokyo"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_2003_daihatsu_cuore_1_0_12v_kyoto",
+              "title": "2003 Daihatsu Cuore 1.0 12V Kyoto"
+            },
+            {
+              "id": "mod_2003_daihatsu_cuore_1_0_12v_nagano",
+              "title": "2003 Daihatsu Cuore 1.0 12V Nagano"
+            },
+            {
+              "id": "mod_2003_daihatsu_cuore_1_0_12v_osaka",
+              "title": "2003 Daihatsu Cuore 1.0 12V Osaka"
+            },
+            {
+              "id": "mod_2003_daihatsu_cuore_1_0_12v_tokyo",
+              "title": "2003 Daihatsu Cuore 1.0 12V Tokyo"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_2001_daihatsu_cuore_rti_12v",
+              "title": "2001 Daihatsu Cuore RTi-12V"
+            },
+            {
+              "id": "mod_2001_daihatsu_cuore_sti_12v",
+              "title": "2001 Daihatsu Cuore STi-12V"
+            },
+            {
+              "id": "mod_2001_daihatsu_cuore_xti_12v",
+              "title": "2001 Daihatsu Cuore XTi-12V"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_2001_daihatsu_cuore_rti_12v",
+              "title": "2001 Daihatsu Cuore RTi-12V"
+            },
+            {
+              "id": "mod_2001_daihatsu_cuore_sti_12v",
+              "title": "2001 Daihatsu Cuore STi-12V"
+            },
+            {
+              "id": "mod_2001_daihatsu_cuore_xti_12v",
+              "title": "2001 Daihatsu Cuore XTi-12V"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_1998_daihatsu_cuore_rti_12v",
+              "title": "1998 Daihatsu Cuore RTi-12V"
+            },
+            {
+              "id": "mod_1998_daihatsu_cuore_sti_12v",
+              "title": "1998 Daihatsu Cuore STi-12V"
+            },
+            {
+              "id": "mod_1998_daihatsu_cuore_xti_12v",
+              "title": "1998 Daihatsu Cuore XTi-12V"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_1998_daihatsu_cuore_rti_12v",
+              "title": "1998 Daihatsu Cuore RTi-12V"
+            },
+            {
+              "id": "mod_1998_daihatsu_cuore_sti_12v",
+              "title": "1998 Daihatsu Cuore STi-12V"
+            },
+            {
+              "id": "mod_1998_daihatsu_cuore_xti_12v",
+              "title": "1998 Daihatsu Cuore XTi-12V"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_1995_daihatsu_cuore_life_style",
+              "title": "1995 Daihatsu Cuore Life Style"
+            },
+            {
+              "id": "mod_1995_daihatsu_cuore_trendy",
+              "title": "1995 Daihatsu Cuore Trendy"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_1995_daihatsu_cuore_basic",
+              "title": "1995 Daihatsu Cuore Basic"
+            },
+            {
+              "id": "mod_1995_daihatsu_cuore_casual",
+              "title": "1995 Daihatsu Cuore Casual"
+            },
+            {
+              "id": "mod_1995_daihatsu_cuore_life_style",
+              "title": "1995 Daihatsu Cuore Life Style"
+            },
+            {
+              "id": "mod_1995_daihatsu_cuore_trendy",
+              "title": "1995 Daihatsu Cuore Trendy"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_1990_daihatsu_cuore_850_tg",
+              "title": "1990 Daihatsu Cuore 850 TG"
+            },
+            {
+              "id": "mod_1990_daihatsu_cuore_850_ts",
+              "title": "1990 Daihatsu Cuore 850 TS"
+            },
+            {
+              "id": "mod_1990_daihatsu_cuore_850_tx",
+              "title": "1990 Daihatsu Cuore 850 TX"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_1990_daihatsu_cuore_850_cs",
+              "title": "1990 Daihatsu Cuore 850 CS"
+            },
+            {
+              "id": "mod_1990_daihatsu_cuore_850_cx",
+              "title": "1990 Daihatsu Cuore 850 CX"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_1987_daihatsu_cuore_850_tg",
+              "title": "1987 Daihatsu Cuore 850 TG"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_1985_daihatsu_cuore_850_cs",
+              "title": "1985 Daihatsu Cuore 850 CS"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_1983_daihatsu_cuore_sdl",
+              "title": "1983 Daihatsu Cuore SDL"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_cuore",
+          "title": "Daihatsu Cuore",
+          "children": [
+            {
+              "id": "mod_1980_daihatsu_cuore_de_luxe",
+              "title": "1980 Daihatsu Cuore De Luxe"
+            },
+            {
+              "id": "mod_1980_daihatsu_cuore_economy",
+              "title": "1980 Daihatsu Cuore Economy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_charmant",
+      "title": "Daihatsu Charmant",
+      "generations": [
+        {
+          "id": "gen_daihatsu_charmant",
+          "title": "Daihatsu Charmant",
+          "children": [
+            {
+              "id": "mod_1982_daihatsu_charmant_1300_lc",
+              "title": "1982 Daihatsu Charmant 1300 LC"
+            },
+            {
+              "id": "mod_1982_daihatsu_charmant_1300_ld_luxe",
+              "title": "1982 Daihatsu Charmant 1300 LD Luxe"
+            },
+            {
+              "id": "mod_1982_daihatsu_charmant_1600_lc",
+              "title": "1982 Daihatsu Charmant 1600 LC"
+            },
+            {
+              "id": "mod_1982_daihatsu_charmant_1600_le",
+              "title": "1982 Daihatsu Charmant 1600 LE"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charmant",
+          "title": "Daihatsu Charmant",
+          "children": [
+            {
+              "id": "mod_1980_daihatsu_charmant_1600_de_luxe",
+              "title": "1980 Daihatsu Charmant 1600 De Luxe"
+            },
+            {
+              "id": "mod_1980_daihatsu_charmant_1600",
+              "title": "1980 Daihatsu Charmant 1600"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_charmant_combi",
+      "title": "Daihatsu Charmant Combi",
+      "generations": [
+        {
+          "id": "gen_daihatsu_charmant_combi",
+          "title": "Daihatsu Charmant Combi",
+          "children": [
+            {
+              "id": "mod_1980_daihatsu_charmant_combi_1600",
+              "title": "1980 Daihatsu Charmant Combi 1600"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daihatsu_charade",
+      "title": "Daihatsu Charade",
+      "generations": [
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_2011_daihatsu_charade_city",
+              "title": "2011 Daihatsu Charade City"
+            },
+            {
+              "id": "mod_2011_daihatsu_charade_classic",
+              "title": "2011 Daihatsu Charade Classic"
+            },
+            {
+              "id": "mod_2011_daihatsu_charade_club",
+              "title": "2011 Daihatsu Charade Club"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1996_daihatsu_charade_1_3_cti",
+              "title": "1996 Daihatsu Charade 1.3 CTi"
+            },
+            {
+              "id": "mod_1996_daihatsu_charade_1_3_rti",
+              "title": "1996 Daihatsu Charade 1.3 RTi"
+            },
+            {
+              "id": "mod_1996_daihatsu_charade_1_3_sti",
+              "title": "1996 Daihatsu Charade 1.3 STi"
+            },
+            {
+              "id": "mod_1996_daihatsu_charade_1_3_xti",
+              "title": "1996 Daihatsu Charade 1.3 XTi"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1996_daihatsu_charade_1_3_cti",
+              "title": "1996 Daihatsu Charade 1.3 CTi"
+            },
+            {
+              "id": "mod_1996_daihatsu_charade_1_3_rti",
+              "title": "1996 Daihatsu Charade 1.3 RTi"
+            },
+            {
+              "id": "mod_1996_daihatsu_charade_1_3_sti",
+              "title": "1996 Daihatsu Charade 1.3 STi"
+            },
+            {
+              "id": "mod_1996_daihatsu_charade_1_3_xti",
+              "title": "1996 Daihatsu Charade 1.3 XTi"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1993_daihatsu_charade_1_3i_tr",
+              "title": "1993 Daihatsu Charade 1.3i TR"
+            },
+            {
+              "id": "mod_1993_daihatsu_charade_1_3i_ts_e",
+              "title": "1993 Daihatsu Charade 1.3i TS E"
+            },
+            {
+              "id": "mod_1993_daihatsu_charade_1_3i_ts",
+              "title": "1993 Daihatsu Charade 1.3i TS"
+            },
+            {
+              "id": "mod_1993_daihatsu_charade_1_3i_tx",
+              "title": "1993 Daihatsu Charade 1.3i TX"
+            },
+            {
+              "id": "mod_1993_daihatsu_charade_1_6_gti",
+              "title": "1993 Daihatsu Charade 1.6 GTI"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1993_daihatsu_charade_1_3i_cr",
+              "title": "1993 Daihatsu Charade 1.3i CR"
+            },
+            {
+              "id": "mod_1993_daihatsu_charade_1_3i_cs",
+              "title": "1993 Daihatsu Charade 1.3i CS"
+            },
+            {
+              "id": "mod_1993_daihatsu_charade_1_3i_cx",
+              "title": "1993 Daihatsu Charade 1.3i CX"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1992_daihatsu_charade_1_3i_sg",
+              "title": "1992 Daihatsu Charade 1.3i SG"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1987_daihatsu_charade_gtti",
+              "title": "1987 Daihatsu Charade GTti"
+            },
+            {
+              "id": "mod_1987_daihatsu_charade_ts_diesel",
+              "title": "1987 Daihatsu Charade TS Diesel"
+            },
+            {
+              "id": "mod_1987_daihatsu_charade_ts_special_turbo_diesel",
+              "title": "1987 Daihatsu Charade TS Special Turbo Diesel"
+            },
+            {
+              "id": "mod_1987_daihatsu_charade_ts_special",
+              "title": "1987 Daihatsu Charade TS Special"
+            },
+            {
+              "id": "mod_1987_daihatsu_charade_ts",
+              "title": "1987 Daihatsu Charade TS"
+            },
+            {
+              "id": "mod_1987_daihatsu_charade_tx",
+              "title": "1987 Daihatsu Charade TX"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1987_daihatsu_charade_cs_special_turbo_diesel",
+              "title": "1987 Daihatsu Charade CS Special Turbo Diesel"
+            },
+            {
+              "id": "mod_1987_daihatsu_charade_cs_special",
+              "title": "1987 Daihatsu Charade CS Special"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1985_daihatsu_charade_tg_economy",
+              "title": "1985 Daihatsu Charade TG Economy"
+            },
+            {
+              "id": "mod_1985_daihatsu_charade_tg",
+              "title": "1985 Daihatsu Charade TG"
+            },
+            {
+              "id": "mod_1985_daihatsu_charade_ts_diesel",
+              "title": "1985 Daihatsu Charade TS Diesel"
+            },
+            {
+              "id": "mod_1985_daihatsu_charade_ts_economy_diesel",
+              "title": "1985 Daihatsu Charade TS Economy Diesel"
+            },
+            {
+              "id": "mod_1985_daihatsu_charade_ts_turbo_diesel",
+              "title": "1985 Daihatsu Charade TS Turbo Diesel"
+            },
+            {
+              "id": "mod_1985_daihatsu_charade_ts",
+              "title": "1985 Daihatsu Charade TS"
+            },
+            {
+              "id": "mod_1985_daihatsu_charade_tx_turbo",
+              "title": "1985 Daihatsu Charade TX Turbo"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1985_daihatsu_charade_cg",
+              "title": "1985 Daihatsu Charade CG"
+            },
+            {
+              "id": "mod_1985_daihatsu_charade_cs_economy_diesel",
+              "title": "1985 Daihatsu Charade CS Economy Diesel"
+            },
+            {
+              "id": "mod_1985_daihatsu_charade_cs",
+              "title": "1985 Daihatsu Charade CS"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1983_daihatsu_charade_tg_luxe",
+              "title": "1983 Daihatsu Charade TG Luxe"
+            },
+            {
+              "id": "mod_1983_daihatsu_charade_ts_diesel",
+              "title": "1983 Daihatsu Charade TS Diesel"
+            },
+            {
+              "id": "mod_1983_daihatsu_charade_ts_economy_diesel",
+              "title": "1983 Daihatsu Charade TS Economy Diesel"
+            },
+            {
+              "id": "mod_1983_daihatsu_charade_ts_sport",
+              "title": "1983 Daihatsu Charade TS Sport"
+            },
+            {
+              "id": "mod_1983_daihatsu_charade_ts",
+              "title": "1983 Daihatsu Charade TS"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1983_daihatsu_charade_cs_diesel",
+              "title": "1983 Daihatsu Charade CS Diesel"
+            },
+            {
+              "id": "mod_1983_daihatsu_charade_cs",
+              "title": "1983 Daihatsu Charade CS"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1978_daihatsu_charade_xg",
+              "title": "1978 Daihatsu Charade XG"
+            },
+            {
+              "id": "mod_1978_daihatsu_charade_xte",
+              "title": "1978 Daihatsu Charade XTE"
+            }
+          ]
+        },
+        {
+          "id": "gen_daihatsu_charade",
+          "title": "Daihatsu Charade",
+          "children": [
+            {
+              "id": "mod_1978_daihatsu_charade_xg",
+              "title": "1978 Daihatsu Charade XG"
+            },
+            {
+              "id": "mod_1978_daihatsu_charade_xo",
+              "title": "1978 Daihatsu Charade XO"
+            },
+            {
+              "id": "mod_1978_daihatsu_charade_xte",
+              "title": "1978 Daihatsu Charade XTE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2125 @@
+{
+  "id": "brand_suzuki",
+  "title": "Suzuki",
+  "models": [
+    {
+      "id": "model_suzuki_across",
+      "title": "Suzuki Across",
+      "generations": [
+        {
+          "id": "gen_suzuki_across",
+          "title": "Suzuki Across",
+          "children": [
+            {
+              "id": "mod_2020_suzuki_across_2_5_plug_in_hybrid_style",
+              "title": "2020 Suzuki Across 2.5 Plug-in Hybrid Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_celerio",
+      "title": "Suzuki Celerio",
+      "generations": [
+        {
+          "id": "gen_suzuki_celerio",
+          "title": "Suzuki Celerio",
+          "children": [
+            {
+              "id": "mod_2015_suzuki_celerio_1_0_comfort",
+              "title": "2015 Suzuki Celerio 1.0 Comfort"
+            },
+            {
+              "id": "mod_2015_suzuki_celerio_1_0_economy",
+              "title": "2015 Suzuki Celerio 1.0 Economy"
+            },
+            {
+              "id": "mod_2015_suzuki_celerio_1_0_exclusive",
+              "title": "2015 Suzuki Celerio 1.0 Exclusive"
+            },
+            {
+              "id": "mod_2015_suzuki_celerio_1_0_style",
+              "title": "2015 Suzuki Celerio 1.0 Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_vitara",
+      "title": "Suzuki Vitara",
+      "generations": [
+        {
+          "id": "gen_suzuki_vitara",
+          "title": "Suzuki Vitara",
+          "children": [
+            {
+              "id": "mod_2018_suzuki_vitara_1_0_boosterjet_allgrip_select",
+              "title": "2018 Suzuki Vitara 1.0 Boosterjet Allgrip Select"
+            },
+            {
+              "id": "mod_2018_suzuki_vitara_1_0_boosterjet_comfort",
+              "title": "2018 Suzuki Vitara 1.0 Boosterjet Comfort"
+            },
+            {
+              "id": "mod_2018_suzuki_vitara_1_0_boosterjet_select",
+              "title": "2018 Suzuki Vitara 1.0 Boosterjet Select"
+            },
+            {
+              "id": "mod_2018_suzuki_vitara_1_0_boosterjet_stijl",
+              "title": "2018 Suzuki Vitara 1.0 Boosterjet Stijl"
+            },
+            {
+              "id": "mod_2018_suzuki_vitara_1_4_boosterjet_allgrip_select",
+              "title": "2018 Suzuki Vitara 1.4 Boosterjet Allgrip Select"
+            },
+            {
+              "id": "mod_2018_suzuki_vitara_1_4_boosterjet_allgrip_stijl",
+              "title": "2018 Suzuki Vitara 1.4 Boosterjet Allgrip Stijl"
+            },
+            {
+              "id": "mod_2018_suzuki_vitara_1_4_boosterjet_select",
+              "title": "2018 Suzuki Vitara 1.4 Boosterjet Select"
+            },
+            {
+              "id": "mod_2018_suzuki_vitara_1_4_boosterjet_stijl",
+              "title": "2018 Suzuki Vitara 1.4 Boosterjet Stijl"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_vitara",
+          "title": "Suzuki Vitara",
+          "children": [
+            {
+              "id": "mod_2015_suzuki_vitara_1_4_allgrip_s_boosterjet",
+              "title": "2015 Suzuki Vitara 1.4 Allgrip S Boosterjet"
+            },
+            {
+              "id": "mod_2015_suzuki_vitara_1_4_s_boosterjet",
+              "title": "2015 Suzuki Vitara 1.4 S Boosterjet"
+            },
+            {
+              "id": "mod_2015_suzuki_vitara_1_6_allgrip_exclusive",
+              "title": "2015 Suzuki Vitara 1.6 Allgrip Exclusive"
+            },
+            {
+              "id": "mod_2015_suzuki_vitara_1_6_allgrip_high_executive",
+              "title": "2015 Suzuki Vitara 1.6 Allgrip High Executive"
+            },
+            {
+              "id": "mod_2015_suzuki_vitara_1_6_comfort",
+              "title": "2015 Suzuki Vitara 1.6 Comfort"
+            },
+            {
+              "id": "mod_2015_suzuki_vitara_1_6_diesel_allgrip_exclusive",
+              "title": "2015 Suzuki Vitara 1.6 Diesel Allgrip Exclusive"
+            },
+            {
+              "id": "mod_2015_suzuki_vitara_1_6_diesel_allgrip_high_executive",
+              "title": "2015 Suzuki Vitara 1.6 Diesel Allgrip High Executive"
+            },
+            {
+              "id": "mod_2015_suzuki_vitara_1_6_diesel_exclusive",
+              "title": "2015 Suzuki Vitara 1.6 Diesel Exclusive"
+            },
+            {
+              "id": "mod_2015_suzuki_vitara_1_6_diesel_high_executive",
+              "title": "2015 Suzuki Vitara 1.6 Diesel High Executive"
+            },
+            {
+              "id": "mod_2015_suzuki_vitara_1_6_exclusive",
+              "title": "2015 Suzuki Vitara 1.6 Exclusive"
+            },
+            {
+              "id": "mod_2015_suzuki_vitara_1_6_high_executive",
+              "title": "2015 Suzuki Vitara 1.6 High Executive"
+            },
+            {
+              "id": "mod_2015_suzuki_vitara_1_6_style",
+              "title": "2015 Suzuki Vitara 1.6 Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_s_cross",
+      "title": "Suzuki S-Cross",
+      "generations": [
+        {
+          "id": "gen_suzuki_s_cross",
+          "title": "Suzuki S-Cross",
+          "children": [
+            {
+              "id": "mod_2016_suzuki_s_cross_1_0_boosterjet_comfort",
+              "title": "2016 Suzuki S-Cross 1.0 Boosterjet Comfort"
+            },
+            {
+              "id": "mod_2016_suzuki_s_cross_1_0_boosterjet_exclusive",
+              "title": "2016 Suzuki S-Cross 1.0 Boosterjet Exclusive"
+            },
+            {
+              "id": "mod_2016_suzuki_s_cross_1_0_boosterjet_high_executive",
+              "title": "2016 Suzuki S-Cross 1.0 Boosterjet High Executive"
+            },
+            {
+              "id": "mod_2016_suzuki_s_cross_1_4_boosterjet_allgrip_high_executive",
+              "title": "2016 Suzuki S-Cross 1.4 Boosterjet Allgrip High Executive"
+            },
+            {
+              "id": "mod_2016_suzuki_s_cross_1_4_boosterjet_exclusive",
+              "title": "2016 Suzuki S-Cross 1.4 Boosterjet Exclusive"
+            },
+            {
+              "id": "mod_2016_suzuki_s_cross_1_4_boosterjet_high_executive",
+              "title": "2016 Suzuki S-Cross 1.4 Boosterjet High Executive"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_s_cross",
+          "title": "Suzuki S-Cross",
+          "children": [
+            {
+              "id": "mod_2013_suzuki_s_cross_1_6_allgrip_exclusive",
+              "title": "2013 Suzuki S-Cross 1.6 Allgrip Exclusive"
+            },
+            {
+              "id": "mod_2013_suzuki_s_cross_1_6_allgrip_high_executive",
+              "title": "2013 Suzuki S-Cross 1.6 Allgrip High Executive"
+            },
+            {
+              "id": "mod_2013_suzuki_s_cross_1_6_base",
+              "title": "2013 Suzuki S-Cross 1.6 Base"
+            },
+            {
+              "id": "mod_2013_suzuki_s_cross_1_6_comfort",
+              "title": "2013 Suzuki S-Cross 1.6 Comfort"
+            },
+            {
+              "id": "mod_2013_suzuki_s_cross_1_6_ddis_allgrip_exclusive",
+              "title": "2013 Suzuki S-Cross 1.6 DDiS Allgrip Exclusive"
+            },
+            {
+              "id": "mod_2013_suzuki_s_cross_1_6_ddis_allgrip_high_executive",
+              "title": "2013 Suzuki S-Cross 1.6 DDiS Allgrip High Executive"
+            },
+            {
+              "id": "mod_2013_suzuki_s_cross_1_6_ddis_comfort",
+              "title": "2013 Suzuki S-Cross 1.6 DDiS Comfort"
+            },
+            {
+              "id": "mod_2013_suzuki_s_cross_1_6_ddis_exclusive",
+              "title": "2013 Suzuki S-Cross 1.6 DDiS Exclusive"
+            },
+            {
+              "id": "mod_2013_suzuki_s_cross_1_6_ddis_high_executive",
+              "title": "2013 Suzuki S-Cross 1.6 DDiS High Executive"
+            },
+            {
+              "id": "mod_2013_suzuki_s_cross_1_6_exclusive",
+              "title": "2013 Suzuki S-Cross 1.6 Exclusive"
+            },
+            {
+              "id": "mod_2013_suzuki_s_cross_1_6_high_executive",
+              "title": "2013 Suzuki S-Cross 1.6 High Executive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_jimny_metal_top",
+      "title": "Suzuki Jimny Metal Top",
+      "generations": [
+        {
+          "id": "gen_suzuki_jimny_metal_top",
+          "title": "Suzuki Jimny Metal Top",
+          "children": [
+            {
+              "id": "mod_2012_suzuki_jimny_metal_top_1_3_exclusive",
+              "title": "2012 Suzuki Jimny Metal Top 1.3 Exclusive"
+            },
+            {
+              "id": "mod_2012_suzuki_jimny_metal_top_1_3_jlx",
+              "title": "2012 Suzuki Jimny Metal Top 1.3 JLX"
+            },
+            {
+              "id": "mod_2012_suzuki_jimny_metal_top_1_3_jx",
+              "title": "2012 Suzuki Jimny Metal Top 1.3 JX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_jimny_metal_top",
+          "title": "Suzuki Jimny Metal Top",
+          "children": [
+            {
+              "id": "mod_2005_suzuki_jimny_metal_top_1_3_exclusive",
+              "title": "2005 Suzuki Jimny Metal Top 1.3 Exclusive"
+            },
+            {
+              "id": "mod_2005_suzuki_jimny_metal_top_1_3_jlx",
+              "title": "2005 Suzuki Jimny Metal Top 1.3 JLX"
+            },
+            {
+              "id": "mod_2005_suzuki_jimny_metal_top_1_3_jx",
+              "title": "2005 Suzuki Jimny Metal Top 1.3 JX"
+            },
+            {
+              "id": "mod_2005_suzuki_jimny_metal_top_1_5_exclusive_diesel",
+              "title": "2005 Suzuki Jimny Metal Top 1.5 Exclusive Diesel"
+            },
+            {
+              "id": "mod_2005_suzuki_jimny_metal_top_1_5_jlx_diesel",
+              "title": "2005 Suzuki Jimny Metal Top 1.5 JLX Diesel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_kizashi",
+      "title": "Suzuki Kizashi",
+      "generations": [
+        {
+          "id": "gen_suzuki_kizashi",
+          "title": "Suzuki Kizashi",
+          "children": [
+            {
+              "id": "mod_2010_suzuki_kizashi_2_4_i_awd_sport",
+              "title": "2010 Suzuki Kizashi 2.4 I-AWD Sport"
+            },
+            {
+              "id": "mod_2010_suzuki_kizashi_2_4_sport",
+              "title": "2010 Suzuki Kizashi 2.4 Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_splash",
+      "title": "Suzuki Splash",
+      "generations": [
+        {
+          "id": "gen_suzuki_splash",
+          "title": "Suzuki Splash",
+          "children": [
+            {
+              "id": "mod_2008_suzuki_splash_1_0_base",
+              "title": "2008 Suzuki Splash 1.0 Base"
+            },
+            {
+              "id": "mod_2008_suzuki_splash_1_0_comfort",
+              "title": "2008 Suzuki Splash 1.0 Comfort"
+            },
+            {
+              "id": "mod_2008_suzuki_splash_1_0_exclusive",
+              "title": "2008 Suzuki Splash 1.0 Exclusive"
+            },
+            {
+              "id": "mod_2008_suzuki_splash_1_0_trend",
+              "title": "2008 Suzuki Splash 1.0 Trend"
+            },
+            {
+              "id": "mod_2008_suzuki_splash_1_2_comfort",
+              "title": "2008 Suzuki Splash 1.2 Comfort"
+            },
+            {
+              "id": "mod_2008_suzuki_splash_1_2_exclusive",
+              "title": "2008 Suzuki Splash 1.2 Exclusive"
+            },
+            {
+              "id": "mod_2008_suzuki_splash_1_3_diesel_comfort",
+              "title": "2008 Suzuki Splash 1.3 Diesel Comfort"
+            },
+            {
+              "id": "mod_2008_suzuki_splash_1_3_diesel_exclusive",
+              "title": "2008 Suzuki Splash 1.3 Diesel Exclusive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_sx4",
+      "title": "Suzuki SX4",
+      "generations": [
+        {
+          "id": "gen_suzuki_sx4",
+          "title": "Suzuki SX4",
+          "children": [
+            {
+              "id": "mod_2010_suzuki_sx4_1_6_arrow",
+              "title": "2010 Suzuki SX4 1.6 Arrow"
+            },
+            {
+              "id": "mod_2010_suzuki_sx4_1_6_comfort",
+              "title": "2010 Suzuki SX4 1.6 Comfort"
+            },
+            {
+              "id": "mod_2010_suzuki_sx4_1_6_exclusive",
+              "title": "2010 Suzuki SX4 1.6 Exclusive"
+            },
+            {
+              "id": "mod_2010_suzuki_sx4_1_6_i_awd_comfort",
+              "title": "2010 Suzuki SX4 1.6 I-AWD Comfort"
+            },
+            {
+              "id": "mod_2010_suzuki_sx4_1_6_i_awd_exclusive",
+              "title": "2010 Suzuki SX4 1.6 I-AWD Exclusive"
+            },
+            {
+              "id": "mod_2010_suzuki_sx4_1_6_limited",
+              "title": "2010 Suzuki SX4 1.6 Limited"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_sx4",
+          "title": "Suzuki SX4",
+          "children": [
+            {
+              "id": "mod_2007_suzuki_sx4_1_6_comfort",
+              "title": "2007 Suzuki SX4 1.6 Comfort"
+            },
+            {
+              "id": "mod_2007_suzuki_sx4_1_6_exclusive",
+              "title": "2007 Suzuki SX4 1.6 Exclusive"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_sx4",
+          "title": "Suzuki SX4",
+          "children": [
+            {
+              "id": "mod_2006_suzuki_sx4_1_5_base",
+              "title": "2006 Suzuki SX4 1.5 Base"
+            },
+            {
+              "id": "mod_2006_suzuki_sx4_1_5_comfort",
+              "title": "2006 Suzuki SX4 1.5 Comfort"
+            },
+            {
+              "id": "mod_2006_suzuki_sx4_1_6_4grip_comfort",
+              "title": "2006 Suzuki SX4 1.6 4Grip Comfort"
+            },
+            {
+              "id": "mod_2006_suzuki_sx4_1_6_4grip_exclusive",
+              "title": "2006 Suzuki SX4 1.6 4Grip Exclusive"
+            },
+            {
+              "id": "mod_2006_suzuki_sx4_1_6_comfort",
+              "title": "2006 Suzuki SX4 1.6 Comfort"
+            },
+            {
+              "id": "mod_2006_suzuki_sx4_1_6_exclusive",
+              "title": "2006 Suzuki SX4 1.6 Exclusive"
+            },
+            {
+              "id": "mod_2006_suzuki_sx4_1_9_diesel_4grip_comfort",
+              "title": "2006 Suzuki SX4 1.9 Diesel 4Grip Comfort"
+            },
+            {
+              "id": "mod_2006_suzuki_sx4_1_9_diesel_4grip_exclusive",
+              "title": "2006 Suzuki SX4 1.9 Diesel 4Grip Exclusive"
+            },
+            {
+              "id": "mod_2006_suzuki_sx4_1_9_diesel_base",
+              "title": "2006 Suzuki SX4 1.9 Diesel Base"
+            },
+            {
+              "id": "mod_2006_suzuki_sx4_1_9_diesel_comfort",
+              "title": "2006 Suzuki SX4 1.9 Diesel Comfort"
+            },
+            {
+              "id": "mod_2006_suzuki_sx4_1_9_diesel_exclusive",
+              "title": "2006 Suzuki SX4 1.9 Diesel Exclusive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_grand_vitara",
+      "title": "Suzuki Grand Vitara",
+      "generations": [
+        {
+          "id": "gen_suzuki_grand_vitara",
+          "title": "Suzuki Grand Vitara",
+          "children": [
+            {
+              "id": "mod_2012_suzuki_grand_vitara_1_9_diesel_exclusive",
+              "title": "2012 Suzuki Grand Vitara 1.9 Diesel Exclusive"
+            },
+            {
+              "id": "mod_2012_suzuki_grand_vitara_2_4_exclusive",
+              "title": "2012 Suzuki Grand Vitara 2.4 Exclusive"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_grand_vitara",
+          "title": "Suzuki Grand Vitara",
+          "children": [
+            {
+              "id": "mod_2012_suzuki_grand_vitara_1_6_comfort",
+              "title": "2012 Suzuki Grand Vitara 1.6 Comfort"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_grand_vitara",
+          "title": "Suzuki Grand Vitara",
+          "children": [
+            {
+              "id": "mod_2010_suzuki_grand_vitara_1_6_comfort",
+              "title": "2010 Suzuki Grand Vitara 1.6 Comfort"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_grand_vitara",
+          "title": "Suzuki Grand Vitara",
+          "children": [
+            {
+              "id": "mod_2010_suzuki_grand_vitara_1_9_diesel_exclusive",
+              "title": "2010 Suzuki Grand Vitara 1.9 Diesel Exclusive"
+            },
+            {
+              "id": "mod_2010_suzuki_grand_vitara_2_4_exclusive",
+              "title": "2010 Suzuki Grand Vitara 2.4 Exclusive"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_grand_vitara",
+          "title": "Suzuki Grand Vitara",
+          "children": [
+            {
+              "id": "mod_2008_suzuki_grand_vitara_1_9_diesel_comfort",
+              "title": "2008 Suzuki Grand Vitara 1.9 Diesel Comfort"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_1_9_diesel_exclusive",
+              "title": "2008 Suzuki Grand Vitara 1.9 Diesel Exclusive"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_1_9_diesel_high_executive",
+              "title": "2008 Suzuki Grand Vitara 1.9 Diesel High Executive"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_2_0_comfort",
+              "title": "2008 Suzuki Grand Vitara 2.0 Comfort"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_2_0_exclusive",
+              "title": "2008 Suzuki Grand Vitara 2.0 Exclusive"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_2_4_exclusive",
+              "title": "2008 Suzuki Grand Vitara 2.4 Exclusive"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_2_4_high_executive",
+              "title": "2008 Suzuki Grand Vitara 2.4 High Executive"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_3_2_v6",
+              "title": "2008 Suzuki Grand Vitara 3.2 V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_grand_vitara",
+          "title": "Suzuki Grand Vitara",
+          "children": [
+            {
+              "id": "mod_2008_suzuki_grand_vitara_1_6_base",
+              "title": "2008 Suzuki Grand Vitara 1.6 Base"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_1_6_comfort",
+              "title": "2008 Suzuki Grand Vitara 1.6 Comfort"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_1_9_diesel_comfort",
+              "title": "2008 Suzuki Grand Vitara 1.9 Diesel Comfort"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_1_9_diesel_exclusive",
+              "title": "2008 Suzuki Grand Vitara 1.9 Diesel Exclusive"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_1_9_diesel_high_executive",
+              "title": "2008 Suzuki Grand Vitara 1.9 Diesel High Executive"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_2_4_comfort",
+              "title": "2008 Suzuki Grand Vitara 2.4 Comfort"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_2_4_exclusive",
+              "title": "2008 Suzuki Grand Vitara 2.4 Exclusive"
+            },
+            {
+              "id": "mod_2008_suzuki_grand_vitara_2_4_high_executive",
+              "title": "2008 Suzuki Grand Vitara 2.4 High Executive"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_grand_vitara",
+          "title": "Suzuki Grand Vitara",
+          "children": [
+            {
+              "id": "mod_2005_suzuki_grand_vitara_1_9_ddis_exclusive",
+              "title": "2005 Suzuki Grand Vitara 1.9 DDiS Exclusive"
+            },
+            {
+              "id": "mod_2005_suzuki_grand_vitara_1_9_ddis_high_executive",
+              "title": "2005 Suzuki Grand Vitara 1.9 DDiS High Executive"
+            },
+            {
+              "id": "mod_2005_suzuki_grand_vitara_1_9_ddis_jlx",
+              "title": "2005 Suzuki Grand Vitara 1.9 DDiS JLX"
+            },
+            {
+              "id": "mod_2005_suzuki_grand_vitara_2_0_exclusive",
+              "title": "2005 Suzuki Grand Vitara 2.0 Exclusive"
+            },
+            {
+              "id": "mod_2005_suzuki_grand_vitara_2_0_high_executive",
+              "title": "2005 Suzuki Grand Vitara 2.0 High Executive"
+            },
+            {
+              "id": "mod_2005_suzuki_grand_vitara_2_0_jlx",
+              "title": "2005 Suzuki Grand Vitara 2.0 JLX"
+            },
+            {
+              "id": "mod_2005_suzuki_grand_vitara_2_0_jx",
+              "title": "2005 Suzuki Grand Vitara 2.0 JX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_grand_vitara",
+          "title": "Suzuki Grand Vitara",
+          "children": [
+            {
+              "id": "mod_2005_suzuki_grand_vitara_1_6_exclusive",
+              "title": "2005 Suzuki Grand Vitara 1.6 Exclusive"
+            },
+            {
+              "id": "mod_2005_suzuki_grand_vitara_1_6_jlx",
+              "title": "2005 Suzuki Grand Vitara 1.6 JLX"
+            },
+            {
+              "id": "mod_2005_suzuki_grand_vitara_1_6_jx",
+              "title": "2005 Suzuki Grand Vitara 1.6 JX"
+            },
+            {
+              "id": "mod_2005_suzuki_grand_vitara_1_9_ddis_exclusive",
+              "title": "2005 Suzuki Grand Vitara 1.9 DDiS Exclusive"
+            },
+            {
+              "id": "mod_2005_suzuki_grand_vitara_1_9_ddis_jlx",
+              "title": "2005 Suzuki Grand Vitara 1.9 DDiS JLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_grand_vitara",
+          "title": "Suzuki Grand Vitara",
+          "children": [
+            {
+              "id": "mod_1998_suzuki_grand_vitara_2_0_td",
+              "title": "1998 Suzuki Grand Vitara 2.0 TD"
+            },
+            {
+              "id": "mod_1998_suzuki_grand_vitara_2_0",
+              "title": "1998 Suzuki Grand Vitara 2.0"
+            },
+            {
+              "id": "mod_1998_suzuki_grand_vitara_2_5_v6",
+              "title": "1998 Suzuki Grand Vitara 2.5 V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_ignis",
+      "title": "Suzuki Ignis",
+      "generations": [
+        {
+          "id": "gen_suzuki_ignis",
+          "title": "Suzuki Ignis",
+          "children": [
+            {
+              "id": "mod_2020_suzuki_ignis_1_2_allgrip_smart_hybrid_select",
+              "title": "2020 Suzuki Ignis 1.2 Allgrip Smart Hybrid Select"
+            },
+            {
+              "id": "mod_2020_suzuki_ignis_1_2_allgrip_smart_hybrid_style",
+              "title": "2020 Suzuki Ignis 1.2 Allgrip Smart Hybrid Style"
+            },
+            {
+              "id": "mod_2020_suzuki_ignis_1_2_smart_hybrid_comfort",
+              "title": "2020 Suzuki Ignis 1.2 Smart Hybrid Comfort"
+            },
+            {
+              "id": "mod_2020_suzuki_ignis_1_2_smart_hybrid_select",
+              "title": "2020 Suzuki Ignis 1.2 Smart Hybrid Select"
+            },
+            {
+              "id": "mod_2020_suzuki_ignis_1_2_smart_hybrid_style",
+              "title": "2020 Suzuki Ignis 1.2 Smart Hybrid Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_ignis",
+          "title": "Suzuki Ignis",
+          "children": [
+            {
+              "id": "mod_2016_suzuki_ignis_1_2_allgrip_select_intro",
+              "title": "2016 Suzuki Ignis 1.2 Allgrip Select Intro"
+            },
+            {
+              "id": "mod_2016_suzuki_ignis_1_2_allgrip_select",
+              "title": "2016 Suzuki Ignis 1.2 Allgrip Select"
+            },
+            {
+              "id": "mod_2016_suzuki_ignis_1_2_allgrip_smart_hybrid_stijl_intro",
+              "title": "2016 Suzuki Ignis 1.2 Allgrip Smart Hybrid Stijl Intro"
+            },
+            {
+              "id": "mod_2016_suzuki_ignis_1_2_allgrip_smart_hybrid_stijl",
+              "title": "2016 Suzuki Ignis 1.2 Allgrip Smart Hybrid Stijl"
+            },
+            {
+              "id": "mod_2016_suzuki_ignis_1_2_comfort",
+              "title": "2016 Suzuki Ignis 1.2 Comfort"
+            },
+            {
+              "id": "mod_2016_suzuki_ignis_1_2_select_intro",
+              "title": "2016 Suzuki Ignis 1.2 Select Intro"
+            },
+            {
+              "id": "mod_2016_suzuki_ignis_1_2_select",
+              "title": "2016 Suzuki Ignis 1.2 Select"
+            },
+            {
+              "id": "mod_2016_suzuki_ignis_1_2_smart_hybrid_stijl_intro",
+              "title": "2016 Suzuki Ignis 1.2 Smart Hybrid Stijl Intro"
+            },
+            {
+              "id": "mod_2016_suzuki_ignis_1_2_smart_hybrid_stijl",
+              "title": "2016 Suzuki Ignis 1.2 Smart Hybrid Stijl"
+            },
+            {
+              "id": "mod_2016_suzuki_ignis_1_2_stijl_intro",
+              "title": "2016 Suzuki Ignis 1.2 Stijl Intro"
+            },
+            {
+              "id": "mod_2016_suzuki_ignis_1_2_stijl",
+              "title": "2016 Suzuki Ignis 1.2 Stijl"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_ignis",
+          "title": "Suzuki Ignis",
+          "children": [
+            {
+              "id": "mod_2003_suzuki_ignis_1_3_ga",
+              "title": "2003 Suzuki Ignis 1.3 GA"
+            },
+            {
+              "id": "mod_2003_suzuki_ignis_1_3_gl",
+              "title": "2003 Suzuki Ignis 1.3 GL"
+            },
+            {
+              "id": "mod_2003_suzuki_ignis_1_3_gls_diesel",
+              "title": "2003 Suzuki Ignis 1.3 GLS Diesel"
+            },
+            {
+              "id": "mod_2003_suzuki_ignis_1_3_gls",
+              "title": "2003 Suzuki Ignis 1.3 GLS"
+            },
+            {
+              "id": "mod_2003_suzuki_ignis_1_5_gls",
+              "title": "2003 Suzuki Ignis 1.5 GLS"
+            },
+            {
+              "id": "mod_2003_suzuki_ignis_1_5_glx_4x4",
+              "title": "2003 Suzuki Ignis 1.5 GLX 4x4"
+            },
+            {
+              "id": "mod_2003_suzuki_ignis_1_5_glx",
+              "title": "2003 Suzuki Ignis 1.5 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_ignis",
+          "title": "Suzuki Ignis",
+          "children": [
+            {
+              "id": "mod_2001_suzuki_ignis_1_3_first_edition",
+              "title": "2001 Suzuki Ignis 1.3 First Edition"
+            },
+            {
+              "id": "mod_2001_suzuki_ignis_1_3_gl",
+              "title": "2001 Suzuki Ignis 1.3 GL"
+            },
+            {
+              "id": "mod_2001_suzuki_ignis_1_3_gs",
+              "title": "2001 Suzuki Ignis 1.3 GS"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_ignis",
+          "title": "Suzuki Ignis",
+          "children": [
+            {
+              "id": "mod_2001_suzuki_ignis_1_3_gs",
+              "title": "2001 Suzuki Ignis 1.3 GS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_liana",
+      "title": "Suzuki Liana",
+      "generations": [
+        {
+          "id": "gen_suzuki_liana",
+          "title": "Suzuki Liana",
+          "children": [
+            {
+              "id": "mod_2004_suzuki_liana_1_4_diesel_exclusive",
+              "title": "2004 Suzuki Liana 1.4 Diesel Exclusive"
+            },
+            {
+              "id": "mod_2004_suzuki_liana_1_4_diesel_gls",
+              "title": "2004 Suzuki Liana 1.4 Diesel GLS"
+            },
+            {
+              "id": "mod_2004_suzuki_liana_1_6_exclusive",
+              "title": "2004 Suzuki Liana 1.6 Exclusive"
+            },
+            {
+              "id": "mod_2004_suzuki_liana_1_6_gls",
+              "title": "2004 Suzuki Liana 1.6 GLS"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_liana",
+          "title": "Suzuki Liana",
+          "children": [
+            {
+              "id": "mod_2004_suzuki_liana_1_4_diesel_exclusive",
+              "title": "2004 Suzuki Liana 1.4 Diesel Exclusive"
+            },
+            {
+              "id": "mod_2004_suzuki_liana_1_4_diesel_gls",
+              "title": "2004 Suzuki Liana 1.4 Diesel GLS"
+            },
+            {
+              "id": "mod_2004_suzuki_liana_1_6_exclusive",
+              "title": "2004 Suzuki Liana 1.6 Exclusive"
+            },
+            {
+              "id": "mod_2004_suzuki_liana_1_6_gls",
+              "title": "2004 Suzuki Liana 1.6 GLS"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_liana",
+          "title": "Suzuki Liana",
+          "children": [
+            {
+              "id": "mod_2002_suzuki_liana_1_6_glx",
+              "title": "2002 Suzuki Liana 1.6 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_liana",
+          "title": "Suzuki Liana",
+          "children": [
+            {
+              "id": "mod_2001_suzuki_liana_1_3_gls",
+              "title": "2001 Suzuki Liana 1.3 GLS"
+            },
+            {
+              "id": "mod_2001_suzuki_liana_1_6_first_edition",
+              "title": "2001 Suzuki Liana 1.6 First Edition"
+            },
+            {
+              "id": "mod_2001_suzuki_liana_1_6_glx",
+              "title": "2001 Suzuki Liana 1.6 GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_grand_vitara_xl_7",
+      "title": "Suzuki Grand Vitara XL-7",
+      "generations": [
+        {
+          "id": "gen_suzuki_grand_vitara_xl_7",
+          "title": "Suzuki Grand Vitara XL-7",
+          "children": [
+            {
+              "id": "mod_2004_suzuki_grand_vitara_xl_7_2_0_tdi_16v",
+              "title": "2004 Suzuki Grand Vitara XL-7 2.0 TDi 16V"
+            },
+            {
+              "id": "mod_2004_suzuki_grand_vitara_xl_7_2_7_v6",
+              "title": "2004 Suzuki Grand Vitara XL-7 2.7 V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_grand_vitara_xl_7",
+          "title": "Suzuki Grand Vitara XL-7",
+          "children": [
+            {
+              "id": "mod_2001_suzuki_grand_vitara_xl_7_2_7_v6",
+              "title": "2001 Suzuki Grand Vitara XL-7 2.7 V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_jimny_cabrio",
+      "title": "Suzuki Jimny Cabrio",
+      "generations": [
+        {
+          "id": "gen_suzuki_jimny_cabrio",
+          "title": "Suzuki Jimny Cabrio",
+          "children": [
+            {
+              "id": "mod_2005_suzuki_jimny_cabrio_1_3_jlx",
+              "title": "2005 Suzuki Jimny Cabrio 1.3 JLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_jimny_cabrio",
+          "title": "Suzuki Jimny Cabrio",
+          "children": [
+            {
+              "id": "mod_2000_suzuki_jimny_cabrio_1_3_4wd_jlx",
+              "title": "2000 Suzuki Jimny Cabrio 1.3 4WD JLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_grand_vitara_cabrio",
+      "title": "Suzuki Grand Vitara Cabrio",
+      "generations": [
+        {
+          "id": "gen_suzuki_grand_vitara_cabrio",
+          "title": "Suzuki Grand Vitara Cabrio",
+          "children": [
+            {
+              "id": "mod_1999_suzuki_grand_vitara_cabrio_2_0",
+              "title": "1999 Suzuki Grand Vitara Cabrio 2.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_grand_vitara_metal_top",
+      "title": "Suzuki Grand Vitara Metal Top",
+      "generations": [
+        {
+          "id": "gen_suzuki_grand_vitara_metal_top",
+          "title": "Suzuki Grand Vitara Metal Top",
+          "children": [
+            {
+              "id": "mod_1999_suzuki_grand_vitara_metal_top_2_0",
+              "title": "1999 Suzuki Grand Vitara Metal Top 2.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_jimny",
+      "title": "Suzuki Jimny",
+      "generations": [
+        {
+          "id": "gen_suzuki_jimny",
+          "title": "Suzuki Jimny",
+          "children": [
+            {
+              "id": "mod_2018_suzuki_jimny_1_5_comfort",
+              "title": "2018 Suzuki Jimny 1.5 Comfort"
+            },
+            {
+              "id": "mod_2018_suzuki_jimny_1_5_select",
+              "title": "2018 Suzuki Jimny 1.5 Select"
+            },
+            {
+              "id": "mod_2018_suzuki_jimny_1_5_stijl",
+              "title": "2018 Suzuki Jimny 1.5 Stijl"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_jimny",
+          "title": "Suzuki Jimny",
+          "children": [
+            {
+              "id": "mod_1998_suzuki_jimny_1_3_2wd_jx",
+              "title": "1998 Suzuki Jimny 1.3 2WD JX"
+            },
+            {
+              "id": "mod_1998_suzuki_jimny_1_3_4wd_jlx",
+              "title": "1998 Suzuki Jimny 1.3 4WD JLX"
+            },
+            {
+              "id": "mod_1998_suzuki_jimny_1_3_4wd_jx",
+              "title": "1998 Suzuki Jimny 1.3 4WD JX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_wagon_r",
+      "title": "Suzuki Wagon R+",
+      "generations": [
+        {
+          "id": "gen_suzuki_wagon_r",
+          "title": "Suzuki Wagon R+",
+          "children": [
+            {
+              "id": "mod_2006_suzuki_wagon_r_1_0_base",
+              "title": "2006 Suzuki Wagon R+ 1.0 Base"
+            },
+            {
+              "id": "mod_2006_suzuki_wagon_r_1_0_comfort",
+              "title": "2006 Suzuki Wagon R+ 1.0 Comfort"
+            },
+            {
+              "id": "mod_2006_suzuki_wagon_r_1_0_trend",
+              "title": "2006 Suzuki Wagon R+ 1.0 Trend"
+            },
+            {
+              "id": "mod_2006_suzuki_wagon_r_1_2_comfort",
+              "title": "2006 Suzuki Wagon R+ 1.2 Comfort"
+            },
+            {
+              "id": "mod_2006_suzuki_wagon_r_1_2_trend",
+              "title": "2006 Suzuki Wagon R+ 1.2 Trend"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_wagon_r",
+          "title": "Suzuki Wagon R+",
+          "children": [
+            {
+              "id": "mod_2003_suzuki_wagon_r_1_0_ga",
+              "title": "2003 Suzuki Wagon R+ 1.0 GA"
+            },
+            {
+              "id": "mod_2003_suzuki_wagon_r_1_0_gl",
+              "title": "2003 Suzuki Wagon R+ 1.0 GL"
+            },
+            {
+              "id": "mod_2003_suzuki_wagon_r_1_0_glx",
+              "title": "2003 Suzuki Wagon R+ 1.0 GLX"
+            },
+            {
+              "id": "mod_2003_suzuki_wagon_r_1_3_glx_diesel",
+              "title": "2003 Suzuki Wagon R+ 1.3 GLX Diesel"
+            },
+            {
+              "id": "mod_2003_suzuki_wagon_r_1_3_glx",
+              "title": "2003 Suzuki Wagon R+ 1.3 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_wagon_r",
+          "title": "Suzuki Wagon R+",
+          "children": [
+            {
+              "id": "mod_2000_suzuki_wagon_r_1_3_first_edition",
+              "title": "2000 Suzuki Wagon R+ 1.3 First Edition"
+            },
+            {
+              "id": "mod_2000_suzuki_wagon_r_1_3_ga",
+              "title": "2000 Suzuki Wagon R+ 1.3 GA"
+            },
+            {
+              "id": "mod_2000_suzuki_wagon_r_1_3_gl",
+              "title": "2000 Suzuki Wagon R+ 1.3 GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_wagon_r",
+          "title": "Suzuki Wagon R+",
+          "children": [
+            {
+              "id": "mod_1997_suzuki_wagon_r_1_0_gl",
+              "title": "1997 Suzuki Wagon R+ 1.0 GL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_x_90",
+      "title": "Suzuki X-90",
+      "generations": [
+        {
+          "id": "gen_suzuki_x_90",
+          "title": "Suzuki X-90",
+          "children": [
+            {
+              "id": "mod_1996_suzuki_x_90",
+              "title": "1996 Suzuki X-90"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_baleno_wagon",
+      "title": "Suzuki Baleno Wagon",
+      "generations": [
+        {
+          "id": "gen_suzuki_baleno_wagon",
+          "title": "Suzuki Baleno Wagon",
+          "children": [
+            {
+              "id": "mod_1998_suzuki_baleno_wagon_1_3_gl",
+              "title": "1998 Suzuki Baleno Wagon 1.3 GL"
+            },
+            {
+              "id": "mod_1998_suzuki_baleno_wagon_1_6_glx",
+              "title": "1998 Suzuki Baleno Wagon 1.6 GLX"
+            },
+            {
+              "id": "mod_1998_suzuki_baleno_wagon_1_8_gtx",
+              "title": "1998 Suzuki Baleno Wagon 1.8 GTX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_baleno_wagon",
+          "title": "Suzuki Baleno Wagon",
+          "children": [
+            {
+              "id": "mod_1997_suzuki_baleno_wagon_1_3_glx",
+              "title": "1997 Suzuki Baleno Wagon 1.3 GLX"
+            },
+            {
+              "id": "mod_1997_suzuki_baleno_wagon_1_6_glx",
+              "title": "1997 Suzuki Baleno Wagon 1.6 GLX"
+            },
+            {
+              "id": "mod_1997_suzuki_baleno_wagon_1_8_gtx",
+              "title": "1997 Suzuki Baleno Wagon 1.8 GTX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_baleno_wagon",
+          "title": "Suzuki Baleno Wagon",
+          "children": [
+            {
+              "id": "mod_1996_suzuki_baleno_wagon_1_6_glx",
+              "title": "1996 Suzuki Baleno Wagon 1.6 GLX"
+            },
+            {
+              "id": "mod_1996_suzuki_baleno_wagon_1_8_gtx",
+              "title": "1996 Suzuki Baleno Wagon 1.8 GTX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_baleno",
+      "title": "Suzuki Baleno",
+      "generations": [
+        {
+          "id": "gen_suzuki_baleno",
+          "title": "Suzuki Baleno",
+          "children": [
+            {
+              "id": "mod_2016_suzuki_baleno_1_0_boosterjet_high_executive",
+              "title": "2016 Suzuki Baleno 1.0 Boosterjet High Executive"
+            },
+            {
+              "id": "mod_2016_suzuki_baleno_1_2_comfort",
+              "title": "2016 Suzuki Baleno 1.2 Comfort"
+            },
+            {
+              "id": "mod_2016_suzuki_baleno_1_2_exclusive",
+              "title": "2016 Suzuki Baleno 1.2 Exclusive"
+            },
+            {
+              "id": "mod_2016_suzuki_baleno_1_2_high_executive_smart_hybrid",
+              "title": "2016 Suzuki Baleno 1.2 High Executive Smart Hybrid"
+            },
+            {
+              "id": "mod_2016_suzuki_baleno_1_2_high_executive",
+              "title": "2016 Suzuki Baleno 1.2 High Executive"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_baleno",
+          "title": "Suzuki Baleno",
+          "children": [
+            {
+              "id": "mod_1998_suzuki_baleno_1_3_gl",
+              "title": "1998 Suzuki Baleno 1.3 GL"
+            },
+            {
+              "id": "mod_1998_suzuki_baleno_1_6_glx",
+              "title": "1998 Suzuki Baleno 1.6 GLX"
+            },
+            {
+              "id": "mod_1998_suzuki_baleno_1_8_gtx",
+              "title": "1998 Suzuki Baleno 1.8 GTX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_baleno",
+          "title": "Suzuki Baleno",
+          "children": [
+            {
+              "id": "mod_1998_suzuki_baleno_1_6_sport",
+              "title": "1998 Suzuki Baleno 1.6 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_baleno",
+          "title": "Suzuki Baleno",
+          "children": [
+            {
+              "id": "mod_1997_suzuki_baleno_1_3_glx",
+              "title": "1997 Suzuki Baleno 1.3 GLX"
+            },
+            {
+              "id": "mod_1997_suzuki_baleno_1_6_glx",
+              "title": "1997 Suzuki Baleno 1.6 GLX"
+            },
+            {
+              "id": "mod_1997_suzuki_baleno_1_8_gtx",
+              "title": "1997 Suzuki Baleno 1.8 GTX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_baleno",
+          "title": "Suzuki Baleno",
+          "children": [
+            {
+              "id": "mod_1995_suzuki_baleno_1_3_gl",
+              "title": "1995 Suzuki Baleno 1.3 GL"
+            },
+            {
+              "id": "mod_1995_suzuki_baleno_1_6_gl",
+              "title": "1995 Suzuki Baleno 1.6 GL"
+            },
+            {
+              "id": "mod_1995_suzuki_baleno_1_6_gs_dynamic",
+              "title": "1995 Suzuki Baleno 1.6 GS Dynamic"
+            },
+            {
+              "id": "mod_1995_suzuki_baleno_1_6_gs",
+              "title": "1995 Suzuki Baleno 1.6 GS"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_baleno",
+          "title": "Suzuki Baleno",
+          "children": [
+            {
+              "id": "mod_1995_suzuki_baleno_1_3_gl",
+              "title": "1995 Suzuki Baleno 1.3 GL"
+            },
+            {
+              "id": "mod_1995_suzuki_baleno_1_6_glx_dynamic",
+              "title": "1995 Suzuki Baleno 1.6 GLX Dynamic"
+            },
+            {
+              "id": "mod_1995_suzuki_baleno_1_6_glx",
+              "title": "1995 Suzuki Baleno 1.6 GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_cappuccino",
+      "title": "Suzuki Cappuccino",
+      "generations": [
+        {
+          "id": "gen_suzuki_cappuccino",
+          "title": "Suzuki Cappuccino",
+          "children": [
+            {
+              "id": "mod_1994_suzuki_cappuccino",
+              "title": "1994 Suzuki Cappuccino"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_vitara_villager",
+      "title": "Suzuki Vitara Villager",
+      "generations": [
+        {
+          "id": "gen_suzuki_vitara_villager",
+          "title": "Suzuki Vitara Villager",
+          "children": [
+            {
+              "id": "mod_1994_suzuki_vitara_villager_jlx_16v",
+              "title": "1994 Suzuki Vitara Villager JLX 16V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_swift_cabrio",
+      "title": "Suzuki Swift Cabrio",
+      "generations": [
+        {
+          "id": "gen_suzuki_swift_cabrio",
+          "title": "Suzuki Swift Cabrio",
+          "children": [
+            {
+              "id": "mod_1992_suzuki_swift_cabrio_1_3",
+              "title": "1992 Suzuki Swift Cabrio 1.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_vitara_wagon",
+      "title": "Suzuki Vitara Wagon",
+      "generations": [
+        {
+          "id": "gen_suzuki_vitara_wagon",
+          "title": "Suzuki Vitara Wagon",
+          "children": [
+            {
+              "id": "mod_1991_suzuki_vitara_wagon_jlx",
+              "title": "1991 Suzuki Vitara Wagon JLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_vitara_cabrio",
+      "title": "Suzuki Vitara Cabrio",
+      "generations": [
+        {
+          "id": "gen_suzuki_vitara_cabrio",
+          "title": "Suzuki Vitara Cabrio",
+          "children": [
+            {
+              "id": "mod_1988_suzuki_vitara_cabrio_jlx",
+              "title": "1988 Suzuki Vitara Cabrio JLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_vitara_metal_top",
+      "title": "Suzuki Vitara Metal Top",
+      "generations": [
+        {
+          "id": "gen_suzuki_vitara_metal_top",
+          "title": "Suzuki Vitara Metal Top",
+          "children": [
+            {
+              "id": "mod_1988_suzuki_vitara_metal_top_jlx",
+              "title": "1988 Suzuki Vitara Metal Top JLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_samurai_metal_top",
+      "title": "Suzuki Samurai Metal Top",
+      "generations": [
+        {
+          "id": "gen_suzuki_samurai_metal_top",
+          "title": "Suzuki Samurai Metal Top",
+          "children": []
+        },
+        {
+          "id": "gen_suzuki_samurai_metal_top",
+          "title": "Suzuki Samurai Metal Top",
+          "children": [
+            {
+              "id": "mod_1988_suzuki_samurai_metal_top_de_luxe",
+              "title": "1988 Suzuki Samurai Metal Top De Luxe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_samurai_cabrio",
+      "title": "Suzuki Samurai Cabrio",
+      "generations": [
+        {
+          "id": "gen_suzuki_samurai_cabrio",
+          "title": "Suzuki Samurai Cabrio",
+          "children": [
+            {
+              "id": "mod_1988_suzuki_samurai_cabrio_de_luxe",
+              "title": "1988 Suzuki Samurai Cabrio De Luxe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_swift",
+      "title": "Suzuki Swift",
+      "generations": [
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_2017_suzuki_swift_1_0_boosterjet_select",
+              "title": "2017 Suzuki Swift 1.0 Boosterjet Select"
+            },
+            {
+              "id": "mod_2017_suzuki_swift_1_0_boosterjet_smart_hybrid_stijl",
+              "title": "2017 Suzuki Swift 1.0 Boosterjet Smart Hybrid Stijl"
+            },
+            {
+              "id": "mod_2017_suzuki_swift_1_0_boosterjet_stijl",
+              "title": "2017 Suzuki Swift 1.0 Boosterjet Stijl"
+            },
+            {
+              "id": "mod_2017_suzuki_swift_1_2_business_edition",
+              "title": "2017 Suzuki Swift 1.2 Business Edition"
+            },
+            {
+              "id": "mod_2017_suzuki_swift_1_2_comfort",
+              "title": "2017 Suzuki Swift 1.2 Comfort"
+            },
+            {
+              "id": "mod_2017_suzuki_swift_1_2_select",
+              "title": "2017 Suzuki Swift 1.2 Select"
+            },
+            {
+              "id": "mod_2017_suzuki_swift_1_2_smart_hybrid_style",
+              "title": "2017 Suzuki Swift 1.2 Smart Hybrid Style"
+            },
+            {
+              "id": "mod_2017_suzuki_swift_1_2_style",
+              "title": "2017 Suzuki Swift 1.2 Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_2014_suzuki_swift_1_2_comfort",
+              "title": "2014 Suzuki Swift 1.2 Comfort"
+            },
+            {
+              "id": "mod_2014_suzuki_swift_1_2_dynamic_allgrip",
+              "title": "2014 Suzuki Swift 1.2 Dynamic Allgrip"
+            },
+            {
+              "id": "mod_2014_suzuki_swift_1_2_dynamic",
+              "title": "2014 Suzuki Swift 1.2 Dynamic"
+            },
+            {
+              "id": "mod_2014_suzuki_swift_1_2_exclusive_allgrip",
+              "title": "2014 Suzuki Swift 1.2 Exclusive Allgrip"
+            },
+            {
+              "id": "mod_2014_suzuki_swift_1_2_exclusive",
+              "title": "2014 Suzuki Swift 1.2 Exclusive"
+            },
+            {
+              "id": "mod_2014_suzuki_swift_1_3_ddis_comfort",
+              "title": "2014 Suzuki Swift 1.3 DDiS Comfort"
+            },
+            {
+              "id": "mod_2014_suzuki_swift_1_6_sport",
+              "title": "2014 Suzuki Swift 1.6 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_2014_suzuki_swift_1_2_comfort",
+              "title": "2014 Suzuki Swift 1.2 Comfort"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_2010_suzuki_swift_1_2_comfort",
+              "title": "2010 Suzuki Swift 1.2 Comfort"
+            },
+            {
+              "id": "mod_2010_suzuki_swift_1_2_exclusive",
+              "title": "2010 Suzuki Swift 1.2 Exclusive"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_2010_suzuki_swift_1_2_base",
+              "title": "2010 Suzuki Swift 1.2 Base"
+            },
+            {
+              "id": "mod_2010_suzuki_swift_1_2_comfort",
+              "title": "2010 Suzuki Swift 1.2 Comfort"
+            },
+            {
+              "id": "mod_2010_suzuki_swift_1_2_exclusive",
+              "title": "2010 Suzuki Swift 1.2 Exclusive"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_2005_suzuki_swift_1_3_diesel_exclusive",
+              "title": "2005 Suzuki Swift 1.3 Diesel Exclusive"
+            },
+            {
+              "id": "mod_2005_suzuki_swift_1_3_exclusive",
+              "title": "2005 Suzuki Swift 1.3 Exclusive"
+            },
+            {
+              "id": "mod_2005_suzuki_swift_1_3_ga",
+              "title": "2005 Suzuki Swift 1.3 GA"
+            },
+            {
+              "id": "mod_2005_suzuki_swift_1_3_gls",
+              "title": "2005 Suzuki Swift 1.3 GLS"
+            },
+            {
+              "id": "mod_2005_suzuki_swift_1_5_exclusive",
+              "title": "2005 Suzuki Swift 1.5 Exclusive"
+            },
+            {
+              "id": "mod_2005_suzuki_swift_1_5_gls",
+              "title": "2005 Suzuki Swift 1.5 GLS"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_2005_suzuki_swift_1_3_diesel_exclusive",
+              "title": "2005 Suzuki Swift 1.3 Diesel Exclusive"
+            },
+            {
+              "id": "mod_2005_suzuki_swift_1_3_exclusive",
+              "title": "2005 Suzuki Swift 1.3 Exclusive"
+            },
+            {
+              "id": "mod_2005_suzuki_swift_1_3_ga",
+              "title": "2005 Suzuki Swift 1.3 GA"
+            },
+            {
+              "id": "mod_2005_suzuki_swift_1_3_gls",
+              "title": "2005 Suzuki Swift 1.3 GLS"
+            },
+            {
+              "id": "mod_2005_suzuki_swift_1_5_exclusive",
+              "title": "2005 Suzuki Swift 1.5 Exclusive"
+            },
+            {
+              "id": "mod_2005_suzuki_swift_1_5_gls",
+              "title": "2005 Suzuki Swift 1.5 GLS"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1996_suzuki_swift_1_0_gl",
+              "title": "1996 Suzuki Swift 1.0 GL"
+            },
+            {
+              "id": "mod_1996_suzuki_swift_1_0_gls",
+              "title": "1996 Suzuki Swift 1.0 GLS"
+            },
+            {
+              "id": "mod_1996_suzuki_swift_1_3_gls",
+              "title": "1996 Suzuki Swift 1.3 GLS"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1996_suzuki_swift_1_0_gl",
+              "title": "1996 Suzuki Swift 1.0 GL"
+            },
+            {
+              "id": "mod_1996_suzuki_swift_1_0_glx",
+              "title": "1996 Suzuki Swift 1.0 GLX"
+            },
+            {
+              "id": "mod_1996_suzuki_swift_1_3_glx",
+              "title": "1996 Suzuki Swift 1.3 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1995_suzuki_swift_1_0_ga",
+              "title": "1995 Suzuki Swift 1.0 GA"
+            },
+            {
+              "id": "mod_1995_suzuki_swift_1_0_gls",
+              "title": "1995 Suzuki Swift 1.0 GLS"
+            },
+            {
+              "id": "mod_1995_suzuki_swift_1_0_spirit",
+              "title": "1995 Suzuki Swift 1.0 Spirit"
+            },
+            {
+              "id": "mod_1995_suzuki_swift_1_3_gls",
+              "title": "1995 Suzuki Swift 1.3 GLS"
+            },
+            {
+              "id": "mod_1995_suzuki_swift_1_3_gti",
+              "title": "1995 Suzuki Swift 1.3 GTi"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1995_suzuki_swift_1_3_gx",
+              "title": "1995 Suzuki Swift 1.3 GX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1995_suzuki_swift_1_0_gc",
+              "title": "1995 Suzuki Swift 1.0 GC"
+            },
+            {
+              "id": "mod_1995_suzuki_swift_1_3_gc",
+              "title": "1995 Suzuki Swift 1.3 GC"
+            },
+            {
+              "id": "mod_1995_suzuki_swift_1_3_gx",
+              "title": "1995 Suzuki Swift 1.3 GX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1991_suzuki_swift_1_0_gl",
+              "title": "1991 Suzuki Swift 1.0 GL"
+            },
+            {
+              "id": "mod_1991_suzuki_swift_1_0",
+              "title": "1991 Suzuki Swift 1.0"
+            },
+            {
+              "id": "mod_1991_suzuki_swift_1_3_gl",
+              "title": "1991 Suzuki Swift 1.3 GL"
+            },
+            {
+              "id": "mod_1991_suzuki_swift_1_3_gs",
+              "title": "1991 Suzuki Swift 1.3 GS"
+            },
+            {
+              "id": "mod_1991_suzuki_swift_1_3_gti",
+              "title": "1991 Suzuki Swift 1.3 GTi"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1991_suzuki_swift_1_3_gl",
+              "title": "1991 Suzuki Swift 1.3 GL"
+            },
+            {
+              "id": "mod_1991_suzuki_swift_1_6_glx",
+              "title": "1991 Suzuki Swift 1.6 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1991_suzuki_swift_1_3_gl",
+              "title": "1991 Suzuki Swift 1.3 GL"
+            },
+            {
+              "id": "mod_1991_suzuki_swift_1_3_glx",
+              "title": "1991 Suzuki Swift 1.3 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1990_suzuki_swift_1_3_gl",
+              "title": "1990 Suzuki Swift 1.3 GL"
+            },
+            {
+              "id": "mod_1990_suzuki_swift_1_6_glx",
+              "title": "1990 Suzuki Swift 1.6 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1989_suzuki_swift_1_0_ga",
+              "title": "1989 Suzuki Swift 1.0 GA"
+            },
+            {
+              "id": "mod_1989_suzuki_swift_1_0_gl",
+              "title": "1989 Suzuki Swift 1.0 GL"
+            },
+            {
+              "id": "mod_1989_suzuki_swift_1_3_gl",
+              "title": "1989 Suzuki Swift 1.3 GL"
+            },
+            {
+              "id": "mod_1989_suzuki_swift_1_3_gs",
+              "title": "1989 Suzuki Swift 1.3 GS"
+            },
+            {
+              "id": "mod_1989_suzuki_swift_1_3_gti",
+              "title": "1989 Suzuki Swift 1.3 GTi"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1989_suzuki_swift_1_3_gl",
+              "title": "1989 Suzuki Swift 1.3 GL"
+            },
+            {
+              "id": "mod_1989_suzuki_swift_1_3_glx",
+              "title": "1989 Suzuki Swift 1.3 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1986_suzuki_swift_1_0_ga",
+              "title": "1986 Suzuki Swift 1.0 GA"
+            },
+            {
+              "id": "mod_1986_suzuki_swift_1_0_gl",
+              "title": "1986 Suzuki Swift 1.0 GL"
+            },
+            {
+              "id": "mod_1986_suzuki_swift_1_3_gl",
+              "title": "1986 Suzuki Swift 1.3 GL"
+            },
+            {
+              "id": "mod_1986_suzuki_swift_1_3_glx",
+              "title": "1986 Suzuki Swift 1.3 GLX"
+            },
+            {
+              "id": "mod_1986_suzuki_swift_1_3_gti",
+              "title": "1986 Suzuki Swift 1.3 GTi"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1986_suzuki_swift_1_0_gl",
+              "title": "1986 Suzuki Swift 1.0 GL"
+            },
+            {
+              "id": "mod_1986_suzuki_swift_1_3_gl",
+              "title": "1986 Suzuki Swift 1.3 GL"
+            },
+            {
+              "id": "mod_1986_suzuki_swift_1_3_glx",
+              "title": "1986 Suzuki Swift 1.3 GLX"
+            },
+            {
+              "id": "mod_1986_suzuki_swift_1_3_gxi",
+              "title": "1986 Suzuki Swift 1.3 GXi"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1984_suzuki_swift_1_0_gl",
+              "title": "1984 Suzuki Swift 1.0 GL"
+            },
+            {
+              "id": "mod_1984_suzuki_swift_1_0",
+              "title": "1984 Suzuki Swift 1.0"
+            },
+            {
+              "id": "mod_1984_suzuki_swift_1_3_gl",
+              "title": "1984 Suzuki Swift 1.3 GL"
+            },
+            {
+              "id": "mod_1984_suzuki_swift_1_3_gs",
+              "title": "1984 Suzuki Swift 1.3 GS"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_swift",
+          "title": "Suzuki Swift",
+          "children": [
+            {
+              "id": "mod_1984_suzuki_swift_1_3_gc",
+              "title": "1984 Suzuki Swift 1.3 GC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_sa_310",
+      "title": "Suzuki SA 310",
+      "generations": [
+        {
+          "id": "gen_suzuki_sa_310",
+          "title": "Suzuki SA 310",
+          "children": [
+            {
+              "id": "mod_1983_suzuki_sa_310_gl",
+              "title": "1983 Suzuki SA 310 GL"
+            },
+            {
+              "id": "mod_1983_suzuki_sa_310",
+              "title": "1983 Suzuki SA 310"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_sj",
+      "title": "Suzuki SJ",
+      "generations": [
+        {
+          "id": "gen_suzuki_sj",
+          "title": "Suzuki SJ",
+          "children": [
+            {
+              "id": "mod_1982_suzuki_sj_410_q",
+              "title": "1982 Suzuki SJ 410 Q"
+            },
+            {
+              "id": "mod_1982_suzuki_sj_410_v",
+              "title": "1982 Suzuki SJ 410 V"
+            },
+            {
+              "id": "mod_1982_suzuki_sj_413_q_lwb",
+              "title": "1982 Suzuki SJ 413 Q LWB"
+            },
+            {
+              "id": "mod_1982_suzuki_sj_413_qjx",
+              "title": "1982 Suzuki SJ 413 QJX"
+            },
+            {
+              "id": "mod_1982_suzuki_sj_413_vjx",
+              "title": "1982 Suzuki SJ 413 VJX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_alto",
+      "title": "Suzuki Alto",
+      "generations": [
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_2009_suzuki_alto_1_0_base",
+              "title": "2009 Suzuki Alto 1.0 Base"
+            },
+            {
+              "id": "mod_2009_suzuki_alto_1_0_comfort",
+              "title": "2009 Suzuki Alto 1.0 Comfort"
+            },
+            {
+              "id": "mod_2009_suzuki_alto_1_0_exclusive",
+              "title": "2009 Suzuki Alto 1.0 Exclusive"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_2002_suzuki_alto_1_1_gl",
+              "title": "2002 Suzuki Alto 1.1 GL"
+            },
+            {
+              "id": "mod_2002_suzuki_alto_1_1_gls",
+              "title": "2002 Suzuki Alto 1.1 GLS"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_2000_suzuki_alto_1_0_ga",
+              "title": "2000 Suzuki Alto 1.0 GA"
+            },
+            {
+              "id": "mod_2000_suzuki_alto_1_0_twist",
+              "title": "2000 Suzuki Alto 1.0 Twist"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_2000_suzuki_alto_1_0_ga",
+              "title": "2000 Suzuki Alto 1.0 GA"
+            },
+            {
+              "id": "mod_2000_suzuki_alto_1_0_twist",
+              "title": "2000 Suzuki Alto 1.0 Twist"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_1996_suzuki_alto_1_0_ga",
+              "title": "1996 Suzuki Alto 1.0 GA"
+            },
+            {
+              "id": "mod_1996_suzuki_alto_1_0_gl",
+              "title": "1996 Suzuki Alto 1.0 GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_1994_suzuki_alto_1_0_gl",
+              "title": "1994 Suzuki Alto 1.0 GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_1988_suzuki_alto_ga",
+              "title": "1988 Suzuki Alto GA"
+            },
+            {
+              "id": "mod_1988_suzuki_alto_gl",
+              "title": "1988 Suzuki Alto GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_1988_suzuki_alto_gl",
+              "title": "1988 Suzuki Alto GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_1986_suzuki_alto_gl",
+              "title": "1986 Suzuki Alto GL"
+            },
+            {
+              "id": "mod_1986_suzuki_alto",
+              "title": "1986 Suzuki Alto"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_1986_suzuki_alto_gl",
+              "title": "1986 Suzuki Alto GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_1983_suzuki_alto_gx",
+              "title": "1983 Suzuki Alto GX"
+            },
+            {
+              "id": "mod_1983_suzuki_alto",
+              "title": "1983 Suzuki Alto"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_1983_suzuki_alto_fx",
+              "title": "1983 Suzuki Alto FX"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_1981_suzuki_alto",
+              "title": "1981 Suzuki Alto"
+            }
+          ]
+        },
+        {
+          "id": "gen_suzuki_alto",
+          "title": "Suzuki Alto",
+          "children": [
+            {
+              "id": "mod_1981_suzuki_alto_fx",
+              "title": "1981 Suzuki Alto FX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_suzuki_sc",
+      "title": "Suzuki SC",
+      "generations": [
+        {
+          "id": "gen_suzuki_sc",
+          "title": "Suzuki SC",
+          "children": [
+            {
+              "id": "mod_1979_suzuki_sc_100_gx",
+              "title": "1979 Suzuki SC 100 GX"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

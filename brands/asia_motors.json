@@ -1,0 +1,34 @@
+{
+  "id": "brand_asia_motors",
+  "title": "Asia Motors",
+  "models": [
+    {
+      "id": "model_asia_motors_rocsta",
+      "title": "Asia Motors Rocsta",
+      "generations": [
+        {
+          "id": "gen_asia_motors_rocsta",
+          "title": "Asia Motors Rocsta",
+          "children": [
+            {
+              "id": "mod_1993_asia_motors_rocsta_1_8_hardtop",
+              "title": "1993 Asia Motors Rocsta 1.8 Hardtop"
+            },
+            {
+              "id": "mod_1993_asia_motors_rocsta_1_8_softtop",
+              "title": "1993 Asia Motors Rocsta 1.8 Softtop"
+            },
+            {
+              "id": "mod_1993_asia_motors_rocsta_2_2_diesel_hardtop",
+              "title": "1993 Asia Motors Rocsta 2.2 Diesel Hardtop"
+            },
+            {
+              "id": "mod_1993_asia_motors_rocsta_2_2_diesel_softtop",
+              "title": "1993 Asia Motors Rocsta 2.2 Diesel Softtop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

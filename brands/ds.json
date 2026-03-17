@@ -1,0 +1,634 @@
+{
+  "id": "brand_ds",
+  "title": "DS",
+  "models": [
+    {
+      "id": "model_ds_3_crossback",
+      "title": "DS 3 Crossback",
+      "generations": [
+        {
+          "id": "gen_ds_3_crossback",
+          "title": "DS 3 Crossback",
+          "children": [
+            {
+              "id": "mod_2019_ds_ds3_crossback_bluehdi_100_business",
+              "title": "2019 DS DS3 Crossback BlueHDi 100 Business"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_bluehdi_130_business",
+              "title": "2019 DS DS3 Crossback BlueHDi 130 Business"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_100_business",
+              "title": "2019 DS DS3 Crossback PureTech 100 Business"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_100_chic",
+              "title": "2019 DS DS3 Crossback PureTech 100 Chic"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_100_grand_chic",
+              "title": "2019 DS DS3 Crossback PureTech 100 Grand Chic"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_100_performance_line",
+              "title": "2019 DS DS3 Crossback PureTech 100 Performance Line"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_100_performance_line",
+              "title": "2019 DS DS3 Crossback PureTech 100 Performance Line+"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_100_so_chic",
+              "title": "2019 DS DS3 Crossback PureTech 100 So Chic"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_130_business",
+              "title": "2019 DS DS3 Crossback PureTech 130 Business"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_130_grand_chic",
+              "title": "2019 DS DS3 Crossback PureTech 130 Grand Chic"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_130_la_premiere",
+              "title": "2019 DS DS3 Crossback PureTech 130 La Premiere"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_130_performance_line",
+              "title": "2019 DS DS3 Crossback PureTech 130 Performance Line"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_130_performance_line",
+              "title": "2019 DS DS3 Crossback PureTech 130 Performance Line+"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_130_so_chic",
+              "title": "2019 DS DS3 Crossback PureTech 130 So Chic"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_155_grand_chic",
+              "title": "2019 DS DS3 Crossback PureTech 155 Grand Chic"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_155_la_premiere",
+              "title": "2019 DS DS3 Crossback PureTech 155 La Premiere"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_155_performance_line",
+              "title": "2019 DS DS3 Crossback PureTech 155 Performance Line"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_155_performance_line",
+              "title": "2019 DS DS3 Crossback PureTech 155 Performance Line+"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_puretech_155_so_chic",
+              "title": "2019 DS DS3 Crossback PureTech 155 So Chic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ds_ds3_crossback_e_tense",
+      "title": "DS DS3 Crossback E-Tense",
+      "generations": [
+        {
+          "id": "gen_ds_ds3_crossback_e_tense",
+          "title": "DS DS3 Crossback E-Tense",
+          "children": [
+            {
+              "id": "mod_2019_ds_ds3_crossback_e_tense_business",
+              "title": "2019 DS DS3 Crossback E-Tense Business"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_e_tense_executive",
+              "title": "2019 DS DS3 Crossback E-Tense Executive"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_e_tense_grand_chic",
+              "title": "2019 DS DS3 Crossback E-Tense Grand Chic"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_e_tense_performance_line",
+              "title": "2019 DS DS3 Crossback E-Tense Performance Line"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_e_tense_performance_line",
+              "title": "2019 DS DS3 Crossback E-Tense Performance Line+"
+            },
+            {
+              "id": "mod_2019_ds_ds3_crossback_e_tense_so_chic",
+              "title": "2019 DS DS3 Crossback E-Tense So Chic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ds_ds7_crossback",
+      "title": "DS DS7 Crossback",
+      "generations": [
+        {
+          "id": "gen_ds_ds7_crossback",
+          "title": "DS DS7 Crossback",
+          "children": [
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_130_be_chic",
+              "title": "2017 DS DS7 Crossback BlueHDi 130 Be Chic"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_130_business",
+              "title": "2017 DS DS7 Crossback BlueHDi 130 Business"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_130_drive_efficiency_be_chic",
+              "title": "2017 DS DS7 Crossback BlueHDi 130 Drive Efficiency Be Chic"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_130_drive_efficiency_business",
+              "title": "2017 DS DS7 Crossback BlueHDi 130 Drive Efficiency Business"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_130_drive_efficiency_chic",
+              "title": "2017 DS DS7 Crossback BlueHDi 130 Drive Efficiency Chic"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_130_drive_efficiency_executive",
+              "title": "2017 DS DS7 Crossback BlueHDi 130 Drive Efficiency Executive"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_130_drive_efficiency_so_chic",
+              "title": "2017 DS DS7 Crossback BlueHDi 130 Drive Efficiency So Chic"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_130_executive",
+              "title": "2017 DS DS7 Crossback BlueHDi 130 Executive"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_130_performance_line",
+              "title": "2017 DS DS7 Crossback BlueHDi 130 Performance Line"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_130_so_chic",
+              "title": "2017 DS DS7 Crossback BlueHDi 130 So Chic"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_180_be_chic",
+              "title": "2017 DS DS7 Crossback BlueHDi 180 Be Chic"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_180_business",
+              "title": "2017 DS DS7 Crossback BlueHDi 180 Business"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_180_executive",
+              "title": "2017 DS DS7 Crossback BlueHDi 180 Executive"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_180_la_premi_re",
+              "title": "2017 DS DS7 Crossback BlueHDi 180 La PremiÃ«re"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_180_performance_line",
+              "title": "2017 DS DS7 Crossback BlueHDi 180 Performance Line"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_bluehdi_180_so_chic",
+              "title": "2017 DS DS7 Crossback BlueHDi 180 So Chic"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_puretech_225_performance_line",
+              "title": "2017 DS DS7 Crossback PureTech 225 Performance Line"
+            },
+            {
+              "id": "mod_2017_ds_ds7_crossback_puretech_225_so_chic",
+              "title": "2017 DS DS7 Crossback PureTech 225 So Chic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ds_5",
+      "title": "DS 5",
+      "generations": [
+        {
+          "id": "gen_ds_5",
+          "title": "DS 5",
+          "children": [
+            {
+              "id": "mod_2015_ds_ds5_bluehdi_120_1955",
+              "title": "2015 DS DS5 BlueHDi 120 1955"
+            },
+            {
+              "id": "mod_2015_ds_ds5_bluehdi_120_business_executive",
+              "title": "2015 DS DS5 BlueHDi 120 Business Executive"
+            },
+            {
+              "id": "mod_2015_ds_ds5_bluehdi_120_business",
+              "title": "2015 DS DS5 BlueHDi 120 Business"
+            },
+            {
+              "id": "mod_2015_ds_ds5_bluehdi_120_chic",
+              "title": "2015 DS DS5 BlueHDi 120 Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds5_bluehdi_150_1955",
+              "title": "2015 DS DS5 BlueHDi 150 1955"
+            },
+            {
+              "id": "mod_2015_ds_ds5_bluehdi_150_business_executive",
+              "title": "2015 DS DS5 BlueHDi 150 Business Executive"
+            },
+            {
+              "id": "mod_2015_ds_ds5_bluehdi_150_business",
+              "title": "2015 DS DS5 BlueHDi 150 Business"
+            },
+            {
+              "id": "mod_2015_ds_ds5_bluehdi_150_chic",
+              "title": "2015 DS DS5 BlueHDi 150 Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds5_bluehdi_180_1955",
+              "title": "2015 DS DS5 BlueHDi 180 1955"
+            },
+            {
+              "id": "mod_2015_ds_ds5_bluehdi_180_business_executive",
+              "title": "2015 DS DS5 BlueHDi 180 Business Executive"
+            },
+            {
+              "id": "mod_2015_ds_ds5_bluehdi_180_business",
+              "title": "2015 DS DS5 BlueHDi 180 Business"
+            },
+            {
+              "id": "mod_2015_ds_ds5_bluehdi_180_chic",
+              "title": "2015 DS DS5 BlueHDi 180 Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds5_hybrid4_business_executive",
+              "title": "2015 DS DS5 Hybrid4 Business Executive"
+            },
+            {
+              "id": "mod_2015_ds_ds5_hybrid4_business",
+              "title": "2015 DS DS5 Hybrid4 Business"
+            },
+            {
+              "id": "mod_2015_ds_ds5_thp_165_1955",
+              "title": "2015 DS DS5 THP 165 1955"
+            },
+            {
+              "id": "mod_2015_ds_ds5_thp_165_business_executive",
+              "title": "2015 DS DS5 THP 165 Business Executive"
+            },
+            {
+              "id": "mod_2015_ds_ds5_thp_165_business",
+              "title": "2015 DS DS5 THP 165 Business"
+            },
+            {
+              "id": "mod_2015_ds_ds5_thp_165_chic",
+              "title": "2015 DS DS5 THP 165 Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds5_thp_165_performance_line",
+              "title": "2015 DS DS5 THP 165 Performance Line"
+            },
+            {
+              "id": "mod_2015_ds_ds5_thp_210_business_executive",
+              "title": "2015 DS DS5 THP 210 Business Executive"
+            },
+            {
+              "id": "mod_2015_ds_ds5_thp_210_chic",
+              "title": "2015 DS DS5 THP 210 Chic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ds_ds3",
+      "title": "DS DS3",
+      "generations": [
+        {
+          "id": "gen_ds_ds3",
+          "title": "DS DS3",
+          "children": [
+            {
+              "id": "mod_2016_ds_ds3_bluehdi_100_business",
+              "title": "2016 DS DS3 BlueHDi 100 Business"
+            },
+            {
+              "id": "mod_2016_ds_ds3_bluehdi_100_so_chic",
+              "title": "2016 DS DS3 BlueHDi 100 So Chic"
+            },
+            {
+              "id": "mod_2016_ds_ds3_bluehdi_120_sport_chic",
+              "title": "2016 DS DS3 BlueHDi 120 Sport Chic"
+            },
+            {
+              "id": "mod_2016_ds_ds3_puretech_110_business",
+              "title": "2016 DS DS3 PureTech 110 Business"
+            },
+            {
+              "id": "mod_2016_ds_ds3_puretech_110_givenchy_le_makeup",
+              "title": "2016 DS DS3 PureTech 110 Givenchy Le MakeUp"
+            },
+            {
+              "id": "mod_2016_ds_ds3_puretech_110_so_chic",
+              "title": "2016 DS DS3 PureTech 110 So Chic"
+            },
+            {
+              "id": "mod_2016_ds_ds3_puretech_110_sport_chic",
+              "title": "2016 DS DS3 PureTech 110 Sport Chic"
+            },
+            {
+              "id": "mod_2016_ds_ds3_puretech_130_so_chic",
+              "title": "2016 DS DS3 PureTech 130 So Chic"
+            },
+            {
+              "id": "mod_2016_ds_ds3_puretech_130_sport_chic",
+              "title": "2016 DS DS3 PureTech 130 Sport Chic"
+            },
+            {
+              "id": "mod_2016_ds_ds3_puretech_82_business",
+              "title": "2016 DS DS3 PureTech 82 Business"
+            },
+            {
+              "id": "mod_2016_ds_ds3_puretech_82_chic",
+              "title": "2016 DS DS3 PureTech 82 Chic"
+            },
+            {
+              "id": "mod_2016_ds_ds3_puretech_82_givenchy_le_makeup",
+              "title": "2016 DS DS3 PureTech 82 Givenchy Le MakeUp"
+            },
+            {
+              "id": "mod_2016_ds_ds3_puretech_82_so_chic",
+              "title": "2016 DS DS3 PureTech 82 So Chic"
+            },
+            {
+              "id": "mod_2016_ds_ds3_thp_165_sport_chic",
+              "title": "2016 DS DS3 THP 165 Sport Chic"
+            },
+            {
+              "id": "mod_2016_ds_ds3_thp_208_performance_black_special",
+              "title": "2016 DS DS3 THP 208 Performance Black Special"
+            },
+            {
+              "id": "mod_2016_ds_ds3_thp_208_performance",
+              "title": "2016 DS DS3 THP 208 Performance"
+            }
+          ]
+        },
+        {
+          "id": "gen_ds_ds3",
+          "title": "DS DS3",
+          "children": [
+            {
+              "id": "mod_2015_ds_ds3_bluehdi_100_business",
+              "title": "2015 DS DS3 BlueHDi 100 Business"
+            },
+            {
+              "id": "mod_2015_ds_ds3_bluehdi_100_so_chic",
+              "title": "2015 DS DS3 BlueHDi 100 So Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds3_bluehdi_120_sport_chic",
+              "title": "2015 DS DS3 BlueHDi 120 Sport Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds3_puretech_110_1955",
+              "title": "2015 DS DS3 PureTech 110 1955"
+            },
+            {
+              "id": "mod_2015_ds_ds3_puretech_110_business",
+              "title": "2015 DS DS3 PureTech 110 Business"
+            },
+            {
+              "id": "mod_2015_ds_ds3_puretech_110_ines_de_la_fressange",
+              "title": "2015 DS DS3 PureTech 110 Ines De La Fressange"
+            },
+            {
+              "id": "mod_2015_ds_ds3_puretech_110_so_chic",
+              "title": "2015 DS DS3 PureTech 110 So Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds3_puretech_110_so_red",
+              "title": "2015 DS DS3 PureTech 110 So Red"
+            },
+            {
+              "id": "mod_2015_ds_ds3_puretech_110_ultra_prestige",
+              "title": "2015 DS DS3 PureTech 110 Ultra Prestige"
+            },
+            {
+              "id": "mod_2015_ds_ds3_puretech_82_1955",
+              "title": "2015 DS DS3 PureTech 82 1955"
+            },
+            {
+              "id": "mod_2015_ds_ds3_puretech_82_business",
+              "title": "2015 DS DS3 PureTech 82 Business"
+            },
+            {
+              "id": "mod_2015_ds_ds3_puretech_82_chic",
+              "title": "2015 DS DS3 PureTech 82 Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds3_puretech_82_so_chic",
+              "title": "2015 DS DS3 PureTech 82 So Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds3_thp_165_sport_chic",
+              "title": "2015 DS DS3 THP 165 Sport Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds3_thp_165_ultra_prestige",
+              "title": "2015 DS DS3 THP 165 Ultra Prestige"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ds_ds3_cabrio",
+      "title": "DS DS3 Cabrio",
+      "generations": [
+        {
+          "id": "gen_ds_ds3_cabrio",
+          "title": "DS DS3 Cabrio",
+          "children": [
+            {
+              "id": "mod_2016_ds_3_cabrio_bluehdi_100_so_chic",
+              "title": "2016 DS 3 Cabrio BlueHDi 100 So Chic"
+            },
+            {
+              "id": "mod_2016_ds_3_cabrio_bluehdi_120_sport_chic",
+              "title": "2016 DS 3 Cabrio BlueHDi 120 Sport Chic"
+            },
+            {
+              "id": "mod_2016_ds_3_cabrio_puretech_110_so_chic",
+              "title": "2016 DS 3 Cabrio PureTech 110 So Chic"
+            },
+            {
+              "id": "mod_2016_ds_3_cabrio_puretech_110_sport_chic",
+              "title": "2016 DS 3 Cabrio PureTech 110 Sport Chic"
+            },
+            {
+              "id": "mod_2016_ds_3_cabrio_puretech_130_sport_chic",
+              "title": "2016 DS 3 Cabrio PureTech 130 Sport Chic"
+            },
+            {
+              "id": "mod_2016_ds_3_cabrio_puretech_82_chic",
+              "title": "2016 DS 3 Cabrio PureTech 82 Chic"
+            },
+            {
+              "id": "mod_2016_ds_3_cabrio_puretech_82_so_chic",
+              "title": "2016 DS 3 Cabrio PureTech 82 So Chic"
+            },
+            {
+              "id": "mod_2016_ds_3_cabrio_thp_165_sport_chic",
+              "title": "2016 DS 3 Cabrio THP 165 Sport Chic"
+            },
+            {
+              "id": "mod_2016_ds_3_cabrio_thp_208_performance_black_special",
+              "title": "2016 DS 3 Cabrio THP 208 Performance Black Special"
+            },
+            {
+              "id": "mod_2016_ds_3_cabrio_thp_208_performance",
+              "title": "2016 DS 3 Cabrio THP 208 Performance"
+            }
+          ]
+        },
+        {
+          "id": "gen_ds_ds3_cabrio",
+          "title": "DS DS3 Cabrio",
+          "children": [
+            {
+              "id": "mod_2015_ds_3_cabrio_bluehdi_100_so_chic",
+              "title": "2015 DS 3 Cabrio BlueHDi 100 So Chic"
+            },
+            {
+              "id": "mod_2015_ds_3_cabrio_bluehdi_120_sport_chic",
+              "title": "2015 DS 3 Cabrio BlueHDi 120 Sport Chic"
+            },
+            {
+              "id": "mod_2015_ds_3_cabrio_puretech_110_1955",
+              "title": "2015 DS 3 Cabrio PureTech 110 1955"
+            },
+            {
+              "id": "mod_2015_ds_3_cabrio_puretech_110_so_chic",
+              "title": "2015 DS 3 Cabrio PureTech 110 So Chic"
+            },
+            {
+              "id": "mod_2015_ds_3_cabrio_puretech_82_chic",
+              "title": "2015 DS 3 Cabrio PureTech 82 Chic"
+            },
+            {
+              "id": "mod_2015_ds_3_cabrio_puretech_82_so_chic",
+              "title": "2015 DS 3 Cabrio PureTech 82 So Chic"
+            },
+            {
+              "id": "mod_2015_ds_3_cabrio_thp_165_sport_chic",
+              "title": "2015 DS 3 Cabrio THP 165 Sport Chic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ds_4",
+      "title": "DS 4",
+      "generations": [
+        {
+          "id": "gen_ds_4",
+          "title": "DS 4",
+          "children": [
+            {
+              "id": "mod_2015_ds_ds4_bluehdi_120_business",
+              "title": "2015 DS DS4 BlueHDi 120 Business"
+            },
+            {
+              "id": "mod_2015_ds_ds4_bluehdi_120_chic",
+              "title": "2015 DS DS4 BlueHDi 120 Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds4_bluehdi_120_so_chic",
+              "title": "2015 DS DS4 BlueHDi 120 So Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds4_bluehdi_150_business",
+              "title": "2015 DS DS4 BlueHDi 150 Business"
+            },
+            {
+              "id": "mod_2015_ds_ds4_bluehdi_150_so_chic",
+              "title": "2015 DS DS4 BlueHDi 150 So Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds4_bluehdi_180_chic",
+              "title": "2015 DS DS4 BlueHDi 180 Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds4_bluehdi_180_so_chic",
+              "title": "2015 DS DS4 BlueHDi 180 So Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds4_bluehdi_180_sport_chic",
+              "title": "2015 DS DS4 BlueHDi 180 Sport Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds4_puretech_130_1955",
+              "title": "2015 DS DS4 PureTech 130 1955"
+            },
+            {
+              "id": "mod_2015_ds_ds4_puretech_130_business",
+              "title": "2015 DS DS4 PureTech 130 Business"
+            },
+            {
+              "id": "mod_2015_ds_ds4_puretech_130_chic",
+              "title": "2015 DS DS4 PureTech 130 Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds4_puretech_130_so_chic",
+              "title": "2015 DS DS4 PureTech 130 So Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds4_thp_165_so_chic",
+              "title": "2015 DS DS4 THP 165 So Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds4_thp_200_sport_chic",
+              "title": "2015 DS DS4 THP 200 Sport Chic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ds_4_crossback",
+      "title": "DS 4 Crossback",
+      "generations": [
+        {
+          "id": "gen_ds_4_crossback",
+          "title": "DS 4 Crossback",
+          "children": [
+            {
+              "id": "mod_2015_ds_ds4_crossback_bluehdi_120_chic",
+              "title": "2015 DS DS4 Crossback BlueHDi 120 Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds4_crossback_bluehdi_180_chic",
+              "title": "2015 DS DS4 Crossback BlueHDi 180 Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds4_crossback_puretech_130_chic",
+              "title": "2015 DS DS4 Crossback PureTech 130 Chic"
+            },
+            {
+              "id": "mod_2015_ds_ds4_crossback_thp_165_chic",
+              "title": "2015 DS DS4 Crossback THP 165 Chic"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

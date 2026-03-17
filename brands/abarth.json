@@ -1,0 +1,160 @@
+{
+  "id": "brand_abarth",
+  "title": "Abarth",
+  "models": [
+    {
+      "id": "model_abarth_124_spider",
+      "title": "Abarth 124 Spider",
+      "generations": [
+        {
+          "id": "gen_abarth_124_spider",
+          "title": "Abarth 124 Spider",
+          "children": [
+            {
+              "id": "mod_2016_abarth_124_spider_1_4_multiair_16v",
+              "title": "2016 Abarth 124 Spider 1.4 MultiAir 16v"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_abarth_595",
+      "title": "Abarth 595",
+      "generations": [
+        {
+          "id": "gen_abarth_595",
+          "title": "Abarth 595",
+          "children": [
+            {
+              "id": "mod_2016_abarth_595_1_4_t_jet_145",
+              "title": "2016 Abarth 595 1.4 T-Jet 145"
+            },
+            {
+              "id": "mod_2016_abarth_595_1_4_t_jet_165_turismo",
+              "title": "2016 Abarth 595 1.4 T-Jet 165 Turismo"
+            },
+            {
+              "id": "mod_2016_abarth_595_1_4_t_jet_180_competizione",
+              "title": "2016 Abarth 595 1.4 T-Jet 180 Competizione"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_abarth_595_cabrio",
+      "title": "Abarth 595 Cabrio",
+      "generations": [
+        {
+          "id": "gen_abarth_595_cabrio",
+          "title": "Abarth 595 Cabrio",
+          "children": [
+            {
+              "id": "mod_2016_abarth_595_cabrio_1_4_t_jet_145",
+              "title": "2016 Abarth 595 Cabrio 1.4 T-Jet 145"
+            },
+            {
+              "id": "mod_2016_abarth_595_cabrio_1_4_t_jet_165_turismo",
+              "title": "2016 Abarth 595 Cabrio 1.4 T-Jet 165 Turismo"
+            },
+            {
+              "id": "mod_2016_abarth_595_cabrio_1_4_t_jet_180_competizione",
+              "title": "2016 Abarth 595 Cabrio 1.4 T-Jet 180 Competizione"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_abarth_695",
+      "title": "Abarth 695",
+      "generations": [
+        {
+          "id": "gen_abarth_695",
+          "title": "Abarth 695",
+          "children": [
+            {
+              "id": "mod_2017_abarth_695_cabrio_1_4_t_jet_165_yamaha",
+              "title": "2017 Abarth 695 Cabrio 1.4 T-Jet 165 Yamaha"
+            }
+          ]
+        },
+        {
+          "id": "gen_abarth_695",
+          "title": "Abarth 695",
+          "children": [
+            {
+              "id": "mod_2014_abarth_695_biposto",
+              "title": "2014 Abarth 695 Biposto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_abarth_punto_evo",
+      "title": "Abarth Punto Evo",
+      "generations": [
+        {
+          "id": "gen_abarth_punto_evo",
+          "title": "Abarth Punto Evo",
+          "children": [
+            {
+              "id": "mod_2010_abarth_punto_evo_1_4_t_jet_16v",
+              "title": "2010 Abarth Punto Evo 1.4 T-Jet 16v"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_abarth_500c",
+      "title": "Abarth 500C",
+      "generations": [
+        {
+          "id": "gen_abarth_500c",
+          "title": "Abarth 500C",
+          "children": [
+            {
+              "id": "mod_2010_abarth_500c_1_4_16v_t_jet_competizione",
+              "title": "2010 Abarth 500C 1.4 16v T-Jet Competizione"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_abarth_grande_punto",
+      "title": "Abarth Grande Punto",
+      "generations": [
+        {
+          "id": "gen_abarth_grande_punto",
+          "title": "Abarth Grande Punto",
+          "children": [
+            {
+              "id": "mod_2008_abarth_grande_punto_1_4_t_jet_16v",
+              "title": "2008 Abarth Grande Punto 1.4 T-Jet 16v"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_abarth_500",
+      "title": "Abarth 500",
+      "generations": [
+        {
+          "id": "gen_abarth_500",
+          "title": "Abarth 500",
+          "children": [
+            {
+              "id": "mod_2008_abarth_500_1_4_16v_t_jet",
+              "title": "2008 Abarth 500 1.4 16v T-Jet"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

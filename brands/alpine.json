@@ -1,0 +1,30 @@
+{
+  "id": "brand_alpine",
+  "title": "Alpine",
+  "models": [
+    {
+      "id": "model_alpine_a110",
+      "title": "Alpine A110",
+      "generations": [
+        {
+          "id": "gen_alpine_a110",
+          "title": "Alpine A110",
+          "children": [
+            {
+              "id": "mod_2018_alpine_a110_legende",
+              "title": "2018 Alpine A110 Legende"
+            },
+            {
+              "id": "mod_2018_alpine_a110_premiere_edition",
+              "title": "2018 Alpine A110 Premiere Edition"
+            },
+            {
+              "id": "mod_2018_alpine_a110_pure",
+              "title": "2018 Alpine A110 Pure"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "brand_innocenti",
+  "title": "Innocenti",
+  "models": [
+    {
+      "id": "model_innocenti_90_120",
+      "title": "Innocenti 90/120",
+      "generations": [
+        {
+          "id": "gen_innocenti_90_120",
+          "title": "Innocenti 90/120",
+          "children": [
+            {
+              "id": "mod_1979_innocenti_120_l",
+              "title": "1979 Innocenti 120 L"
+            },
+            {
+              "id": "mod_1979_innocenti_90_l",
+              "title": "1979 Innocenti 90 L"
+            },
+            {
+              "id": "mod_1979_innocenti_de_tomaso",
+              "title": "1979 Innocenti De Tomaso"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

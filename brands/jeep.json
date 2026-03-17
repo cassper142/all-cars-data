@@ -1,0 +1,1277 @@
+{
+  "id": "brand_jeep",
+  "title": "Jeep",
+  "models": [
+    {
+      "id": "model_jeep_renegade_van",
+      "title": "Jeep Renegade Van",
+      "generations": [
+        {
+          "id": "gen_jeep_renegade_van",
+          "title": "Jeep Renegade Van",
+          "children": [
+            {
+              "id": "mod_2015_jeep_renegade_1_4_multiair_awd_limited",
+              "title": "2015 Jeep Renegade 1.4 MultiAir AWD Limited"
+            },
+            {
+              "id": "mod_2015_jeep_renegade_1_4_multiair_limited",
+              "title": "2015 Jeep Renegade 1.4 MultiAir Limited"
+            },
+            {
+              "id": "mod_2015_jeep_renegade_1_4_multiair_longitude",
+              "title": "2015 Jeep Renegade 1.4 MultiAir Longitude"
+            },
+            {
+              "id": "mod_2015_jeep_renegade_1_6_e_torq_longitude",
+              "title": "2015 Jeep Renegade 1.6 E-torq Longitude"
+            },
+            {
+              "id": "mod_2015_jeep_renegade_1_6_e_torq_sport",
+              "title": "2015 Jeep Renegade 1.6 E-torq Sport"
+            },
+            {
+              "id": "mod_2015_jeep_renegade_1_6_multijet_limited",
+              "title": "2015 Jeep Renegade 1.6 MultiJet Limited"
+            },
+            {
+              "id": "mod_2015_jeep_renegade_1_6_multijet_longitude",
+              "title": "2015 Jeep Renegade 1.6 MultiJet Longitude"
+            },
+            {
+              "id": "mod_2015_jeep_renegade_1_6_multijet_sport",
+              "title": "2015 Jeep Renegade 1.6 MultiJet Sport"
+            },
+            {
+              "id": "mod_2015_jeep_renegade_2_0_multijet_4wd_limited",
+              "title": "2015 Jeep Renegade 2.0 MultiJet 4WD Limited"
+            },
+            {
+              "id": "mod_2015_jeep_renegade_2_0_multijet_4wd_trailhawk",
+              "title": "2015 Jeep Renegade 2.0 MultiJet 4WD Trailhawk"
+            },
+            {
+              "id": "mod_2015_jeep_renegade_2_0_multijet_awd_limited",
+              "title": "2015 Jeep Renegade 2.0 MultiJet AWD Limited"
+            },
+            {
+              "id": "mod_2015_jeep_renegade_2_0_multijet_awd_longitude",
+              "title": "2015 Jeep Renegade 2.0 MultiJet AWD Longitude"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jeep_cherokee_van",
+      "title": "Jeep Cherokee Van",
+      "generations": [
+        {
+          "id": "gen_jeep_cherokee_van",
+          "title": "Jeep Cherokee Van",
+          "children": [
+            {
+              "id": "mod_2015_jeep_cherokee_2_0_crd_fwd_limited",
+              "title": "2015 Jeep Cherokee 2.0 CRD FWD Limited"
+            },
+            {
+              "id": "mod_2015_jeep_cherokee_2_0_crd_fwd_longitude_freedom",
+              "title": "2015 Jeep Cherokee 2.0 CRD FWD Longitude Freedom"
+            },
+            {
+              "id": "mod_2015_jeep_cherokee_2_0_crd_fwd_longitude",
+              "title": "2015 Jeep Cherokee 2.0 CRD FWD Longitude"
+            },
+            {
+              "id": "mod_2015_jeep_cherokee_2_2_crd_awd_limited",
+              "title": "2015 Jeep Cherokee 2.2 CRD AWD Limited"
+            },
+            {
+              "id": "mod_2015_jeep_cherokee_2_2_crd_awd_longitude_freedom",
+              "title": "2015 Jeep Cherokee 2.2 CRD AWD Longitude Freedom"
+            },
+            {
+              "id": "mod_2015_jeep_cherokee_2_2_crd_awd_longitude",
+              "title": "2015 Jeep Cherokee 2.2 CRD AWD Longitude"
+            },
+            {
+              "id": "mod_2015_jeep_cherokee_3_2_v6_4wd_trailhawk",
+              "title": "2015 Jeep Cherokee 3.2 V6 4WD Trailhawk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jeep_renegade",
+      "title": "Jeep Renegade",
+      "generations": [
+        {
+          "id": "gen_jeep_renegade",
+          "title": "Jeep Renegade",
+          "children": [
+            {
+              "id": "mod_2018_jeep_renegade_1_0t_freedom",
+              "title": "2018 Jeep Renegade 1.0T Freedom"
+            },
+            {
+              "id": "mod_2018_jeep_renegade_1_0t_limited",
+              "title": "2018 Jeep Renegade 1.0T Limited"
+            },
+            {
+              "id": "mod_2018_jeep_renegade_1_0t_opening_edition",
+              "title": "2018 Jeep Renegade 1.0T Opening Edition"
+            },
+            {
+              "id": "mod_2018_jeep_renegade_1_3t_4wd_limited",
+              "title": "2018 Jeep Renegade 1.3T 4WD Limited"
+            },
+            {
+              "id": "mod_2018_jeep_renegade_1_3t_freedom",
+              "title": "2018 Jeep Renegade 1.3T Freedom"
+            },
+            {
+              "id": "mod_2018_jeep_renegade_1_3t_limited",
+              "title": "2018 Jeep Renegade 1.3T Limited"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_renegade",
+          "title": "Jeep Renegade",
+          "children": [
+            {
+              "id": "mod_2014_jeep_renegade_1_4_multiair_latitude",
+              "title": "2014 Jeep Renegade 1.4 MultiAir Latitude"
+            },
+            {
+              "id": "mod_2014_jeep_renegade_1_4_multiair_limited",
+              "title": "2014 Jeep Renegade 1.4 MultiAir Limited"
+            },
+            {
+              "id": "mod_2014_jeep_renegade_1_4_multiair_longitude",
+              "title": "2014 Jeep Renegade 1.4 MultiAir Longitude"
+            },
+            {
+              "id": "mod_2014_jeep_renegade_1_4_multiair_opening_edition",
+              "title": "2014 Jeep Renegade 1.4 MultiAir Opening Edition"
+            },
+            {
+              "id": "mod_2014_jeep_renegade_1_6_multijet_limited",
+              "title": "2014 Jeep Renegade 1.6 MultiJet Limited"
+            },
+            {
+              "id": "mod_2014_jeep_renegade_1_6_multijet_longitude",
+              "title": "2014 Jeep Renegade 1.6 MultiJet Longitude"
+            },
+            {
+              "id": "mod_2014_jeep_renegade_1_6_multijet_opening_edition",
+              "title": "2014 Jeep Renegade 1.6 MultiJet Opening Edition"
+            },
+            {
+              "id": "mod_2014_jeep_renegade_1_6_multijet_sport",
+              "title": "2014 Jeep Renegade 1.6 MultiJet Sport"
+            },
+            {
+              "id": "mod_2014_jeep_renegade_2_0_multijet_4wd_limited",
+              "title": "2014 Jeep Renegade 2.0 MultiJet 4WD Limited"
+            },
+            {
+              "id": "mod_2014_jeep_renegade_2_0_multijet_4wd_trailhawk",
+              "title": "2014 Jeep Renegade 2.0 MultiJet 4WD Trailhawk"
+            },
+            {
+              "id": "mod_2014_jeep_renegade_2_0_multijet_awd_limited",
+              "title": "2014 Jeep Renegade 2.0 MultiJet AWD Limited"
+            },
+            {
+              "id": "mod_2014_jeep_renegade_2_0_multijet_awd_opening_edition",
+              "title": "2014 Jeep Renegade 2.0 MultiJet AWD Opening Edition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jeep_grand_cherokee_van",
+      "title": "Jeep Grand Cherokee Van",
+      "generations": [
+        {
+          "id": "gen_jeep_grand_cherokee_van",
+          "title": "Jeep Grand Cherokee Van",
+          "children": [
+            {
+              "id": "mod_2015_jeep_grand_cherokee_3_0_crd_laredo",
+              "title": "2015 Jeep Grand Cherokee 3.0 CRD Laredo"
+            },
+            {
+              "id": "mod_2015_jeep_grand_cherokee_3_0_crd_limited",
+              "title": "2015 Jeep Grand Cherokee 3.0 CRD Limited"
+            },
+            {
+              "id": "mod_2015_jeep_grand_cherokee_3_0_crd_overland",
+              "title": "2015 Jeep Grand Cherokee 3.0 CRD Overland"
+            },
+            {
+              "id": "mod_2015_jeep_grand_cherokee_3_0_crd_summit",
+              "title": "2015 Jeep Grand Cherokee 3.0 CRD Summit"
+            },
+            {
+              "id": "mod_2015_jeep_grand_cherokee_3_6_v6_overland",
+              "title": "2015 Jeep Grand Cherokee 3.6 V6 Overland"
+            },
+            {
+              "id": "mod_2015_jeep_grand_cherokee_5_7_v8_summit",
+              "title": "2015 Jeep Grand Cherokee 5.7 V8 Summit"
+            },
+            {
+              "id": "mod_2015_jeep_grand_cherokee_6_4_v8_srt_8",
+              "title": "2015 Jeep Grand Cherokee 6.4 V8 SRT-8"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_grand_cherokee_van",
+          "title": "Jeep Grand Cherokee Van",
+          "children": [
+            {
+              "id": "mod_2012_jeep_grand_cherokee_van_3_0_crd_140kw_laredo",
+              "title": "2012 Jeep Grand Cherokee Van 3.0 CRD 140kW Laredo"
+            },
+            {
+              "id": "mod_2012_jeep_grand_cherokee_van_3_0_crd_177kw_limited",
+              "title": "2012 Jeep Grand Cherokee Van 3.0 CRD 177kW Limited"
+            },
+            {
+              "id": "mod_2012_jeep_grand_cherokee_van_3_0_crd_177kw_overland_summit",
+              "title": "2012 Jeep Grand Cherokee Van 3.0 CRD 177kW Overland Summit"
+            },
+            {
+              "id": "mod_2012_jeep_grand_cherokee_van_3_0_crd_177kw_overland",
+              "title": "2012 Jeep Grand Cherokee Van 3.0 CRD 177kW Overland"
+            },
+            {
+              "id": "mod_2012_jeep_grand_cherokee_van_3_6_v6_laredo",
+              "title": "2012 Jeep Grand Cherokee Van 3.6 V6 Laredo"
+            },
+            {
+              "id": "mod_2012_jeep_grand_cherokee_van_3_6_v6_limited",
+              "title": "2012 Jeep Grand Cherokee Van 3.6 V6 Limited"
+            },
+            {
+              "id": "mod_2012_jeep_grand_cherokee_van_3_6_v6_overland_summit",
+              "title": "2012 Jeep Grand Cherokee Van 3.6 V6 Overland Summit"
+            },
+            {
+              "id": "mod_2012_jeep_grand_cherokee_van_3_6_v6_overland",
+              "title": "2012 Jeep Grand Cherokee Van 3.6 V6 Overland"
+            },
+            {
+              "id": "mod_2012_jeep_grand_cherokee_van_5_7_v8_overland_summit",
+              "title": "2012 Jeep Grand Cherokee Van 5.7 V8 Overland Summit"
+            },
+            {
+              "id": "mod_2012_jeep_grand_cherokee_van_6_4_v8_srt_8",
+              "title": "2012 Jeep Grand Cherokee Van 6.4 V8 SRT-8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jeep_wrangler_unlimited_van",
+      "title": "Jeep Wrangler Unlimited Van",
+      "generations": [
+        {
+          "id": "gen_jeep_wrangler_unlimited_van",
+          "title": "Jeep Wrangler Unlimited Van",
+          "children": [
+            {
+              "id": "mod_2012_jeep_wrangler_unlimited_van_2_8_crd_arctic",
+              "title": "2012 Jeep Wrangler Unlimited Van 2.8 CRD Arctic"
+            },
+            {
+              "id": "mod_2012_jeep_wrangler_unlimited_van_2_8_crd_mountain",
+              "title": "2012 Jeep Wrangler Unlimited Van 2.8 CRD Mountain"
+            },
+            {
+              "id": "mod_2012_jeep_wrangler_unlimited_van_2_8_crd_rubicon",
+              "title": "2012 Jeep Wrangler Unlimited Van 2.8 CRD Rubicon"
+            },
+            {
+              "id": "mod_2012_jeep_wrangler_unlimited_van_2_8_crd_sahara",
+              "title": "2012 Jeep Wrangler Unlimited Van 2.8 CRD Sahara"
+            },
+            {
+              "id": "mod_2012_jeep_wrangler_unlimited_van_2_8_crd_sport",
+              "title": "2012 Jeep Wrangler Unlimited Van 2.8 CRD Sport"
+            },
+            {
+              "id": "mod_2012_jeep_wrangler_unlimited_van_3_6_v6_arctic",
+              "title": "2012 Jeep Wrangler Unlimited Van 3.6 V6 Arctic"
+            },
+            {
+              "id": "mod_2012_jeep_wrangler_unlimited_van_3_6_v6_mountain",
+              "title": "2012 Jeep Wrangler Unlimited Van 3.6 V6 Mountain"
+            },
+            {
+              "id": "mod_2012_jeep_wrangler_unlimited_van_3_6_v6_rubicon",
+              "title": "2012 Jeep Wrangler Unlimited Van 3.6 V6 Rubicon"
+            },
+            {
+              "id": "mod_2012_jeep_wrangler_unlimited_van_3_6_v6_sahara",
+              "title": "2012 Jeep Wrangler Unlimited Van 3.6 V6 Sahara"
+            },
+            {
+              "id": "mod_2012_jeep_wrangler_unlimited_van_3_6_v6_sport",
+              "title": "2012 Jeep Wrangler Unlimited Van 3.6 V6 Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jeep_patriot",
+      "title": "Jeep Patriot",
+      "generations": [
+        {
+          "id": "gen_jeep_patriot",
+          "title": "Jeep Patriot",
+          "children": [
+            {
+              "id": "mod_2007_jeep_patriot_2_0_crd_limited",
+              "title": "2007 Jeep Patriot 2.0 CRD Limited"
+            },
+            {
+              "id": "mod_2007_jeep_patriot_2_0_crd_sport",
+              "title": "2007 Jeep Patriot 2.0 CRD Sport"
+            },
+            {
+              "id": "mod_2007_jeep_patriot_2_4_limited",
+              "title": "2007 Jeep Patriot 2.4 Limited"
+            },
+            {
+              "id": "mod_2007_jeep_patriot_2_4_sport",
+              "title": "2007 Jeep Patriot 2.4 Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jeep_wrangler_unlimited",
+      "title": "Jeep Wrangler Unlimited",
+      "generations": [
+        {
+          "id": "gen_jeep_wrangler_unlimited",
+          "title": "Jeep Wrangler Unlimited",
+          "children": [
+            {
+              "id": "mod_2019_jeep_wrangler_unlimited_2_0t_rubicon",
+              "title": "2019 Jeep Wrangler Unlimited 2.0T Rubicon"
+            },
+            {
+              "id": "mod_2019_jeep_wrangler_unlimited_2_0t_sahara",
+              "title": "2019 Jeep Wrangler Unlimited 2.0T Sahara"
+            },
+            {
+              "id": "mod_2019_jeep_wrangler_unlimited_2_2d_rubicon",
+              "title": "2019 Jeep Wrangler Unlimited 2.2D Rubicon"
+            },
+            {
+              "id": "mod_2019_jeep_wrangler_unlimited_2_2d_sahara",
+              "title": "2019 Jeep Wrangler Unlimited 2.2D Sahara"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_wrangler_unlimited",
+          "title": "Jeep Wrangler Unlimited",
+          "children": [
+            {
+              "id": "mod_2007_jeep_wrangler_unlimited_2_8_crd_rubicon",
+              "title": "2007 Jeep Wrangler Unlimited 2.8 CRD Rubicon"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_unlimited_2_8_crd_sahara",
+              "title": "2007 Jeep Wrangler Unlimited 2.8 CRD Sahara"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_unlimited_2_8_crd_sport_plus",
+              "title": "2007 Jeep Wrangler Unlimited 2.8 CRD Sport Plus"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_unlimited_2_8_crd_sport",
+              "title": "2007 Jeep Wrangler Unlimited 2.8 CRD Sport"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_unlimited_3_8_rubicon",
+              "title": "2007 Jeep Wrangler Unlimited 3.8 Rubicon"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_unlimited_3_8_sahara",
+              "title": "2007 Jeep Wrangler Unlimited 3.8 Sahara"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_unlimited_3_8_sport_plus",
+              "title": "2007 Jeep Wrangler Unlimited 3.8 Sport Plus"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_unlimited_3_8_sport",
+              "title": "2007 Jeep Wrangler Unlimited 3.8 Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jeep_compass",
+      "title": "Jeep Compass",
+      "generations": [
+        {
+          "id": "gen_jeep_compass",
+          "title": "Jeep Compass",
+          "children": [
+            {
+              "id": "mod_2020_jeep_compass_1_3t_130_limited",
+              "title": "2020 Jeep Compass 1.3T 130 Limited"
+            },
+            {
+              "id": "mod_2020_jeep_compass_1_3t_130_longitude",
+              "title": "2020 Jeep Compass 1.3T 130 Longitude"
+            },
+            {
+              "id": "mod_2020_jeep_compass_1_3t_130_night_eagle_liberty_edition",
+              "title": "2020 Jeep Compass 1.3T 130 Night Eagle Liberty Edition"
+            },
+            {
+              "id": "mod_2020_jeep_compass_1_3t_130_sport",
+              "title": "2020 Jeep Compass 1.3T 130 Sport"
+            },
+            {
+              "id": "mod_2020_jeep_compass_1_3t_150_limited",
+              "title": "2020 Jeep Compass 1.3T 150 Limited"
+            },
+            {
+              "id": "mod_2020_jeep_compass_1_3t_150_longitude",
+              "title": "2020 Jeep Compass 1.3T 150 Longitude"
+            },
+            {
+              "id": "mod_2020_jeep_compass_1_3t_150_night_eagle_liberty_edition",
+              "title": "2020 Jeep Compass 1.3T 150 Night Eagle Liberty Edition"
+            },
+            {
+              "id": "mod_2020_jeep_compass_1_3t_150_s",
+              "title": "2020 Jeep Compass 1.3T 150 S"
+            },
+            {
+              "id": "mod_2020_jeep_compass_4xe_190_phev_limited_business",
+              "title": "2020 Jeep Compass 4xe 190 PHEV Limited Business"
+            },
+            {
+              "id": "mod_2020_jeep_compass_4xe_240_phev_s",
+              "title": "2020 Jeep Compass 4xe 240 PHEV S"
+            },
+            {
+              "id": "mod_2020_jeep_compass_4xe_240_phev_trailhawk",
+              "title": "2020 Jeep Compass 4xe 240 PHEV Trailhawk"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_compass",
+          "title": "Jeep Compass",
+          "children": [
+            {
+              "id": "mod_2017_jeep_compass_1_4_multiair_limited_4x4",
+              "title": "2017 Jeep Compass 1.4 MultiAir Limited 4x4"
+            },
+            {
+              "id": "mod_2017_jeep_compass_1_4_multiair_limited",
+              "title": "2017 Jeep Compass 1.4 MultiAir Limited"
+            },
+            {
+              "id": "mod_2017_jeep_compass_1_4_multiair_longitude",
+              "title": "2017 Jeep Compass 1.4 MultiAir Longitude"
+            },
+            {
+              "id": "mod_2017_jeep_compass_1_4_multiair_opening_edition_4x4",
+              "title": "2017 Jeep Compass 1.4 MultiAir Opening Edition 4x4"
+            },
+            {
+              "id": "mod_2017_jeep_compass_1_4_multiair_opening_edition",
+              "title": "2017 Jeep Compass 1.4 MultiAir Opening Edition"
+            },
+            {
+              "id": "mod_2017_jeep_compass_1_4_multiair_sport",
+              "title": "2017 Jeep Compass 1.4 MultiAir Sport"
+            },
+            {
+              "id": "mod_2017_jeep_compass_1_6_multijet_limited",
+              "title": "2017 Jeep Compass 1.6 MultiJet Limited"
+            },
+            {
+              "id": "mod_2017_jeep_compass_1_6_multijet_longitude",
+              "title": "2017 Jeep Compass 1.6 MultiJet Longitude"
+            },
+            {
+              "id": "mod_2017_jeep_compass_1_6_multijet_sport",
+              "title": "2017 Jeep Compass 1.6 MultiJet Sport"
+            },
+            {
+              "id": "mod_2017_jeep_compass_2_0_multijet_170_limited_4x4",
+              "title": "2017 Jeep Compass 2.0 MultiJet 170 Limited 4x4"
+            },
+            {
+              "id": "mod_2017_jeep_compass_2_0_multijet_170_opening_edition_4x4",
+              "title": "2017 Jeep Compass 2.0 MultiJet 170 Opening Edition 4x4"
+            },
+            {
+              "id": "mod_2017_jeep_compass_2_0_multijet_limited_4x4",
+              "title": "2017 Jeep Compass 2.0 MultiJet Limited 4x4"
+            },
+            {
+              "id": "mod_2017_jeep_compass_2_0_multijet_longitude_4x4",
+              "title": "2017 Jeep Compass 2.0 MultiJet Longitude 4x4"
+            },
+            {
+              "id": "mod_2017_jeep_compass_2_0_multijet_opening_edition_4x4",
+              "title": "2017 Jeep Compass 2.0 MultiJet Opening Edition 4x4"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_compass",
+          "title": "Jeep Compass",
+          "children": [
+            {
+              "id": "mod_2013_jeep_compass_2_0_limited_2wd",
+              "title": "2013 Jeep Compass 2.0 Limited 2WD"
+            },
+            {
+              "id": "mod_2013_jeep_compass_2_0_north_business_edition_2wd",
+              "title": "2013 Jeep Compass 2.0 North Business Edition 2WD"
+            },
+            {
+              "id": "mod_2013_jeep_compass_2_0_sport_2wd",
+              "title": "2013 Jeep Compass 2.0 Sport 2WD"
+            },
+            {
+              "id": "mod_2013_jeep_compass_2_2_crd_limited_2wd",
+              "title": "2013 Jeep Compass 2.2 CRD Limited 2WD"
+            },
+            {
+              "id": "mod_2013_jeep_compass_2_2_crd_limited_4wd",
+              "title": "2013 Jeep Compass 2.2 CRD Limited 4WD"
+            },
+            {
+              "id": "mod_2013_jeep_compass_2_2_crd_sport_2wd",
+              "title": "2013 Jeep Compass 2.2 CRD Sport 2WD"
+            },
+            {
+              "id": "mod_2013_jeep_compass_2_4_limited_4wd",
+              "title": "2013 Jeep Compass 2.4 Limited 4WD"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_compass",
+          "title": "Jeep Compass",
+          "children": [
+            {
+              "id": "mod_2011_jeep_compass_2_0_70th_anniversary_2wd",
+              "title": "2011 Jeep Compass 2.0 70th Anniversary 2WD"
+            },
+            {
+              "id": "mod_2011_jeep_compass_2_0_limited_2wd",
+              "title": "2011 Jeep Compass 2.0 Limited 2WD"
+            },
+            {
+              "id": "mod_2011_jeep_compass_2_0_sport_2wd",
+              "title": "2011 Jeep Compass 2.0 Sport 2WD"
+            },
+            {
+              "id": "mod_2011_jeep_compass_2_1_crd_70th_anniversary_2wd",
+              "title": "2011 Jeep Compass 2.1 CRD 70th Anniversary 2WD"
+            },
+            {
+              "id": "mod_2011_jeep_compass_2_1_crd_70th_anniversary_4wd",
+              "title": "2011 Jeep Compass 2.1 CRD 70th Anniversary 4WD"
+            },
+            {
+              "id": "mod_2011_jeep_compass_2_1_crd_limited_2wd",
+              "title": "2011 Jeep Compass 2.1 CRD Limited 2WD"
+            },
+            {
+              "id": "mod_2011_jeep_compass_2_1_crd_limited_4wd",
+              "title": "2011 Jeep Compass 2.1 CRD Limited 4WD"
+            },
+            {
+              "id": "mod_2011_jeep_compass_2_1_crd_sport_2wd",
+              "title": "2011 Jeep Compass 2.1 CRD Sport 2WD"
+            },
+            {
+              "id": "mod_2011_jeep_compass_2_1_crd_sport_4wd",
+              "title": "2011 Jeep Compass 2.1 CRD Sport 4WD"
+            },
+            {
+              "id": "mod_2011_jeep_compass_2_4_70th_anniversary_4wd",
+              "title": "2011 Jeep Compass 2.4 70th Anniversary 4WD"
+            },
+            {
+              "id": "mod_2011_jeep_compass_2_4_limited_4wd",
+              "title": "2011 Jeep Compass 2.4 Limited 4WD"
+            },
+            {
+              "id": "mod_2011_jeep_compass_2_4_sport_4wd",
+              "title": "2011 Jeep Compass 2.4 Sport 4WD"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_compass",
+          "title": "Jeep Compass",
+          "children": [
+            {
+              "id": "mod_2006_jeep_compass_2_0_crd_limited",
+              "title": "2006 Jeep Compass 2.0 CRD Limited"
+            },
+            {
+              "id": "mod_2006_jeep_compass_2_0_crd_sport",
+              "title": "2006 Jeep Compass 2.0 CRD Sport"
+            },
+            {
+              "id": "mod_2006_jeep_compass_2_4_limited",
+              "title": "2006 Jeep Compass 2.4 Limited"
+            },
+            {
+              "id": "mod_2006_jeep_compass_2_4_sport",
+              "title": "2006 Jeep Compass 2.4 Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jeep_commander",
+      "title": "Jeep Commander",
+      "generations": [
+        {
+          "id": "gen_jeep_commander",
+          "title": "Jeep Commander",
+          "children": [
+            {
+              "id": "mod_2006_jeep_commander_3_0_crd_limited",
+              "title": "2006 Jeep Commander 3.0 CRD Limited"
+            },
+            {
+              "id": "mod_2006_jeep_commander_3_0_crd_sport",
+              "title": "2006 Jeep Commander 3.0 CRD Sport"
+            },
+            {
+              "id": "mod_2006_jeep_commander_4_7i_v8_limited",
+              "title": "2006 Jeep Commander 4.7i V8 Limited"
+            },
+            {
+              "id": "mod_2006_jeep_commander_4_7i_v8_sport",
+              "title": "2006 Jeep Commander 4.7i V8 Sport"
+            },
+            {
+              "id": "mod_2006_jeep_commander_5_7i_hemi_v8_limited",
+              "title": "2006 Jeep Commander 5.7i HEMI V8 Limited"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jeep_grand_cherokee",
+      "title": "Jeep Grand Cherokee",
+      "generations": [
+        {
+          "id": "gen_jeep_grand_cherokee",
+          "title": "Jeep Grand Cherokee",
+          "children": [
+            {
+              "id": "mod_2013_jeep_grand_cherokee_3_0_crd_laredo",
+              "title": "2013 Jeep Grand Cherokee 3.0 CRD Laredo"
+            },
+            {
+              "id": "mod_2013_jeep_grand_cherokee_3_0_crd_limited",
+              "title": "2013 Jeep Grand Cherokee 3.0 CRD Limited"
+            },
+            {
+              "id": "mod_2013_jeep_grand_cherokee_3_0_crd_overland",
+              "title": "2013 Jeep Grand Cherokee 3.0 CRD Overland"
+            },
+            {
+              "id": "mod_2013_jeep_grand_cherokee_3_0_crd_summit",
+              "title": "2013 Jeep Grand Cherokee 3.0 CRD Summit"
+            },
+            {
+              "id": "mod_2013_jeep_grand_cherokee_3_6_v6_overland",
+              "title": "2013 Jeep Grand Cherokee 3.6 V6 Overland"
+            },
+            {
+              "id": "mod_2013_jeep_grand_cherokee_5_7_v8_summit",
+              "title": "2013 Jeep Grand Cherokee 5.7 V8 Summit"
+            },
+            {
+              "id": "mod_2013_jeep_grand_cherokee_6_4_v8_srt_8",
+              "title": "2013 Jeep Grand Cherokee 6.4 V8 SRT-8"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_grand_cherokee",
+          "title": "Jeep Grand Cherokee",
+          "children": [
+            {
+              "id": "mod_2011_jeep_grand_cherokee_3_0_crd_140kw_laredo",
+              "title": "2011 Jeep Grand Cherokee 3.0 CRD 140kW Laredo"
+            },
+            {
+              "id": "mod_2011_jeep_grand_cherokee_3_0_crd_140kw_limited",
+              "title": "2011 Jeep Grand Cherokee 3.0 CRD 140kW Limited"
+            },
+            {
+              "id": "mod_2011_jeep_grand_cherokee_3_0_crd_177kw_limited",
+              "title": "2011 Jeep Grand Cherokee 3.0 CRD 177kW Limited"
+            },
+            {
+              "id": "mod_2011_jeep_grand_cherokee_3_0_crd_177kw_overland_summit",
+              "title": "2011 Jeep Grand Cherokee 3.0 CRD 177kW Overland Summit"
+            },
+            {
+              "id": "mod_2011_jeep_grand_cherokee_3_0_crd_177kw_overland",
+              "title": "2011 Jeep Grand Cherokee 3.0 CRD 177kW Overland"
+            },
+            {
+              "id": "mod_2011_jeep_grand_cherokee_3_6_v6_laredo",
+              "title": "2011 Jeep Grand Cherokee 3.6 V6 Laredo"
+            },
+            {
+              "id": "mod_2011_jeep_grand_cherokee_3_6_v6_limited",
+              "title": "2011 Jeep Grand Cherokee 3.6 V6 Limited"
+            },
+            {
+              "id": "mod_2011_jeep_grand_cherokee_3_6_v6_overland_summit",
+              "title": "2011 Jeep Grand Cherokee 3.6 V6 Overland Summit"
+            },
+            {
+              "id": "mod_2011_jeep_grand_cherokee_3_6_v6_overland",
+              "title": "2011 Jeep Grand Cherokee 3.6 V6 Overland"
+            },
+            {
+              "id": "mod_2011_jeep_grand_cherokee_5_7_v8_overland_summit",
+              "title": "2011 Jeep Grand Cherokee 5.7 V8 Overland Summit"
+            },
+            {
+              "id": "mod_2011_jeep_grand_cherokee_5_7_v8_overland",
+              "title": "2011 Jeep Grand Cherokee 5.7 V8 Overland"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_grand_cherokee",
+          "title": "Jeep Grand Cherokee",
+          "children": [
+            {
+              "id": "mod_2008_jeep_grand_cherokee_3_0_crd_laredo",
+              "title": "2008 Jeep Grand Cherokee 3.0 CRD Laredo"
+            },
+            {
+              "id": "mod_2008_jeep_grand_cherokee_3_0_crd_limited",
+              "title": "2008 Jeep Grand Cherokee 3.0 CRD Limited"
+            },
+            {
+              "id": "mod_2008_jeep_grand_cherokee_3_0_crd_overland",
+              "title": "2008 Jeep Grand Cherokee 3.0 CRD Overland"
+            },
+            {
+              "id": "mod_2008_jeep_grand_cherokee_3_7_v6_laredo",
+              "title": "2008 Jeep Grand Cherokee 3.7 V6 Laredo"
+            },
+            {
+              "id": "mod_2008_jeep_grand_cherokee_4_7_v8_limited",
+              "title": "2008 Jeep Grand Cherokee 4.7 V8 Limited"
+            },
+            {
+              "id": "mod_2008_jeep_grand_cherokee_5_7_hemi_v8_limited",
+              "title": "2008 Jeep Grand Cherokee 5.7 HEMI V8 Limited"
+            },
+            {
+              "id": "mod_2008_jeep_grand_cherokee_5_7_hemi_v8_overland",
+              "title": "2008 Jeep Grand Cherokee 5.7 HEMI V8 Overland"
+            },
+            {
+              "id": "mod_2008_jeep_grand_cherokee_6_1_hemi_v8_srt8",
+              "title": "2008 Jeep Grand Cherokee 6.1 HEMI V8 SRT8"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_grand_cherokee",
+          "title": "Jeep Grand Cherokee",
+          "children": [
+            {
+              "id": "mod_2005_jeep_grand_cherokee_3_0_crd_laredo",
+              "title": "2005 Jeep Grand Cherokee 3.0 CRD Laredo"
+            },
+            {
+              "id": "mod_2005_jeep_grand_cherokee_3_0_crd_limited",
+              "title": "2005 Jeep Grand Cherokee 3.0 CRD Limited"
+            },
+            {
+              "id": "mod_2005_jeep_grand_cherokee_4_7_v8_laredo",
+              "title": "2005 Jeep Grand Cherokee 4.7 V8 Laredo"
+            },
+            {
+              "id": "mod_2005_jeep_grand_cherokee_4_7_v8_limited",
+              "title": "2005 Jeep Grand Cherokee 4.7 V8 Limited"
+            },
+            {
+              "id": "mod_2005_jeep_grand_cherokee_5_7_hemi_v8_limited",
+              "title": "2005 Jeep Grand Cherokee 5.7 HEMI V8 Limited"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_grand_cherokee",
+          "title": "Jeep Grand Cherokee",
+          "children": [
+            {
+              "id": "mod_2003_jeep_grand_cherokee_2_7_crd_laredo",
+              "title": "2003 Jeep Grand Cherokee 2.7 CRD Laredo"
+            },
+            {
+              "id": "mod_2003_jeep_grand_cherokee_2_7_crd_limited",
+              "title": "2003 Jeep Grand Cherokee 2.7 CRD Limited"
+            },
+            {
+              "id": "mod_2003_jeep_grand_cherokee_2_7_crd_overland",
+              "title": "2003 Jeep Grand Cherokee 2.7 CRD Overland"
+            },
+            {
+              "id": "mod_2003_jeep_grand_cherokee_4_0i_limited",
+              "title": "2003 Jeep Grand Cherokee 4.0i Limited"
+            },
+            {
+              "id": "mod_2003_jeep_grand_cherokee_4_7i_v8_limited",
+              "title": "2003 Jeep Grand Cherokee 4.7i V8 Limited"
+            },
+            {
+              "id": "mod_2003_jeep_grand_cherokee_4_7i_v8_overland",
+              "title": "2003 Jeep Grand Cherokee 4.7i V8 Overland"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_grand_cherokee",
+          "title": "Jeep Grand Cherokee",
+          "children": [
+            {
+              "id": "mod_2001_jeep_grand_cherokee_2_7_crd_laredo",
+              "title": "2001 Jeep Grand Cherokee 2.7 CRD Laredo"
+            },
+            {
+              "id": "mod_2001_jeep_grand_cherokee_2_7_crd_limited",
+              "title": "2001 Jeep Grand Cherokee 2.7 CRD Limited"
+            },
+            {
+              "id": "mod_2001_jeep_grand_cherokee_4_0i_laredo",
+              "title": "2001 Jeep Grand Cherokee 4.0i Laredo"
+            },
+            {
+              "id": "mod_2001_jeep_grand_cherokee_4_0i_limited",
+              "title": "2001 Jeep Grand Cherokee 4.0i Limited"
+            },
+            {
+              "id": "mod_2001_jeep_grand_cherokee_4_7i_v8_limited",
+              "title": "2001 Jeep Grand Cherokee 4.7i V8 Limited"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_grand_cherokee",
+          "title": "Jeep Grand Cherokee",
+          "children": [
+            {
+              "id": "mod_1999_jeep_grand_cherokee_3_1_td_laredo",
+              "title": "1999 Jeep Grand Cherokee 3.1 TD Laredo"
+            },
+            {
+              "id": "mod_1999_jeep_grand_cherokee_3_1_td_limited",
+              "title": "1999 Jeep Grand Cherokee 3.1 TD Limited"
+            },
+            {
+              "id": "mod_1999_jeep_grand_cherokee_4_0i_laredo",
+              "title": "1999 Jeep Grand Cherokee 4.0i Laredo"
+            },
+            {
+              "id": "mod_1999_jeep_grand_cherokee_4_0i_limited",
+              "title": "1999 Jeep Grand Cherokee 4.0i Limited"
+            },
+            {
+              "id": "mod_1999_jeep_grand_cherokee_4_7i_v8_limited",
+              "title": "1999 Jeep Grand Cherokee 4.7i V8 Limited"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_grand_cherokee",
+          "title": "Jeep Grand Cherokee",
+          "children": [
+            {
+              "id": "mod_1993_jeep_grand_cherokee_4_0i_laredo",
+              "title": "1993 Jeep Grand Cherokee 4.0i Laredo"
+            },
+            {
+              "id": "mod_1993_jeep_grand_cherokee_4_0i_limited",
+              "title": "1993 Jeep Grand Cherokee 4.0i Limited"
+            },
+            {
+              "id": "mod_1993_jeep_grand_cherokee_5_2i_v8_limited",
+              "title": "1993 Jeep Grand Cherokee 5.2i V8 Limited"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jeep_wrangler",
+      "title": "Jeep Wrangler",
+      "generations": [
+        {
+          "id": "gen_jeep_wrangler",
+          "title": "Jeep Wrangler",
+          "children": [
+            {
+              "id": "mod_2019_jeep_wrangler_2_0t_rubicon",
+              "title": "2019 Jeep Wrangler 2.0T Rubicon"
+            },
+            {
+              "id": "mod_2019_jeep_wrangler_2_0t_sahara",
+              "title": "2019 Jeep Wrangler 2.0T Sahara"
+            },
+            {
+              "id": "mod_2019_jeep_wrangler_2_2d_rubicon",
+              "title": "2019 Jeep Wrangler 2.2D Rubicon"
+            },
+            {
+              "id": "mod_2019_jeep_wrangler_2_2d_sahara",
+              "title": "2019 Jeep Wrangler 2.2D Sahara"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_wrangler",
+          "title": "Jeep Wrangler",
+          "children": [
+            {
+              "id": "mod_2007_jeep_wrangler_2_8_crd_high_sport",
+              "title": "2007 Jeep Wrangler 2.8 CRD High Sport"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_2_8_crd_rubicon",
+              "title": "2007 Jeep Wrangler 2.8 CRD Rubicon"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_2_8_crd_sahara",
+              "title": "2007 Jeep Wrangler 2.8 CRD Sahara"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_2_8_crd_sport",
+              "title": "2007 Jeep Wrangler 2.8 CRD Sport"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_3_8_high_sport",
+              "title": "2007 Jeep Wrangler 3.8 High Sport"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_3_8_rubicon",
+              "title": "2007 Jeep Wrangler 3.8 Rubicon"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_3_8_sahara",
+              "title": "2007 Jeep Wrangler 3.8 Sahara"
+            },
+            {
+              "id": "mod_2007_jeep_wrangler_3_8_sport",
+              "title": "2007 Jeep Wrangler 3.8 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_wrangler",
+          "title": "Jeep Wrangler",
+          "children": [
+            {
+              "id": "mod_2002_jeep_wrangler_2_4i_soft_top_sport",
+              "title": "2002 Jeep Wrangler 2.4i Soft Top Sport"
+            },
+            {
+              "id": "mod_2002_jeep_wrangler_4_0i_hard_top_sahara",
+              "title": "2002 Jeep Wrangler 4.0i Hard Top Sahara"
+            },
+            {
+              "id": "mod_2002_jeep_wrangler_4_0i_hard_top",
+              "title": "2002 Jeep Wrangler 4.0i Hard Top"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_wrangler",
+          "title": "Jeep Wrangler",
+          "children": [
+            {
+              "id": "mod_1996_jeep_wrangler_2_5i_hard_top",
+              "title": "1996 Jeep Wrangler 2.5i Hard Top"
+            },
+            {
+              "id": "mod_1996_jeep_wrangler_2_5i_soft_top",
+              "title": "1996 Jeep Wrangler 2.5i Soft Top"
+            },
+            {
+              "id": "mod_1996_jeep_wrangler_4_0i_hard_top",
+              "title": "1996 Jeep Wrangler 4.0i Hard Top"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_wrangler",
+          "title": "Jeep Wrangler",
+          "children": [
+            {
+              "id": "mod_1991_jeep_wrangler_4_0i_hard_top",
+              "title": "1991 Jeep Wrangler 4.0i Hard Top"
+            },
+            {
+              "id": "mod_1991_jeep_wrangler_4_0i_soft_top",
+              "title": "1991 Jeep Wrangler 4.0i Soft Top"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_wrangler",
+          "title": "Jeep Wrangler",
+          "children": [
+            {
+              "id": "mod_1991_jeep_wrangler_2_5i_hard_top_laredo",
+              "title": "1991 Jeep Wrangler 2.5i Hard Top Laredo"
+            },
+            {
+              "id": "mod_1991_jeep_wrangler_2_5i_hard_top",
+              "title": "1991 Jeep Wrangler 2.5i Hard Top"
+            },
+            {
+              "id": "mod_1991_jeep_wrangler_2_5i_soft_top",
+              "title": "1991 Jeep Wrangler 2.5i Soft Top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jeep_cherokee",
+      "title": "Jeep Cherokee",
+      "generations": [
+        {
+          "id": "gen_jeep_cherokee",
+          "title": "Jeep Cherokee",
+          "children": [
+            {
+              "id": "mod_2019_jeep_cherokee_2_2_crd_4x4_limited",
+              "title": "2019 Jeep Cherokee 2.2 CRD 4x4 Limited"
+            },
+            {
+              "id": "mod_2019_jeep_cherokee_2_2_crd_4x4_longitude_freedom",
+              "title": "2019 Jeep Cherokee 2.2 CRD 4x4 Longitude Freedom"
+            },
+            {
+              "id": "mod_2019_jeep_cherokee_2_2_crd_4x4_overland",
+              "title": "2019 Jeep Cherokee 2.2 CRD 4x4 Overland"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_cherokee",
+          "title": "Jeep Cherokee",
+          "children": [
+            {
+              "id": "mod_2014_jeep_cherokee_2_0_crd_4wd_limited",
+              "title": "2014 Jeep Cherokee 2.0 CRD 4WD Limited"
+            },
+            {
+              "id": "mod_2014_jeep_cherokee_2_0_crd_awd_limited",
+              "title": "2014 Jeep Cherokee 2.0 CRD AWD Limited"
+            },
+            {
+              "id": "mod_2014_jeep_cherokee_2_0_crd_awd_longitude",
+              "title": "2014 Jeep Cherokee 2.0 CRD AWD Longitude"
+            },
+            {
+              "id": "mod_2014_jeep_cherokee_2_0_crd_fwd_limited",
+              "title": "2014 Jeep Cherokee 2.0 CRD FWD Limited"
+            },
+            {
+              "id": "mod_2014_jeep_cherokee_2_0_crd_fwd_longitude",
+              "title": "2014 Jeep Cherokee 2.0 CRD FWD Longitude"
+            },
+            {
+              "id": "mod_2014_jeep_cherokee_3_2_v6_4wd_trailhawk",
+              "title": "2014 Jeep Cherokee 3.2 V6 4WD Trailhawk"
+            },
+            {
+              "id": "mod_2014_jeep_cherokee_3_2_v6_awd_limited",
+              "title": "2014 Jeep Cherokee 3.2 V6 AWD Limited"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_cherokee",
+          "title": "Jeep Cherokee",
+          "children": [
+            {
+              "id": "mod_2008_jeep_cherokee_2_8_crd_limited",
+              "title": "2008 Jeep Cherokee 2.8 CRD Limited"
+            },
+            {
+              "id": "mod_2008_jeep_cherokee_2_8_crd_sport",
+              "title": "2008 Jeep Cherokee 2.8 CRD Sport"
+            },
+            {
+              "id": "mod_2008_jeep_cherokee_3_7_v6_limited",
+              "title": "2008 Jeep Cherokee 3.7 V6 Limited"
+            },
+            {
+              "id": "mod_2008_jeep_cherokee_3_7_v6_sport",
+              "title": "2008 Jeep Cherokee 3.7 V6 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_cherokee",
+          "title": "Jeep Cherokee",
+          "children": [
+            {
+              "id": "mod_2005_jeep_cherokee_2_4i_sport",
+              "title": "2005 Jeep Cherokee 2.4i Sport"
+            },
+            {
+              "id": "mod_2005_jeep_cherokee_2_8_crd_limited",
+              "title": "2005 Jeep Cherokee 2.8 CRD Limited"
+            },
+            {
+              "id": "mod_2005_jeep_cherokee_2_8_crd_renegade",
+              "title": "2005 Jeep Cherokee 2.8 CRD Renegade"
+            },
+            {
+              "id": "mod_2005_jeep_cherokee_2_8_crd_sport",
+              "title": "2005 Jeep Cherokee 2.8 CRD Sport"
+            },
+            {
+              "id": "mod_2005_jeep_cherokee_3_7i_v6_limited",
+              "title": "2005 Jeep Cherokee 3.7i V6 Limited"
+            },
+            {
+              "id": "mod_2005_jeep_cherokee_3_7i_v6_renegade",
+              "title": "2005 Jeep Cherokee 3.7i V6 Renegade"
+            },
+            {
+              "id": "mod_2005_jeep_cherokee_3_7i_v6_sport",
+              "title": "2005 Jeep Cherokee 3.7i V6 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_cherokee",
+          "title": "Jeep Cherokee",
+          "children": [
+            {
+              "id": "mod_2001_jeep_cherokee_2_4i_sport",
+              "title": "2001 Jeep Cherokee 2.4i Sport"
+            },
+            {
+              "id": "mod_2001_jeep_cherokee_2_4i_sport_plus",
+              "title": "2001 Jeep Cherokee 2.4i Sport-Plus"
+            },
+            {
+              "id": "mod_2001_jeep_cherokee_2_5_crd_limited",
+              "title": "2001 Jeep Cherokee 2.5 CRD Limited"
+            },
+            {
+              "id": "mod_2001_jeep_cherokee_2_5_crd_sport",
+              "title": "2001 Jeep Cherokee 2.5 CRD Sport"
+            },
+            {
+              "id": "mod_2001_jeep_cherokee_2_5_crd_sport_plus",
+              "title": "2001 Jeep Cherokee 2.5 CRD Sport-Plus"
+            },
+            {
+              "id": "mod_2001_jeep_cherokee_3_7i_v6_limited",
+              "title": "2001 Jeep Cherokee 3.7i V6 Limited"
+            },
+            {
+              "id": "mod_2001_jeep_cherokee_3_7i_v6_sport_plus",
+              "title": "2001 Jeep Cherokee 3.7i V6 Sport-Plus"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_cherokee",
+          "title": "Jeep Cherokee",
+          "children": [
+            {
+              "id": "mod_1997_jeep_cherokee_2_5_td_s",
+              "title": "1997 Jeep Cherokee 2.5 TD S"
+            },
+            {
+              "id": "mod_1997_jeep_cherokee_2_5_td_se",
+              "title": "1997 Jeep Cherokee 2.5 TD SE"
+            },
+            {
+              "id": "mod_1997_jeep_cherokee_2_5_td_sport",
+              "title": "1997 Jeep Cherokee 2.5 TD Sport"
+            },
+            {
+              "id": "mod_1997_jeep_cherokee_2_5i_s",
+              "title": "1997 Jeep Cherokee 2.5i S"
+            },
+            {
+              "id": "mod_1997_jeep_cherokee_4_0i_limited",
+              "title": "1997 Jeep Cherokee 4.0i Limited"
+            },
+            {
+              "id": "mod_1997_jeep_cherokee_4_0i_se",
+              "title": "1997 Jeep Cherokee 4.0i SE"
+            },
+            {
+              "id": "mod_1997_jeep_cherokee_4_0i_sport",
+              "title": "1997 Jeep Cherokee 4.0i Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_jeep_cherokee",
+          "title": "Jeep Cherokee",
+          "children": []
+        },
+        {
+          "id": "gen_jeep_cherokee",
+          "title": "Jeep Cherokee",
+          "children": [
+            {
+              "id": "mod_1991_jeep_cherokee_4_0i_le",
+              "title": "1991 Jeep Cherokee 4.0i LE"
+            },
+            {
+              "id": "mod_1991_jeep_cherokee_4_0i",
+              "title": "1991 Jeep Cherokee 4.0i"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

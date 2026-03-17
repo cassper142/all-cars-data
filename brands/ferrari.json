@@ -1,0 +1,656 @@
+{
+  "id": "brand_ferrari",
+  "title": "Ferrari",
+  "models": [
+    {
+      "id": "model_ferrari_roma",
+      "title": "Ferrari Roma",
+      "generations": [
+        {
+          "id": "gen_ferrari_roma",
+          "title": "Ferrari Roma",
+          "children": [
+            {
+              "id": "mod_2020_ferrari_roma",
+              "title": "2020 Ferrari Roma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_sf90_stradale",
+      "title": "Ferrari SF90 Stradale",
+      "generations": [
+        {
+          "id": "gen_ferrari_sf90_stradale",
+          "title": "Ferrari SF90 Stradale",
+          "children": [
+            {
+              "id": "mod_2020_ferrari_sf90_stradale",
+              "title": "2020 Ferrari SF90 Stradale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_f8_spider",
+      "title": "Ferrari F8 Spider",
+      "generations": [
+        {
+          "id": "gen_ferrari_f8_spider",
+          "title": "Ferrari F8 Spider",
+          "children": [
+            {
+              "id": "mod_2020_ferrari_f8_spider",
+              "title": "2020 Ferrari F8 Spider"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_812_gts",
+      "title": "Ferrari 812 GTS",
+      "generations": [
+        {
+          "id": "gen_ferrari_812_gts",
+          "title": "Ferrari 812 GTS",
+          "children": [
+            {
+              "id": "mod_2020_ferrari_812_gts",
+              "title": "2020 Ferrari 812 GTS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_f8_tributo",
+      "title": "Ferrari F8 Tributo",
+      "generations": [
+        {
+          "id": "gen_ferrari_f8_tributo",
+          "title": "Ferrari F8 Tributo",
+          "children": [
+            {
+              "id": "mod_2020_ferrari_f8_tributo",
+              "title": "2020 Ferrari F8 Tributo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_portofino",
+      "title": "Ferrari Portofino",
+      "generations": [
+        {
+          "id": "gen_ferrari_portofino",
+          "title": "Ferrari Portofino",
+          "children": [
+            {
+              "id": "mod_2018_ferrari_portofino_3_8_t",
+              "title": "2018 Ferrari Portofino 3.8 T"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_812_superfast",
+      "title": "Ferrari 812 Superfast",
+      "generations": [
+        {
+          "id": "gen_ferrari_812_superfast",
+          "title": "Ferrari 812 Superfast",
+          "children": [
+            {
+              "id": "mod_2017_ferrari_812_superfast",
+              "title": "2017 Ferrari 812 Superfast"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_gtc4",
+      "title": "Ferrari GTC4",
+      "generations": [
+        {
+          "id": "gen_ferrari_gtc4",
+          "title": "Ferrari GTC4",
+          "children": [
+            {
+              "id": "mod_2016_ferrari_gtc4_lusso_v12",
+              "title": "2016 Ferrari GTC4 Lusso V12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_488_gtb",
+      "title": "Ferrari 488 GTB",
+      "generations": [
+        {
+          "id": "gen_ferrari_488_gtb",
+          "title": "Ferrari 488 GTB",
+          "children": [
+            {
+              "id": "mod_2015_ferrari_488_gtb",
+              "title": "2015 Ferrari 488 GTB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_488_spider",
+      "title": "Ferrari 488 Spider",
+      "generations": [
+        {
+          "id": "gen_ferrari_488_spider",
+          "title": "Ferrari 488 Spider",
+          "children": [
+            {
+              "id": "mod_2015_ferrari_488_spider",
+              "title": "2015 Ferrari 488 Spider"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_laferrari",
+      "title": "Ferrari LaFerrari",
+      "generations": [
+        {
+          "id": "gen_ferrari_laferrari",
+          "title": "Ferrari LaFerrari",
+          "children": [
+            {
+              "id": "mod_2013_ferrari_laferrari",
+              "title": "2013 Ferrari LaFerrari"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_f12_berlinetta",
+      "title": "Ferrari F12 Berlinetta",
+      "generations": [
+        {
+          "id": "gen_ferrari_f12_berlinetta",
+          "title": "Ferrari F12 Berlinetta",
+          "children": [
+            {
+              "id": "mod_2012_ferrari_f12_berlinetta_hele",
+              "title": "2012 Ferrari F12 Berlinetta HELE"
+            },
+            {
+              "id": "mod_2012_ferrari_f12_berlinetta",
+              "title": "2012 Ferrari F12 Berlinetta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_458_spider",
+      "title": "Ferrari 458 Spider",
+      "generations": [
+        {
+          "id": "gen_ferrari_458_spider",
+          "title": "Ferrari 458 Spider",
+          "children": [
+            {
+              "id": "mod_2011_ferrari_458_spider_hele",
+              "title": "2011 Ferrari 458 Spider HELE"
+            },
+            {
+              "id": "mod_2011_ferrari_458_spider",
+              "title": "2011 Ferrari 458 Spider"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_ff",
+      "title": "Ferrari FF",
+      "generations": [
+        {
+          "id": "gen_ferrari_ff",
+          "title": "Ferrari FF",
+          "children": [
+            {
+              "id": "mod_2011_ferrari_ff",
+              "title": "2011 Ferrari FF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_458_italia",
+      "title": "Ferrari 458 Italia",
+      "generations": [
+        {
+          "id": "gen_ferrari_458_italia",
+          "title": "Ferrari 458 Italia",
+          "children": [
+            {
+              "id": "mod_2010_ferrari_458_italia",
+              "title": "2010 Ferrari 458 Italia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_california",
+      "title": "Ferrari California",
+      "generations": [
+        {
+          "id": "gen_ferrari_california",
+          "title": "Ferrari California",
+          "children": [
+            {
+              "id": "mod_2014_ferrari_california_t",
+              "title": "2014 Ferrari California T"
+            }
+          ]
+        },
+        {
+          "id": "gen_ferrari_california",
+          "title": "Ferrari California",
+          "children": [
+            {
+              "id": "mod_2009_ferrari_california",
+              "title": "2009 Ferrari California"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_599",
+      "title": "Ferrari 599",
+      "generations": [
+        {
+          "id": "gen_ferrari_599",
+          "title": "Ferrari 599",
+          "children": [
+            {
+              "id": "mod_2006_ferrari_599_gtb_fiorano_f1",
+              "title": "2006 Ferrari 599 GTB Fiorano F1"
+            },
+            {
+              "id": "mod_2006_ferrari_599_gtb_fiorano",
+              "title": "2006 Ferrari 599 GTB Fiorano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_f430_spider",
+      "title": "Ferrari F430 Spider",
+      "generations": [
+        {
+          "id": "gen_ferrari_f430_spider",
+          "title": "Ferrari F430 Spider",
+          "children": [
+            {
+              "id": "mod_2005_ferrari_f430_spider_f1",
+              "title": "2005 Ferrari F430 Spider F1"
+            },
+            {
+              "id": "mod_2005_ferrari_f430_spider",
+              "title": "2005 Ferrari F430 Spider"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_superamerica_f1",
+      "title": "Ferrari Superamerica F1",
+      "generations": [
+        {
+          "id": "gen_ferrari_superamerica_f1",
+          "title": "Ferrari Superamerica F1",
+          "children": [
+            {
+              "id": "mod_2005_ferrari_superamerica_f1",
+              "title": "2005 Ferrari Superamerica F1"
+            },
+            {
+              "id": "mod_2005_ferrari_superamerica",
+              "title": "2005 Ferrari Superamerica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_f430",
+      "title": "Ferrari F430",
+      "generations": [
+        {
+          "id": "gen_ferrari_f430",
+          "title": "Ferrari F430",
+          "children": [
+            {
+              "id": "mod_2004_ferrari_f430_f1",
+              "title": "2004 Ferrari F430 F1"
+            },
+            {
+              "id": "mod_2004_ferrari_f430",
+              "title": "2004 Ferrari F430"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_612_scaglietti",
+      "title": "Ferrari 612 Scaglietti",
+      "generations": [
+        {
+          "id": "gen_ferrari_612_scaglietti",
+          "title": "Ferrari 612 Scaglietti",
+          "children": [
+            {
+              "id": "mod_2004_ferrari_612_scaglietti_f1",
+              "title": "2004 Ferrari 612 Scaglietti F1"
+            },
+            {
+              "id": "mod_2004_ferrari_612_scaglietti",
+              "title": "2004 Ferrari 612 Scaglietti"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_575m_maranello",
+      "title": "Ferrari 575M Maranello",
+      "generations": [
+        {
+          "id": "gen_ferrari_575m_maranello",
+          "title": "Ferrari 575M Maranello",
+          "children": [
+            {
+              "id": "mod_2002_ferrari_575m_maranello_f1",
+              "title": "2002 Ferrari 575M Maranello F1"
+            },
+            {
+              "id": "mod_2002_ferrari_575m_maranello",
+              "title": "2002 Ferrari 575M Maranello"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_enzo",
+      "title": "Ferrari Enzo",
+      "generations": [
+        {
+          "id": "gen_ferrari_enzo",
+          "title": "Ferrari Enzo",
+          "children": [
+            {
+              "id": "mod_2002_ferrari_enzo",
+              "title": "2002 Ferrari Enzo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_360_spider",
+      "title": "Ferrari 360 Spider",
+      "generations": [
+        {
+          "id": "gen_ferrari_360_spider",
+          "title": "Ferrari 360 Spider",
+          "children": [
+            {
+              "id": "mod_2000_ferrari_360_spider_f1",
+              "title": "2000 Ferrari 360 Spider F1"
+            },
+            {
+              "id": "mod_2000_ferrari_360_spider",
+              "title": "2000 Ferrari 360 Spider"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_360_modena",
+      "title": "Ferrari 360 Modena",
+      "generations": [
+        {
+          "id": "gen_ferrari_360_modena",
+          "title": "Ferrari 360 Modena",
+          "children": [
+            {
+              "id": "mod_1999_ferrari_360_modena_f1",
+              "title": "1999 Ferrari 360 Modena F1"
+            },
+            {
+              "id": "mod_1999_ferrari_360_modena",
+              "title": "1999 Ferrari 360 Modena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_550_maranello",
+      "title": "Ferrari 550 Maranello",
+      "generations": [
+        {
+          "id": "gen_ferrari_550_maranello",
+          "title": "Ferrari 550 Maranello",
+          "children": [
+            {
+              "id": "mod_1996_ferrari_550_maranello",
+              "title": "1996 Ferrari 550 Maranello"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_f50",
+      "title": "Ferrari F50",
+      "generations": [
+        {
+          "id": "gen_ferrari_f50",
+          "title": "Ferrari F50",
+          "children": [
+            {
+              "id": "mod_1995_ferrari_f50",
+              "title": "1995 Ferrari F50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_f355_spider",
+      "title": "Ferrari F355 Spider",
+      "generations": [
+        {
+          "id": "gen_ferrari_f355_spider",
+          "title": "Ferrari F355 Spider",
+          "children": [
+            {
+              "id": "mod_1995_ferrari_f355_spider",
+              "title": "1995 Ferrari F355 Spider"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_456",
+      "title": "Ferrari 456",
+      "generations": [
+        {
+          "id": "gen_ferrari_456",
+          "title": "Ferrari 456",
+          "children": [
+            {
+              "id": "mod_1994_ferrari_456_gt",
+              "title": "1994 Ferrari 456 GT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_f355",
+      "title": "Ferrari F355",
+      "generations": [
+        {
+          "id": "gen_ferrari_f355",
+          "title": "Ferrari F355",
+          "children": [
+            {
+              "id": "mod_1994_ferrari_f355_berlinetta",
+              "title": "1994 Ferrari F355 Berlinetta"
+            },
+            {
+              "id": "mod_1994_ferrari_f355_gts",
+              "title": "1994 Ferrari F355 GTS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_f512_m",
+      "title": "Ferrari F512 M",
+      "generations": [
+        {
+          "id": "gen_ferrari_f512_m",
+          "title": "Ferrari F512 M",
+          "children": [
+            {
+              "id": "mod_1994_ferrari_f512_m",
+              "title": "1994 Ferrari F512 M"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_348_spider",
+      "title": "Ferrari 348 Spider",
+      "generations": [
+        {
+          "id": "gen_ferrari_348_spider",
+          "title": "Ferrari 348 Spider",
+          "children": [
+            {
+              "id": "mod_1993_ferrari_348_spider",
+              "title": "1993 Ferrari 348 Spider"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_512_tr",
+      "title": "Ferrari 512 TR",
+      "generations": [
+        {
+          "id": "gen_ferrari_512_tr",
+          "title": "Ferrari 512 TR",
+          "children": [
+            {
+              "id": "mod_1992_ferrari_512_tr",
+              "title": "1992 Ferrari 512 TR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_mondial_cabriolet",
+      "title": "Ferrari Mondial Cabriolet",
+      "generations": [
+        {
+          "id": "gen_ferrari_mondial_cabriolet",
+          "title": "Ferrari Mondial Cabriolet",
+          "children": [
+            {
+              "id": "mod_1989_ferrari_mondial_t_cabriolet",
+              "title": "1989 Ferrari Mondial T Cabriolet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_348",
+      "title": "Ferrari 348",
+      "generations": [
+        {
+          "id": "gen_ferrari_348",
+          "title": "Ferrari 348",
+          "children": [
+            {
+              "id": "mod_1989_ferrari_348_tb",
+              "title": "1989 Ferrari 348 TB"
+            },
+            {
+              "id": "mod_1989_ferrari_348_ts",
+              "title": "1989 Ferrari 348 TS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_mondial",
+      "title": "Ferrari Mondial",
+      "generations": [
+        {
+          "id": "gen_ferrari_mondial",
+          "title": "Ferrari Mondial",
+          "children": [
+            {
+              "id": "mod_1989_ferrari_mondial_t",
+              "title": "1989 Ferrari Mondial T"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ferrari_f40",
+      "title": "Ferrari F40",
+      "generations": [
+        {
+          "id": "gen_ferrari_f40",
+          "title": "Ferrari F40",
+          "children": [
+            {
+              "id": "mod_1988_ferrari_f40",
+              "title": "1988 Ferrari F40"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

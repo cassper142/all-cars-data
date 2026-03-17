@@ -1,0 +1,1764 @@
+{
+  "id": "brand_subaru",
+  "title": "Subaru",
+  "models": [
+    {
+      "id": "model_subaru_levorg",
+      "title": "Subaru Levorg",
+      "generations": [
+        {
+          "id": "gen_subaru_levorg",
+          "title": "Subaru Levorg",
+          "children": [
+            {
+              "id": "mod_2015_subaru_levorg_1_6gt_comfort",
+              "title": "2015 Subaru Levorg 1.6GT Comfort"
+            },
+            {
+              "id": "mod_2015_subaru_levorg_1_6gt_s_premium",
+              "title": "2015 Subaru Levorg 1.6GT-S Premium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_xv",
+      "title": "Subaru XV",
+      "generations": [
+        {
+          "id": "gen_subaru_xv",
+          "title": "Subaru XV",
+          "children": [
+            {
+              "id": "mod_2017_subaru_xv_1_6i_comfort",
+              "title": "2017 Subaru XV 1.6i Comfort"
+            },
+            {
+              "id": "mod_2017_subaru_xv_1_6i_premium",
+              "title": "2017 Subaru XV 1.6i Premium"
+            },
+            {
+              "id": "mod_2017_subaru_xv_1_6i_pure",
+              "title": "2017 Subaru XV 1.6i Pure"
+            },
+            {
+              "id": "mod_2017_subaru_xv_2_0i_premium",
+              "title": "2017 Subaru XV 2.0i Premium"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_xv",
+          "title": "Subaru XV",
+          "children": [
+            {
+              "id": "mod_2012_subaru_xv_1_6i_luxury",
+              "title": "2012 Subaru XV 1.6i Luxury"
+            },
+            {
+              "id": "mod_2012_subaru_xv_2_0d_executive",
+              "title": "2012 Subaru XV 2.0D Executive"
+            },
+            {
+              "id": "mod_2012_subaru_xv_2_0d_luxury_plus",
+              "title": "2012 Subaru XV 2.0D Luxury Plus"
+            },
+            {
+              "id": "mod_2012_subaru_xv_2_0d_luxury",
+              "title": "2012 Subaru XV 2.0D Luxury"
+            },
+            {
+              "id": "mod_2012_subaru_xv_2_0i_executive",
+              "title": "2012 Subaru XV 2.0i Executive"
+            },
+            {
+              "id": "mod_2012_subaru_xv_2_0i_luxury_plus",
+              "title": "2012 Subaru XV 2.0i Luxury Plus"
+            },
+            {
+              "id": "mod_2012_subaru_xv_2_0i_luxury",
+              "title": "2012 Subaru XV 2.0i Luxury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_brz",
+      "title": "Subaru BRZ",
+      "generations": [
+        {
+          "id": "gen_subaru_brz",
+          "title": "Subaru BRZ",
+          "children": [
+            {
+              "id": "mod_2017_subaru_brz_sport_premium",
+              "title": "2017 Subaru BRZ Sport Premium"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_brz",
+          "title": "Subaru BRZ",
+          "children": [
+            {
+              "id": "mod_2012_subaru_brz_sport_executive",
+              "title": "2012 Subaru BRZ Sport Executive"
+            },
+            {
+              "id": "mod_2012_subaru_brz_sport",
+              "title": "2012 Subaru BRZ Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_trezia",
+      "title": "Subaru Trezia",
+      "generations": [
+        {
+          "id": "gen_subaru_trezia",
+          "title": "Subaru Trezia",
+          "children": [
+            {
+              "id": "mod_2011_subaru_trezia_1_3_comfort_s",
+              "title": "2011 Subaru Trezia 1.3 Comfort S"
+            },
+            {
+              "id": "mod_2011_subaru_trezia_1_3_comfort",
+              "title": "2011 Subaru Trezia 1.3 Comfort"
+            },
+            {
+              "id": "mod_2011_subaru_trezia_1_3_intro",
+              "title": "2011 Subaru Trezia 1.3 Intro"
+            },
+            {
+              "id": "mod_2011_subaru_trezia_1_3_luxury",
+              "title": "2011 Subaru Trezia 1.3 Luxury"
+            },
+            {
+              "id": "mod_2011_subaru_trezia_1_4d_comfort",
+              "title": "2011 Subaru Trezia 1.4D Comfort"
+            },
+            {
+              "id": "mod_2011_subaru_trezia_1_4d_executive",
+              "title": "2011 Subaru Trezia 1.4D Executive"
+            },
+            {
+              "id": "mod_2011_subaru_trezia_1_4d_intro",
+              "title": "2011 Subaru Trezia 1.4D Intro"
+            },
+            {
+              "id": "mod_2011_subaru_trezia_1_4d_luxury",
+              "title": "2011 Subaru Trezia 1.4D Luxury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_wrx",
+      "title": "Subaru WRX",
+      "generations": [
+        {
+          "id": "gen_subaru_wrx",
+          "title": "Subaru WRX",
+          "children": [
+            {
+              "id": "mod_2014_subaru_wrx_sti_2_5t_sport_executive",
+              "title": "2014 Subaru WRX STI 2.5T Sport Executive"
+            },
+            {
+              "id": "mod_2014_subaru_wrx_sti_2_5t_sport",
+              "title": "2014 Subaru WRX STI 2.5T Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_wrx",
+          "title": "Subaru WRX",
+          "children": [
+            {
+              "id": "mod_2010_subaru_wrx_sti_2_5t_sport_executive",
+              "title": "2010 Subaru WRX STI 2.5T Sport Executive"
+            },
+            {
+              "id": "mod_2010_subaru_wrx_sti_2_5t_sport",
+              "title": "2010 Subaru WRX STI 2.5T Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_wrx",
+          "title": "Subaru WRX",
+          "children": [
+            {
+              "id": "mod_2010_subaru_wrx_sti_2_5t_sport_executive",
+              "title": "2010 Subaru WRX STI 2.5T Sport Executive"
+            },
+            {
+              "id": "mod_2010_subaru_wrx_sti_2_5t_sport",
+              "title": "2010 Subaru WRX STI 2.5T Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_tribeca",
+      "title": "Subaru Tribeca",
+      "generations": [
+        {
+          "id": "gen_subaru_tribeca",
+          "title": "Subaru Tribeca",
+          "children": [
+            {
+              "id": "mod_2008_subaru_tribeca_3_6_executive",
+              "title": "2008 Subaru Tribeca 3.6 Executive"
+            },
+            {
+              "id": "mod_2008_subaru_tribeca_3_6_luxury",
+              "title": "2008 Subaru Tribeca 3.6 Luxury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_b9_tribeca",
+      "title": "Subaru B9 Tribeca",
+      "generations": [
+        {
+          "id": "gen_subaru_b9_tribeca",
+          "title": "Subaru B9 Tribeca",
+          "children": [
+            {
+              "id": "mod_2006_subaru_b9_tribeca_3_0r_comfort",
+              "title": "2006 Subaru B9 Tribeca 3.0R Comfort"
+            },
+            {
+              "id": "mod_2006_subaru_b9_tribeca_3_0r_executive",
+              "title": "2006 Subaru B9 Tribeca 3.0R Executive"
+            },
+            {
+              "id": "mod_2006_subaru_b9_tribeca_3_0r_luxury",
+              "title": "2006 Subaru B9 Tribeca 3.0R Luxury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_g3x_justy",
+      "title": "Subaru G3X Justy",
+      "generations": [
+        {
+          "id": "gen_subaru_g3x_justy",
+          "title": "Subaru G3X Justy",
+          "children": [
+            {
+              "id": "mod_2004_subaru_g3x_justy_1_3_awd",
+              "title": "2004 Subaru G3X Justy 1.3 AWD"
+            },
+            {
+              "id": "mod_2004_subaru_g3x_justy_1_5_awd",
+              "title": "2004 Subaru G3X Justy 1.5 AWD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_outback",
+      "title": "Subaru Outback",
+      "generations": [
+        {
+          "id": "gen_subaru_outback",
+          "title": "Subaru Outback",
+          "children": [
+            {
+              "id": "mod_2017_subaru_outback_2_0d_premium",
+              "title": "2017 Subaru Outback 2.0D Premium"
+            },
+            {
+              "id": "mod_2017_subaru_outback_2_5i_comfort",
+              "title": "2017 Subaru Outback 2.5i Comfort"
+            },
+            {
+              "id": "mod_2017_subaru_outback_2_5i_premium",
+              "title": "2017 Subaru Outback 2.5i Premium"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_outback",
+          "title": "Subaru Outback",
+          "children": [
+            {
+              "id": "mod_2015_subaru_outback_2_0d_comfort",
+              "title": "2015 Subaru Outback 2.0D Comfort"
+            },
+            {
+              "id": "mod_2015_subaru_outback_2_0d_premium",
+              "title": "2015 Subaru Outback 2.0D Premium"
+            },
+            {
+              "id": "mod_2015_subaru_outback_2_5i_comfort",
+              "title": "2015 Subaru Outback 2.5i Comfort"
+            },
+            {
+              "id": "mod_2015_subaru_outback_2_5i_premium",
+              "title": "2015 Subaru Outback 2.5i Premium"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_outback",
+          "title": "Subaru Outback",
+          "children": [
+            {
+              "id": "mod_2013_subaru_outback_2_0d_business_edition",
+              "title": "2013 Subaru Outback 2.0D Business Edition"
+            },
+            {
+              "id": "mod_2013_subaru_outback_2_0d_executive",
+              "title": "2013 Subaru Outback 2.0D Executive"
+            },
+            {
+              "id": "mod_2013_subaru_outback_2_0d_luxury",
+              "title": "2013 Subaru Outback 2.0D Luxury"
+            },
+            {
+              "id": "mod_2013_subaru_outback_2_5i_executive",
+              "title": "2013 Subaru Outback 2.5i Executive"
+            },
+            {
+              "id": "mod_2013_subaru_outback_2_5i_luxury",
+              "title": "2013 Subaru Outback 2.5i Luxury"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_outback",
+          "title": "Subaru Outback",
+          "children": [
+            {
+              "id": "mod_2009_subaru_outback_2_0d_exclusive",
+              "title": "2009 Subaru Outback 2.0D Exclusive"
+            },
+            {
+              "id": "mod_2009_subaru_outback_2_0d_executive",
+              "title": "2009 Subaru Outback 2.0D Executive"
+            },
+            {
+              "id": "mod_2009_subaru_outback_2_0d_luxury",
+              "title": "2009 Subaru Outback 2.0D Luxury"
+            },
+            {
+              "id": "mod_2009_subaru_outback_2_5i_exclusive",
+              "title": "2009 Subaru Outback 2.5i Exclusive"
+            },
+            {
+              "id": "mod_2009_subaru_outback_2_5i_executive",
+              "title": "2009 Subaru Outback 2.5i Executive"
+            },
+            {
+              "id": "mod_2009_subaru_outback_2_5i_luxury",
+              "title": "2009 Subaru Outback 2.5i Luxury"
+            },
+            {
+              "id": "mod_2009_subaru_outback_3_6r_executive",
+              "title": "2009 Subaru Outback 3.6R Executive"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_outback",
+          "title": "Subaru Outback",
+          "children": [
+            {
+              "id": "mod_2006_subaru_outback_2_5i_comfort",
+              "title": "2006 Subaru Outback 2.5i Comfort"
+            },
+            {
+              "id": "mod_2006_subaru_outback_2_5i_executive",
+              "title": "2006 Subaru Outback 2.5i Executive"
+            },
+            {
+              "id": "mod_2006_subaru_outback_3_0r_executive",
+              "title": "2006 Subaru Outback 3.0R Executive"
+            },
+            {
+              "id": "mod_2006_subaru_outback_3_0r_luxury",
+              "title": "2006 Subaru Outback 3.0R Luxury"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_outback",
+          "title": "Subaru Outback",
+          "children": [
+            {
+              "id": "mod_2003_subaru_outback_2_5i_comfort_pack",
+              "title": "2003 Subaru Outback 2.5i Comfort Pack"
+            },
+            {
+              "id": "mod_2003_subaru_outback_2_5i",
+              "title": "2003 Subaru Outback 2.5i"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_forester",
+      "title": "Subaru Forester",
+      "generations": [
+        {
+          "id": "gen_subaru_forester",
+          "title": "Subaru Forester",
+          "children": [
+            {
+              "id": "mod_2019_subaru_forester_2_0i_e_boxer_comfort",
+              "title": "2019 Subaru Forester 2.0i E-BOXER Comfort"
+            },
+            {
+              "id": "mod_2019_subaru_forester_2_0i_e_boxer_first_edition",
+              "title": "2019 Subaru Forester 2.0i E-BOXER First Edition"
+            },
+            {
+              "id": "mod_2019_subaru_forester_2_0i_e_boxer_luxury",
+              "title": "2019 Subaru Forester 2.0i E-BOXER Luxury"
+            },
+            {
+              "id": "mod_2019_subaru_forester_2_0i_e_boxer_premium",
+              "title": "2019 Subaru Forester 2.0i E-BOXER Premium"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_forester",
+          "title": "Subaru Forester",
+          "children": [
+            {
+              "id": "mod_2013_subaru_forester_2_0_executive",
+              "title": "2013 Subaru Forester 2.0 Executive"
+            },
+            {
+              "id": "mod_2013_subaru_forester_2_0_intro",
+              "title": "2013 Subaru Forester 2.0 Intro"
+            },
+            {
+              "id": "mod_2013_subaru_forester_2_0_luxury_plus",
+              "title": "2013 Subaru Forester 2.0 Luxury Plus"
+            },
+            {
+              "id": "mod_2013_subaru_forester_2_0_luxury",
+              "title": "2013 Subaru Forester 2.0 Luxury"
+            },
+            {
+              "id": "mod_2013_subaru_forester_2_0_xt_sport_executive",
+              "title": "2013 Subaru Forester 2.0 XT Sport Executive"
+            },
+            {
+              "id": "mod_2013_subaru_forester_2_0_xt_sport",
+              "title": "2013 Subaru Forester 2.0 XT Sport"
+            },
+            {
+              "id": "mod_2013_subaru_forester_2_0d_executive",
+              "title": "2013 Subaru Forester 2.0D Executive"
+            },
+            {
+              "id": "mod_2013_subaru_forester_2_0d_intro",
+              "title": "2013 Subaru Forester 2.0D Intro"
+            },
+            {
+              "id": "mod_2013_subaru_forester_2_0d_luxury_plus",
+              "title": "2013 Subaru Forester 2.0D Luxury Plus"
+            },
+            {
+              "id": "mod_2013_subaru_forester_2_0d_luxury",
+              "title": "2013 Subaru Forester 2.0D Luxury"
+            },
+            {
+              "id": "mod_2013_subaru_forester_2_0d_sport_executive",
+              "title": "2013 Subaru Forester 2.0D Sport Executive"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_forester",
+          "title": "Subaru Forester",
+          "children": [
+            {
+              "id": "mod_2011_subaru_forester_2_0_comfort",
+              "title": "2011 Subaru Forester 2.0 Comfort"
+            },
+            {
+              "id": "mod_2011_subaru_forester_2_0_intro",
+              "title": "2011 Subaru Forester 2.0 Intro"
+            },
+            {
+              "id": "mod_2011_subaru_forester_2_0_luxury",
+              "title": "2011 Subaru Forester 2.0 Luxury"
+            },
+            {
+              "id": "mod_2011_subaru_forester_2_0_premium_plus",
+              "title": "2011 Subaru Forester 2.0 Premium Plus"
+            },
+            {
+              "id": "mod_2011_subaru_forester_2_0_premium",
+              "title": "2011 Subaru Forester 2.0 Premium"
+            },
+            {
+              "id": "mod_2011_subaru_forester_2_0d_comfort",
+              "title": "2011 Subaru Forester 2.0D Comfort"
+            },
+            {
+              "id": "mod_2011_subaru_forester_2_0d_luxury",
+              "title": "2011 Subaru Forester 2.0D Luxury"
+            },
+            {
+              "id": "mod_2011_subaru_forester_2_0d_premium_plus",
+              "title": "2011 Subaru Forester 2.0D Premium Plus"
+            },
+            {
+              "id": "mod_2011_subaru_forester_2_0d_premium",
+              "title": "2011 Subaru Forester 2.0D Premium"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_forester",
+          "title": "Subaru Forester",
+          "children": [
+            {
+              "id": "mod_2008_subaru_forester_2_0_comfort",
+              "title": "2008 Subaru Forester 2.0 Comfort"
+            },
+            {
+              "id": "mod_2008_subaru_forester_2_0_luxury",
+              "title": "2008 Subaru Forester 2.0 Luxury"
+            },
+            {
+              "id": "mod_2008_subaru_forester_2_0_premium",
+              "title": "2008 Subaru Forester 2.0 Premium"
+            },
+            {
+              "id": "mod_2008_subaru_forester_2_0d_comfort",
+              "title": "2008 Subaru Forester 2.0D Comfort"
+            },
+            {
+              "id": "mod_2008_subaru_forester_2_0d_exclusive",
+              "title": "2008 Subaru Forester 2.0D Exclusive"
+            },
+            {
+              "id": "mod_2008_subaru_forester_2_0d_executive",
+              "title": "2008 Subaru Forester 2.0D Executive"
+            },
+            {
+              "id": "mod_2008_subaru_forester_2_0d_luxury",
+              "title": "2008 Subaru Forester 2.0D Luxury"
+            },
+            {
+              "id": "mod_2008_subaru_forester_2_0d_premium",
+              "title": "2008 Subaru Forester 2.0D Premium"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_forester",
+          "title": "Subaru Forester",
+          "children": [
+            {
+              "id": "mod_2005_subaru_forester_2_0_x_awd_comfort",
+              "title": "2005 Subaru Forester 2.0 X AWD Comfort"
+            },
+            {
+              "id": "mod_2005_subaru_forester_2_0_x_awd_luxury",
+              "title": "2005 Subaru Forester 2.0 X AWD Luxury"
+            },
+            {
+              "id": "mod_2005_subaru_forester_2_0_x_awd",
+              "title": "2005 Subaru Forester 2.0 X AWD"
+            },
+            {
+              "id": "mod_2005_subaru_forester_2_5_xt_awd_executive",
+              "title": "2005 Subaru Forester 2.5 XT AWD Executive"
+            },
+            {
+              "id": "mod_2005_subaru_forester_2_5_xt_awd_luxury",
+              "title": "2005 Subaru Forester 2.5 XT AWD Luxury"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_forester",
+          "title": "Subaru Forester",
+          "children": [
+            {
+              "id": "mod_2002_subaru_forester_2_0_x_awd",
+              "title": "2002 Subaru Forester 2.0 X AWD"
+            },
+            {
+              "id": "mod_2002_subaru_forester_2_0_xt_awd",
+              "title": "2002 Subaru Forester 2.0 XT AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_forester",
+          "title": "Subaru Forester",
+          "children": [
+            {
+              "id": "mod_2000_subaru_forester_2_0_awd",
+              "title": "2000 Subaru Forester 2.0 AWD"
+            },
+            {
+              "id": "mod_2000_subaru_forester_2_0_s_turbo_awd",
+              "title": "2000 Subaru Forester 2.0 S-Turbo AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_forester",
+          "title": "Subaru Forester",
+          "children": [
+            {
+              "id": "mod_1997_subaru_forester_2_0_awd",
+              "title": "1997 Subaru Forester 2.0 AWD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_legacy_outback",
+      "title": "Subaru Legacy Outback",
+      "generations": [
+        {
+          "id": "gen_subaru_legacy_outback",
+          "title": "Subaru Legacy Outback",
+          "children": [
+            {
+              "id": "mod_2002_subaru_legacy_outback_2_5_awd",
+              "title": "2002 Subaru Legacy Outback 2.5 AWD"
+            },
+            {
+              "id": "mod_2002_subaru_legacy_outback_3_0_h6_awd",
+              "title": "2002 Subaru Legacy Outback 3.0 H6 AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy_outback",
+          "title": "Subaru Legacy Outback",
+          "children": [
+            {
+              "id": "mod_1998_subaru_legacy_outback_2_5_awd",
+              "title": "1998 Subaru Legacy Outback 2.5 AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy_outback",
+          "title": "Subaru Legacy Outback",
+          "children": [
+            {
+              "id": "mod_1997_subaru_legacy_outback_2_5_awd",
+              "title": "1997 Subaru Legacy Outback 2.5 AWD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_legacy_touring_wagon",
+      "title": "Subaru Legacy Touring Wagon",
+      "generations": [
+        {
+          "id": "gen_subaru_legacy_touring_wagon",
+          "title": "Subaru Legacy Touring Wagon",
+          "children": [
+            {
+              "id": "mod_2009_subaru_legacy_touring_wagon_2_0d_exclusive",
+              "title": "2009 Subaru Legacy Touring Wagon 2.0D Exclusive"
+            },
+            {
+              "id": "mod_2009_subaru_legacy_touring_wagon_2_0d_executive",
+              "title": "2009 Subaru Legacy Touring Wagon 2.0D Executive"
+            },
+            {
+              "id": "mod_2009_subaru_legacy_touring_wagon_2_0d_luxury",
+              "title": "2009 Subaru Legacy Touring Wagon 2.0D Luxury"
+            },
+            {
+              "id": "mod_2009_subaru_legacy_touring_wagon_2_0i_exclusive",
+              "title": "2009 Subaru Legacy Touring Wagon 2.0i Exclusive"
+            },
+            {
+              "id": "mod_2009_subaru_legacy_touring_wagon_2_0i_executive",
+              "title": "2009 Subaru Legacy Touring Wagon 2.0i Executive"
+            },
+            {
+              "id": "mod_2009_subaru_legacy_touring_wagon_2_0i_luxury",
+              "title": "2009 Subaru Legacy Touring Wagon 2.0i Luxury"
+            },
+            {
+              "id": "mod_2009_subaru_legacy_touring_wagon_2_5i_sport_executive",
+              "title": "2009 Subaru Legacy Touring Wagon 2.5i Sport Executive"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy_touring_wagon",
+          "title": "Subaru Legacy Touring Wagon",
+          "children": [
+            {
+              "id": "mod_2006_subaru_legacy_touring_wagon_2_0r_comfort",
+              "title": "2006 Subaru Legacy Touring Wagon 2.0R Comfort"
+            },
+            {
+              "id": "mod_2006_subaru_legacy_touring_wagon_2_0r_executive",
+              "title": "2006 Subaru Legacy Touring Wagon 2.0R Executive"
+            },
+            {
+              "id": "mod_2006_subaru_legacy_touring_wagon_2_0r_luxury",
+              "title": "2006 Subaru Legacy Touring Wagon 2.0R Luxury"
+            },
+            {
+              "id": "mod_2006_subaru_legacy_touring_wagon_3_0r_executive",
+              "title": "2006 Subaru Legacy Touring Wagon 3.0R Executive"
+            },
+            {
+              "id": "mod_2006_subaru_legacy_touring_wagon_3_0r_luxury",
+              "title": "2006 Subaru Legacy Touring Wagon 3.0R Luxury"
+            },
+            {
+              "id": "mod_2006_subaru_legacy_touring_wagon_3_0r_spec_b_executive",
+              "title": "2006 Subaru Legacy Touring Wagon 3.0R Spec. B Executive"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy_touring_wagon",
+          "title": "Subaru Legacy Touring Wagon",
+          "children": [
+            {
+              "id": "mod_2003_subaru_legacy_touring_wagon_2_0i_comfort_pack",
+              "title": "2003 Subaru Legacy Touring Wagon 2.0i Comfort Pack"
+            },
+            {
+              "id": "mod_2003_subaru_legacy_touring_wagon_2_0i",
+              "title": "2003 Subaru Legacy Touring Wagon 2.0i"
+            },
+            {
+              "id": "mod_2003_subaru_legacy_touring_wagon_2_5i_comfort_pack",
+              "title": "2003 Subaru Legacy Touring Wagon 2.5i Comfort Pack"
+            },
+            {
+              "id": "mod_2003_subaru_legacy_touring_wagon_2_5i",
+              "title": "2003 Subaru Legacy Touring Wagon 2.5i"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy_touring_wagon",
+          "title": "Subaru Legacy Touring Wagon",
+          "children": [
+            {
+              "id": "mod_2002_subaru_legacy_touring_wagon_2_0_gl_awd",
+              "title": "2002 Subaru Legacy Touring Wagon 2.0 GL AWD"
+            },
+            {
+              "id": "mod_2002_subaru_legacy_touring_wagon_2_5_gx_awd",
+              "title": "2002 Subaru Legacy Touring Wagon 2.5 GX AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy_touring_wagon",
+          "title": "Subaru Legacy Touring Wagon",
+          "children": [
+            {
+              "id": "mod_1998_subaru_legacy_touring_wagon_2_0_gl_awd",
+              "title": "1998 Subaru Legacy Touring Wagon 2.0 GL AWD"
+            },
+            {
+              "id": "mod_1998_subaru_legacy_touring_wagon_2_0_lx_awd",
+              "title": "1998 Subaru Legacy Touring Wagon 2.0 LX AWD"
+            },
+            {
+              "id": "mod_1998_subaru_legacy_touring_wagon_2_5_gx_awd",
+              "title": "1998 Subaru Legacy Touring Wagon 2.5 GX AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy_touring_wagon",
+          "title": "Subaru Legacy Touring Wagon",
+          "children": [
+            {
+              "id": "mod_1997_subaru_legacy_touring_wagon_2_0_gl_awd",
+              "title": "1997 Subaru Legacy Touring Wagon 2.0 GL AWD"
+            },
+            {
+              "id": "mod_1997_subaru_legacy_touring_wagon_2_2_gx_awd",
+              "title": "1997 Subaru Legacy Touring Wagon 2.2 GX AWD"
+            },
+            {
+              "id": "mod_1997_subaru_legacy_touring_wagon_2_5_gx_awd",
+              "title": "1997 Subaru Legacy Touring Wagon 2.5 GX AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy_touring_wagon",
+          "title": "Subaru Legacy Touring Wagon",
+          "children": [
+            {
+              "id": "mod_1994_subaru_legacy_touring_wagon_2_0_gl_awd",
+              "title": "1994 Subaru Legacy Touring Wagon 2.0 GL AWD"
+            },
+            {
+              "id": "mod_1994_subaru_legacy_touring_wagon_2_0_gl",
+              "title": "1994 Subaru Legacy Touring Wagon 2.0 GL"
+            },
+            {
+              "id": "mod_1994_subaru_legacy_touring_wagon_2_0_lx_awd",
+              "title": "1994 Subaru Legacy Touring Wagon 2.0 LX AWD"
+            },
+            {
+              "id": "mod_1994_subaru_legacy_touring_wagon_2_0_lx",
+              "title": "1994 Subaru Legacy Touring Wagon 2.0 LX"
+            },
+            {
+              "id": "mod_1994_subaru_legacy_touring_wagon_2_2_gx_awd",
+              "title": "1994 Subaru Legacy Touring Wagon 2.2 GX AWD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_impreza_plus",
+      "title": "Subaru Impreza Plus",
+      "generations": [
+        {
+          "id": "gen_subaru_impreza_plus",
+          "title": "Subaru Impreza Plus",
+          "children": [
+            {
+              "id": "mod_2005_subaru_impreza_plus_2_0r_awd",
+              "title": "2005 Subaru Impreza Plus 2.0R AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_impreza_plus",
+          "title": "Subaru Impreza Plus",
+          "children": [
+            {
+              "id": "mod_2003_subaru_impreza_plus_1_6_ts_awd",
+              "title": "2003 Subaru Impreza Plus 1.6 TS AWD"
+            },
+            {
+              "id": "mod_2003_subaru_impreza_plus_2_0_gx_awd",
+              "title": "2003 Subaru Impreza Plus 2.0 GX AWD"
+            },
+            {
+              "id": "mod_2003_subaru_impreza_plus_2_0_wrx_awd",
+              "title": "2003 Subaru Impreza Plus 2.0 WRX AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_impreza_plus",
+          "title": "Subaru Impreza Plus",
+          "children": [
+            {
+              "id": "mod_2000_subaru_impreza_plus_1_6_ts_awd",
+              "title": "2000 Subaru Impreza Plus 1.6 TS AWD"
+            },
+            {
+              "id": "mod_2000_subaru_impreza_plus_2_0_gx_awd",
+              "title": "2000 Subaru Impreza Plus 2.0 GX AWD"
+            },
+            {
+              "id": "mod_2000_subaru_impreza_plus_2_0_wrx_awd",
+              "title": "2000 Subaru Impreza Plus 2.0 WRX AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_impreza_plus",
+          "title": "Subaru Impreza Plus",
+          "children": [
+            {
+              "id": "mod_1998_subaru_impreza_plus_1_6_gl_awd",
+              "title": "1998 Subaru Impreza Plus 1.6 GL AWD"
+            },
+            {
+              "id": "mod_1998_subaru_impreza_plus_2_0_gl_awd",
+              "title": "1998 Subaru Impreza Plus 2.0 GL AWD"
+            },
+            {
+              "id": "mod_1998_subaru_impreza_plus_2_0_gt_turbo_awd",
+              "title": "1998 Subaru Impreza Plus 2.0 GT Turbo AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_impreza_plus",
+          "title": "Subaru Impreza Plus",
+          "children": [
+            {
+              "id": "mod_1997_subaru_impreza_plus_1_6_gl",
+              "title": "1997 Subaru Impreza Plus 1.6 GL"
+            },
+            {
+              "id": "mod_1997_subaru_impreza_plus_1_6_lx",
+              "title": "1997 Subaru Impreza Plus 1.6 LX"
+            },
+            {
+              "id": "mod_1997_subaru_impreza_plus_2_0_gl_awd",
+              "title": "1997 Subaru Impreza Plus 2.0 GL AWD"
+            },
+            {
+              "id": "mod_1997_subaru_impreza_plus_2_0_gt_turbo_awd",
+              "title": "1997 Subaru Impreza Plus 2.0 GT Turbo AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_impreza_plus",
+          "title": "Subaru Impreza Plus",
+          "children": [
+            {
+              "id": "mod_1993_subaru_impreza_plus_1_6_gl",
+              "title": "1993 Subaru Impreza Plus 1.6 GL"
+            },
+            {
+              "id": "mod_1993_subaru_impreza_plus_1_6_lx",
+              "title": "1993 Subaru Impreza Plus 1.6 LX"
+            },
+            {
+              "id": "mod_1993_subaru_impreza_plus_1_8_gl_awd",
+              "title": "1993 Subaru Impreza Plus 1.8 GL AWD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_impreza",
+      "title": "Subaru Impreza",
+      "generations": [
+        {
+          "id": "gen_subaru_impreza",
+          "title": "Subaru Impreza",
+          "children": [
+            {
+              "id": "mod_2017_subaru_impreza_1_6i_comfort",
+              "title": "2017 Subaru Impreza 1.6i Comfort"
+            },
+            {
+              "id": "mod_2017_subaru_impreza_1_6i_premium",
+              "title": "2017 Subaru Impreza 1.6i Premium"
+            },
+            {
+              "id": "mod_2017_subaru_impreza_1_6i_pure",
+              "title": "2017 Subaru Impreza 1.6i Pure"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_impreza",
+          "title": "Subaru Impreza",
+          "children": [
+            {
+              "id": "mod_2007_subaru_impreza_1_5r_awd_comfort",
+              "title": "2007 Subaru Impreza 1.5R AWD Comfort"
+            },
+            {
+              "id": "mod_2007_subaru_impreza_1_5r_awd_luxury",
+              "title": "2007 Subaru Impreza 1.5R AWD Luxury"
+            },
+            {
+              "id": "mod_2007_subaru_impreza_1_5r_awd",
+              "title": "2007 Subaru Impreza 1.5R AWD"
+            },
+            {
+              "id": "mod_2007_subaru_impreza_2_0r_awd_luxury",
+              "title": "2007 Subaru Impreza 2.0R AWD Luxury"
+            },
+            {
+              "id": "mod_2007_subaru_impreza_2_0r_awd_sport",
+              "title": "2007 Subaru Impreza 2.0R AWD Sport"
+            },
+            {
+              "id": "mod_2007_subaru_impreza_2_5t_wrx",
+              "title": "2007 Subaru Impreza 2.5T WRX"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_impreza",
+          "title": "Subaru Impreza",
+          "children": [
+            {
+              "id": "mod_2005_subaru_impreza_2_0r_awd",
+              "title": "2005 Subaru Impreza 2.0R AWD"
+            },
+            {
+              "id": "mod_2005_subaru_impreza_2_5_wrx_awd",
+              "title": "2005 Subaru Impreza 2.5 WRX AWD"
+            },
+            {
+              "id": "mod_2005_subaru_impreza_2_5_wrx_sti_awd",
+              "title": "2005 Subaru Impreza 2.5 WRX STi AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_impreza",
+          "title": "Subaru Impreza",
+          "children": [
+            {
+              "id": "mod_2003_subaru_impreza_1_6_ts_awd",
+              "title": "2003 Subaru Impreza 1.6 TS AWD"
+            },
+            {
+              "id": "mod_2003_subaru_impreza_2_0_gx_awd",
+              "title": "2003 Subaru Impreza 2.0 GX AWD"
+            },
+            {
+              "id": "mod_2003_subaru_impreza_2_0_wrx_awd",
+              "title": "2003 Subaru Impreza 2.0 WRX AWD"
+            },
+            {
+              "id": "mod_2003_subaru_impreza_2_0_wrx_sti_awd",
+              "title": "2003 Subaru Impreza 2.0 WRX STi AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_impreza",
+          "title": "Subaru Impreza",
+          "children": [
+            {
+              "id": "mod_2000_subaru_impreza_1_6_ts_awd",
+              "title": "2000 Subaru Impreza 1.6 TS AWD"
+            },
+            {
+              "id": "mod_2000_subaru_impreza_2_0_gx_awd",
+              "title": "2000 Subaru Impreza 2.0 GX AWD"
+            },
+            {
+              "id": "mod_2000_subaru_impreza_2_0_wrx_awd",
+              "title": "2000 Subaru Impreza 2.0 WRX AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_impreza",
+          "title": "Subaru Impreza",
+          "children": [
+            {
+              "id": "mod_1998_subaru_impreza_1_6_gl_awd",
+              "title": "1998 Subaru Impreza 1.6 GL AWD"
+            },
+            {
+              "id": "mod_1998_subaru_impreza_2_0_gl_awd",
+              "title": "1998 Subaru Impreza 2.0 GL AWD"
+            },
+            {
+              "id": "mod_1998_subaru_impreza_2_0_gt_turbo_555_awd",
+              "title": "1998 Subaru Impreza 2.0 GT Turbo 555 AWD"
+            },
+            {
+              "id": "mod_1998_subaru_impreza_2_0_gt_turbo_awd",
+              "title": "1998 Subaru Impreza 2.0 GT Turbo AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_impreza",
+          "title": "Subaru Impreza",
+          "children": [
+            {
+              "id": "mod_1997_subaru_impreza_1_6_gl",
+              "title": "1997 Subaru Impreza 1.6 GL"
+            },
+            {
+              "id": "mod_1997_subaru_impreza_1_6_lx",
+              "title": "1997 Subaru Impreza 1.6 LX"
+            },
+            {
+              "id": "mod_1997_subaru_impreza_2_0_gl_awd",
+              "title": "1997 Subaru Impreza 2.0 GL AWD"
+            },
+            {
+              "id": "mod_1997_subaru_impreza_2_0_gt_turbo_555_awd",
+              "title": "1997 Subaru Impreza 2.0 GT Turbo 555 AWD"
+            },
+            {
+              "id": "mod_1997_subaru_impreza_2_0_gt_turbo_awd",
+              "title": "1997 Subaru Impreza 2.0 GT Turbo AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_impreza",
+          "title": "Subaru Impreza",
+          "children": [
+            {
+              "id": "mod_1993_subaru_impreza_1_6_gl",
+              "title": "1993 Subaru Impreza 1.6 GL"
+            },
+            {
+              "id": "mod_1993_subaru_impreza_1_6_lx",
+              "title": "1993 Subaru Impreza 1.6 LX"
+            },
+            {
+              "id": "mod_1993_subaru_impreza_1_8_gl_awd",
+              "title": "1993 Subaru Impreza 1.8 GL AWD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_e_wagon",
+      "title": "Subaru E-Wagon",
+      "generations": [
+        {
+          "id": "gen_subaru_e_wagon",
+          "title": "Subaru E-Wagon",
+          "children": [
+            {
+              "id": "mod_1993_subaru_e_wagon_awd",
+              "title": "1993 Subaru E-wagon AWD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_svx",
+      "title": "Subaru SVX",
+      "generations": [
+        {
+          "id": "gen_subaru_svx",
+          "title": "Subaru SVX",
+          "children": [
+            {
+              "id": "mod_1992_subaru_svx",
+              "title": "1992 Subaru SVX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_vivio",
+      "title": "Subaru Vivio",
+      "generations": [
+        {
+          "id": "gen_subaru_vivio",
+          "title": "Subaru Vivio",
+          "children": [
+            {
+              "id": "mod_1992_subaru_vivio_gli_awd",
+              "title": "1992 Subaru Vivio GLi AWD"
+            },
+            {
+              "id": "mod_1992_subaru_vivio_gli_ecvt",
+              "title": "1992 Subaru Vivio GLi ECVT"
+            },
+            {
+              "id": "mod_1992_subaru_vivio_gli",
+              "title": "1992 Subaru Vivio GLi"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_vivio",
+          "title": "Subaru Vivio",
+          "children": [
+            {
+              "id": "mod_1992_subaru_vivio_gli_awd",
+              "title": "1992 Subaru Vivio GLi AWD"
+            },
+            {
+              "id": "mod_1992_subaru_vivio_gli_ecvt",
+              "title": "1992 Subaru Vivio GLi ECVT"
+            },
+            {
+              "id": "mod_1992_subaru_vivio_gli",
+              "title": "1992 Subaru Vivio GLi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_legacy_stationwagon",
+      "title": "Subaru Legacy Stationwagon",
+      "generations": [
+        {
+          "id": "gen_subaru_legacy_stationwagon",
+          "title": "Subaru Legacy Stationwagon",
+          "children": [
+            {
+              "id": "mod_1989_subaru_legacy_stationwagon_1_8_dl",
+              "title": "1989 Subaru Legacy Stationwagon 1.8 DL"
+            },
+            {
+              "id": "mod_1989_subaru_legacy_stationwagon_1_8_gl_4wd",
+              "title": "1989 Subaru Legacy Stationwagon 1.8 GL 4WD"
+            },
+            {
+              "id": "mod_1989_subaru_legacy_stationwagon_1_8_gl",
+              "title": "1989 Subaru Legacy Stationwagon 1.8 GL"
+            },
+            {
+              "id": "mod_1989_subaru_legacy_stationwagon_2_2_gx_4wd",
+              "title": "1989 Subaru Legacy Stationwagon 2.2 GX 4WD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_legacy",
+      "title": "Subaru Legacy",
+      "generations": [
+        {
+          "id": "gen_subaru_legacy",
+          "title": "Subaru Legacy",
+          "children": [
+            {
+              "id": "mod_2009_subaru_legacy_2_0d_exclusive",
+              "title": "2009 Subaru Legacy 2.0D Exclusive"
+            },
+            {
+              "id": "mod_2009_subaru_legacy_2_0d_executive",
+              "title": "2009 Subaru Legacy 2.0D Executive"
+            },
+            {
+              "id": "mod_2009_subaru_legacy_2_0d_luxury",
+              "title": "2009 Subaru Legacy 2.0D Luxury"
+            },
+            {
+              "id": "mod_2009_subaru_legacy_2_0i_exclusive",
+              "title": "2009 Subaru Legacy 2.0i Exclusive"
+            },
+            {
+              "id": "mod_2009_subaru_legacy_2_0i_executive",
+              "title": "2009 Subaru Legacy 2.0i Executive"
+            },
+            {
+              "id": "mod_2009_subaru_legacy_2_0i_luxury",
+              "title": "2009 Subaru Legacy 2.0i Luxury"
+            },
+            {
+              "id": "mod_2009_subaru_legacy_2_5i_sport_executive",
+              "title": "2009 Subaru Legacy 2.5i Sport Executive"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy",
+          "title": "Subaru Legacy",
+          "children": [
+            {
+              "id": "mod_2006_subaru_legacy_2_0r_comfort",
+              "title": "2006 Subaru Legacy 2.0R Comfort"
+            },
+            {
+              "id": "mod_2006_subaru_legacy_2_0r_executive",
+              "title": "2006 Subaru Legacy 2.0R Executive"
+            },
+            {
+              "id": "mod_2006_subaru_legacy_2_0r_luxury",
+              "title": "2006 Subaru Legacy 2.0R Luxury"
+            },
+            {
+              "id": "mod_2006_subaru_legacy_3_0r_executive",
+              "title": "2006 Subaru Legacy 3.0R Executive"
+            },
+            {
+              "id": "mod_2006_subaru_legacy_3_0r_luxury",
+              "title": "2006 Subaru Legacy 3.0R Luxury"
+            },
+            {
+              "id": "mod_2006_subaru_legacy_3_0r_spec_b_executive",
+              "title": "2006 Subaru Legacy 3.0R Spec. B Executive"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy",
+          "title": "Subaru Legacy",
+          "children": [
+            {
+              "id": "mod_2003_subaru_legacy_2_0i_comfort_pack",
+              "title": "2003 Subaru Legacy 2.0i Comfort Pack"
+            },
+            {
+              "id": "mod_2003_subaru_legacy_2_0i",
+              "title": "2003 Subaru Legacy 2.0i"
+            },
+            {
+              "id": "mod_2003_subaru_legacy_2_5i_comfort_pack",
+              "title": "2003 Subaru Legacy 2.5i Comfort Pack"
+            },
+            {
+              "id": "mod_2003_subaru_legacy_2_5i",
+              "title": "2003 Subaru Legacy 2.5i"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy",
+          "title": "Subaru Legacy",
+          "children": [
+            {
+              "id": "mod_2002_subaru_legacy_2_0_gl_awd",
+              "title": "2002 Subaru Legacy 2.0 GL AWD"
+            },
+            {
+              "id": "mod_2002_subaru_legacy_2_5_gx_awd",
+              "title": "2002 Subaru Legacy 2.5 GX AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy",
+          "title": "Subaru Legacy",
+          "children": [
+            {
+              "id": "mod_1999_subaru_legacy_2_0_gl_awd",
+              "title": "1999 Subaru Legacy 2.0 GL AWD"
+            },
+            {
+              "id": "mod_1999_subaru_legacy_2_0_lx_awd",
+              "title": "1999 Subaru Legacy 2.0 LX AWD"
+            },
+            {
+              "id": "mod_1999_subaru_legacy_2_5_gx_awd",
+              "title": "1999 Subaru Legacy 2.5 GX AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy",
+          "title": "Subaru Legacy",
+          "children": [
+            {
+              "id": "mod_1997_subaru_legacy_2_0_gl_awd",
+              "title": "1997 Subaru Legacy 2.0 GL AWD"
+            },
+            {
+              "id": "mod_1997_subaru_legacy_2_2_gx_awd",
+              "title": "1997 Subaru Legacy 2.2 GX AWD"
+            },
+            {
+              "id": "mod_1997_subaru_legacy_2_5_gx_awd",
+              "title": "1997 Subaru Legacy 2.5 GX AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy",
+          "title": "Subaru Legacy",
+          "children": [
+            {
+              "id": "mod_1994_subaru_legacy_2_0_gl_awd",
+              "title": "1994 Subaru Legacy 2.0 GL AWD"
+            },
+            {
+              "id": "mod_1994_subaru_legacy_2_0_gl",
+              "title": "1994 Subaru Legacy 2.0 GL"
+            },
+            {
+              "id": "mod_1994_subaru_legacy_2_0_lx",
+              "title": "1994 Subaru Legacy 2.0 LX"
+            },
+            {
+              "id": "mod_1994_subaru_legacy_2_2_gx_awd",
+              "title": "1994 Subaru Legacy 2.2 GX AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_legacy",
+          "title": "Subaru Legacy",
+          "children": [
+            {
+              "id": "mod_1989_subaru_legacy_1_8_dl",
+              "title": "1989 Subaru Legacy 1.8 DL"
+            },
+            {
+              "id": "mod_1989_subaru_legacy_1_8_gl_4wd",
+              "title": "1989 Subaru Legacy 1.8 GL 4WD"
+            },
+            {
+              "id": "mod_1989_subaru_legacy_1_8_gl",
+              "title": "1989 Subaru Legacy 1.8 GL"
+            },
+            {
+              "id": "mod_1989_subaru_legacy_2_2_gx_4wd",
+              "title": "1989 Subaru Legacy 2.2 GX 4WD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_xt",
+      "title": "Subaru XT",
+      "generations": [
+        {
+          "id": "gen_subaru_xt",
+          "title": "Subaru XT",
+          "children": [
+            {
+              "id": "mod_1986_subaru_1_8_xt_turbo",
+              "title": "1986 Subaru 1.8 XT Turbo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_l_series_coupe",
+      "title": "Subaru L-series Coupe",
+      "generations": [
+        {
+          "id": "gen_subaru_l_series_coupe",
+          "title": "Subaru L-series Coupe",
+          "children": [
+            {
+              "id": "mod_1986_subaru_1_6_gl_coupe",
+              "title": "1986 Subaru 1.6 GL Coupe"
+            },
+            {
+              "id": "mod_1986_subaru_1_8_gt_coupe",
+              "title": "1986 Subaru 1.8 GT Coupe"
+            },
+            {
+              "id": "mod_1986_subaru_1_8_turbo_4wd_coupe",
+              "title": "1986 Subaru 1.8 Turbo 4WD Coupe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_l_series_stationwagon",
+      "title": "Subaru L-series Stationwagon",
+      "generations": [
+        {
+          "id": "gen_subaru_l_series_stationwagon",
+          "title": "Subaru L-series Stationwagon",
+          "children": [
+            {
+              "id": "mod_1985_subaru_1_6_dl_stationwagon",
+              "title": "1985 Subaru 1.6 DL Stationwagon"
+            },
+            {
+              "id": "mod_1985_subaru_1_8_gl_4wd_stationwagon",
+              "title": "1985 Subaru 1.8 GL 4WD Stationwagon"
+            },
+            {
+              "id": "mod_1985_subaru_1_8_turbo_4wd_stationwagon",
+              "title": "1985 Subaru 1.8 Turbo 4WD Stationwagon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_justy",
+      "title": "Subaru Justy",
+      "generations": [
+        {
+          "id": "gen_subaru_justy",
+          "title": "Subaru Justy",
+          "children": [
+            {
+              "id": "mod_2007_subaru_justy_1_0_comfort_s",
+              "title": "2007 Subaru Justy 1.0 Comfort S"
+            },
+            {
+              "id": "mod_2007_subaru_justy_1_0_comfort",
+              "title": "2007 Subaru Justy 1.0 Comfort"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_justy",
+          "title": "Subaru Justy",
+          "children": [
+            {
+              "id": "mod_1997_subaru_justy_1_3_gxe_awd",
+              "title": "1997 Subaru Justy 1.3 GXE AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_justy",
+          "title": "Subaru Justy",
+          "children": [
+            {
+              "id": "mod_1996_subaru_justy_1_3_gx_awd",
+              "title": "1996 Subaru Justy 1.3 GX AWD"
+            },
+            {
+              "id": "mod_1996_subaru_justy_1_3_gxe_awd",
+              "title": "1996 Subaru Justy 1.3 GXE AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_justy",
+          "title": "Subaru Justy",
+          "children": [
+            {
+              "id": "mod_1989_subaru_justy_1_0_gl_ecvt",
+              "title": "1989 Subaru Justy 1.0 GL ECVT"
+            },
+            {
+              "id": "mod_1989_subaru_justy_1_0_gl",
+              "title": "1989 Subaru Justy 1.0 GL"
+            },
+            {
+              "id": "mod_1989_subaru_justy_1_2_gl_4wd_ecvt",
+              "title": "1989 Subaru Justy 1.2 GL 4WD ECVT"
+            },
+            {
+              "id": "mod_1989_subaru_justy_1_2_gl_ecvt",
+              "title": "1989 Subaru Justy 1.2 GL ECVT"
+            },
+            {
+              "id": "mod_1989_subaru_justy_1_2_gl",
+              "title": "1989 Subaru Justy 1.2 GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_justy",
+          "title": "Subaru Justy",
+          "children": [
+            {
+              "id": "mod_1989_subaru_justy_1_0_dl",
+              "title": "1989 Subaru Justy 1.0 DL"
+            },
+            {
+              "id": "mod_1989_subaru_justy_1_0_s_ecvt",
+              "title": "1989 Subaru Justy 1.0 S ECVT"
+            },
+            {
+              "id": "mod_1989_subaru_justy_1_0_s",
+              "title": "1989 Subaru Justy 1.0 S"
+            },
+            {
+              "id": "mod_1989_subaru_justy_1_2_s_ecvt",
+              "title": "1989 Subaru Justy 1.2 S ECVT"
+            },
+            {
+              "id": "mod_1989_subaru_justy_1_2_s",
+              "title": "1989 Subaru Justy 1.2 S"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_justy",
+          "title": "Subaru Justy",
+          "children": [
+            {
+              "id": "mod_1984_subaru_justy_1_0_dl",
+              "title": "1984 Subaru Justy 1.0 DL"
+            },
+            {
+              "id": "mod_1984_subaru_justy_1_0_s",
+              "title": "1984 Subaru Justy 1.0 S"
+            },
+            {
+              "id": "mod_1984_subaru_justy_1_0_sl_4wd",
+              "title": "1984 Subaru Justy 1.0 SL 4WD"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_justy",
+          "title": "Subaru Justy",
+          "children": [
+            {
+              "id": "mod_1984_subaru_justy_1_0_gl",
+              "title": "1984 Subaru Justy 1.0 GL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_mini_jumbo",
+      "title": "Subaru Mini Jumbo",
+      "generations": [
+        {
+          "id": "gen_subaru_mini_jumbo",
+          "title": "Subaru Mini Jumbo",
+          "children": [
+            {
+              "id": "mod_1988_subaru_mini_jumbo_dl",
+              "title": "1988 Subaru Mini Jumbo DL"
+            },
+            {
+              "id": "mod_1988_subaru_mini_jumbo_sdx",
+              "title": "1988 Subaru Mini Jumbo SDX"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_mini_jumbo",
+          "title": "Subaru Mini Jumbo",
+          "children": [
+            {
+              "id": "mod_1988_subaru_mini_jumbo_sdx",
+              "title": "1988 Subaru Mini Jumbo SDX"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_mini_jumbo",
+          "title": "Subaru Mini Jumbo",
+          "children": [
+            {
+              "id": "mod_1982_subaru_mini_jumbo_dl",
+              "title": "1982 Subaru Mini Jumbo DL"
+            },
+            {
+              "id": "mod_1982_subaru_mini_jumbo_sdx",
+              "title": "1982 Subaru Mini Jumbo SDX"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_mini_jumbo",
+          "title": "Subaru Mini Jumbo",
+          "children": [
+            {
+              "id": "mod_1982_subaru_mini_jumbo_dl",
+              "title": "1982 Subaru Mini Jumbo DL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_l_series",
+      "title": "Subaru L-series",
+      "generations": [
+        {
+          "id": "gen_subaru_l_series",
+          "title": "Subaru L-series",
+          "children": [
+            {
+              "id": "mod_1985_subaru_1_3_dl",
+              "title": "1985 Subaru 1.3 DL"
+            },
+            {
+              "id": "mod_1985_subaru_1_3_std",
+              "title": "1985 Subaru 1.3 STD"
+            },
+            {
+              "id": "mod_1985_subaru_1_6_dl",
+              "title": "1985 Subaru 1.6 DL"
+            },
+            {
+              "id": "mod_1985_subaru_1_6_gl",
+              "title": "1985 Subaru 1.6 GL"
+            },
+            {
+              "id": "mod_1985_subaru_1_8_gl",
+              "title": "1985 Subaru 1.8 GL"
+            },
+            {
+              "id": "mod_1985_subaru_1_8_gt",
+              "title": "1985 Subaru 1.8 GT"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_l_series",
+          "title": "Subaru L-series",
+          "children": [
+            {
+              "id": "mod_1981_subaru_1300_dl",
+              "title": "1981 Subaru 1300 DL"
+            },
+            {
+              "id": "mod_1981_subaru_1600_gl",
+              "title": "1981 Subaru 1600 GL"
+            },
+            {
+              "id": "mod_1981_subaru_1800_glf_4x4",
+              "title": "1981 Subaru 1800 GLF 4x4"
+            }
+          ]
+        },
+        {
+          "id": "gen_subaru_l_series",
+          "title": "Subaru L-series",
+          "children": [
+            {
+              "id": "mod_1979_subaru_1600_dl",
+              "title": "1979 Subaru 1600 DL"
+            },
+            {
+              "id": "mod_1979_subaru_1600_glf",
+              "title": "1979 Subaru 1600 GLF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_l_series_combi",
+      "title": "Subaru L-series Combi",
+      "generations": [
+        {
+          "id": "gen_subaru_l_series_combi",
+          "title": "Subaru L-series Combi",
+          "children": [
+            {
+              "id": "mod_1979_subaru_1600_dl_combi",
+              "title": "1979 Subaru 1600 DL Combi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_subaru_l_series_hardtop",
+      "title": "Subaru L-series Hardtop",
+      "generations": [
+        {
+          "id": "gen_subaru_l_series_hardtop",
+          "title": "Subaru L-series Hardtop",
+          "children": [
+            {
+              "id": "mod_1979_subaru_1600_gft_hardtop",
+              "title": "1979 Subaru 1600 GFT Hardtop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "brand_pgo",
+  "title": "PGO",
+  "models": [
+    {
+      "id": "model_pgo_speedster_2",
+      "title": "PGO Speedster 2",
+      "generations": [
+        {
+          "id": "gen_pgo_speedster_2",
+          "title": "PGO Speedster 2",
+          "children": [
+            {
+              "id": "mod_2005_pgo_speedster_2_classique",
+              "title": "2005 PGO Speedster 2 Classique"
+            },
+            {
+              "id": "mod_2005_pgo_speedster_2_dynamique",
+              "title": "2005 PGO Speedster 2 Dynamique"
+            },
+            {
+              "id": "mod_2005_pgo_speedster_2_executief",
+              "title": "2005 PGO Speedster 2 Executief"
+            },
+            {
+              "id": "mod_2005_pgo_speedster_2_look_cevennes",
+              "title": "2005 PGO Speedster 2 Look Cevennes"
+            },
+            {
+              "id": "mod_2005_pgo_speedster_2_vintage",
+              "title": "2005 PGO Speedster 2 Vintage"
+            },
+            {
+              "id": "mod_2005_pgo_speedster_2",
+              "title": "2005 PGO Speedster 2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

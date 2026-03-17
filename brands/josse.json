@@ -1,0 +1,22 @@
+{
+  "id": "brand_josse",
+  "title": "Josse",
+  "models": [
+    {
+      "id": "model_josse_indigo_3000",
+      "title": "Josse Indigo 3000",
+      "generations": [
+        {
+          "id": "gen_josse_indigo_3000",
+          "title": "Josse Indigo 3000",
+          "children": [
+            {
+              "id": "mod_1998_josse_indigo_3000",
+              "title": "1998 Josse Indigo 3000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

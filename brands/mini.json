@@ -1,0 +1,1276 @@
+{
+  "id": "brand_mini",
+  "title": "Mini",
+  "models": [
+    {
+      "id": "model_mini_electric",
+      "title": "Mini Electric",
+      "generations": [
+        {
+          "id": "gen_mini_electric",
+          "title": "Mini Electric",
+          "children": [
+            {
+              "id": "mod_2019_mini_electric_basic",
+              "title": "2019 Mini Electric Basic"
+            },
+            {
+              "id": "mod_2019_mini_electric_charged",
+              "title": "2019 Mini Electric Charged"
+            },
+            {
+              "id": "mod_2019_mini_electric_essential",
+              "title": "2019 Mini Electric Essential"
+            },
+            {
+              "id": "mod_2019_mini_electric_yours",
+              "title": "2019 Mini Electric Yours"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mini_paceman",
+      "title": "Mini Paceman",
+      "generations": [
+        {
+          "id": "gen_mini_paceman",
+          "title": "Mini Paceman",
+          "children": [
+            {
+              "id": "mod_2014_mini_paceman_cooper_all4_knockout_edition",
+              "title": "2014 Mini Paceman Cooper ALL4 Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_all4",
+              "title": "2014 Mini Paceman Cooper ALL4"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_d_all4_knockout_edition",
+              "title": "2014 Mini Paceman Cooper D ALL4 Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_d_all4",
+              "title": "2014 Mini Paceman Cooper D ALL4"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_d_knockout_edition",
+              "title": "2014 Mini Paceman Cooper D Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_d",
+              "title": "2014 Mini Paceman Cooper D"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_knockout_edition",
+              "title": "2014 Mini Paceman Cooper Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_s_all4_knockout_edition",
+              "title": "2014 Mini Paceman Cooper S ALL4 Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_s_all4",
+              "title": "2014 Mini Paceman Cooper S ALL4"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_s_knockout_edition",
+              "title": "2014 Mini Paceman Cooper S Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_s",
+              "title": "2014 Mini Paceman Cooper S"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_sd_all4",
+              "title": "2014 Mini Paceman Cooper SD ALL4"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_sd_knockout_edition",
+              "title": "2014 Mini Paceman Cooper SD Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper_sd",
+              "title": "2014 Mini Paceman Cooper SD"
+            },
+            {
+              "id": "mod_2014_mini_paceman_cooper",
+              "title": "2014 Mini Paceman Cooper"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_paceman",
+          "title": "Mini Paceman",
+          "children": [
+            {
+              "id": "mod_2013_mini_paceman_cooper_all4",
+              "title": "2013 Mini Paceman Cooper ALL4"
+            },
+            {
+              "id": "mod_2013_mini_paceman_cooper_d_all4",
+              "title": "2013 Mini Paceman Cooper D ALL4"
+            },
+            {
+              "id": "mod_2013_mini_paceman_cooper_d",
+              "title": "2013 Mini Paceman Cooper D"
+            },
+            {
+              "id": "mod_2013_mini_paceman_cooper_s_all4",
+              "title": "2013 Mini Paceman Cooper S ALL4"
+            },
+            {
+              "id": "mod_2013_mini_paceman_cooper_s",
+              "title": "2013 Mini Paceman Cooper S"
+            },
+            {
+              "id": "mod_2013_mini_paceman_cooper_sd_all4",
+              "title": "2013 Mini Paceman Cooper SD ALL4"
+            },
+            {
+              "id": "mod_2013_mini_paceman_cooper_sd",
+              "title": "2013 Mini Paceman Cooper SD"
+            },
+            {
+              "id": "mod_2013_mini_paceman_cooper",
+              "title": "2013 Mini Paceman Cooper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mini_roadster",
+      "title": "Mini Roadster",
+      "generations": [
+        {
+          "id": "gen_mini_roadster",
+          "title": "Mini Roadster",
+          "children": [
+            {
+              "id": "mod_2012_mini_roadster_cooper_s",
+              "title": "2012 Mini Roadster Cooper S"
+            },
+            {
+              "id": "mod_2012_mini_roadster_cooper_sd",
+              "title": "2012 Mini Roadster Cooper SD"
+            },
+            {
+              "id": "mod_2012_mini_roadster_cooper",
+              "title": "2012 Mini Roadster Cooper"
+            },
+            {
+              "id": "mod_2012_mini_roadster_john_cooper_works",
+              "title": "2012 Mini Roadster John Cooper Works"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mini_coupe",
+      "title": "Mini Coupe",
+      "generations": [
+        {
+          "id": "gen_mini_coupe",
+          "title": "Mini Coupe",
+          "children": [
+            {
+              "id": "mod_2011_mini_coupe_cooper_chili",
+              "title": "2011 Mini Coupe Cooper Chili"
+            },
+            {
+              "id": "mod_2011_mini_coupe_cooper_pepper",
+              "title": "2011 Mini Coupe Cooper Pepper"
+            },
+            {
+              "id": "mod_2011_mini_coupe_cooper_s_chili",
+              "title": "2011 Mini Coupe Cooper S Chili"
+            },
+            {
+              "id": "mod_2011_mini_coupe_cooper_s_pepper",
+              "title": "2011 Mini Coupe Cooper S Pepper"
+            },
+            {
+              "id": "mod_2011_mini_coupe_cooper_s_salt",
+              "title": "2011 Mini Coupe Cooper S Salt"
+            },
+            {
+              "id": "mod_2011_mini_coupe_cooper_s",
+              "title": "2011 Mini Coupe Cooper S"
+            },
+            {
+              "id": "mod_2011_mini_coupe_cooper_sd_chili",
+              "title": "2011 Mini Coupe Cooper SD Chili"
+            },
+            {
+              "id": "mod_2011_mini_coupe_cooper_sd_pepper",
+              "title": "2011 Mini Coupe Cooper SD Pepper"
+            },
+            {
+              "id": "mod_2011_mini_coupe_cooper_sd_salt",
+              "title": "2011 Mini Coupe Cooper SD Salt"
+            },
+            {
+              "id": "mod_2011_mini_coupe_cooper_sd",
+              "title": "2011 Mini Coupe Cooper SD"
+            },
+            {
+              "id": "mod_2011_mini_coupe_cooper_salt",
+              "title": "2011 Mini Coupe Cooper Salt"
+            },
+            {
+              "id": "mod_2011_mini_coupe_cooper",
+              "title": "2011 Mini Coupe Cooper"
+            },
+            {
+              "id": "mod_2011_mini_coupe_john_cooper_works_chili",
+              "title": "2011 Mini Coupe John Cooper Works Chili"
+            },
+            {
+              "id": "mod_2011_mini_coupe_john_cooper_works",
+              "title": "2011 Mini Coupe John Cooper Works"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mini_countryman",
+      "title": "Mini Countryman",
+      "generations": [
+        {
+          "id": "gen_mini_countryman",
+          "title": "Mini Countryman",
+          "children": [
+            {
+              "id": "mod_2020_mini_countryman_cooper_business_edition",
+              "title": "2020 Mini Countryman Cooper Business Edition"
+            },
+            {
+              "id": "mod_2020_mini_countryman_cooper_d_business_edition",
+              "title": "2020 Mini Countryman Cooper D Business Edition"
+            },
+            {
+              "id": "mod_2020_mini_countryman_cooper_d",
+              "title": "2020 Mini Countryman Cooper D"
+            },
+            {
+              "id": "mod_2020_mini_countryman_cooper_s_all4",
+              "title": "2020 Mini Countryman Cooper S ALL4"
+            },
+            {
+              "id": "mod_2020_mini_countryman_cooper_s",
+              "title": "2020 Mini Countryman Cooper S"
+            },
+            {
+              "id": "mod_2020_mini_countryman_cooper_se_all4",
+              "title": "2020 Mini Countryman Cooper SE ALL4"
+            },
+            {
+              "id": "mod_2020_mini_countryman_cooper",
+              "title": "2020 Mini Countryman Cooper"
+            },
+            {
+              "id": "mod_2020_mini_countryman_jcw_all4",
+              "title": "2020 Mini Countryman JCW ALL4"
+            },
+            {
+              "id": "mod_2020_mini_countryman_one_business_edition",
+              "title": "2020 Mini Countryman One Business Edition"
+            },
+            {
+              "id": "mod_2020_mini_countryman_one",
+              "title": "2020 Mini Countryman One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_countryman",
+          "title": "Mini Countryman",
+          "children": [
+            {
+              "id": "mod_2017_mini_countryman_cooper_all4",
+              "title": "2017 Mini Countryman Cooper ALL4"
+            },
+            {
+              "id": "mod_2017_mini_countryman_cooper_d_all4",
+              "title": "2017 Mini Countryman Cooper D ALL4"
+            },
+            {
+              "id": "mod_2017_mini_countryman_cooper_d",
+              "title": "2017 Mini Countryman Cooper D"
+            },
+            {
+              "id": "mod_2017_mini_countryman_cooper_s_all4",
+              "title": "2017 Mini Countryman Cooper S ALL4"
+            },
+            {
+              "id": "mod_2017_mini_countryman_cooper_s",
+              "title": "2017 Mini Countryman Cooper S"
+            },
+            {
+              "id": "mod_2017_mini_countryman_cooper_sd_all4",
+              "title": "2017 Mini Countryman Cooper SD ALL4"
+            },
+            {
+              "id": "mod_2017_mini_countryman_cooper_sd",
+              "title": "2017 Mini Countryman Cooper SD"
+            },
+            {
+              "id": "mod_2017_mini_countryman_cooper_se_all4",
+              "title": "2017 Mini Countryman Cooper SE ALL4"
+            },
+            {
+              "id": "mod_2017_mini_countryman_cooper",
+              "title": "2017 Mini Countryman Cooper"
+            },
+            {
+              "id": "mod_2017_mini_countryman_john_cooper_works_all4",
+              "title": "2017 Mini Countryman John Cooper Works ALL4"
+            },
+            {
+              "id": "mod_2017_mini_countryman_one_d",
+              "title": "2017 Mini Countryman One D"
+            },
+            {
+              "id": "mod_2017_mini_countryman_one",
+              "title": "2017 Mini Countryman One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_countryman",
+          "title": "Mini Countryman",
+          "children": [
+            {
+              "id": "mod_2014_mini_countryman_cooper_all4_knockout_edition",
+              "title": "2014 Mini Countryman Cooper ALL4 Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_all4",
+              "title": "2014 Mini Countryman Cooper ALL4"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_d_all4_knockout_edition",
+              "title": "2014 Mini Countryman Cooper D ALL4 Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_d_all4",
+              "title": "2014 Mini Countryman Cooper D ALL4"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_d_knockout_edition",
+              "title": "2014 Mini Countryman Cooper D Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_d",
+              "title": "2014 Mini Countryman Cooper D"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_knockout_edition",
+              "title": "2014 Mini Countryman Cooper Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_s_all4_knockout_edition",
+              "title": "2014 Mini Countryman Cooper S ALL4 Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_s_all4",
+              "title": "2014 Mini Countryman Cooper S ALL4"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_s_knockout_edition",
+              "title": "2014 Mini Countryman Cooper S Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_s",
+              "title": "2014 Mini Countryman Cooper S"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_sd_all4",
+              "title": "2014 Mini Countryman Cooper SD ALL4"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_sd_knockout_edition",
+              "title": "2014 Mini Countryman Cooper SD Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper_sd",
+              "title": "2014 Mini Countryman Cooper SD"
+            },
+            {
+              "id": "mod_2014_mini_countryman_cooper",
+              "title": "2014 Mini Countryman Cooper"
+            },
+            {
+              "id": "mod_2014_mini_countryman_john_cooper_works_all4",
+              "title": "2014 Mini Countryman John Cooper Works ALL4"
+            },
+            {
+              "id": "mod_2014_mini_countryman_one_d_knockout_edition",
+              "title": "2014 Mini Countryman One D Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_countryman_one_d",
+              "title": "2014 Mini Countryman One D"
+            },
+            {
+              "id": "mod_2014_mini_countryman_one_knockout_edition",
+              "title": "2014 Mini Countryman One Knockout Edition"
+            },
+            {
+              "id": "mod_2014_mini_countryman_one",
+              "title": "2014 Mini Countryman One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_countryman",
+          "title": "Mini Countryman",
+          "children": [
+            {
+              "id": "mod_2010_mini_countryman_cooper_chili",
+              "title": "2010 Mini Countryman Cooper Chili"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_d_all4_chili",
+              "title": "2010 Mini Countryman Cooper D ALL4 Chili"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_d_all4_pepper",
+              "title": "2010 Mini Countryman Cooper D ALL4 Pepper"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_d_all4_salt",
+              "title": "2010 Mini Countryman Cooper D ALL4 Salt"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_d_all4",
+              "title": "2010 Mini Countryman Cooper D ALL4"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_d_chili",
+              "title": "2010 Mini Countryman Cooper D Chili"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_d_pepper",
+              "title": "2010 Mini Countryman Cooper D Pepper"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_d_salt",
+              "title": "2010 Mini Countryman Cooper D Salt"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_d",
+              "title": "2010 Mini Countryman Cooper D"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_pepper",
+              "title": "2010 Mini Countryman Cooper Pepper"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_s_all4_chili",
+              "title": "2010 Mini Countryman Cooper S ALL4 Chili"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_s_all4_pepper",
+              "title": "2010 Mini Countryman Cooper S ALL4 Pepper"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_s_all4_salt",
+              "title": "2010 Mini Countryman Cooper S ALL4 Salt"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_s_all4",
+              "title": "2010 Mini Countryman Cooper S ALL4"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_s_chili",
+              "title": "2010 Mini Countryman Cooper S Chili"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_s_pepper",
+              "title": "2010 Mini Countryman Cooper S Pepper"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_s_salt",
+              "title": "2010 Mini Countryman Cooper S Salt"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_s",
+              "title": "2010 Mini Countryman Cooper S"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper_salt",
+              "title": "2010 Mini Countryman Cooper Salt"
+            },
+            {
+              "id": "mod_2010_mini_countryman_cooper",
+              "title": "2010 Mini Countryman Cooper"
+            },
+            {
+              "id": "mod_2010_mini_countryman_one_chili",
+              "title": "2010 Mini Countryman One Chili"
+            },
+            {
+              "id": "mod_2010_mini_countryman_one_d_chili",
+              "title": "2010 Mini Countryman One D Chili"
+            },
+            {
+              "id": "mod_2010_mini_countryman_one_d_pepper",
+              "title": "2010 Mini Countryman One D Pepper"
+            },
+            {
+              "id": "mod_2010_mini_countryman_one_d_salt",
+              "title": "2010 Mini Countryman One D Salt"
+            },
+            {
+              "id": "mod_2010_mini_countryman_one_d",
+              "title": "2010 Mini Countryman One D"
+            },
+            {
+              "id": "mod_2010_mini_countryman_one_pepper",
+              "title": "2010 Mini Countryman One Pepper"
+            },
+            {
+              "id": "mod_2010_mini_countryman_one_salt",
+              "title": "2010 Mini Countryman One Salt"
+            },
+            {
+              "id": "mod_2010_mini_countryman_one",
+              "title": "2010 Mini Countryman One"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mini_clubman",
+      "title": "Mini Clubman",
+      "generations": [
+        {
+          "id": "gen_mini_clubman",
+          "title": "Mini Clubman",
+          "children": [
+            {
+              "id": "mod_2019_mini_clubman_cooper_business_edition",
+              "title": "2019 Mini Clubman Cooper Business Edition"
+            },
+            {
+              "id": "mod_2019_mini_clubman_cooper_d_business_edition",
+              "title": "2019 Mini Clubman Cooper D Business Edition"
+            },
+            {
+              "id": "mod_2019_mini_clubman_cooper_d",
+              "title": "2019 Mini Clubman Cooper D"
+            },
+            {
+              "id": "mod_2019_mini_clubman_cooper_s_all4",
+              "title": "2019 Mini Clubman Cooper S ALL4"
+            },
+            {
+              "id": "mod_2019_mini_clubman_cooper_s",
+              "title": "2019 Mini Clubman Cooper S"
+            },
+            {
+              "id": "mod_2019_mini_clubman_cooper_sd_all4",
+              "title": "2019 Mini Clubman Cooper SD ALL4"
+            },
+            {
+              "id": "mod_2019_mini_clubman_cooper_sd",
+              "title": "2019 Mini Clubman Cooper SD"
+            },
+            {
+              "id": "mod_2019_mini_clubman_cooper",
+              "title": "2019 Mini Clubman Cooper"
+            },
+            {
+              "id": "mod_2019_mini_clubman_jcw_all4",
+              "title": "2019 Mini Clubman JCW ALL4"
+            },
+            {
+              "id": "mod_2019_mini_clubman_one_business_edition",
+              "title": "2019 Mini Clubman One Business Edition"
+            },
+            {
+              "id": "mod_2019_mini_clubman_one_d_business_edition",
+              "title": "2019 Mini Clubman One D Business Edition"
+            },
+            {
+              "id": "mod_2019_mini_clubman_one_d",
+              "title": "2019 Mini Clubman One D"
+            },
+            {
+              "id": "mod_2019_mini_clubman_one",
+              "title": "2019 Mini Clubman One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_clubman",
+          "title": "Mini Clubman",
+          "children": [
+            {
+              "id": "mod_2015_mini_clubman_cooper_d",
+              "title": "2015 Mini Clubman Cooper D"
+            },
+            {
+              "id": "mod_2015_mini_clubman_cooper_s",
+              "title": "2015 Mini Clubman Cooper S"
+            },
+            {
+              "id": "mod_2015_mini_clubman_cooper_sd",
+              "title": "2015 Mini Clubman Cooper SD"
+            },
+            {
+              "id": "mod_2015_mini_clubman_cooper",
+              "title": "2015 Mini Clubman Cooper"
+            },
+            {
+              "id": "mod_2015_mini_clubman_one_d",
+              "title": "2015 Mini Clubman One D"
+            },
+            {
+              "id": "mod_2015_mini_clubman_one",
+              "title": "2015 Mini Clubman One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_clubman",
+          "title": "Mini Clubman",
+          "children": [
+            {
+              "id": "mod_2010_mini_clubman_cooper_chili",
+              "title": "2010 Mini Clubman Cooper Chili"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper_d_chili",
+              "title": "2010 Mini Clubman Cooper D Chili"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper_d_pepper",
+              "title": "2010 Mini Clubman Cooper D Pepper"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper_d_salt",
+              "title": "2010 Mini Clubman Cooper D Salt"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper_d",
+              "title": "2010 Mini Clubman Cooper D"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper_pepper",
+              "title": "2010 Mini Clubman Cooper Pepper"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper_s_chili",
+              "title": "2010 Mini Clubman Cooper S Chili"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper_s_john_cooper_works_chili",
+              "title": "2010 Mini Clubman Cooper S John Cooper Works Chili"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper_s_john_cooper_works",
+              "title": "2010 Mini Clubman Cooper S John Cooper Works"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper_s_pepper",
+              "title": "2010 Mini Clubman Cooper S Pepper"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper_s_salt",
+              "title": "2010 Mini Clubman Cooper S Salt"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper_s",
+              "title": "2010 Mini Clubman Cooper S"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper_salt",
+              "title": "2010 Mini Clubman Cooper Salt"
+            },
+            {
+              "id": "mod_2010_mini_clubman_cooper",
+              "title": "2010 Mini Clubman Cooper"
+            },
+            {
+              "id": "mod_2010_mini_clubman_one_chili",
+              "title": "2010 Mini Clubman One Chili"
+            },
+            {
+              "id": "mod_2010_mini_clubman_one_d_chili",
+              "title": "2010 Mini Clubman One D Chili"
+            },
+            {
+              "id": "mod_2010_mini_clubman_one_d_pepper",
+              "title": "2010 Mini Clubman One D Pepper"
+            },
+            {
+              "id": "mod_2010_mini_clubman_one_d_salt",
+              "title": "2010 Mini Clubman One D Salt"
+            },
+            {
+              "id": "mod_2010_mini_clubman_one_d",
+              "title": "2010 Mini Clubman One D"
+            },
+            {
+              "id": "mod_2010_mini_clubman_one_pepper",
+              "title": "2010 Mini Clubman One Pepper"
+            },
+            {
+              "id": "mod_2010_mini_clubman_one_salt",
+              "title": "2010 Mini Clubman One Salt"
+            },
+            {
+              "id": "mod_2010_mini_clubman_one",
+              "title": "2010 Mini Clubman One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_clubman",
+          "title": "Mini Clubman",
+          "children": [
+            {
+              "id": "mod_2007_mini_clubman_cooper_chili",
+              "title": "2007 Mini Clubman Cooper Chili"
+            },
+            {
+              "id": "mod_2007_mini_clubman_cooper_d_chili",
+              "title": "2007 Mini Clubman Cooper D Chili"
+            },
+            {
+              "id": "mod_2007_mini_clubman_cooper_d_pepper",
+              "title": "2007 Mini Clubman Cooper D Pepper"
+            },
+            {
+              "id": "mod_2007_mini_clubman_cooper_d",
+              "title": "2007 Mini Clubman Cooper D"
+            },
+            {
+              "id": "mod_2007_mini_clubman_cooper_pepper",
+              "title": "2007 Mini Clubman Cooper Pepper"
+            },
+            {
+              "id": "mod_2007_mini_clubman_cooper_s_chili",
+              "title": "2007 Mini Clubman Cooper S Chili"
+            },
+            {
+              "id": "mod_2007_mini_clubman_cooper_s",
+              "title": "2007 Mini Clubman Cooper S"
+            },
+            {
+              "id": "mod_2007_mini_clubman_cooper",
+              "title": "2007 Mini Clubman Cooper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mini_cabrio",
+      "title": "Mini Cabrio",
+      "generations": [
+        {
+          "id": "gen_mini_cabrio",
+          "title": "Mini Cabrio",
+          "children": [
+            {
+              "id": "mod_2018_mini_cabrio_cooper_d",
+              "title": "2018 Mini Cabrio Cooper D"
+            },
+            {
+              "id": "mod_2018_mini_cabrio_cooper_s",
+              "title": "2018 Mini Cabrio Cooper S"
+            },
+            {
+              "id": "mod_2018_mini_cabrio_cooper_sd",
+              "title": "2018 Mini Cabrio Cooper SD"
+            },
+            {
+              "id": "mod_2018_mini_cabrio_cooper",
+              "title": "2018 Mini Cabrio Cooper"
+            },
+            {
+              "id": "mod_2018_mini_cabrio_john_cooper_works",
+              "title": "2018 Mini Cabrio John Cooper Works"
+            },
+            {
+              "id": "mod_2018_mini_cabrio_one",
+              "title": "2018 Mini Cabrio One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_cabrio",
+          "title": "Mini Cabrio",
+          "children": [
+            {
+              "id": "mod_2016_mini_cabrio_cooper_d",
+              "title": "2016 Mini Cabrio Cooper D"
+            },
+            {
+              "id": "mod_2016_mini_cabrio_cooper_s",
+              "title": "2016 Mini Cabrio Cooper S"
+            },
+            {
+              "id": "mod_2016_mini_cabrio_cooper_sd",
+              "title": "2016 Mini Cabrio Cooper SD"
+            },
+            {
+              "id": "mod_2016_mini_cabrio_cooper",
+              "title": "2016 Mini Cabrio Cooper"
+            },
+            {
+              "id": "mod_2016_mini_cabrio_john_cooper_works",
+              "title": "2016 Mini Cabrio John Cooper Works"
+            },
+            {
+              "id": "mod_2016_mini_cabrio_one",
+              "title": "2016 Mini Cabrio One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_cabrio",
+          "title": "Mini Cabrio",
+          "children": [
+            {
+              "id": "mod_2010_mini_cabrio_cooper_chili",
+              "title": "2010 Mini Cabrio Cooper Chili"
+            },
+            {
+              "id": "mod_2010_mini_cabrio_cooper_pepper",
+              "title": "2010 Mini Cabrio Cooper Pepper"
+            },
+            {
+              "id": "mod_2010_mini_cabrio_cooper_s_chili",
+              "title": "2010 Mini Cabrio Cooper S Chili"
+            },
+            {
+              "id": "mod_2010_mini_cabrio_cooper_s_john_cooper_works_chili",
+              "title": "2010 Mini Cabrio Cooper S John Cooper Works Chili"
+            },
+            {
+              "id": "mod_2010_mini_cabrio_cooper_s_john_cooper_works",
+              "title": "2010 Mini Cabrio Cooper S John Cooper Works"
+            },
+            {
+              "id": "mod_2010_mini_cabrio_cooper_s_pepper",
+              "title": "2010 Mini Cabrio Cooper S Pepper"
+            },
+            {
+              "id": "mod_2010_mini_cabrio_cooper_s_salt",
+              "title": "2010 Mini Cabrio Cooper S Salt"
+            },
+            {
+              "id": "mod_2010_mini_cabrio_cooper_s",
+              "title": "2010 Mini Cabrio Cooper S"
+            },
+            {
+              "id": "mod_2010_mini_cabrio_cooper",
+              "title": "2010 Mini Cabrio Cooper"
+            },
+            {
+              "id": "mod_2010_mini_cabrio_one_pepper",
+              "title": "2010 Mini Cabrio One Pepper"
+            },
+            {
+              "id": "mod_2010_mini_cabrio_one_salt",
+              "title": "2010 Mini Cabrio One Salt"
+            },
+            {
+              "id": "mod_2010_mini_cabrio_one",
+              "title": "2010 Mini Cabrio One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_cabrio",
+          "title": "Mini Cabrio",
+          "children": [
+            {
+              "id": "mod_2004_mini_cabrio_cooper_chili",
+              "title": "2004 Mini Cabrio Cooper Chili"
+            },
+            {
+              "id": "mod_2004_mini_cabrio_cooper_pepper",
+              "title": "2004 Mini Cabrio Cooper Pepper"
+            },
+            {
+              "id": "mod_2004_mini_cabrio_cooper_s_chili",
+              "title": "2004 Mini Cabrio Cooper S Chili"
+            },
+            {
+              "id": "mod_2004_mini_cabrio_cooper_s",
+              "title": "2004 Mini Cabrio Cooper S"
+            },
+            {
+              "id": "mod_2004_mini_cabrio_cooper",
+              "title": "2004 Mini Cabrio Cooper"
+            },
+            {
+              "id": "mod_2004_mini_cabrio_one_pepper",
+              "title": "2004 Mini Cabrio One Pepper"
+            },
+            {
+              "id": "mod_2004_mini_cabrio_one_salt",
+              "title": "2004 Mini Cabrio One Salt"
+            },
+            {
+              "id": "mod_2004_mini_cabrio_one",
+              "title": "2004 Mini Cabrio One"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mini_mini",
+      "title": "Mini Mini",
+      "generations": [
+        {
+          "id": "gen_mini_mini",
+          "title": "Mini Mini",
+          "children": [
+            {
+              "id": "mod_2018_mini_cooper_d",
+              "title": "2018 Mini Cooper D"
+            },
+            {
+              "id": "mod_2018_mini_cooper_s",
+              "title": "2018 Mini Cooper S"
+            },
+            {
+              "id": "mod_2018_mini_cooper_sd",
+              "title": "2018 Mini Cooper SD"
+            },
+            {
+              "id": "mod_2018_mini_cooper",
+              "title": "2018 Mini Cooper"
+            },
+            {
+              "id": "mod_2018_mini_john_cooper_works",
+              "title": "2018 Mini John Cooper Works"
+            },
+            {
+              "id": "mod_2018_mini_one_d",
+              "title": "2018 Mini One D"
+            },
+            {
+              "id": "mod_2018_mini_one_first",
+              "title": "2018 Mini One First"
+            },
+            {
+              "id": "mod_2018_mini_one",
+              "title": "2018 Mini One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_mini",
+          "title": "Mini Mini",
+          "children": [
+            {
+              "id": "mod_2018_mini_cooper_d",
+              "title": "2018 Mini Cooper D"
+            },
+            {
+              "id": "mod_2018_mini_cooper_s",
+              "title": "2018 Mini Cooper S"
+            },
+            {
+              "id": "mod_2018_mini_cooper_sd",
+              "title": "2018 Mini Cooper SD"
+            },
+            {
+              "id": "mod_2018_mini_cooper",
+              "title": "2018 Mini Cooper"
+            },
+            {
+              "id": "mod_2018_mini_one_d",
+              "title": "2018 Mini One D"
+            },
+            {
+              "id": "mod_2018_mini_one_first",
+              "title": "2018 Mini One First"
+            },
+            {
+              "id": "mod_2018_mini_one",
+              "title": "2018 Mini One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_mini",
+          "title": "Mini Mini",
+          "children": [
+            {
+              "id": "mod_2014_mini_cooper_d",
+              "title": "2014 Mini Cooper D"
+            },
+            {
+              "id": "mod_2014_mini_cooper_s",
+              "title": "2014 Mini Cooper S"
+            },
+            {
+              "id": "mod_2014_mini_cooper_sd",
+              "title": "2014 Mini Cooper SD"
+            },
+            {
+              "id": "mod_2014_mini_cooper",
+              "title": "2014 Mini Cooper"
+            },
+            {
+              "id": "mod_2014_mini_one_d",
+              "title": "2014 Mini One D"
+            },
+            {
+              "id": "mod_2014_mini_one",
+              "title": "2014 Mini One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_mini",
+          "title": "Mini Mini",
+          "children": [
+            {
+              "id": "mod_2014_mini_cooper_d",
+              "title": "2014 Mini Cooper D"
+            },
+            {
+              "id": "mod_2014_mini_cooper_s",
+              "title": "2014 Mini Cooper S"
+            },
+            {
+              "id": "mod_2014_mini_cooper_sd",
+              "title": "2014 Mini Cooper SD"
+            },
+            {
+              "id": "mod_2014_mini_cooper",
+              "title": "2014 Mini Cooper"
+            },
+            {
+              "id": "mod_2014_mini_one_d",
+              "title": "2014 Mini One D"
+            },
+            {
+              "id": "mod_2014_mini_one",
+              "title": "2014 Mini One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_mini",
+          "title": "Mini Mini",
+          "children": [
+            {
+              "id": "mod_2010_mini_cooper_chili",
+              "title": "2010 Mini Cooper Chili"
+            },
+            {
+              "id": "mod_2010_mini_cooper_d_chili",
+              "title": "2010 Mini Cooper D Chili"
+            },
+            {
+              "id": "mod_2010_mini_cooper_d_pepper",
+              "title": "2010 Mini Cooper D Pepper"
+            },
+            {
+              "id": "mod_2010_mini_cooper_d_salt",
+              "title": "2010 Mini Cooper D Salt"
+            },
+            {
+              "id": "mod_2010_mini_cooper_d",
+              "title": "2010 Mini Cooper D"
+            },
+            {
+              "id": "mod_2010_mini_cooper_pepper",
+              "title": "2010 Mini Cooper Pepper"
+            },
+            {
+              "id": "mod_2010_mini_cooper_s_chili",
+              "title": "2010 Mini Cooper S Chili"
+            },
+            {
+              "id": "mod_2010_mini_cooper_s_john_cooper_works_chili",
+              "title": "2010 Mini Cooper S John Cooper Works Chili"
+            },
+            {
+              "id": "mod_2010_mini_cooper_s_john_cooper_works",
+              "title": "2010 Mini Cooper S John Cooper Works"
+            },
+            {
+              "id": "mod_2010_mini_cooper_s_pepper",
+              "title": "2010 Mini Cooper S Pepper"
+            },
+            {
+              "id": "mod_2010_mini_cooper_s_salt",
+              "title": "2010 Mini Cooper S Salt"
+            },
+            {
+              "id": "mod_2010_mini_cooper_s",
+              "title": "2010 Mini Cooper S"
+            },
+            {
+              "id": "mod_2010_mini_cooper_salt",
+              "title": "2010 Mini Cooper Salt"
+            },
+            {
+              "id": "mod_2010_mini_cooper",
+              "title": "2010 Mini Cooper"
+            },
+            {
+              "id": "mod_2010_mini_one_55kw_chili",
+              "title": "2010 Mini One 55kW Chili"
+            },
+            {
+              "id": "mod_2010_mini_one_55kw_minimalist_salt",
+              "title": "2010 Mini One 55kW Minimalist Salt"
+            },
+            {
+              "id": "mod_2010_mini_one_55kw_minimalist",
+              "title": "2010 Mini One 55kW Minimalist"
+            },
+            {
+              "id": "mod_2010_mini_one_55kw_pepper",
+              "title": "2010 Mini One 55kW Pepper"
+            },
+            {
+              "id": "mod_2010_mini_one_55kw_salt",
+              "title": "2010 Mini One 55kW Salt"
+            },
+            {
+              "id": "mod_2010_mini_one_55kw",
+              "title": "2010 Mini One 55kW"
+            },
+            {
+              "id": "mod_2010_mini_one_72kw_chili",
+              "title": "2010 Mini One 72kW Chili"
+            },
+            {
+              "id": "mod_2010_mini_one_72kw_minimalist_salt",
+              "title": "2010 Mini One 72kW Minimalist Salt"
+            },
+            {
+              "id": "mod_2010_mini_one_72kw_minimalist",
+              "title": "2010 Mini One 72kW Minimalist"
+            },
+            {
+              "id": "mod_2010_mini_one_72kw_pepper",
+              "title": "2010 Mini One 72kW Pepper"
+            },
+            {
+              "id": "mod_2010_mini_one_72kw_salt",
+              "title": "2010 Mini One 72kW Salt"
+            },
+            {
+              "id": "mod_2010_mini_one_72kw",
+              "title": "2010 Mini One 72kW"
+            },
+            {
+              "id": "mod_2010_mini_one_d_chili",
+              "title": "2010 Mini One D Chili"
+            },
+            {
+              "id": "mod_2010_mini_one_d_pepper",
+              "title": "2010 Mini One D Pepper"
+            },
+            {
+              "id": "mod_2010_mini_one_d_salt",
+              "title": "2010 Mini One D Salt"
+            },
+            {
+              "id": "mod_2010_mini_one_d",
+              "title": "2010 Mini One D"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_mini",
+          "title": "Mini Mini",
+          "children": [
+            {
+              "id": "mod_2007_mini_cooper_d_chili",
+              "title": "2007 Mini Cooper D Chili"
+            },
+            {
+              "id": "mod_2007_mini_cooper_d_pepper",
+              "title": "2007 Mini Cooper D Pepper"
+            },
+            {
+              "id": "mod_2007_mini_cooper_d",
+              "title": "2007 Mini Cooper D"
+            },
+            {
+              "id": "mod_2007_mini_cooper_s_chili",
+              "title": "2007 Mini Cooper S Chili"
+            },
+            {
+              "id": "mod_2007_mini_cooper_s",
+              "title": "2007 Mini Cooper S"
+            },
+            {
+              "id": "mod_2007_mini_one_pepper",
+              "title": "2007 Mini One Pepper"
+            },
+            {
+              "id": "mod_2007_mini_one_salt",
+              "title": "2007 Mini One Salt"
+            },
+            {
+              "id": "mod_2007_mini_one",
+              "title": "2007 Mini One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_mini",
+          "title": "Mini Mini",
+          "children": [
+            {
+              "id": "mod_2001_mini_cooper_chili",
+              "title": "2001 Mini Cooper Chili"
+            },
+            {
+              "id": "mod_2001_mini_cooper_pepper",
+              "title": "2001 Mini Cooper Pepper"
+            },
+            {
+              "id": "mod_2001_mini_cooper",
+              "title": "2001 Mini Cooper"
+            },
+            {
+              "id": "mod_2001_mini_one_salt",
+              "title": "2001 Mini One Salt"
+            },
+            {
+              "id": "mod_2001_mini_one",
+              "title": "2001 Mini One"
+            }
+          ]
+        },
+        {
+          "id": "gen_mini_mini",
+          "title": "Mini Mini",
+          "children": [
+            {
+              "id": "mod_1997_mini_cooper_s",
+              "title": "1997 Mini Cooper S"
+            },
+            {
+              "id": "mod_1997_mini_cooper",
+              "title": "1997 Mini Cooper"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

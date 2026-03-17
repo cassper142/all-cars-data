@@ -1,0 +1,58 @@
+{
+  "id": "brand_triumph",
+  "title": "Triumph",
+  "models": [
+    {
+      "id": "model_triumph_acclaim",
+      "title": "Triumph Acclaim",
+      "generations": [
+        {
+          "id": "gen_triumph_acclaim",
+          "title": "Triumph Acclaim",
+          "children": [
+            {
+              "id": "mod_1982_triumph_acclaim_hl",
+              "title": "1982 Triumph Acclaim HL"
+            },
+            {
+              "id": "mod_1982_triumph_acclaim_hls",
+              "title": "1982 Triumph Acclaim HLS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_triumph_tr7_cabriolet",
+      "title": "Triumph TR7 Cabriolet",
+      "generations": [
+        {
+          "id": "gen_triumph_tr7_cabriolet",
+          "title": "Triumph TR7 Cabriolet",
+          "children": [
+            {
+              "id": "mod_1980_triumph_tr7_cabriolet",
+              "title": "1980 Triumph TR7 Cabriolet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_triumph_tr7_coupe",
+      "title": "Triumph TR7 Coupe",
+      "generations": [
+        {
+          "id": "gen_triumph_tr7_coupe",
+          "title": "Triumph TR7 Coupe",
+          "children": [
+            {
+              "id": "mod_1979_triumph_tr7_coupe",
+              "title": "1979 Triumph TR7 Coupe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

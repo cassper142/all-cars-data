@@ -1,0 +1,313 @@
+{
+  "id": "brand_lada",
+  "title": "Lada",
+  "models": [
+    {
+      "id": "model_lada_priora_2171",
+      "title": "Lada Priora 2171",
+      "generations": [
+        {
+          "id": "gen_lada_priora_2171",
+          "title": "Lada Priora 2171",
+          "children": [
+            {
+              "id": "mod_2010_lada_priora_2171_1_6",
+              "title": "2010 Lada Priora 2171 1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_priora_2172",
+      "title": "Lada Priora 2172",
+      "generations": [
+        {
+          "id": "gen_lada_priora_2172",
+          "title": "Lada Priora 2172",
+          "children": [
+            {
+              "id": "mod_2010_lada_priora_2172_1_6",
+              "title": "2010 Lada Priora 2172 1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_kalina_1117",
+      "title": "Lada Kalina 1117",
+      "generations": [
+        {
+          "id": "gen_lada_kalina_1117",
+          "title": "Lada Kalina 1117",
+          "children": [
+            {
+              "id": "mod_2010_lada_kalina_1117_1_4",
+              "title": "2010 Lada Kalina 1117 1.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_priora_2170",
+      "title": "Lada Priora 2170",
+      "generations": [
+        {
+          "id": "gen_lada_priora_2170",
+          "title": "Lada Priora 2170",
+          "children": [
+            {
+              "id": "mod_2010_lada_priora_2170_1_6",
+              "title": "2010 Lada Priora 2170 1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_kalina_1119",
+      "title": "Lada Kalina 1119",
+      "generations": [
+        {
+          "id": "gen_lada_kalina_1119",
+          "title": "Lada Kalina 1119",
+          "children": [
+            {
+              "id": "mod_2007_lada_kalina_1119_1_6",
+              "title": "2007 Lada Kalina 1119 1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_kalina_1118",
+      "title": "Lada Kalina 1118",
+      "generations": [
+        {
+          "id": "gen_lada_kalina_1118",
+          "title": "Lada Kalina 1118",
+          "children": [
+            {
+              "id": "mod_2006_lada_kalina_1118_1_6",
+              "title": "2006 Lada Kalina 1118 1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_111",
+      "title": "Lada 111",
+      "generations": [
+        {
+          "id": "gen_lada_111",
+          "title": "Lada 111",
+          "children": [
+            {
+              "id": "mod_2000_lada_111_16v",
+              "title": "2000 Lada 111 16V"
+            },
+            {
+              "id": "mod_2000_lada_111_8v",
+              "title": "2000 Lada 111 8V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_112",
+      "title": "Lada 112",
+      "generations": [
+        {
+          "id": "gen_lada_112",
+          "title": "Lada 112",
+          "children": [
+            {
+              "id": "mod_2000_lada_112_16v",
+              "title": "2000 Lada 112 16V"
+            },
+            {
+              "id": "mod_2000_lada_112_8v",
+              "title": "2000 Lada 112 8V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_110",
+      "title": "Lada 110",
+      "generations": [
+        {
+          "id": "gen_lada_110",
+          "title": "Lada 110",
+          "children": [
+            {
+              "id": "mod_1999_lada_110_8v",
+              "title": "1999 Lada 110 8V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_samara_cabriolet",
+      "title": "Lada Samara Cabriolet",
+      "generations": [
+        {
+          "id": "gen_lada_samara_cabriolet",
+          "title": "Lada Samara Cabriolet",
+          "children": [
+            {
+              "id": "mod_1995_lada_samara_cabriolet_1_5i",
+              "title": "1995 Lada Samara Cabriolet 1.5i"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_samara_diva",
+      "title": "Lada Samara Diva",
+      "generations": [
+        {
+          "id": "gen_lada_samara_diva",
+          "title": "Lada Samara Diva",
+          "children": [
+            {
+              "id": "mod_1992_lada_samara_diva_1_3",
+              "title": "1992 Lada Samara Diva 1.3"
+            },
+            {
+              "id": "mod_1992_lada_samara_diva_1_5",
+              "title": "1992 Lada Samara Diva 1.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_samara",
+      "title": "Lada Samara",
+      "generations": [
+        {
+          "id": "gen_lada_samara",
+          "title": "Lada Samara",
+          "children": [
+            {
+              "id": "mod_1988_lada_samara_1_3",
+              "title": "1988 Lada Samara 1.3"
+            }
+          ]
+        },
+        {
+          "id": "gen_lada_samara",
+          "title": "Lada Samara",
+          "children": [
+            {
+              "id": "mod_1986_lada_samara_1_3",
+              "title": "1986 Lada Samara 1.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_2104_stationcar",
+      "title": "Lada 2104 Stationcar",
+      "generations": [
+        {
+          "id": "gen_lada_2104_stationcar",
+          "title": "Lada 2104 Stationcar",
+          "children": [
+            {
+              "id": "mod_1985_lada_2104_stationcar_1_3",
+              "title": "1985 Lada 2104 Stationcar 1.3"
+            },
+            {
+              "id": "mod_1985_lada_2104_stationcar_1_5",
+              "title": "1985 Lada 2104 Stationcar 1.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_2107",
+      "title": "Lada 2107",
+      "generations": [
+        {
+          "id": "gen_lada_2107",
+          "title": "Lada 2107",
+          "children": [
+            {
+              "id": "mod_1985_lada_2107_1_3",
+              "title": "1985 Lada 2107 1.3"
+            },
+            {
+              "id": "mod_1985_lada_2107_1_6",
+              "title": "1985 Lada 2107 1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_1200",
+      "title": "Lada 1200",
+      "generations": [
+        {
+          "id": "gen_lada_1200",
+          "title": "Lada 1200",
+          "children": [
+            {
+              "id": "mod_1983_lada_1200_s",
+              "title": "1983 Lada 1200 S"
+            }
+          ]
+        },
+        {
+          "id": "gen_lada_1200",
+          "title": "Lada 1200",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "model_lada_2105",
+      "title": "Lada 2105",
+      "generations": [
+        {
+          "id": "gen_lada_2105",
+          "title": "Lada 2105",
+          "children": [
+            {
+              "id": "mod_1981_lada_2105_1_3",
+              "title": "1981 Lada 2105 1.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lada_niva",
+      "title": "Lada Niva",
+      "generations": [
+        {
+          "id": "gen_lada_niva",
+          "title": "Lada Niva",
+          "children": [
+            {
+              "id": "mod_1978_lada_niva",
+              "title": "1978 Lada Niva"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

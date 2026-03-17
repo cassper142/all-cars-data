@@ -1,0 +1,2414 @@
+{
+  "id": "brand_jaguar",
+  "title": "Jaguar",
+  "models": [
+    {
+      "id": "model_jaguar_i_pace",
+      "title": "Jaguar I-Pace",
+      "generations": [
+        {
+          "id": "gen_jaguar_i_pace",
+          "title": "Jaguar I-Pace",
+          "children": [
+            {
+              "id": "mod_2018_jaguar_i_pace_ev400_first_edition",
+              "title": "2018 Jaguar I-Pace EV400 First Edition"
+            },
+            {
+              "id": "mod_2018_jaguar_i_pace_ev400_hse",
+              "title": "2018 Jaguar I-Pace EV400 HSE"
+            },
+            {
+              "id": "mod_2018_jaguar_i_pace_ev400_s",
+              "title": "2018 Jaguar I-Pace EV400 S"
+            },
+            {
+              "id": "mod_2018_jaguar_i_pace_ev400_se",
+              "title": "2018 Jaguar I-Pace EV400 SE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_e_pace",
+      "title": "Jaguar E-Pace",
+      "generations": [
+        {
+          "id": "gen_jaguar_e_pace",
+          "title": "Jaguar E-Pace",
+          "children": [
+            {
+              "id": "mod_2020_jaguar_e_pace_d165_awd_r_dynamic_hse",
+              "title": "2020 Jaguar E-Pace D165 AWD R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d165_awd_r_dynamic_s",
+              "title": "2020 Jaguar E-Pace D165 AWD R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d165_awd_r_dynamic_se",
+              "title": "2020 Jaguar E-Pace D165 AWD R-Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d165_awd_s",
+              "title": "2020 Jaguar E-Pace D165 AWD S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d165_awd_se",
+              "title": "2020 Jaguar E-Pace D165 AWD SE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d165_r_dynamic_s",
+              "title": "2020 Jaguar E-Pace D165 R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d165_r_dynamic_se",
+              "title": "2020 Jaguar E-Pace D165 R-Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d165_s",
+              "title": "2020 Jaguar E-Pace D165 S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d165_se",
+              "title": "2020 Jaguar E-Pace D165 SE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d200_awd_r_dynamic_hse",
+              "title": "2020 Jaguar E-Pace D200 AWD R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d200_awd_r_dynamic_s",
+              "title": "2020 Jaguar E-Pace D200 AWD R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d200_awd_r_dynamic_se",
+              "title": "2020 Jaguar E-Pace D200 AWD R-Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d200_awd_s",
+              "title": "2020 Jaguar E-Pace D200 AWD S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_d200_awd_se",
+              "title": "2020 Jaguar E-Pace D200 AWD SE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p160_r_dynamic_hse",
+              "title": "2020 Jaguar E-Pace P160 R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p160_r_dynamic_s",
+              "title": "2020 Jaguar E-Pace P160 R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p160_r_dynamic_se",
+              "title": "2020 Jaguar E-Pace P160 R-Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p160_s",
+              "title": "2020 Jaguar E-Pace P160 S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p160_se",
+              "title": "2020 Jaguar E-Pace P160 SE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p200_awd_r_dynamic_hse",
+              "title": "2020 Jaguar E-Pace P200 AWD R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p200_awd_r_dynamic_s",
+              "title": "2020 Jaguar E-Pace P200 AWD R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p200_awd_r_dynamic_se",
+              "title": "2020 Jaguar E-Pace P200 AWD R-Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p200_awd_s",
+              "title": "2020 Jaguar E-Pace P200 AWD S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p200_awd_se",
+              "title": "2020 Jaguar E-Pace P200 AWD SE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p250_awd_r_dynamic_hse",
+              "title": "2020 Jaguar E-Pace P250 AWD R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p250_awd_r_dynamic_s",
+              "title": "2020 Jaguar E-Pace P250 AWD R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p250_awd_r_dynamic_se",
+              "title": "2020 Jaguar E-Pace P250 AWD R-Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p250_awd_s",
+              "title": "2020 Jaguar E-Pace P250 AWD S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p250_awd_se",
+              "title": "2020 Jaguar E-Pace P250 AWD SE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p300_awd_sport",
+              "title": "2020 Jaguar E-Pace P300 AWD Sport"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p300e_awd_r_dynamic_hse",
+              "title": "2020 Jaguar E-Pace P300e AWD R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p300e_awd_r_dynamic_s",
+              "title": "2020 Jaguar E-Pace P300e AWD R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_e_pace_p300e_awd_r_dynamic_se",
+              "title": "2020 Jaguar E-Pace P300e AWD R-Dynamic SE"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_e_pace",
+          "title": "Jaguar E-Pace",
+          "children": [
+            {
+              "id": "mod_2017_jaguar_e_pace_d150_awd_hse",
+              "title": "2017 Jaguar E-Pace D150 AWD HSE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d150_awd_r_dynamic_hse",
+              "title": "2017 Jaguar E-Pace D150 AWD R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d150_awd_r_dynamic_s",
+              "title": "2017 Jaguar E-Pace D150 AWD R-Dynamic S"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d150_awd_r_dynamic_se",
+              "title": "2017 Jaguar E-Pace D150 AWD R-Dynamic SE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d150_awd_r_dynamic",
+              "title": "2017 Jaguar E-Pace D150 AWD R-Dynamic"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d150_awd_s",
+              "title": "2017 Jaguar E-Pace D150 AWD S"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d150_awd_se",
+              "title": "2017 Jaguar E-Pace D150 AWD SE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d150_awd",
+              "title": "2017 Jaguar E-Pace D150 AWD"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d150_r_dynamic_s",
+              "title": "2017 Jaguar E-Pace D150 R-Dynamic S"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d150_r_dynamic",
+              "title": "2017 Jaguar E-Pace D150 R-Dynamic"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d150_s",
+              "title": "2017 Jaguar E-Pace D150 S"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d150",
+              "title": "2017 Jaguar E-Pace D150"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d180_awd_first_edition",
+              "title": "2017 Jaguar E-Pace D180 AWD First Edition"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d180_awd_hse",
+              "title": "2017 Jaguar E-Pace D180 AWD HSE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d180_awd_r_dynamic_hse",
+              "title": "2017 Jaguar E-Pace D180 AWD R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d180_awd_r_dynamic_s",
+              "title": "2017 Jaguar E-Pace D180 AWD R-Dynamic S"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d180_awd_r_dynamic_se",
+              "title": "2017 Jaguar E-Pace D180 AWD R-Dynamic SE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d180_awd_r_dynamic",
+              "title": "2017 Jaguar E-Pace D180 AWD R-Dynamic"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d180_awd_s",
+              "title": "2017 Jaguar E-Pace D180 AWD S"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d180_awd_se",
+              "title": "2017 Jaguar E-Pace D180 AWD SE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d180_awd",
+              "title": "2017 Jaguar E-Pace D180 AWD"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d240_awd_hse",
+              "title": "2017 Jaguar E-Pace D240 AWD HSE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d240_awd_r_dynamic_hse",
+              "title": "2017 Jaguar E-Pace D240 AWD R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d240_awd_r_dynamic_s",
+              "title": "2017 Jaguar E-Pace D240 AWD R-Dynamic S"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d240_awd_r_dynamic_se",
+              "title": "2017 Jaguar E-Pace D240 AWD R-Dynamic SE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d240_awd_s",
+              "title": "2017 Jaguar E-Pace D240 AWD S"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_d240_awd_se",
+              "title": "2017 Jaguar E-Pace D240 AWD SE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p250_awd_first_edition",
+              "title": "2017 Jaguar E-Pace P250 AWD First Edition"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p250_awd_hse",
+              "title": "2017 Jaguar E-Pace P250 AWD HSE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p250_awd_r_dynamic_hse",
+              "title": "2017 Jaguar E-Pace P250 AWD R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p250_awd_r_dynamic_s",
+              "title": "2017 Jaguar E-Pace P250 AWD R-Dynamic S"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p250_awd_r_dynamic_se",
+              "title": "2017 Jaguar E-Pace P250 AWD R-Dynamic SE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p250_awd_r_dynamic",
+              "title": "2017 Jaguar E-Pace P250 AWD R-Dynamic"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p250_awd_s",
+              "title": "2017 Jaguar E-Pace P250 AWD S"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p250_awd_se",
+              "title": "2017 Jaguar E-Pace P250 AWD SE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p250_awd",
+              "title": "2017 Jaguar E-Pace P250 AWD"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p300_awd_hse",
+              "title": "2017 Jaguar E-Pace P300 AWD HSE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p300_awd_r_dynamic_hse",
+              "title": "2017 Jaguar E-Pace P300 AWD R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p300_awd_r_dynamic_s",
+              "title": "2017 Jaguar E-Pace P300 AWD R-Dynamic S"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p300_awd_r_dynamic_se",
+              "title": "2017 Jaguar E-Pace P300 AWD R-Dynamic SE"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p300_awd_s",
+              "title": "2017 Jaguar E-Pace P300 AWD S"
+            },
+            {
+              "id": "mod_2017_jaguar_e_pace_p300_awd_se",
+              "title": "2017 Jaguar E-Pace P300 AWD SE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_f_pace",
+      "title": "Jaguar F-Pace",
+      "generations": [
+        {
+          "id": "gen_jaguar_f_pace",
+          "title": "Jaguar F-Pace",
+          "children": [
+            {
+              "id": "mod_2020_jaguar_f_pace_d165_r_dynamic_s",
+              "title": "2020 Jaguar F-Pace D165 R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d165_r_dynamic_se",
+              "title": "2020 Jaguar F-Pace D165 R-Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d165_s",
+              "title": "2020 Jaguar F-Pace D165 S"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d165_se",
+              "title": "2020 Jaguar F-Pace D165 SE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d165",
+              "title": "2020 Jaguar F-Pace D165"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d200_hse",
+              "title": "2020 Jaguar F-Pace D200 HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d200_r_dynamic_hse",
+              "title": "2020 Jaguar F-Pace D200 R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d200_r_dynamic_s",
+              "title": "2020 Jaguar F-Pace D200 R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d200_r_dynamic_se",
+              "title": "2020 Jaguar F-Pace D200 R-Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d200_s",
+              "title": "2020 Jaguar F-Pace D200 S"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d200_se",
+              "title": "2020 Jaguar F-Pace D200 SE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d200",
+              "title": "2020 Jaguar F-Pace D200"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d300_hse",
+              "title": "2020 Jaguar F-Pace D300 HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d300_r_dynamic_hse",
+              "title": "2020 Jaguar F-Pace D300 R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d300_r_dynamic_s",
+              "title": "2020 Jaguar F-Pace D300 R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d300_r_dynamic_se",
+              "title": "2020 Jaguar F-Pace D300 R-Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d300_s",
+              "title": "2020 Jaguar F-Pace D300 S"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d300_se",
+              "title": "2020 Jaguar F-Pace D300 SE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_d300",
+              "title": "2020 Jaguar F-Pace D300"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p250_hse",
+              "title": "2020 Jaguar F-Pace P250 HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p250_r_dynamic_hse",
+              "title": "2020 Jaguar F-Pace P250 R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p250_r_dynamic_s",
+              "title": "2020 Jaguar F-Pace P250 R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p250_r_dynamic_se",
+              "title": "2020 Jaguar F-Pace P250 R-Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p250_s",
+              "title": "2020 Jaguar F-Pace P250 S"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p250_se",
+              "title": "2020 Jaguar F-Pace P250 SE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p250",
+              "title": "2020 Jaguar F-Pace P250"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400_hse",
+              "title": "2020 Jaguar F-Pace P400 HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400_r_dynamic_hse",
+              "title": "2020 Jaguar F-Pace P400 R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400_r_dynamic_s",
+              "title": "2020 Jaguar F-Pace P400 R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400_r_dynamic_se",
+              "title": "2020 Jaguar F-Pace P400 R-Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400_s",
+              "title": "2020 Jaguar F-Pace P400 S"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400_se",
+              "title": "2020 Jaguar F-Pace P400 SE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400",
+              "title": "2020 Jaguar F-Pace P400"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400e_hse",
+              "title": "2020 Jaguar F-Pace P400e HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400e_r_dynamic_hse",
+              "title": "2020 Jaguar F-Pace P400e R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400e_r_dynamic_s",
+              "title": "2020 Jaguar F-Pace P400e R-Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400e_r_dynamic_se",
+              "title": "2020 Jaguar F-Pace P400e R-Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400e_s",
+              "title": "2020 Jaguar F-Pace P400e S"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400e_se",
+              "title": "2020 Jaguar F-Pace P400e SE"
+            },
+            {
+              "id": "mod_2020_jaguar_f_pace_p400e",
+              "title": "2020 Jaguar F-Pace P400e"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_f_pace",
+          "title": "Jaguar F-Pace",
+          "children": [
+            {
+              "id": "mod_2015_jaguar_f_pace_20d_180hp_awd_portfolio",
+              "title": "2015 Jaguar F-Pace 20d 180hp AWD Portfolio"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_20d_180hp_awd_prestige",
+              "title": "2015 Jaguar F-Pace 20d 180hp AWD Prestige"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_20d_180hp_awd_pure",
+              "title": "2015 Jaguar F-Pace 20d 180hp AWD Pure"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_20d_180hp_awd_r_sport",
+              "title": "2015 Jaguar F-Pace 20d 180hp AWD R-Sport"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_20d_180hp_portfolio",
+              "title": "2015 Jaguar F-Pace 20d 180hp Portfolio"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_20d_180hp_prestige",
+              "title": "2015 Jaguar F-Pace 20d 180hp Prestige"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_20d_180hp_pure",
+              "title": "2015 Jaguar F-Pace 20d 180hp Pure"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_20d_180hp_r_sport",
+              "title": "2015 Jaguar F-Pace 20d 180hp R-Sport"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_30d_awd_first_edition",
+              "title": "2015 Jaguar F-Pace 30d AWD First Edition"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_30d_awd_portfolio",
+              "title": "2015 Jaguar F-Pace 30d AWD Portfolio"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_30d_awd_prestige",
+              "title": "2015 Jaguar F-Pace 30d AWD Prestige"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_30d_awd_pure",
+              "title": "2015 Jaguar F-Pace 30d AWD Pure"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_30d_awd_r_sport",
+              "title": "2015 Jaguar F-Pace 30d AWD R-Sport"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_35t_awd_portfolio",
+              "title": "2015 Jaguar F-Pace 35t AWD Portfolio"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_35t_awd_prestige",
+              "title": "2015 Jaguar F-Pace 35t AWD Prestige"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_35t_awd_pure",
+              "title": "2015 Jaguar F-Pace 35t AWD Pure"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_35t_awd_r_sport",
+              "title": "2015 Jaguar F-Pace 35t AWD R-Sport"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_s_awd_first_edition",
+              "title": "2015 Jaguar F-Pace S AWD First Edition"
+            },
+            {
+              "id": "mod_2015_jaguar_f_pace_s_awd",
+              "title": "2015 Jaguar F-Pace S AWD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_xe",
+      "title": "Jaguar XE",
+      "generations": [
+        {
+          "id": "gen_jaguar_xe",
+          "title": "Jaguar XE",
+          "children": [
+            {
+              "id": "mod_2019_jaguar_xe_d180_awd_hse",
+              "title": "2019 Jaguar XE D180 AWD HSE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_d180_awd_r_dynamic_hse",
+              "title": "2019 Jaguar XE D180 AWD R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_d180_awd_r_dynamic_s",
+              "title": "2019 Jaguar XE D180 AWD R-Dynamic S"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_d180_awd_r_dynamic_se",
+              "title": "2019 Jaguar XE D180 AWD R-Dynamic SE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_d180_awd_s",
+              "title": "2019 Jaguar XE D180 AWD S"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_d180_awd_se",
+              "title": "2019 Jaguar XE D180 AWD SE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_d180_hse",
+              "title": "2019 Jaguar XE D180 HSE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_d180_r_dynamic_hse",
+              "title": "2019 Jaguar XE D180 R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_d180_r_dynamic_s",
+              "title": "2019 Jaguar XE D180 R-Dynamic S"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_d180_r_dynamic_se",
+              "title": "2019 Jaguar XE D180 R-Dynamic SE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_d180_s",
+              "title": "2019 Jaguar XE D180 S"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_d180_se",
+              "title": "2019 Jaguar XE D180 SE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_p250_hse",
+              "title": "2019 Jaguar XE P250 HSE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_p250_r_dynamic_hse",
+              "title": "2019 Jaguar XE P250 R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_p250_r_dynamic_s",
+              "title": "2019 Jaguar XE P250 R-Dynamic S"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_p250_r_dynamic_se",
+              "title": "2019 Jaguar XE P250 R-Dynamic SE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_p250_s",
+              "title": "2019 Jaguar XE P250 S"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_p250_se",
+              "title": "2019 Jaguar XE P250 SE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_p300_awd_hse",
+              "title": "2019 Jaguar XE P300 AWD HSE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_p300_awd_r_dynamic_hse",
+              "title": "2019 Jaguar XE P300 AWD R-Dynamic HSE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_p300_awd_r_dynamic_s",
+              "title": "2019 Jaguar XE P300 AWD R-Dynamic S"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_p300_awd_r_dynamic_se",
+              "title": "2019 Jaguar XE P300 AWD R-Dynamic SE"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_p300_awd_s",
+              "title": "2019 Jaguar XE P300 AWD S"
+            },
+            {
+              "id": "mod_2019_jaguar_xe_p300_awd_se",
+              "title": "2019 Jaguar XE P300 AWD SE"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xe",
+          "title": "Jaguar XE",
+          "children": [
+            {
+              "id": "mod_2014_jaguar_xe_20d_portfolio",
+              "title": "2014 Jaguar XE 20d Portfolio"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_20d_prestige",
+              "title": "2014 Jaguar XE 20d Prestige"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_20d_pure",
+              "title": "2014 Jaguar XE 20d Pure"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_20d_r_sport",
+              "title": "2014 Jaguar XE 20d R-Sport"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_20t_portfolio",
+              "title": "2014 Jaguar XE 20t Portfolio"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_20t_prestige",
+              "title": "2014 Jaguar XE 20t Prestige"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_20t_pure",
+              "title": "2014 Jaguar XE 20t Pure"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_20t_r_sport",
+              "title": "2014 Jaguar XE 20t R-Sport"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_25t_portfolio",
+              "title": "2014 Jaguar XE 25t Portfolio"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_25t_prestige",
+              "title": "2014 Jaguar XE 25t Prestige"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_25t_pure",
+              "title": "2014 Jaguar XE 25t Pure"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_25t_r_sport",
+              "title": "2014 Jaguar XE 25t R-Sport"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_3_0_s",
+              "title": "2014 Jaguar XE 3.0 S"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_e_performance_portfolio",
+              "title": "2014 Jaguar XE E-Performance Portfolio"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_e_performance_prestige",
+              "title": "2014 Jaguar XE E-Performance Prestige"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_e_performance_pure",
+              "title": "2014 Jaguar XE E-Performance Pure"
+            },
+            {
+              "id": "mod_2014_jaguar_xe_e_performance_r_sport",
+              "title": "2014 Jaguar XE E-Performance R-Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_f_type_coupe",
+      "title": "Jaguar F-type Coupe",
+      "generations": [
+        {
+          "id": "gen_jaguar_f_type_coupe",
+          "title": "Jaguar F-type Coupe",
+          "children": [
+            {
+              "id": "mod_2020_jaguar_f_type_coupe_p300_first_edition",
+              "title": "2020 Jaguar F-type Coupe P300 First Edition"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_coupe_p300_r_dynamic",
+              "title": "2020 Jaguar F-type Coupe P300 R-Dynamic"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_coupe_p300",
+              "title": "2020 Jaguar F-type Coupe P300"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_coupe_p450_awd_first_edition",
+              "title": "2020 Jaguar F-type Coupe P450 AWD First Edition"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_coupe_p450_awd_r_dynamic",
+              "title": "2020 Jaguar F-type Coupe P450 AWD R-Dynamic"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_coupe_p450_first_edition",
+              "title": "2020 Jaguar F-type Coupe P450 First Edition"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_coupe_p450_r_dynamic",
+              "title": "2020 Jaguar F-type Coupe P450 R-Dynamic"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_coupe_p575_awd_r",
+              "title": "2020 Jaguar F-type Coupe P575 AWD R"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_f_type_coupe",
+          "title": "Jaguar F-type Coupe",
+          "children": [
+            {
+              "id": "mod_2017_jaguar_f_type_coupe_2_0_i4_300hp_r_dynamic",
+              "title": "2017 Jaguar F-type Coupe 2.0 I4 300hp R-Dynamic"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_coupe_2_0_i4_300hp",
+              "title": "2017 Jaguar F-type Coupe 2.0 I4 300hp"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_coupe_3_0_v6_s_c_340hp_r_dynamic",
+              "title": "2017 Jaguar F-type Coupe 3.0 V6 S/C 340hp R-Dynamic"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_coupe_3_0_v6_s_c_340hp",
+              "title": "2017 Jaguar F-type Coupe 3.0 V6 S/C 340hp"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_coupe_3_0_v6_s_c_380hp_awd_r_dynamic",
+              "title": "2017 Jaguar F-type Coupe 3.0 V6 S/C 380hp AWD R-Dynamic"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_coupe_3_0_v6_s_c_380hp_awd",
+              "title": "2017 Jaguar F-type Coupe 3.0 V6 S/C 380hp AWD"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_coupe_3_0_v6_s_c_380hp_r_dynamic",
+              "title": "2017 Jaguar F-type Coupe 3.0 V6 S/C 380hp R-Dynamic"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_coupe_3_0_v6_s_c_380hp",
+              "title": "2017 Jaguar F-type Coupe 3.0 V6 S/C 380hp"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_coupe_3_0_v6_s_c_400hp_400_sport",
+              "title": "2017 Jaguar F-type Coupe 3.0 V6 S/C 400hp 400 Sport"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_coupe_3_0_v6_s_c_400hp_awd_400_sport",
+              "title": "2017 Jaguar F-type Coupe 3.0 V6 S/C 400hp AWD 400 Sport"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_coupe_5_0_v8_s_c_r_awd",
+              "title": "2017 Jaguar F-type Coupe 5.0 V8 S/C R AWD"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_coupe_5_0_v8_s_c_svr_awd",
+              "title": "2017 Jaguar F-type Coupe 5.0 V8 S/C SVR AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_f_type_coupe",
+          "title": "Jaguar F-type Coupe",
+          "children": [
+            {
+              "id": "mod_2014_jaguar_f_type_coupe_3_0_v6_s_c",
+              "title": "2014 Jaguar F-type Coupe 3.0 V6 S/C"
+            },
+            {
+              "id": "mod_2014_jaguar_f_type_coupe_r_5_0_v8_s_c",
+              "title": "2014 Jaguar F-type Coupe R 5.0 V8 S/C"
+            },
+            {
+              "id": "mod_2014_jaguar_f_type_coupe_s_3_0_v6_s_c",
+              "title": "2014 Jaguar F-type Coupe S 3.0 V6 S/C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_f_type_convertible",
+      "title": "Jaguar F-type Convertible",
+      "generations": [
+        {
+          "id": "gen_jaguar_f_type_convertible",
+          "title": "Jaguar F-type Convertible",
+          "children": [
+            {
+              "id": "mod_2020_jaguar_f_type_convertible_p300_first_edition",
+              "title": "2020 Jaguar F-type Convertible P300 First Edition"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_convertible_p300_r_dynamic",
+              "title": "2020 Jaguar F-type Convertible P300 R-Dynamic"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_convertible_p300",
+              "title": "2020 Jaguar F-type Convertible P300"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_convertible_p450_awd_first_edition",
+              "title": "2020 Jaguar F-type Convertible P450 AWD First Edition"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_convertible_p450_awd_r_dynamic",
+              "title": "2020 Jaguar F-type Convertible P450 AWD R-Dynamic"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_convertible_p450_first_edition",
+              "title": "2020 Jaguar F-type Convertible P450 First Edition"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_convertible_p450_r_dynamic",
+              "title": "2020 Jaguar F-type Convertible P450 R-Dynamic"
+            },
+            {
+              "id": "mod_2020_jaguar_f_type_convertible_p575_awd_r",
+              "title": "2020 Jaguar F-type Convertible P575 AWD R"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_f_type_convertible",
+          "title": "Jaguar F-type Convertible",
+          "children": [
+            {
+              "id": "mod_2017_jaguar_f_type_convertible_2_0_i4_300hp_r_dynamic",
+              "title": "2017 Jaguar F-type Convertible 2.0 I4 300hp R-Dynamic"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_convertible_2_0_i4_300hp",
+              "title": "2017 Jaguar F-type Convertible 2.0 I4 300hp"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_convertible_3_0_v6_s_c_340hp_r_dynamic",
+              "title": "2017 Jaguar F-type Convertible 3.0 V6 S/C 340hp R-Dynamic"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_convertible_3_0_v6_s_c_340hp",
+              "title": "2017 Jaguar F-type Convertible 3.0 V6 S/C 340hp"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_convertible_3_0_v6_s_c_380hp_awd_r_dynamic",
+              "title": "2017 Jaguar F-type Convertible 3.0 V6 S/C 380hp AWD R-Dynamic"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_convertible_3_0_v6_s_c_380hp_awd",
+              "title": "2017 Jaguar F-type Convertible 3.0 V6 S/C 380hp AWD"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_convertible_3_0_v6_s_c_380hp_r_dynamic",
+              "title": "2017 Jaguar F-type Convertible 3.0 V6 S/C 380hp R-Dynamic"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_convertible_3_0_v6_s_c_380hp",
+              "title": "2017 Jaguar F-type Convertible 3.0 V6 S/C 380hp"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_convertible_3_0_v6_s_c_400hp_400_sport",
+              "title": "2017 Jaguar F-type Convertible 3.0 V6 S/C 400hp 400 Sport"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_convertible_3_0_v6_s_c_400hp_awd_400_sport",
+              "title": "2017 Jaguar F-type Convertible 3.0 V6 S/C 400hp AWD 400 Sport"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_convertible_5_0_v8_s_c_r_awd",
+              "title": "2017 Jaguar F-type Convertible 5.0 V8 S/C R AWD"
+            },
+            {
+              "id": "mod_2017_jaguar_f_type_convertible_5_0_v8_s_c_svr_awd",
+              "title": "2017 Jaguar F-type Convertible 5.0 V8 S/C SVR AWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_f_type_convertible",
+          "title": "Jaguar F-type Convertible",
+          "children": [
+            {
+              "id": "mod_2013_jaguar_f_type_convertible_3_0_v6_s_c",
+              "title": "2013 Jaguar F-type Convertible 3.0 V6 S/C"
+            },
+            {
+              "id": "mod_2013_jaguar_f_type_convertible_s_3_0_v6_s_c",
+              "title": "2013 Jaguar F-type Convertible S 3.0 V6 S/C"
+            },
+            {
+              "id": "mod_2013_jaguar_f_type_convertible_s_5_0_v8_s_c",
+              "title": "2013 Jaguar F-type Convertible S 5.0 V8 S/C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_xf_sportbrake",
+      "title": "Jaguar XF Sportbrake",
+      "generations": [
+        {
+          "id": "gen_jaguar_xf_sportbrake",
+          "title": "Jaguar XF Sportbrake",
+          "children": [
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_d200_awd_dynamic_hse",
+              "title": "2020 Jaguar XF Sportbrake D200 AWD Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_d200_awd_dynamic_s",
+              "title": "2020 Jaguar XF Sportbrake D200 AWD Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_d200_awd_dynamic_se",
+              "title": "2020 Jaguar XF Sportbrake D200 AWD Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_d200_awd_hse",
+              "title": "2020 Jaguar XF Sportbrake D200 AWD HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_d200_awd_s",
+              "title": "2020 Jaguar XF Sportbrake D200 AWD S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_d200_awd_se",
+              "title": "2020 Jaguar XF Sportbrake D200 AWD SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_d200_dynamic_hse",
+              "title": "2020 Jaguar XF Sportbrake D200 Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_d200_dynamic_s",
+              "title": "2020 Jaguar XF Sportbrake D200 Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_d200_dynamic_se",
+              "title": "2020 Jaguar XF Sportbrake D200 Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_d200_hse",
+              "title": "2020 Jaguar XF Sportbrake D200 HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_d200_s",
+              "title": "2020 Jaguar XF Sportbrake D200 S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_d200_se",
+              "title": "2020 Jaguar XF Sportbrake D200 SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_p250_dynamic_hse",
+              "title": "2020 Jaguar XF Sportbrake P250 Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_p250_dynamic_s",
+              "title": "2020 Jaguar XF Sportbrake P250 Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_p250_dynamic_se",
+              "title": "2020 Jaguar XF Sportbrake P250 Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_p250_hse",
+              "title": "2020 Jaguar XF Sportbrake P250 HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_p250_s",
+              "title": "2020 Jaguar XF Sportbrake P250 S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_p250_se",
+              "title": "2020 Jaguar XF Sportbrake P250 SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_p300_awd_dynamic_hse",
+              "title": "2020 Jaguar XF Sportbrake P300 AWD Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_p300_awd_dynamic_s",
+              "title": "2020 Jaguar XF Sportbrake P300 AWD Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_p300_awd_dynamic_se",
+              "title": "2020 Jaguar XF Sportbrake P300 AWD Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_p300_awd_hse",
+              "title": "2020 Jaguar XF Sportbrake P300 AWD HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_p300_awd_s",
+              "title": "2020 Jaguar XF Sportbrake P300 AWD S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_sportbrake_p300_awd_se",
+              "title": "2020 Jaguar XF Sportbrake P300 AWD SE"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xf_sportbrake",
+          "title": "Jaguar XF Sportbrake",
+          "children": [
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_20d_awd_portfolio",
+              "title": "2017 Jaguar XF Sportbrake 20d AWD Portfolio"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_20d_awd_prestige",
+              "title": "2017 Jaguar XF Sportbrake 20d AWD Prestige"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_20d_awd_pure",
+              "title": "2017 Jaguar XF Sportbrake 20d AWD Pure"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_20d_awd_r_sport",
+              "title": "2017 Jaguar XF Sportbrake 20d AWD R-Sport"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_20d_portfolio",
+              "title": "2017 Jaguar XF Sportbrake 20d Portfolio"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_20d_prestige_pro_edition",
+              "title": "2017 Jaguar XF Sportbrake 20d Prestige Pro Edition"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_20d_prestige",
+              "title": "2017 Jaguar XF Sportbrake 20d Prestige"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_20d_pure_pro_edition",
+              "title": "2017 Jaguar XF Sportbrake 20d Pure Pro Edition"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_20d_pure",
+              "title": "2017 Jaguar XF Sportbrake 20d Pure"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_20d_r_sport_pro_edition",
+              "title": "2017 Jaguar XF Sportbrake 20d R-Sport Pro Edition"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_20d_r_sport",
+              "title": "2017 Jaguar XF Sportbrake 20d R-Sport"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_25d_awd_portfolio",
+              "title": "2017 Jaguar XF Sportbrake 25d AWD Portfolio"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_25d_awd_prestige",
+              "title": "2017 Jaguar XF Sportbrake 25d AWD Prestige"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_25d_awd_r_sport",
+              "title": "2017 Jaguar XF Sportbrake 25d AWD R-Sport"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_25t_portfolio",
+              "title": "2017 Jaguar XF Sportbrake 25t Portfolio"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_25t_prestige_pro_edition",
+              "title": "2017 Jaguar XF Sportbrake 25t Prestige Pro Edition"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_25t_prestige",
+              "title": "2017 Jaguar XF Sportbrake 25t Prestige"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_25t_pure_pro_edition",
+              "title": "2017 Jaguar XF Sportbrake 25t Pure Pro Edition"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_25t_pure",
+              "title": "2017 Jaguar XF Sportbrake 25t Pure"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_25t_r_sport_pro_edition",
+              "title": "2017 Jaguar XF Sportbrake 25t R-Sport Pro Edition"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_25t_r_sport",
+              "title": "2017 Jaguar XF Sportbrake 25t R-Sport"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_30d_firs_edition",
+              "title": "2017 Jaguar XF Sportbrake 30d Firs Edition"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_30d_portfolio",
+              "title": "2017 Jaguar XF Sportbrake 30d Portfolio"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_30d_s",
+              "title": "2017 Jaguar XF Sportbrake 30d S"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_e_performance_portfolio",
+              "title": "2017 Jaguar XF Sportbrake E-Performance Portfolio"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_e_performance_prestige_pro_edition",
+              "title": "2017 Jaguar XF Sportbrake E-Performance Prestige Pro Edition"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_e_performance_prestige",
+              "title": "2017 Jaguar XF Sportbrake E-Performance Prestige"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_e_performance_pure_pro_edition",
+              "title": "2017 Jaguar XF Sportbrake E-Performance Pure Pro Edition"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_e_performance_pure",
+              "title": "2017 Jaguar XF Sportbrake E-Performance Pure"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_e_performance_r_sport_pro_edition",
+              "title": "2017 Jaguar XF Sportbrake E-Performance R-Sport Pro Edition"
+            },
+            {
+              "id": "mod_2017_jaguar_xf_sportbrake_e_performance_r_sport",
+              "title": "2017 Jaguar XF Sportbrake E-Performance R-Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xf_sportbrake",
+          "title": "Jaguar XF Sportbrake",
+          "children": [
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_2_2d_business_edition",
+              "title": "2012 Jaguar XF Sportbrake 2.2D Business Edition"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_2_2d_premium_business_edition",
+              "title": "2012 Jaguar XF Sportbrake 2.2D Premium Business Edition"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_2_2d_s_business_edition",
+              "title": "2012 Jaguar XF Sportbrake 2.2D S Business Edition"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_2_2d_s_premium_business_edition",
+              "title": "2012 Jaguar XF Sportbrake 2.2D S Premium Business Edition"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_2_2d_s_sport_business_edition",
+              "title": "2012 Jaguar XF Sportbrake 2.2D S Sport Business Edition"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_2_2d_s",
+              "title": "2012 Jaguar XF Sportbrake 2.2D S"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_2_2d_sport_business_edition",
+              "title": "2012 Jaguar XF Sportbrake 2.2D Sport Business Edition"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_2_2d",
+              "title": "2012 Jaguar XF Sportbrake 2.2D"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_3_0d_v6_business_edition",
+              "title": "2012 Jaguar XF Sportbrake 3.0D V6 Business Edition"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_3_0d_v6_premium_business_edition",
+              "title": "2012 Jaguar XF Sportbrake 3.0D V6 Premium Business Edition"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_3_0d_v6_s_business_edition",
+              "title": "2012 Jaguar XF Sportbrake 3.0D V6 S Business Edition"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_3_0d_v6_s_premium_business_edition",
+              "title": "2012 Jaguar XF Sportbrake 3.0D V6 S Premium Business Edition"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_3_0d_v6_s_sport_business_edition",
+              "title": "2012 Jaguar XF Sportbrake 3.0D V6 S Sport Business Edition"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_3_0d_v6_s",
+              "title": "2012 Jaguar XF Sportbrake 3.0D V6 S"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_3_0d_v6_sport_business_edition",
+              "title": "2012 Jaguar XF Sportbrake 3.0D V6 Sport Business Edition"
+            },
+            {
+              "id": "mod_2012_jaguar_xf_sportbrake_3_0d_v6",
+              "title": "2012 Jaguar XF Sportbrake 3.0D V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_xk_coupe",
+      "title": "Jaguar XK Coupe",
+      "generations": [
+        {
+          "id": "gen_jaguar_xk_coupe",
+          "title": "Jaguar XK Coupe",
+          "children": [
+            {
+              "id": "mod_2011_jaguar_xk_coupe_5_0_v8_portfolio",
+              "title": "2011 Jaguar XK Coupe 5.0 V8 Portfolio"
+            },
+            {
+              "id": "mod_2011_jaguar_xk_coupe_5_0_v8",
+              "title": "2011 Jaguar XK Coupe 5.0 V8"
+            },
+            {
+              "id": "mod_2011_jaguar_xkr_coupe_5_0_v8_supercharged",
+              "title": "2011 Jaguar XKR Coupe 5.0 V8 Supercharged"
+            },
+            {
+              "id": "mod_2011_jaguar_xkr_s_coupe",
+              "title": "2011 Jaguar XKR-S Coupe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_xf",
+      "title": "Jaguar XF",
+      "generations": [
+        {
+          "id": "gen_jaguar_xf",
+          "title": "Jaguar XF",
+          "children": [
+            {
+              "id": "mod_2020_jaguar_xf_d200_awd_dynamic_hse",
+              "title": "2020 Jaguar XF D200 AWD Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_d200_awd_dynamic_s",
+              "title": "2020 Jaguar XF D200 AWD Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_d200_awd_dynamic_se",
+              "title": "2020 Jaguar XF D200 AWD Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_d200_awd_hse",
+              "title": "2020 Jaguar XF D200 AWD HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_d200_awd_s",
+              "title": "2020 Jaguar XF D200 AWD S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_d200_awd_se",
+              "title": "2020 Jaguar XF D200 AWD SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_d200_dynamic_hse",
+              "title": "2020 Jaguar XF D200 Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_d200_dynamic_s",
+              "title": "2020 Jaguar XF D200 Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_d200_dynamic_se",
+              "title": "2020 Jaguar XF D200 Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_d200_hse",
+              "title": "2020 Jaguar XF D200 HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_d200_s",
+              "title": "2020 Jaguar XF D200 S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_d200_se",
+              "title": "2020 Jaguar XF D200 SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_p250_dynamic_hse",
+              "title": "2020 Jaguar XF P250 Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_p250_dynamic_s",
+              "title": "2020 Jaguar XF P250 Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_p250_dynamic_se",
+              "title": "2020 Jaguar XF P250 Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_p250_hse",
+              "title": "2020 Jaguar XF P250 HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_p250_s",
+              "title": "2020 Jaguar XF P250 S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_p250_se",
+              "title": "2020 Jaguar XF P250 SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_p300_awd_dynamic_hse",
+              "title": "2020 Jaguar XF P300 AWD Dynamic HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_p300_awd_dynamic_s",
+              "title": "2020 Jaguar XF P300 AWD Dynamic S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_p300_awd_dynamic_se",
+              "title": "2020 Jaguar XF P300 AWD Dynamic SE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_p300_awd_hse",
+              "title": "2020 Jaguar XF P300 AWD HSE"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_p300_awd_s",
+              "title": "2020 Jaguar XF P300 AWD S"
+            },
+            {
+              "id": "mod_2020_jaguar_xf_p300_awd_se",
+              "title": "2020 Jaguar XF P300 AWD SE"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xf",
+          "title": "Jaguar XF",
+          "children": [
+            {
+              "id": "mod_2015_jaguar_xf_20d_portfolio",
+              "title": "2015 Jaguar XF 20d Portfolio"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_20d_prestige",
+              "title": "2015 Jaguar XF 20d Prestige"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_20d_pure",
+              "title": "2015 Jaguar XF 20d Pure"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_20d_r_sport",
+              "title": "2015 Jaguar XF 20d R-Sport"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_25t_portfolio",
+              "title": "2015 Jaguar XF 25t Portfolio"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_25t_prestige",
+              "title": "2015 Jaguar XF 25t Prestige"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_25t_pure",
+              "title": "2015 Jaguar XF 25t Pure"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_25t_r_sport",
+              "title": "2015 Jaguar XF 25t R-Sport"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_30d_portfolio",
+              "title": "2015 Jaguar XF 30d Portfolio"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_30d_prestige",
+              "title": "2015 Jaguar XF 30d Prestige"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_30d_r_sport",
+              "title": "2015 Jaguar XF 30d R-Sport"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_35t_awd_portfolio",
+              "title": "2015 Jaguar XF 35t AWD Portfolio"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_35t_awd_prestige",
+              "title": "2015 Jaguar XF 35t AWD Prestige"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_35t_awd_pure",
+              "title": "2015 Jaguar XF 35t AWD Pure"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_35t_awd_r_sport",
+              "title": "2015 Jaguar XF 35t AWD R-Sport"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_35t_portfolio",
+              "title": "2015 Jaguar XF 35t Portfolio"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_35t_prestige",
+              "title": "2015 Jaguar XF 35t Prestige"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_35t_pure",
+              "title": "2015 Jaguar XF 35t Pure"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_35t_r_sport",
+              "title": "2015 Jaguar XF 35t R-Sport"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_e_performance_portfolio",
+              "title": "2015 Jaguar XF E-Performance Portfolio"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_e_performance_prestige",
+              "title": "2015 Jaguar XF E-Performance Prestige"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_e_performance_pure",
+              "title": "2015 Jaguar XF E-Performance Pure"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_e_performance_r_sport",
+              "title": "2015 Jaguar XF E-Performance R-Sport"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_s_awd",
+              "title": "2015 Jaguar XF S AWD"
+            },
+            {
+              "id": "mod_2015_jaguar_xf_s",
+              "title": "2015 Jaguar XF S"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xf",
+          "title": "Jaguar XF",
+          "children": [
+            {
+              "id": "mod_2011_jaguar_xf_2_2d",
+              "title": "2011 Jaguar XF 2.2D"
+            },
+            {
+              "id": "mod_2011_jaguar_xf_3_0d_v6_s",
+              "title": "2011 Jaguar XF 3.0D V6 S"
+            },
+            {
+              "id": "mod_2011_jaguar_xf_3_0d_v6",
+              "title": "2011 Jaguar XF 3.0D V6"
+            },
+            {
+              "id": "mod_2011_jaguar_xf_5_0_v8",
+              "title": "2011 Jaguar XF 5.0 V8"
+            },
+            {
+              "id": "mod_2011_jaguar_xfr_5_0_v8_supercharged",
+              "title": "2011 Jaguar XFR 5.0 V8 Supercharged"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xf",
+          "title": "Jaguar XF",
+          "children": [
+            {
+              "id": "mod_2008_jaguar_xf_2_7d_v6_luxury",
+              "title": "2008 Jaguar XF 2.7D V6 Luxury"
+            },
+            {
+              "id": "mod_2008_jaguar_xf_2_7d_v6_premium_luxury",
+              "title": "2008 Jaguar XF 2.7D V6 Premium Luxury"
+            },
+            {
+              "id": "mod_2008_jaguar_xf_3_0_v6_luxury",
+              "title": "2008 Jaguar XF 3.0 V6 Luxury"
+            },
+            {
+              "id": "mod_2008_jaguar_xf_3_0_v6_premium_luxury",
+              "title": "2008 Jaguar XF 3.0 V6 Premium Luxury"
+            },
+            {
+              "id": "mod_2008_jaguar_xf_4_2_v8_premium_luxury",
+              "title": "2008 Jaguar XF 4.2 V8 Premium Luxury"
+            },
+            {
+              "id": "mod_2008_jaguar_xf_4_2_v8_supercharged_sv8",
+              "title": "2008 Jaguar XF 4.2 V8 Supercharged SV8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_x_type_estate",
+      "title": "Jaguar X-Type Estate",
+      "generations": [
+        {
+          "id": "gen_jaguar_x_type_estate",
+          "title": "Jaguar X-Type Estate",
+          "children": [
+            {
+              "id": "mod_2008_jaguar_x_type_estate_2_2d_executive",
+              "title": "2008 Jaguar X-Type Estate 2.2D Executive"
+            },
+            {
+              "id": "mod_2008_jaguar_x_type_estate_2_2d",
+              "title": "2008 Jaguar X-Type Estate 2.2D"
+            },
+            {
+              "id": "mod_2008_jaguar_x_type_estate_2_5_v6_executive",
+              "title": "2008 Jaguar X-Type Estate 2.5 V6 Executive"
+            },
+            {
+              "id": "mod_2008_jaguar_x_type_estate_2_5_v6",
+              "title": "2008 Jaguar X-Type Estate 2.5 V6"
+            },
+            {
+              "id": "mod_2008_jaguar_x_type_estate_3_0_v6_executive",
+              "title": "2008 Jaguar X-Type Estate 3.0 V6 Executive"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_x_type_estate",
+          "title": "Jaguar X-Type Estate",
+          "children": [
+            {
+              "id": "mod_2004_jaguar_x_type_estate_2_0_v6_business_plus",
+              "title": "2004 Jaguar X-Type Estate 2.0 V6 Business Plus"
+            },
+            {
+              "id": "mod_2004_jaguar_x_type_estate_2_0_v6_executive",
+              "title": "2004 Jaguar X-Type Estate 2.0 V6 Executive"
+            },
+            {
+              "id": "mod_2004_jaguar_x_type_estate_2_0_v6_sport",
+              "title": "2004 Jaguar X-Type Estate 2.0 V6 Sport"
+            },
+            {
+              "id": "mod_2004_jaguar_x_type_estate_2_0_v6",
+              "title": "2004 Jaguar X-Type Estate 2.0 V6"
+            },
+            {
+              "id": "mod_2004_jaguar_x_type_estate_2_0d_executive",
+              "title": "2004 Jaguar X-Type Estate 2.0D Executive"
+            },
+            {
+              "id": "mod_2004_jaguar_x_type_estate_2_0d_sport",
+              "title": "2004 Jaguar X-Type Estate 2.0D Sport"
+            },
+            {
+              "id": "mod_2004_jaguar_x_type_estate_2_0d",
+              "title": "2004 Jaguar X-Type Estate 2.0D"
+            },
+            {
+              "id": "mod_2004_jaguar_x_type_estate_2_5_v6_executive",
+              "title": "2004 Jaguar X-Type Estate 2.5 V6 Executive"
+            },
+            {
+              "id": "mod_2004_jaguar_x_type_estate_2_5_v6_sport",
+              "title": "2004 Jaguar X-Type Estate 2.5 V6 Sport"
+            },
+            {
+              "id": "mod_2004_jaguar_x_type_estate_2_5_v6",
+              "title": "2004 Jaguar X-Type Estate 2.5 V6"
+            },
+            {
+              "id": "mod_2004_jaguar_x_type_estate_3_0_v6_executive",
+              "title": "2004 Jaguar X-Type Estate 3.0 V6 Executive"
+            },
+            {
+              "id": "mod_2004_jaguar_x_type_estate_3_0_v6_sport",
+              "title": "2004 Jaguar X-Type Estate 3.0 V6 Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_x_type",
+      "title": "Jaguar X-Type",
+      "generations": [
+        {
+          "id": "gen_jaguar_x_type",
+          "title": "Jaguar X-Type",
+          "children": [
+            {
+              "id": "mod_2008_jaguar_x_type_2_2d_executive",
+              "title": "2008 Jaguar X-Type 2.2D Executive"
+            },
+            {
+              "id": "mod_2008_jaguar_x_type_2_2d",
+              "title": "2008 Jaguar X-Type 2.2D"
+            },
+            {
+              "id": "mod_2008_jaguar_x_type_2_5_v6_executive",
+              "title": "2008 Jaguar X-Type 2.5 V6 Executive"
+            },
+            {
+              "id": "mod_2008_jaguar_x_type_2_5_v6",
+              "title": "2008 Jaguar X-Type 2.5 V6"
+            },
+            {
+              "id": "mod_2008_jaguar_x_type_3_0_v6_executive",
+              "title": "2008 Jaguar X-Type 3.0 V6 Executive"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_x_type",
+          "title": "Jaguar X-Type",
+          "children": [
+            {
+              "id": "mod_2001_jaguar_x_type_2_5_v6_executive",
+              "title": "2001 Jaguar X-Type 2.5 V6 Executive"
+            },
+            {
+              "id": "mod_2001_jaguar_x_type_2_5_v6_sport",
+              "title": "2001 Jaguar X-Type 2.5 V6 Sport"
+            },
+            {
+              "id": "mod_2001_jaguar_x_type_2_5_v6",
+              "title": "2001 Jaguar X-Type 2.5 V6"
+            },
+            {
+              "id": "mod_2001_jaguar_x_type_3_0_v6_executive",
+              "title": "2001 Jaguar X-Type 3.0 V6 Executive"
+            },
+            {
+              "id": "mod_2001_jaguar_x_type_3_0_v6_sport",
+              "title": "2001 Jaguar X-Type 3.0 V6 Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_s_type",
+      "title": "Jaguar S-Type",
+      "generations": [
+        {
+          "id": "gen_jaguar_s_type",
+          "title": "Jaguar S-Type",
+          "children": [
+            {
+              "id": "mod_2004_jaguar_s_type_2_5_v6_executive",
+              "title": "2004 Jaguar S-Type 2.5 V6 Executive"
+            },
+            {
+              "id": "mod_2004_jaguar_s_type_2_5_v6_sport",
+              "title": "2004 Jaguar S-Type 2.5 V6 Sport"
+            },
+            {
+              "id": "mod_2004_jaguar_s_type_2_5_v6",
+              "title": "2004 Jaguar S-Type 2.5 V6"
+            },
+            {
+              "id": "mod_2004_jaguar_s_type_2_7d_executive",
+              "title": "2004 Jaguar S-Type 2.7D Executive"
+            },
+            {
+              "id": "mod_2004_jaguar_s_type_2_7d_sport",
+              "title": "2004 Jaguar S-Type 2.7D Sport"
+            },
+            {
+              "id": "mod_2004_jaguar_s_type_2_7d",
+              "title": "2004 Jaguar S-Type 2.7D"
+            },
+            {
+              "id": "mod_2004_jaguar_s_type_3_0_v6_executive",
+              "title": "2004 Jaguar S-Type 3.0 V6 Executive"
+            },
+            {
+              "id": "mod_2004_jaguar_s_type_3_0_v6_sport",
+              "title": "2004 Jaguar S-Type 3.0 V6 Sport"
+            },
+            {
+              "id": "mod_2004_jaguar_s_type_4_2_v8_executive",
+              "title": "2004 Jaguar S-Type 4.2 V8 Executive"
+            },
+            {
+              "id": "mod_2004_jaguar_s_type_4_2_v8_s_c_r",
+              "title": "2004 Jaguar S-Type 4.2 V8 S/C R"
+            },
+            {
+              "id": "mod_2004_jaguar_s_type_4_2_v8_sport",
+              "title": "2004 Jaguar S-Type 4.2 V8 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_s_type",
+          "title": "Jaguar S-Type",
+          "children": [
+            {
+              "id": "mod_2002_jaguar_s_type_2_5_v6_executive",
+              "title": "2002 Jaguar S-Type 2.5 V6 Executive"
+            },
+            {
+              "id": "mod_2002_jaguar_s_type_2_5_v6_sport",
+              "title": "2002 Jaguar S-Type 2.5 V6 Sport"
+            },
+            {
+              "id": "mod_2002_jaguar_s_type_2_5_v6",
+              "title": "2002 Jaguar S-Type 2.5 V6"
+            },
+            {
+              "id": "mod_2002_jaguar_s_type_3_0_v6_executive",
+              "title": "2002 Jaguar S-Type 3.0 V6 Executive"
+            },
+            {
+              "id": "mod_2002_jaguar_s_type_3_0_v6_sport",
+              "title": "2002 Jaguar S-Type 3.0 V6 Sport"
+            },
+            {
+              "id": "mod_2002_jaguar_s_type_4_2_v8_executive",
+              "title": "2002 Jaguar S-Type 4.2 V8 Executive"
+            },
+            {
+              "id": "mod_2002_jaguar_s_type_4_2_v8_s_c_r",
+              "title": "2002 Jaguar S-Type 4.2 V8 S/C R"
+            },
+            {
+              "id": "mod_2002_jaguar_s_type_4_2_v8_sport",
+              "title": "2002 Jaguar S-Type 4.2 V8 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_s_type",
+          "title": "Jaguar S-Type",
+          "children": [
+            {
+              "id": "mod_1999_jaguar_s_type_3_0_v6_executive",
+              "title": "1999 Jaguar S-Type 3.0 V6 Executive"
+            },
+            {
+              "id": "mod_1999_jaguar_s_type_3_0_v6",
+              "title": "1999 Jaguar S-Type 3.0 V6"
+            },
+            {
+              "id": "mod_1999_jaguar_s_type_4_0_v8",
+              "title": "1999 Jaguar S-Type 4.0 V8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_xk_convertible",
+      "title": "Jaguar XK Convertible",
+      "generations": [
+        {
+          "id": "gen_jaguar_xk_convertible",
+          "title": "Jaguar XK Convertible",
+          "children": [
+            {
+              "id": "mod_2011_jaguar_xk_convertible_5_0_v8_portfolio",
+              "title": "2011 Jaguar XK Convertible 5.0 V8 Portfolio"
+            },
+            {
+              "id": "mod_2011_jaguar_xk_convertible_5_0_v8",
+              "title": "2011 Jaguar XK Convertible 5.0 V8"
+            },
+            {
+              "id": "mod_2011_jaguar_xkr_convertible_5_0_v8_supercharged",
+              "title": "2011 Jaguar XKR Convertible 5.0 V8 Supercharged"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xk_convertible",
+          "title": "Jaguar XK Convertible",
+          "children": [
+            {
+              "id": "mod_2009_jaguar_xk_5_0_v8_convertible_portfolio",
+              "title": "2009 Jaguar XK 5.0 V8 Convertible Portfolio"
+            },
+            {
+              "id": "mod_2009_jaguar_xk_5_0_v8_convertible",
+              "title": "2009 Jaguar XK 5.0 V8 Convertible"
+            },
+            {
+              "id": "mod_2009_jaguar_xkr_5_0_v8_supercharged_convertible",
+              "title": "2009 Jaguar XKR 5.0 V8 Supercharged Convertible"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xk_convertible",
+          "title": "Jaguar XK Convertible",
+          "children": [
+            {
+              "id": "mod_2006_jaguar_xk_4_2_convertible",
+              "title": "2006 Jaguar XK 4.2 Convertible"
+            },
+            {
+              "id": "mod_2006_jaguar_xkr_convertible",
+              "title": "2006 Jaguar XKR Convertible"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xk_convertible",
+          "title": "Jaguar XK Convertible",
+          "children": [
+            {
+              "id": "mod_2002_jaguar_xk8_convertible",
+              "title": "2002 Jaguar XK8 Convertible"
+            },
+            {
+              "id": "mod_2002_jaguar_xkr_convertible",
+              "title": "2002 Jaguar XKR Convertible"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xk_convertible",
+          "title": "Jaguar XK Convertible",
+          "children": [
+            {
+              "id": "mod_1996_jaguar_xk8_convertible",
+              "title": "1996 Jaguar XK8 Convertible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_xk",
+      "title": "Jaguar XK",
+      "generations": [
+        {
+          "id": "gen_jaguar_xk",
+          "title": "Jaguar XK",
+          "children": [
+            {
+              "id": "mod_2009_jaguar_xk_5_0_v8_portfolio",
+              "title": "2009 Jaguar XK 5.0 V8 Portfolio"
+            },
+            {
+              "id": "mod_2009_jaguar_xk_5_0_v8",
+              "title": "2009 Jaguar XK 5.0 V8"
+            },
+            {
+              "id": "mod_2009_jaguar_xkr_5_0_v8_supercharged",
+              "title": "2009 Jaguar XKR 5.0 V8 Supercharged"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xk",
+          "title": "Jaguar XK",
+          "children": [
+            {
+              "id": "mod_2006_jaguar_xk_4_2",
+              "title": "2006 Jaguar XK 4.2"
+            },
+            {
+              "id": "mod_2006_jaguar_xkr",
+              "title": "2006 Jaguar XKR"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xk",
+          "title": "Jaguar XK",
+          "children": [
+            {
+              "id": "mod_2002_jaguar_xk8",
+              "title": "2002 Jaguar XK8"
+            },
+            {
+              "id": "mod_2002_jaguar_xkr",
+              "title": "2002 Jaguar XKR"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xk",
+          "title": "Jaguar XK",
+          "children": [
+            {
+              "id": "mod_1996_jaguar_xk8",
+              "title": "1996 Jaguar XK8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_xj",
+      "title": "Jaguar XJ",
+      "generations": [
+        {
+          "id": "gen_jaguar_xj",
+          "title": "Jaguar XJ ---",
+          "children": [
+            {
+              "id": "mod_2015_jaguar_xj_2_0_sc_luxury",
+              "title": "2015 Jaguar XJ 2.0 SC Luxury"
+            },
+            {
+              "id": "mod_2015_jaguar_xj_2_0_sc_premium_luxury_lwb",
+              "title": "2015 Jaguar XJ 2.0 SC Premium Luxury LWB"
+            },
+            {
+              "id": "mod_2015_jaguar_xj_3_0_v6_sc_awd_autobiography_lwb",
+              "title": "2015 Jaguar XJ 3.0 V6 SC AWD Autobiography LWB"
+            },
+            {
+              "id": "mod_2015_jaguar_xj_3_0_v6_sc_awd_portfolio_lwb",
+              "title": "2015 Jaguar XJ 3.0 V6 SC AWD Portfolio LWB"
+            },
+            {
+              "id": "mod_2015_jaguar_xj_3_0_v6_sc_awd_premium_luxury",
+              "title": "2015 Jaguar XJ 3.0 V6 SC AWD Premium Luxury"
+            },
+            {
+              "id": "mod_2015_jaguar_xj_3_0_v6_sc_awd_premium_r_sport",
+              "title": "2015 Jaguar XJ 3.0 V6 SC AWD Premium R-Sport"
+            },
+            {
+              "id": "mod_2015_jaguar_xj_3_0d_v6_autobiography_lwb",
+              "title": "2015 Jaguar XJ 3.0D V6 Autobiography LWB"
+            },
+            {
+              "id": "mod_2015_jaguar_xj_3_0d_v6_luxury",
+              "title": "2015 Jaguar XJ 3.0D V6 Luxury"
+            },
+            {
+              "id": "mod_2015_jaguar_xj_3_0d_v6_portfolio_lwb",
+              "title": "2015 Jaguar XJ 3.0D V6 Portfolio LWB"
+            },
+            {
+              "id": "mod_2015_jaguar_xj_3_0d_v6_premium_luxury",
+              "title": "2015 Jaguar XJ 3.0D V6 Premium Luxury"
+            },
+            {
+              "id": "mod_2015_jaguar_xj_3_0d_v6_r_sport",
+              "title": "2015 Jaguar XJ 3.0D V6 R-Sport"
+            },
+            {
+              "id": "mod_2015_jaguar_xjr_5_0_v8_sc",
+              "title": "2015 Jaguar XJR 5.0 V8 SC"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xj",
+          "title": "Jaguar XJ",
+          "children": [
+            {
+              "id": "mod_2009_jaguar_xj_3_0d_v6_luxury",
+              "title": "2009 Jaguar XJ 3.0D V6 Luxury"
+            },
+            {
+              "id": "mod_2009_jaguar_xj_3_0d_v6_portfolio_lwb",
+              "title": "2009 Jaguar XJ 3.0D V6 Portfolio LWB"
+            },
+            {
+              "id": "mod_2009_jaguar_xj_3_0d_v6_portfolio",
+              "title": "2009 Jaguar XJ 3.0D V6 Portfolio"
+            },
+            {
+              "id": "mod_2009_jaguar_xj_3_0d_v6_premium_luxury_lwb",
+              "title": "2009 Jaguar XJ 3.0D V6 Premium Luxury LWB"
+            },
+            {
+              "id": "mod_2009_jaguar_xj_3_0d_v6_premium_luxury",
+              "title": "2009 Jaguar XJ 3.0D V6 Premium Luxury"
+            },
+            {
+              "id": "mod_2009_jaguar_xj_3_0d_v6_supersport_lwb",
+              "title": "2009 Jaguar XJ 3.0D V6 Supersport LWB"
+            },
+            {
+              "id": "mod_2009_jaguar_xj_3_0d_v6_supersport",
+              "title": "2009 Jaguar XJ 3.0D V6 Supersport"
+            },
+            {
+              "id": "mod_2009_jaguar_xj_5_0_v8_portfolio_lwb",
+              "title": "2009 Jaguar XJ 5.0 V8 Portfolio LWB"
+            },
+            {
+              "id": "mod_2009_jaguar_xj_5_0_v8_portfolio",
+              "title": "2009 Jaguar XJ 5.0 V8 Portfolio"
+            },
+            {
+              "id": "mod_2009_jaguar_xj_5_0_v8_premium_luxury_lwb",
+              "title": "2009 Jaguar XJ 5.0 V8 Premium Luxury LWB"
+            },
+            {
+              "id": "mod_2009_jaguar_xj_5_0_v8_premium_luxury",
+              "title": "2009 Jaguar XJ 5.0 V8 Premium Luxury"
+            },
+            {
+              "id": "mod_2009_jaguar_xj_5_0_v8_supercharged_supersport_lwb",
+              "title": "2009 Jaguar XJ 5.0 V8 Supercharged Supersport LWB"
+            },
+            {
+              "id": "mod_2009_jaguar_xj_5_0_v8_supercharged_supersport",
+              "title": "2009 Jaguar XJ 5.0 V8 Supercharged Supersport"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xj",
+          "title": "Jaguar XJ",
+          "children": [
+            {
+              "id": "mod_2007_jaguar_xj6_2_7d_lwb",
+              "title": "2007 Jaguar XJ6 2.7D LWB"
+            },
+            {
+              "id": "mod_2007_jaguar_xj6_2_7d_sovereign_lwb",
+              "title": "2007 Jaguar XJ6 2.7D Sovereign LWB"
+            },
+            {
+              "id": "mod_2007_jaguar_xj6_2_7d_sovereign",
+              "title": "2007 Jaguar XJ6 2.7D Sovereign"
+            },
+            {
+              "id": "mod_2007_jaguar_xj6_2_7d",
+              "title": "2007 Jaguar XJ6 2.7D"
+            },
+            {
+              "id": "mod_2007_jaguar_xj6_3_0",
+              "title": "2007 Jaguar XJ6 3.0"
+            },
+            {
+              "id": "mod_2007_jaguar_xj8_3_5_lwb",
+              "title": "2007 Jaguar XJ8 3.5 LWB"
+            },
+            {
+              "id": "mod_2007_jaguar_xj8_3_5",
+              "title": "2007 Jaguar XJ8 3.5"
+            },
+            {
+              "id": "mod_2007_jaguar_xj8_4_2_lwb",
+              "title": "2007 Jaguar XJ8 4.2 LWB"
+            },
+            {
+              "id": "mod_2007_jaguar_xj8_4_2_sovereign_lwb",
+              "title": "2007 Jaguar XJ8 4.2 Sovereign LWB"
+            },
+            {
+              "id": "mod_2007_jaguar_xj8_4_2_sovereign",
+              "title": "2007 Jaguar XJ8 4.2 Sovereign"
+            },
+            {
+              "id": "mod_2007_jaguar_xj8_4_2",
+              "title": "2007 Jaguar XJ8 4.2"
+            },
+            {
+              "id": "mod_2007_jaguar_xjr_4_2_s_c",
+              "title": "2007 Jaguar XJR 4.2 S/C"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xj",
+          "title": "Jaguar XJ",
+          "children": [
+            {
+              "id": "mod_2003_jaguar_super_v8_s_c",
+              "title": "2003 Jaguar Super V8 S/C"
+            },
+            {
+              "id": "mod_2003_jaguar_xj6_3_0_executive",
+              "title": "2003 Jaguar XJ6 3.0 Executive"
+            },
+            {
+              "id": "mod_2003_jaguar_xj6_3_0_sport",
+              "title": "2003 Jaguar XJ6 3.0 Sport"
+            },
+            {
+              "id": "mod_2003_jaguar_xj6_3_0",
+              "title": "2003 Jaguar XJ6 3.0"
+            },
+            {
+              "id": "mod_2003_jaguar_xj8_3_5_executive",
+              "title": "2003 Jaguar XJ8 3.5 Executive"
+            },
+            {
+              "id": "mod_2003_jaguar_xj8_3_5_sport",
+              "title": "2003 Jaguar XJ8 3.5 Sport"
+            },
+            {
+              "id": "mod_2003_jaguar_xj8_3_5",
+              "title": "2003 Jaguar XJ8 3.5"
+            },
+            {
+              "id": "mod_2003_jaguar_xj8_4_2_executive",
+              "title": "2003 Jaguar XJ8 4.2 Executive"
+            },
+            {
+              "id": "mod_2003_jaguar_xjr_4_2_s_c",
+              "title": "2003 Jaguar XJR 4.2 S/C"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xj",
+          "title": "Jaguar XJ",
+          "children": [
+            {
+              "id": "mod_1997_jaguar_sovereign_3_2_lwb",
+              "title": "1997 Jaguar Sovereign 3.2 LWB"
+            },
+            {
+              "id": "mod_1997_jaguar_sovereign_3_2",
+              "title": "1997 Jaguar Sovereign 3.2"
+            },
+            {
+              "id": "mod_1997_jaguar_sovereign_4_0_lwb",
+              "title": "1997 Jaguar Sovereign 4.0 LWB"
+            },
+            {
+              "id": "mod_1997_jaguar_sovereign_4_0",
+              "title": "1997 Jaguar Sovereign 4.0"
+            },
+            {
+              "id": "mod_1997_jaguar_xj_3_2_executive",
+              "title": "1997 Jaguar XJ 3.2 Executive"
+            },
+            {
+              "id": "mod_1997_jaguar_xjr_4_0_supercharged",
+              "title": "1997 Jaguar XJR 4.0 Supercharged"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xj",
+          "title": "Jaguar XJ",
+          "children": [
+            {
+              "id": "mod_1994_jaguar_sovereign_3_2",
+              "title": "1994 Jaguar Sovereign 3.2"
+            },
+            {
+              "id": "mod_1994_jaguar_sovereign_4_0",
+              "title": "1994 Jaguar Sovereign 4.0"
+            },
+            {
+              "id": "mod_1994_jaguar_xj12",
+              "title": "1994 Jaguar XJ12"
+            },
+            {
+              "id": "mod_1994_jaguar_xj6_3_2_sport",
+              "title": "1994 Jaguar XJ6 3.2 Sport"
+            },
+            {
+              "id": "mod_1994_jaguar_xj6_3_2",
+              "title": "1994 Jaguar XJ6 3.2"
+            },
+            {
+              "id": "mod_1994_jaguar_xj6_4_0_sport",
+              "title": "1994 Jaguar XJ6 4.0 Sport"
+            },
+            {
+              "id": "mod_1994_jaguar_xjr_4_0_supercharged",
+              "title": "1994 Jaguar XJR 4.0 Supercharged"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xj",
+          "title": "Jaguar XJ",
+          "children": [
+            {
+              "id": "mod_1986_jaguar_sovereign_2_9",
+              "title": "1986 Jaguar Sovereign 2.9"
+            },
+            {
+              "id": "mod_1986_jaguar_sovereign_3_6",
+              "title": "1986 Jaguar Sovereign 3.6"
+            },
+            {
+              "id": "mod_1986_jaguar_xj6_2_9",
+              "title": "1986 Jaguar XJ6 2.9"
+            },
+            {
+              "id": "mod_1986_jaguar_xj6_3_6",
+              "title": "1986 Jaguar XJ6 3.6"
+            }
+          ]
+        },
+        {
+          "id": "gen_jaguar_xj",
+          "title": "Jaguar XJ",
+          "children": [
+            {
+              "id": "mod_1982_jaguar_xj_3_4",
+              "title": "1982 Jaguar XJ 3.4"
+            },
+            {
+              "id": "mod_1982_jaguar_xj_4_2_sovereign",
+              "title": "1982 Jaguar XJ 4.2 Sovereign"
+            },
+            {
+              "id": "mod_1982_jaguar_xj_4_2",
+              "title": "1982 Jaguar XJ 4.2"
+            },
+            {
+              "id": "mod_1982_jaguar_xj_5_3_sovereign",
+              "title": "1982 Jaguar XJ 5.3 Sovereign"
+            },
+            {
+              "id": "mod_1982_jaguar_xj_5_3_vanden_plas",
+              "title": "1982 Jaguar XJ 5.3 Vanden Plas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_xjs_convertible",
+      "title": "Jaguar XJS Convertible",
+      "generations": [
+        {
+          "id": "gen_jaguar_xjs_convertible",
+          "title": "Jaguar XJS Convertible",
+          "children": [
+            {
+              "id": "mod_1992_jaguar_xjs_4_0_convertible",
+              "title": "1992 Jaguar XJS 4.0 Convertible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_v12",
+      "title": "Jaguar V12",
+      "generations": [
+        {
+          "id": "gen_jaguar_v12",
+          "title": "Jaguar V12",
+          "children": [
+            {
+              "id": "mod_1986_jaguar_v12",
+              "title": "1986 Jaguar V12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_xjs_cabrio",
+      "title": "Jaguar XJS Cabrio",
+      "generations": [
+        {
+          "id": "gen_jaguar_xjs_cabrio",
+          "title": "Jaguar XJS Cabrio",
+          "children": [
+            {
+              "id": "mod_1985_jaguar_xjs_3_6_cabrio",
+              "title": "1985 Jaguar XJS 3.6 Cabrio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_jaguar_xjs",
+      "title": "Jaguar XJS",
+      "generations": [
+        {
+          "id": "gen_jaguar_xjs",
+          "title": "Jaguar XJS",
+          "children": [
+            {
+              "id": "mod_1982_jaguar_xjs_v12",
+              "title": "1982 Jaguar XJS V12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

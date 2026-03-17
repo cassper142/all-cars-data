@@ -1,0 +1,26 @@
+{
+  "id": "brand_spectre",
+  "title": "Spectre",
+  "models": [
+    {
+      "id": "model_spectre_r42",
+      "title": "Spectre R42",
+      "generations": [
+        {
+          "id": "gen_spectre_r42",
+          "title": "Spectre R42",
+          "children": [
+            {
+              "id": "mod_1997_spectre_r42",
+              "title": "1997 Spectre R42"
+            },
+            {
+              "id": "mod_1997_spectre_r42_s",
+              "title": "1997 Spectre R42-S"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

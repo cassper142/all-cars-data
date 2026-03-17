@@ -1,0 +1,78 @@
+{
+  "id": "brand_cupra",
+  "title": "Cupra",
+  "models": [
+    {
+      "id": "model_cupra_formentor",
+      "title": "Cupra Formentor",
+      "generations": [
+        {
+          "id": "gen_cupra_formentor",
+          "title": "Cupra Formentor",
+          "children": [
+            {
+              "id": "mod_2020_cupra_formentor_310_2_0_tsi_4drive",
+              "title": "2020 Cupra Formentor 310 2.0 TSI 4Drive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cupra_leon_sportstourer",
+      "title": "Cupra Leon Sportstourer",
+      "generations": [
+        {
+          "id": "gen_cupra_leon_sportstourer",
+          "title": "Cupra Leon Sportstourer",
+          "children": [
+            {
+              "id": "mod_2020_cupra_leon_sportstourer_1_4_e_hybrid_adrenaline",
+              "title": "2020 Cupra Leon Sportstourer 1.4 E-Hybrid Adrenaline"
+            },
+            {
+              "id": "mod_2020_cupra_leon_sportstourer_1_4_e_hybrid_business",
+              "title": "2020 Cupra Leon Sportstourer 1.4 E-Hybrid Business"
+            },
+            {
+              "id": "mod_2020_cupra_leon_sportstourer_1_4_e_hybrid_copper_edition",
+              "title": "2020 Cupra Leon Sportstourer 1.4 E-Hybrid Copper Edition"
+            },
+            {
+              "id": "mod_2020_cupra_leon_sportstourer_1_4_e_hybrid_performance",
+              "title": "2020 Cupra Leon Sportstourer 1.4 E-Hybrid Performance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cupra_leon",
+      "title": "Cupra Leon",
+      "generations": [
+        {
+          "id": "gen_cupra_leon",
+          "title": "Cupra Leon",
+          "children": [
+            {
+              "id": "mod_2020_cupra_leon_1_4_e_hybrid_adrenaline",
+              "title": "2020 Cupra Leon 1.4 E-Hybrid Adrenaline"
+            },
+            {
+              "id": "mod_2020_cupra_leon_1_4_e_hybrid_business",
+              "title": "2020 Cupra Leon 1.4 E-Hybrid Business"
+            },
+            {
+              "id": "mod_2020_cupra_leon_1_4_e_hybrid_copper_edition",
+              "title": "2020 Cupra Leon 1.4 E-Hybrid Copper Edition"
+            },
+            {
+              "id": "mod_2020_cupra_leon_1_4_e_hybrid_performance",
+              "title": "2020 Cupra Leon 1.4 E-Hybrid Performance"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

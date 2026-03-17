@@ -1,0 +1,101 @@
+{
+  "id": "brand_yugo",
+  "title": "Yugo",
+  "models": [
+    {
+      "id": "model_yugo_sana",
+      "title": "Yugo Sana",
+      "generations": [
+        {
+          "id": "gen_yugo_sana",
+          "title": "Yugo Sana",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "model_yugo_a_serie",
+      "title": "Yugo A-serie",
+      "generations": [
+        {
+          "id": "gen_yugo_a_serie",
+          "title": "Yugo A-serie",
+          "children": [
+            {
+              "id": "mod_1987_yugo_45a",
+              "title": "1987 Yugo 45A"
+            },
+            {
+              "id": "mod_1987_yugo_55a",
+              "title": "1987 Yugo 55A"
+            },
+            {
+              "id": "mod_1987_yugo_65a",
+              "title": "1987 Yugo 65A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_yugo_45_55",
+      "title": "Yugo 45/55",
+      "generations": [
+        {
+          "id": "gen_yugo_45_55",
+          "title": "Yugo 45/55",
+          "children": [
+            {
+              "id": "mod_1983_yugo_45_e",
+              "title": "1983 Yugo 45 E"
+            },
+            {
+              "id": "mod_1983_yugo_45_s",
+              "title": "1983 Yugo 45 S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_yugo_gtl",
+      "title": "Yugo GTL",
+      "generations": [
+        {
+          "id": "gen_yugo_gtl",
+          "title": "Yugo GTL",
+          "children": [
+            {
+              "id": "mod_1983_yugo_gtl_55",
+              "title": "1983 Yugo GTL 55"
+            },
+            {
+              "id": "mod_1983_yugo_gtl_65",
+              "title": "1983 Yugo GTL 65"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_yugo_1100_1300",
+      "title": "Yugo 1100/1300",
+      "generations": [
+        {
+          "id": "gen_yugo_1100_1300",
+          "title": "Yugo 1100/1300",
+          "children": [
+            {
+              "id": "mod_1973_yugo_1100_super",
+              "title": "1973 Yugo 1100 Super"
+            },
+            {
+              "id": "mod_1973_yugo_1100",
+              "title": "1973 Yugo 1100"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

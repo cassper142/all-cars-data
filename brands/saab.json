@@ -1,0 +1,2540 @@
+{
+  "id": "brand_saab",
+  "title": "Saab",
+  "models": [
+    {
+      "id": "model_saab_9_4x",
+      "title": "Saab 9-4X",
+      "generations": [
+        {
+          "id": "gen_saab_9_4x",
+          "title": "Saab 9-4X",
+          "children": [
+            {
+              "id": "mod_2011_saab_9_4x_2_8t_v6_xwd_aero",
+              "title": "2011 Saab 9-4X 2.8T V6 XWD Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_4x_3_0i_v6_xwd_vector",
+              "title": "2011 Saab 9-4X 3.0i V6 XWD Vector"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9_3x",
+      "title": "Saab 9-3X",
+      "generations": [
+        {
+          "id": "gen_saab_9_3x",
+          "title": "Saab 9-3X",
+          "children": [
+            {
+              "id": "mod_2011_saab_9_3x_1_9_ttid_180hp_griffin_aero_exklusiv",
+              "title": "2011 Saab 9-3X 1.9 TTiD 180hp Griffin Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3x_1_9_ttid_180hp_griffin_aero",
+              "title": "2011 Saab 9-3X 1.9 TTiD 180hp Griffin Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_3x_2_0_turbo_biopower_griffin_aero_xwd_exklusiv",
+              "title": "2011 Saab 9-3X 2.0 Turbo Biopower Griffin Aero XWD Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3x_2_0_turbo_biopower_griffin_aero_xwd",
+              "title": "2011 Saab 9-3X 2.0 Turbo Biopower Griffin Aero XWD"
+            },
+            {
+              "id": "mod_2011_saab_9_3x_2_0_turbo_griffin_aero_xwd_exklusiv",
+              "title": "2011 Saab 9-3X 2.0 Turbo Griffin Aero XWD Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3x_2_0_turbo_griffin_aero_xwd",
+              "title": "2011 Saab 9-3X 2.0 Turbo Griffin Aero XWD"
+            },
+            {
+              "id": "mod_2011_saab_9_3x_2_0t_griffin_aero_xwd_exklusiv",
+              "title": "2011 Saab 9-3X 2.0t Griffin Aero XWD Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3x_2_0t_griffin_aero_xwd",
+              "title": "2011 Saab 9-3X 2.0t Griffin Aero XWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_3x",
+          "title": "Saab 9-3X",
+          "children": [
+            {
+              "id": "mod_2010_saab_9_3x_1_9_ttid_180hp_aero_exklusiv",
+              "title": "2010 Saab 9-3X 1.9 TTiD 180hp Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3x_1_9_ttid_180hp_aero",
+              "title": "2010 Saab 9-3X 1.9 TTiD 180hp Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_3x_2_0_turbo_aero_xwd_exklusiv",
+              "title": "2010 Saab 9-3X 2.0 Turbo Aero XWD Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3x_2_0_turbo_aero_xwd",
+              "title": "2010 Saab 9-3X 2.0 Turbo Aero XWD"
+            },
+            {
+              "id": "mod_2010_saab_9_3x_2_0_turbo_biopower_aero_xwd",
+              "title": "2010 Saab 9-3X 2.0 Turbo Biopower Aero XWD"
+            },
+            {
+              "id": "mod_2010_saab_9_3x_2_0t_aero_xwd_exklusiv",
+              "title": "2010 Saab 9-3X 2.0t Aero XWD Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3x_2_0t_aero_xwd",
+              "title": "2010 Saab 9-3X 2.0t Aero XWD"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_3x",
+          "title": "Saab 9-3X",
+          "children": [
+            {
+              "id": "mod_2009_saab_9_3x_1_9_ttid_180hp",
+              "title": "2009 Saab 9-3X 1.9 TTiD 180hp"
+            },
+            {
+              "id": "mod_2009_saab_9_3x_2_0_turbo_biopower_xwd",
+              "title": "2009 Saab 9-3X 2.0 Turbo Biopower XWD"
+            },
+            {
+              "id": "mod_2009_saab_9_3x_2_0_turbo_xwd",
+              "title": "2009 Saab 9-3X 2.0 Turbo XWD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9_3_sport_estate",
+      "title": "Saab 9-3 Sport Estate",
+      "generations": [
+        {
+          "id": "gen_saab_9_3_sport_estate",
+          "title": "Saab 9-3 Sport Estate",
+          "children": [
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_1_9_ttid_130hp_griffin_lease_edition",
+              "title": "2011 Saab 9-3 Sport Estate 1.9 TTiD 130hp Griffin Lease Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_1_9_ttid_130hp_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Sport Estate 1.9 TTiD 130hp Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_1_9_ttid_130hp_griffin_norden",
+              "title": "2011 Saab 9-3 Sport Estate 1.9 TTiD 130hp Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_1_9_ttid_160hp_griffin_lease_edition",
+              "title": "2011 Saab 9-3 Sport Estate 1.9 TTiD 160hp Griffin Lease Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_1_9_ttid_160hp_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Sport Estate 1.9 TTiD 160hp Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_1_9_ttid_160hp_griffin_norden",
+              "title": "2011 Saab 9-3 Sport Estate 1.9 TTiD 160hp Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_1_9_ttid_180hp_griffin_aero_exklusiv",
+              "title": "2011 Saab 9-3 Sport Estate 1.9 TTiD 180hp Griffin Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_1_9_ttid_180hp_griffin_aero",
+              "title": "2011 Saab 9-3 Sport Estate 1.9 TTiD 180hp Griffin Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_1_9_ttid_180hp_griffin_lease_edition",
+              "title": "2011 Saab 9-3 Sport Estate 1.9 TTiD 180hp Griffin Lease Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_1_9_ttid_180hp_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Sport Estate 1.9 TTiD 180hp Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_1_9_ttid_180hp_griffin_norden",
+              "title": "2011 Saab 9-3 Sport Estate 1.9 TTiD 180hp Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0_turbo_griffin_aero_exklusiv",
+              "title": "2011 Saab 9-3 Sport Estate 2.0 Turbo Griffin Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0_turbo_griffin_aero_xwd_exklusiv",
+              "title": "2011 Saab 9-3 Sport Estate 2.0 Turbo Griffin Aero XWD Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0_turbo_griffin_aero_xwd",
+              "title": "2011 Saab 9-3 Sport Estate 2.0 Turbo Griffin Aero XWD"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0_turbo_griffin_aero",
+              "title": "2011 Saab 9-3 Sport Estate 2.0 Turbo Griffin Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0_turbo_griffin_lease_edition",
+              "title": "2011 Saab 9-3 Sport Estate 2.0 Turbo Griffin Lease Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0_turbo_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Sport Estate 2.0 Turbo Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0_turbo_griffin_norden",
+              "title": "2011 Saab 9-3 Sport Estate 2.0 Turbo Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0t_biopower_griffin_lease_edition",
+              "title": "2011 Saab 9-3 Sport Estate 2.0t BioPower Griffin Lease Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0t_biopower_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Sport Estate 2.0t BioPower Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0t_biopower_griffin_norden",
+              "title": "2011 Saab 9-3 Sport Estate 2.0t BioPower Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0t_griffin_lease_edition",
+              "title": "2011 Saab 9-3 Sport Estate 2.0t Griffin Lease Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0t_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Sport Estate 2.0t Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0t_griffin_norden",
+              "title": "2011 Saab 9-3 Sport Estate 2.0t Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_estate_2_0t_griffin",
+              "title": "2011 Saab 9-3 Sport Estate 2.0t Griffin"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_3_sport_estate",
+          "title": "Saab 9-3 Sport Estate",
+          "children": [
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_8t_solid",
+              "title": "2010 Saab 9-3 Sport Estate 1.8t Solid"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_130hp_linear",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 130hp Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_130hp_norden_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 130hp Norden Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_130hp_norden",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 130hp Norden"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_130hp_vector_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 130hp Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_130hp_vector",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 130hp Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_160hp_norden_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 160hp Norden Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_160hp_norden",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 160hp Norden"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_160hp_vector_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 160hp Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_160hp_vector",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 160hp Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_180hp_aero_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 180hp Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_180hp_aero",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 180hp Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_180hp_vector_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 180hp Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_1_9_ttid_180hp_vector",
+              "title": "2010 Saab 9-3 Sport Estate 1.9 TTiD 180hp Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0_turbo_aero_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 2.0 Turbo Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0_turbo_aero_xwd_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 2.0 Turbo Aero XWD Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0_turbo_aero_xwd",
+              "title": "2010 Saab 9-3 Sport Estate 2.0 Turbo Aero XWD"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0_turbo_aero",
+              "title": "2010 Saab 9-3 Sport Estate 2.0 Turbo Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_biopower_aero_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t BioPower Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_biopower_aero_xwd_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t BioPower Aero XWD Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_biopower_aero_xwd",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t BioPower Aero XWD"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_biopower_aero",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t BioPower Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_biopower_linear",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t BioPower Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_biopower_norden_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t BioPower Norden Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_biopower_norden",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t BioPower Norden"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_biopower_vector_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t BioPower Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_biopower_vector",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t BioPower Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_linear",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_norden_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t Norden Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_norden",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t Norden"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_vector_exklusiv",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_estate_2_0t_vector",
+              "title": "2010 Saab 9-3 Sport Estate 2.0t Vector"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_3_sport_estate",
+          "title": "Saab 9-3 Sport Estate",
+          "children": [
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_8i_intro_edition",
+              "title": "2007 Saab 9-3 Sport Estate 1.8i Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_8i_linear",
+              "title": "2007 Saab 9-3 Sport Estate 1.8i Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_8t_biopower_intro_edition",
+              "title": "2007 Saab 9-3 Sport Estate 1.8t BioPower Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_8t_biopower_linear",
+              "title": "2007 Saab 9-3 Sport Estate 1.8t BioPower Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_8t_biopower_vector",
+              "title": "2007 Saab 9-3 Sport Estate 1.8t BioPower Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_8t_intro_edition",
+              "title": "2007 Saab 9-3 Sport Estate 1.8t Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_8t_linear",
+              "title": "2007 Saab 9-3 Sport Estate 1.8t Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_8t_vector",
+              "title": "2007 Saab 9-3 Sport Estate 1.8t Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_9_ttid_180hp_aero",
+              "title": "2007 Saab 9-3 Sport Estate 1.9 TTiD 180hp Aero"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_9_ttid_180hp_vector",
+              "title": "2007 Saab 9-3 Sport Estate 1.9 TTiD 180hp Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_9_tid_120hp_intro_edition",
+              "title": "2007 Saab 9-3 Sport Estate 1.9 TiD 120hp Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_9_tid_120hp_linear",
+              "title": "2007 Saab 9-3 Sport Estate 1.9 TiD 120hp Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_9_tid_120hp_vector",
+              "title": "2007 Saab 9-3 Sport Estate 1.9 TiD 120hp Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_9_tid_150hp_intro_edition",
+              "title": "2007 Saab 9-3 Sport Estate 1.9 TiD 150hp Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_9_tid_150hp_linear",
+              "title": "2007 Saab 9-3 Sport Estate 1.9 TiD 150hp Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_1_9_tid_150hp_vector",
+              "title": "2007 Saab 9-3 Sport Estate 1.9 TiD 150hp Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_2_0_turbo_aero",
+              "title": "2007 Saab 9-3 Sport Estate 2.0 Turbo Aero"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_2_0_turbo_vector",
+              "title": "2007 Saab 9-3 Sport Estate 2.0 Turbo Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_2_0t_biopower_intro_edition",
+              "title": "2007 Saab 9-3 Sport Estate 2.0t BioPower Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_2_0t_biopower_linear",
+              "title": "2007 Saab 9-3 Sport Estate 2.0t BioPower Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_2_0t_biopower_vector",
+              "title": "2007 Saab 9-3 Sport Estate 2.0t BioPower Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_2_0t_intro_edition",
+              "title": "2007 Saab 9-3 Sport Estate 2.0t Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_2_0t_linear",
+              "title": "2007 Saab 9-3 Sport Estate 2.0t Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_2_0t_vector",
+              "title": "2007 Saab 9-3 Sport Estate 2.0t Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_estate_2_8_turbo_v6_aero",
+              "title": "2007 Saab 9-3 Sport Estate 2.8 Turbo V6 Aero"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_3_sport_estate",
+          "title": "Saab 9-3 Sport Estate",
+          "children": [
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_8i_arc",
+              "title": "2005 Saab 9-3 Sport Estate 1.8i Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_8i_linear_business",
+              "title": "2005 Saab 9-3 Sport Estate 1.8i Linear Business"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_8i_linear_sport",
+              "title": "2005 Saab 9-3 Sport Estate 1.8i Linear Sport"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_8i_linear",
+              "title": "2005 Saab 9-3 Sport Estate 1.8i Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_8i_vector",
+              "title": "2005 Saab 9-3 Sport Estate 1.8i Vector"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_8t_arc",
+              "title": "2005 Saab 9-3 Sport Estate 1.8t Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_8t_linear_business",
+              "title": "2005 Saab 9-3 Sport Estate 1.8t Linear Business"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_8t_linear_sport",
+              "title": "2005 Saab 9-3 Sport Estate 1.8t Linear Sport"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_8t_linear",
+              "title": "2005 Saab 9-3 Sport Estate 1.8t Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_8t_vector",
+              "title": "2005 Saab 9-3 Sport Estate 1.8t Vector"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_9_tid_120hp_arc",
+              "title": "2005 Saab 9-3 Sport Estate 1.9 TiD 120hp Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_9_tid_120hp_linear_business",
+              "title": "2005 Saab 9-3 Sport Estate 1.9 TiD 120hp Linear Business"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_9_tid_120hp_linear_sport",
+              "title": "2005 Saab 9-3 Sport Estate 1.9 TiD 120hp Linear Sport"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_9_tid_120hp_linear",
+              "title": "2005 Saab 9-3 Sport Estate 1.9 TiD 120hp Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_9_tid_120hp_vector",
+              "title": "2005 Saab 9-3 Sport Estate 1.9 TiD 120hp Vector"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_9_tid_150hp_arc",
+              "title": "2005 Saab 9-3 Sport Estate 1.9 TiD 150hp Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_9_tid_150hp_linear_business",
+              "title": "2005 Saab 9-3 Sport Estate 1.9 TiD 150hp Linear Business"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_9_tid_150hp_linear_sport",
+              "title": "2005 Saab 9-3 Sport Estate 1.9 TiD 150hp Linear Sport"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_9_tid_150hp_linear",
+              "title": "2005 Saab 9-3 Sport Estate 1.9 TiD 150hp Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_1_9_tid_150hp_vector",
+              "title": "2005 Saab 9-3 Sport Estate 1.9 TiD 150hp Vector"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_2_0_turbo_vector",
+              "title": "2005 Saab 9-3 Sport Estate 2.0 Turbo Vector"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_2_0t_arc",
+              "title": "2005 Saab 9-3 Sport Estate 2.0t Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_2_0t_linear_business",
+              "title": "2005 Saab 9-3 Sport Estate 2.0t Linear Business"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_2_0t_linear_sport",
+              "title": "2005 Saab 9-3 Sport Estate 2.0t Linear Sport"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_2_0t_linear",
+              "title": "2005 Saab 9-3 Sport Estate 2.0t Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_2_0t_vector",
+              "title": "2005 Saab 9-3 Sport Estate 2.0t Vector"
+            },
+            {
+              "id": "mod_2005_saab_9_3_sport_estate_2_8_turbo_v6_aero",
+              "title": "2005 Saab 9-3 Sport Estate 2.8 Turbo V6 Aero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9_5_sport_estate",
+      "title": "Saab 9-5 Sport Estate",
+      "generations": [
+        {
+          "id": "gen_saab_9_5_sport_estate",
+          "title": "Saab 9-5 Sport Estate",
+          "children": [
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_1_9_tid_arc",
+              "title": "2005 Saab 9-5 Sport Estate 1.9 TiD Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_1_9_tid_business",
+              "title": "2005 Saab 9-5 Sport Estate 1.9 TiD Business"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_1_9_tid_linear",
+              "title": "2005 Saab 9-5 Sport Estate 1.9 TiD Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_1_9_tid_vector",
+              "title": "2005 Saab 9-5 Sport Estate 1.9 TiD Vector"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_0t_arc",
+              "title": "2005 Saab 9-5 Sport Estate 2.0t Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_0t_business",
+              "title": "2005 Saab 9-5 Sport Estate 2.0t Business"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_0t_linear",
+              "title": "2005 Saab 9-5 Sport Estate 2.0t Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_0t_vector",
+              "title": "2005 Saab 9-5 Sport Estate 2.0t Vector"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_3_turbo_aero",
+              "title": "2005 Saab 9-5 Sport Estate 2.3 Turbo Aero"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_3_turbo_arc",
+              "title": "2005 Saab 9-5 Sport Estate 2.3 Turbo Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_3_turbo_business",
+              "title": "2005 Saab 9-5 Sport Estate 2.3 Turbo Business"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_3_turbo_linear",
+              "title": "2005 Saab 9-5 Sport Estate 2.3 Turbo Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_3_turbo_vector",
+              "title": "2005 Saab 9-5 Sport Estate 2.3 Turbo Vector"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_3t_arc",
+              "title": "2005 Saab 9-5 Sport Estate 2.3t Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_3t_business",
+              "title": "2005 Saab 9-5 Sport Estate 2.3t Business"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_3t_linear",
+              "title": "2005 Saab 9-5 Sport Estate 2.3t Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_estate_2_3t_vector",
+              "title": "2005 Saab 9-5 Sport Estate 2.3t Vector"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9_5_sport_sedan",
+      "title": "Saab 9-5 Sport Sedan",
+      "generations": [
+        {
+          "id": "gen_saab_9_5_sport_sedan",
+          "title": "Saab 9-5 Sport Sedan",
+          "children": [
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_1_9_tid_arc",
+              "title": "2005 Saab 9-5 Sport Sedan 1.9 TiD Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_1_9_tid_business",
+              "title": "2005 Saab 9-5 Sport Sedan 1.9 TiD Business"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_1_9_tid_linear",
+              "title": "2005 Saab 9-5 Sport Sedan 1.9 TiD Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_1_9_tid_vector",
+              "title": "2005 Saab 9-5 Sport Sedan 1.9 TiD Vector"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_0t_arc",
+              "title": "2005 Saab 9-5 Sport Sedan 2.0t Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_0t_business",
+              "title": "2005 Saab 9-5 Sport Sedan 2.0t Business"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_0t_linear",
+              "title": "2005 Saab 9-5 Sport Sedan 2.0t Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_0t_vector",
+              "title": "2005 Saab 9-5 Sport Sedan 2.0t Vector"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_3_turbo_aero",
+              "title": "2005 Saab 9-5 Sport Sedan 2.3 Turbo Aero"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_3_turbo_arc",
+              "title": "2005 Saab 9-5 Sport Sedan 2.3 Turbo Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_3_turbo_business",
+              "title": "2005 Saab 9-5 Sport Sedan 2.3 Turbo Business"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_3_turbo_linear",
+              "title": "2005 Saab 9-5 Sport Sedan 2.3 Turbo Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_3_turbo_vector",
+              "title": "2005 Saab 9-5 Sport Sedan 2.3 Turbo Vector"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_3t_arc",
+              "title": "2005 Saab 9-5 Sport Sedan 2.3t Arc"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_3t_business",
+              "title": "2005 Saab 9-5 Sport Sedan 2.3t Business"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_3t_linear",
+              "title": "2005 Saab 9-5 Sport Sedan 2.3t Linear"
+            },
+            {
+              "id": "mod_2005_saab_9_5_sport_sedan_2_3t_vector",
+              "title": "2005 Saab 9-5 Sport Sedan 2.3t Vector"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9_7x",
+      "title": "Saab 9-7X",
+      "generations": [
+        {
+          "id": "gen_saab_9_7x",
+          "title": "Saab 9-7X",
+          "children": [
+            {
+              "id": "mod_2005_saab_9_7x_4_2",
+              "title": "2005 Saab 9-7X 4.2"
+            },
+            {
+              "id": "mod_2005_saab_9_7x_5_3_v8",
+              "title": "2005 Saab 9-7X 5.3 V8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9_3_sport_sedan",
+      "title": "Saab 9-3 Sport Sedan",
+      "generations": [
+        {
+          "id": "gen_saab_9_3_sport_sedan",
+          "title": "Saab 9-3 Sport Sedan",
+          "children": [
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_1_9_ttid_130hp_griffin_lease_edition",
+              "title": "2011 Saab 9-3 Sport Sedan 1.9 TTiD 130hp Griffin Lease Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_1_9_ttid_130hp_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Sport Sedan 1.9 TTiD 130hp Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_1_9_ttid_130hp_griffin_norden",
+              "title": "2011 Saab 9-3 Sport Sedan 1.9 TTiD 130hp Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_1_9_ttid_160hp_griffin_lease_edition",
+              "title": "2011 Saab 9-3 Sport Sedan 1.9 TTiD 160hp Griffin Lease Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_1_9_ttid_160hp_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Sport Sedan 1.9 TTiD 160hp Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_1_9_ttid_160hp_griffin_norden",
+              "title": "2011 Saab 9-3 Sport Sedan 1.9 TTiD 160hp Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_1_9_ttid_180hp_griffin_aero_exklusiv",
+              "title": "2011 Saab 9-3 Sport Sedan 1.9 TTiD 180hp Griffin Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_1_9_ttid_180hp_griffin_aero",
+              "title": "2011 Saab 9-3 Sport Sedan 1.9 TTiD 180hp Griffin Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_1_9_ttid_180hp_griffin_lease_edition",
+              "title": "2011 Saab 9-3 Sport Sedan 1.9 TTiD 180hp Griffin Lease Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_1_9_ttid_180hp_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Sport Sedan 1.9 TTiD 180hp Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_1_9_ttid_180hp_griffin_norden",
+              "title": "2011 Saab 9-3 Sport Sedan 1.9 TTiD 180hp Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0_turbo_griffin_aero_exklusiv",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0 Turbo Griffin Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0_turbo_griffin_aero_xwd",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0 Turbo Griffin Aero XWD"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0_turbo_griffin_aero",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0 Turbo Griffin Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0_turbo_griffin_lease_edition",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0 Turbo Griffin Lease Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0_turbo_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0 Turbo Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0_turbo_griffin_norden",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0 Turbo Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0t_biopower_griffin_lease_edition",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0t BioPower Griffin Lease Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0t_biopower_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0t BioPower Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0t_biopower_griffin_norden",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0t BioPower Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0t_griffin_lease_edition",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0t Griffin Lease Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0t_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0t Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0t_griffin_norden",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0t Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_sport_sedan_2_0t_griffin",
+              "title": "2011 Saab 9-3 Sport Sedan 2.0t Griffin"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_3_sport_sedan",
+          "title": "Saab 9-3 Sport Sedan",
+          "children": [
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_8t_solid",
+              "title": "2010 Saab 9-3 Sport Sedan 1.8t Solid"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_130hp_linear",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 130hp Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_130hp_norden_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 130hp Norden Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_130hp_norden",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 130hp Norden"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_130hp_vector_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 130hp Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_130hp_vector",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 130hp Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_160hp_norden_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 160hp Norden Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_160hp_norden",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 160hp Norden"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_160hp_vector_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 160hp Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_160hp_vector",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 160hp Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_180hp_aero_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 180hp Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_180hp_aero",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 180hp Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_180hp_vector_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 180hp Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_1_9_ttid_180hp_vector",
+              "title": "2010 Saab 9-3 Sport Sedan 1.9 TTiD 180hp Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0_turbo_aero_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0 Turbo Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0_turbo_aero_xwd_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0 Turbo Aero XWD Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0_turbo_aero_xwd",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0 Turbo Aero XWD"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0_turbo_aero",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0 Turbo Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0_turbo_biopower_aero_xwd_ex",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0 Turbo BioPower Aero XWD Ex."
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0_turbo_biopower_aero_xwd",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0 Turbo BioPower Aero XWD"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0t_biopower_aero_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0t BioPower Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0t_biopower_aero",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0t BioPower Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0t_biopower_linear",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0t BioPower Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0t_biopower_norden_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0t BioPower Norden Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0t_biopower_norden",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0t BioPower Norden"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0t_biopower_vector_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0t BioPower Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0t_biopower_vector",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0t BioPower Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0t_linear",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0t Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0t_norden_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0t Norden Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0t_norden",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0t Norden"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0t_vector_exklusiv",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0t Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_sport_sedan_2_0t_vector",
+              "title": "2010 Saab 9-3 Sport Sedan 2.0t Vector"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_3_sport_sedan",
+          "title": "Saab 9-3 Sport Sedan",
+          "children": [
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_8i_intro_edition",
+              "title": "2007 Saab 9-3 Sport Sedan 1.8i Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_8i_linear",
+              "title": "2007 Saab 9-3 Sport Sedan 1.8i Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_8t_biopower_intro_edition",
+              "title": "2007 Saab 9-3 Sport Sedan 1.8t BioPower Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_8t_biopower_linear",
+              "title": "2007 Saab 9-3 Sport Sedan 1.8t BioPower Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_8t_biopower_vector",
+              "title": "2007 Saab 9-3 Sport Sedan 1.8t BioPower Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_8t_intro_edition",
+              "title": "2007 Saab 9-3 Sport Sedan 1.8t Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_8t_linear",
+              "title": "2007 Saab 9-3 Sport Sedan 1.8t Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_8t_vector",
+              "title": "2007 Saab 9-3 Sport Sedan 1.8t Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_9_ttid_180hp_aero",
+              "title": "2007 Saab 9-3 Sport Sedan 1.9 TTiD 180hp Aero"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_9_ttid_180hp_vector",
+              "title": "2007 Saab 9-3 Sport Sedan 1.9 TTiD 180hp Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_9_tid_120hp_intro_edition",
+              "title": "2007 Saab 9-3 Sport Sedan 1.9 TiD 120hp Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_9_tid_120hp_linear",
+              "title": "2007 Saab 9-3 Sport Sedan 1.9 TiD 120hp Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_9_tid_120hp_vector",
+              "title": "2007 Saab 9-3 Sport Sedan 1.9 TiD 120hp Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_9_tid_150hp_intro_edition",
+              "title": "2007 Saab 9-3 Sport Sedan 1.9 TiD 150hp Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_9_tid_150hp_linear",
+              "title": "2007 Saab 9-3 Sport Sedan 1.9 TiD 150hp Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_1_9_tid_150hp_vector",
+              "title": "2007 Saab 9-3 Sport Sedan 1.9 TiD 150hp Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_2_0_turbo_aero",
+              "title": "2007 Saab 9-3 Sport Sedan 2.0 Turbo Aero"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_2_0_turbo_vector",
+              "title": "2007 Saab 9-3 Sport Sedan 2.0 Turbo Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_2_0t_biopower_intro_edition",
+              "title": "2007 Saab 9-3 Sport Sedan 2.0t BioPower Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_2_0t_biopower_linear",
+              "title": "2007 Saab 9-3 Sport Sedan 2.0t BioPower Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_2_0t_biopower_vector",
+              "title": "2007 Saab 9-3 Sport Sedan 2.0t BioPower Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_2_0t_intro_edition",
+              "title": "2007 Saab 9-3 Sport Sedan 2.0t Intro Edition"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_2_0t_linear",
+              "title": "2007 Saab 9-3 Sport Sedan 2.0t Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_2_0t_vector",
+              "title": "2007 Saab 9-3 Sport Sedan 2.0t Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_sport_sedan_2_8_turbo_v6_aero",
+              "title": "2007 Saab 9-3 Sport Sedan 2.8 Turbo V6 Aero"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_3_sport_sedan",
+          "title": "Saab 9-3 Sport Sedan",
+          "children": [
+            {
+              "id": "mod_2002_saab_9_3_sport_sedan_1_8t_arc",
+              "title": "2002 Saab 9-3 Sport Sedan 1.8t Arc"
+            },
+            {
+              "id": "mod_2002_saab_9_3_sport_sedan_1_8t_linear",
+              "title": "2002 Saab 9-3 Sport Sedan 1.8t Linear"
+            },
+            {
+              "id": "mod_2002_saab_9_3_sport_sedan_1_8t_vector",
+              "title": "2002 Saab 9-3 Sport Sedan 1.8t Vector"
+            },
+            {
+              "id": "mod_2002_saab_9_3_sport_sedan_2_0t_arc",
+              "title": "2002 Saab 9-3 Sport Sedan 2.0t Arc"
+            },
+            {
+              "id": "mod_2002_saab_9_3_sport_sedan_2_0t_linear",
+              "title": "2002 Saab 9-3 Sport Sedan 2.0t Linear"
+            },
+            {
+              "id": "mod_2002_saab_9_3_sport_sedan_2_0t_vector",
+              "title": "2002 Saab 9-3 Sport Sedan 2.0t Vector"
+            },
+            {
+              "id": "mod_2002_saab_9_3_sport_sedan_2_2_tid_arc",
+              "title": "2002 Saab 9-3 Sport Sedan 2.2 TiD Arc"
+            },
+            {
+              "id": "mod_2002_saab_9_3_sport_sedan_2_2_tid_linear",
+              "title": "2002 Saab 9-3 Sport Sedan 2.2 TiD Linear"
+            },
+            {
+              "id": "mod_2002_saab_9_3_sport_sedan_2_2_tid_vector",
+              "title": "2002 Saab 9-3 Sport Sedan 2.2 TiD Vector"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9_5_estate",
+      "title": "Saab 9-5 Estate",
+      "generations": [
+        {
+          "id": "gen_saab_9_5_estate",
+          "title": "Saab 9-5 Estate",
+          "children": [
+            {
+              "id": "mod_2011_saab_9_5_estate_1_6t_linear_exklusiv",
+              "title": "2011 Saab 9-5 Estate 1.6T Linear Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_1_6t_linear",
+              "title": "2011 Saab 9-5 Estate 1.6T Linear"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_1_6t_vector_exklusiv",
+              "title": "2011 Saab 9-5 Estate 1.6T Vector Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_1_6t_vector",
+              "title": "2011 Saab 9-5 Estate 1.6T Vector"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_aero_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0T Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_aero",
+              "title": "2011 Saab 9-5 Estate 2.0T Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_biopower_aero_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0T BioPower Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_biopower_aero",
+              "title": "2011 Saab 9-5 Estate 2.0T BioPower Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_biopower_linear_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0T BioPower Linear Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_biopower_linear",
+              "title": "2011 Saab 9-5 Estate 2.0T BioPower Linear"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_biopower_vector_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0T BioPower Vector Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_biopower_vector",
+              "title": "2011 Saab 9-5 Estate 2.0T BioPower Vector"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_linear_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0T Linear Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_linear",
+              "title": "2011 Saab 9-5 Estate 2.0T Linear"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_vector_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0T Vector Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_vector",
+              "title": "2011 Saab 9-5 Estate 2.0T Vector"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_xwd_aero_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0T XWD Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_xwd_aero",
+              "title": "2011 Saab 9-5 Estate 2.0T XWD Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_xwd_biopower_aero_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0T XWD BioPower Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_xwd_biopower_aero",
+              "title": "2011 Saab 9-5 Estate 2.0T XWD BioPower Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_xwd_biopower_vector_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0T XWD BioPower Vector Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_xwd_biopower_vector",
+              "title": "2011 Saab 9-5 Estate 2.0T XWD BioPower Vector"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_xwd_vector_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0T XWD Vector Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0t_xwd_vector",
+              "title": "2011 Saab 9-5 Estate 2.0T XWD Vector"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0ttid_190hp_aero_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0TTiD 190hp Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0ttid_190hp_aero",
+              "title": "2011 Saab 9-5 Estate 2.0TTiD 190hp Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0ttid_190hp_linear_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0TTiD 190hp Linear Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0ttid_190hp_linear",
+              "title": "2011 Saab 9-5 Estate 2.0TTiD 190hp Linear"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0ttid_190hp_vector_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0TTiD 190hp Vector Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0ttid_190hp_vector",
+              "title": "2011 Saab 9-5 Estate 2.0TTiD 190hp Vector"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0ttid_190hp_xwd_aero_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0TTiD 190hp XWD Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0ttid_190hp_xwd_aero",
+              "title": "2011 Saab 9-5 Estate 2.0TTiD 190hp XWD Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0ttid_190hp_xwd_vector_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0TTiD 190hp XWD Vector Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0ttid_190hp_xwd_vector",
+              "title": "2011 Saab 9-5 Estate 2.0TTiD 190hp XWD Vector"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0tid_160hp_linear_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0TiD 160hp Linear Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0tid_160hp_linear",
+              "title": "2011 Saab 9-5 Estate 2.0TiD 160hp Linear"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0tid_160hp_vector_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.0TiD 160hp Vector Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_0tid_160hp_vector",
+              "title": "2011 Saab 9-5 Estate 2.0TiD 160hp Vector"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_8t_v6_xwd_aero_exklusiv",
+              "title": "2011 Saab 9-5 Estate 2.8T V6 XWD Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_5_estate_2_8t_v6_xwd_aero",
+              "title": "2011 Saab 9-5 Estate 2.8T V6 XWD Aero"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_5_estate",
+          "title": "Saab 9-5 Estate",
+          "children": [
+            {
+              "id": "mod_2001_saab_9_5_estate_2_0_t_arc",
+              "title": "2001 Saab 9-5 Estate 2.0 T Arc"
+            },
+            {
+              "id": "mod_2001_saab_9_5_estate_2_0_t_linear",
+              "title": "2001 Saab 9-5 Estate 2.0 T Linear"
+            },
+            {
+              "id": "mod_2001_saab_9_5_estate_2_0_t_vector",
+              "title": "2001 Saab 9-5 Estate 2.0 T Vector"
+            },
+            {
+              "id": "mod_2001_saab_9_5_estate_2_3_t_arc",
+              "title": "2001 Saab 9-5 Estate 2.3 T Arc"
+            },
+            {
+              "id": "mod_2001_saab_9_5_estate_2_3_t_linear",
+              "title": "2001 Saab 9-5 Estate 2.3 T Linear"
+            },
+            {
+              "id": "mod_2001_saab_9_5_estate_2_3_t_vector",
+              "title": "2001 Saab 9-5 Estate 2.3 T Vector"
+            },
+            {
+              "id": "mod_2001_saab_9_5_estate_2_3_turbo_aero",
+              "title": "2001 Saab 9-5 Estate 2.3 Turbo Aero"
+            },
+            {
+              "id": "mod_2001_saab_9_5_estate_3_0_tid_arc",
+              "title": "2001 Saab 9-5 Estate 3.0 TiD Arc"
+            },
+            {
+              "id": "mod_2001_saab_9_5_estate_3_0_tid_linear",
+              "title": "2001 Saab 9-5 Estate 3.0 TiD Linear"
+            },
+            {
+              "id": "mod_2001_saab_9_5_estate_3_0_tid_vector",
+              "title": "2001 Saab 9-5 Estate 3.0 TiD Vector"
+            },
+            {
+              "id": "mod_2001_saab_9_5_estate_3_0_v6_t_arc",
+              "title": "2001 Saab 9-5 Estate 3.0 V6 T Arc"
+            },
+            {
+              "id": "mod_2001_saab_9_5_estate_3_0_v6_t_vector",
+              "title": "2001 Saab 9-5 Estate 3.0 V6 T Vector"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_5_estate",
+          "title": "Saab 9-5 Estate",
+          "children": [
+            {
+              "id": "mod_1999_saab_9_5_estate_2_0_t_s",
+              "title": "1999 Saab 9-5 Estate 2.0 T S"
+            },
+            {
+              "id": "mod_1999_saab_9_5_estate_2_0_t_se",
+              "title": "1999 Saab 9-5 Estate 2.0 T SE"
+            },
+            {
+              "id": "mod_1999_saab_9_5_estate_2_0_t",
+              "title": "1999 Saab 9-5 Estate 2.0 T"
+            },
+            {
+              "id": "mod_1999_saab_9_5_estate_2_3_t_s_aero",
+              "title": "1999 Saab 9-5 Estate 2.3 T S Aero"
+            },
+            {
+              "id": "mod_1999_saab_9_5_estate_2_3_t_s",
+              "title": "1999 Saab 9-5 Estate 2.3 T S"
+            },
+            {
+              "id": "mod_1999_saab_9_5_estate_2_3_t_se_aero",
+              "title": "1999 Saab 9-5 Estate 2.3 T SE Aero"
+            },
+            {
+              "id": "mod_1999_saab_9_5_estate_2_3_t_se",
+              "title": "1999 Saab 9-5 Estate 2.3 T SE"
+            },
+            {
+              "id": "mod_1999_saab_9_5_estate_2_3_t",
+              "title": "1999 Saab 9-5 Estate 2.3 T"
+            },
+            {
+              "id": "mod_1999_saab_9_5_estate_3_0_v6_t_griffin",
+              "title": "1999 Saab 9-5 Estate 3.0 V6 T Griffin"
+            },
+            {
+              "id": "mod_1999_saab_9_5_estate_3_0_v6_t_s",
+              "title": "1999 Saab 9-5 Estate 3.0 V6 T S"
+            },
+            {
+              "id": "mod_1999_saab_9_5_estate_3_0_v6_t_se",
+              "title": "1999 Saab 9-5 Estate 3.0 V6 T SE"
+            },
+            {
+              "id": "mod_1999_saab_9_5_estate_3_0_v6_t",
+              "title": "1999 Saab 9-5 Estate 3.0 V6 T"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9_3_coupe",
+      "title": "Saab 9-3 Coupe",
+      "generations": [
+        {
+          "id": "gen_saab_9_3_coupe",
+          "title": "Saab 9-3 Coupe",
+          "children": [
+            {
+              "id": "mod_1998_saab_9_3_coupe_2_0",
+              "title": "1998 Saab 9-3 Coupe 2.0"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_2_2_tid",
+              "title": "1998 Saab 9-3 Coupe 2.2 TiD"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_s_2_0_t",
+              "title": "1998 Saab 9-3 Coupe S 2.0 T"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_s_2_0_turbo_200hp",
+              "title": "1998 Saab 9-3 Coupe S 2.0 Turbo 200hp"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_s_2_0_turbo",
+              "title": "1998 Saab 9-3 Coupe S 2.0 Turbo"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_s_2_0",
+              "title": "1998 Saab 9-3 Coupe S 2.0"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_s_2_2_tid",
+              "title": "1998 Saab 9-3 Coupe S 2.2 TiD"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_s_2_3",
+              "title": "1998 Saab 9-3 Coupe S 2.3"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_se_2_0_t",
+              "title": "1998 Saab 9-3 Coupe SE 2.0 T"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_se_2_0_turbo_200hp_fsp",
+              "title": "1998 Saab 9-3 Coupe SE 2.0 Turbo 200hp FSP"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_se_2_0_turbo_200hp",
+              "title": "1998 Saab 9-3 Coupe SE 2.0 Turbo 200hp"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_se_2_0_turbo_fsp",
+              "title": "1998 Saab 9-3 Coupe SE 2.0 Turbo FSP"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_se_2_0_turbo",
+              "title": "1998 Saab 9-3 Coupe SE 2.0 Turbo"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_se_2_0",
+              "title": "1998 Saab 9-3 Coupe SE 2.0"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_se_2_2_tid",
+              "title": "1998 Saab 9-3 Coupe SE 2.2 TiD"
+            },
+            {
+              "id": "mod_1998_saab_9_3_coupe_se_2_3",
+              "title": "1998 Saab 9-3 Coupe SE 2.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9_3",
+      "title": "Saab 9-3",
+      "generations": [
+        {
+          "id": "gen_saab_9_3",
+          "title": "Saab 9-3",
+          "children": [
+            {
+              "id": "mod_1998_saab_9_3_2_0",
+              "title": "1998 Saab 9-3 2.0"
+            },
+            {
+              "id": "mod_1998_saab_9_3_2_2_tid",
+              "title": "1998 Saab 9-3 2.2 TiD"
+            },
+            {
+              "id": "mod_1998_saab_9_3_s_2_0_t",
+              "title": "1998 Saab 9-3 S 2.0 T"
+            },
+            {
+              "id": "mod_1998_saab_9_3_s_2_0_turbo_200hp",
+              "title": "1998 Saab 9-3 S 2.0 Turbo 200hp"
+            },
+            {
+              "id": "mod_1998_saab_9_3_s_2_0_turbo",
+              "title": "1998 Saab 9-3 S 2.0 Turbo"
+            },
+            {
+              "id": "mod_1998_saab_9_3_s_2_0",
+              "title": "1998 Saab 9-3 S 2.0"
+            },
+            {
+              "id": "mod_1998_saab_9_3_s_2_2_tid",
+              "title": "1998 Saab 9-3 S 2.2 TiD"
+            },
+            {
+              "id": "mod_1998_saab_9_3_s_2_3",
+              "title": "1998 Saab 9-3 S 2.3"
+            },
+            {
+              "id": "mod_1998_saab_9_3_se_2_0_t",
+              "title": "1998 Saab 9-3 SE 2.0 T"
+            },
+            {
+              "id": "mod_1998_saab_9_3_se_2_0_turbo_200hp_fsp",
+              "title": "1998 Saab 9-3 SE 2.0 Turbo 200hp FSP"
+            },
+            {
+              "id": "mod_1998_saab_9_3_se_2_0_turbo_200hp",
+              "title": "1998 Saab 9-3 SE 2.0 Turbo 200hp"
+            },
+            {
+              "id": "mod_1998_saab_9_3_se_2_0_turbo_fsp",
+              "title": "1998 Saab 9-3 SE 2.0 Turbo FSP"
+            },
+            {
+              "id": "mod_1998_saab_9_3_se_2_0_turbo",
+              "title": "1998 Saab 9-3 SE 2.0 Turbo"
+            },
+            {
+              "id": "mod_1998_saab_9_3_se_2_0",
+              "title": "1998 Saab 9-3 SE 2.0"
+            },
+            {
+              "id": "mod_1998_saab_9_3_se_2_2_tid",
+              "title": "1998 Saab 9-3 SE 2.2 TiD"
+            },
+            {
+              "id": "mod_1998_saab_9_3_se_2_3",
+              "title": "1998 Saab 9-3 SE 2.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9_3_cabriolet",
+      "title": "Saab 9-3 Cabriolet",
+      "generations": [
+        {
+          "id": "gen_saab_9_3_cabriolet",
+          "title": "Saab 9-3 Cabriolet",
+          "children": [
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_1_9_ttid_160hp_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Cabriolet 1.9 TTiD 160hp Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_1_9_ttid_160hp_griffin_norden",
+              "title": "2011 Saab 9-3 Cabriolet 1.9 TTiD 160hp Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_1_9_ttid_180hp_griffin_aero_exklusiv",
+              "title": "2011 Saab 9-3 Cabriolet 1.9 TTiD 180hp Griffin Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_1_9_ttid_180hp_griffin_aero",
+              "title": "2011 Saab 9-3 Cabriolet 1.9 TTiD 180hp Griffin Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_1_9_ttid_180hp_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Cabriolet 1.9 TTiD 180hp Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_1_9_ttid_180hp_griffin_norden",
+              "title": "2011 Saab 9-3 Cabriolet 1.9 TTiD 180hp Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_2_0_turbo_griffin_aero_exklusiv",
+              "title": "2011 Saab 9-3 Cabriolet 2.0 Turbo Griffin Aero Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_2_0_turbo_griffin_aero",
+              "title": "2011 Saab 9-3 Cabriolet 2.0 Turbo Griffin Aero"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_2_0_turbo_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Cabriolet 2.0 Turbo Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_2_0_turbo_griffin_norden",
+              "title": "2011 Saab 9-3 Cabriolet 2.0 Turbo Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_2_0_turbo_independence_edition",
+              "title": "2011 Saab 9-3 Cabriolet 2.0 Turbo Independence Edition"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_2_0t_biopower_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Cabriolet 2.0t BioPower Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_2_0t_biopower_griffin_norden",
+              "title": "2011 Saab 9-3 Cabriolet 2.0t BioPower Griffin Norden"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_2_0t_griffin_norden_exklusiv",
+              "title": "2011 Saab 9-3 Cabriolet 2.0t Griffin Norden Exklusiv"
+            },
+            {
+              "id": "mod_2011_saab_9_3_cabriolet_2_0t_griffin_norden",
+              "title": "2011 Saab 9-3 Cabriolet 2.0t Griffin Norden"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_3_cabriolet",
+          "title": "Saab 9-3 Cabriolet",
+          "children": [
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_1_9_ttid_160hp_linear_sport_exkl",
+              "title": "2010 Saab 9-3 Cabriolet 1.9 TTiD 160hp Linear Sport Exkl."
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_1_9_ttid_160hp_linear_sport",
+              "title": "2010 Saab 9-3 Cabriolet 1.9 TTiD 160hp Linear Sport"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_1_9_ttid_160hp_linear",
+              "title": "2010 Saab 9-3 Cabriolet 1.9 TTiD 160hp Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_1_9_ttid_160hp_vector_exklusiv",
+              "title": "2010 Saab 9-3 Cabriolet 1.9 TTiD 160hp Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_1_9_ttid_160hp_vector",
+              "title": "2010 Saab 9-3 Cabriolet 1.9 TTiD 160hp Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_1_9_ttid_180hp_aero_exklusiv",
+              "title": "2010 Saab 9-3 Cabriolet 1.9 TTiD 180hp Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_1_9_ttid_180hp_aero",
+              "title": "2010 Saab 9-3 Cabriolet 1.9 TTiD 180hp Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_1_9_ttid_180hp_vector_exklusiv",
+              "title": "2010 Saab 9-3 Cabriolet 1.9 TTiD 180hp Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_1_9_ttid_180hp_vector",
+              "title": "2010 Saab 9-3 Cabriolet 1.9 TTiD 180hp Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0_turbo_aero_exklusiv",
+              "title": "2010 Saab 9-3 Cabriolet 2.0 Turbo Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0_turbo_aero",
+              "title": "2010 Saab 9-3 Cabriolet 2.0 Turbo Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0t_biopower_aero_exklusiv",
+              "title": "2010 Saab 9-3 Cabriolet 2.0t BioPower Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0t_biopower_aero",
+              "title": "2010 Saab 9-3 Cabriolet 2.0t BioPower Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0t_biopower_linear_sport_exklus",
+              "title": "2010 Saab 9-3 Cabriolet 2.0t BioPower Linear Sport Exklus."
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0t_biopower_linear_sport",
+              "title": "2010 Saab 9-3 Cabriolet 2.0t BioPower Linear Sport"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0t_biopower_linear",
+              "title": "2010 Saab 9-3 Cabriolet 2.0t BioPower Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0t_biopower_vector_exklusiv",
+              "title": "2010 Saab 9-3 Cabriolet 2.0t BioPower Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0t_biopower_vector",
+              "title": "2010 Saab 9-3 Cabriolet 2.0t BioPower Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0t_linear_sport_exklusiv",
+              "title": "2010 Saab 9-3 Cabriolet 2.0t Linear Sport Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0t_linear_sport",
+              "title": "2010 Saab 9-3 Cabriolet 2.0t Linear Sport"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0t_linear",
+              "title": "2010 Saab 9-3 Cabriolet 2.0t Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0t_vector_exklusiv",
+              "title": "2010 Saab 9-3 Cabriolet 2.0t Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_3_cabriolet_2_0t_vector",
+              "title": "2010 Saab 9-3 Cabriolet 2.0t Vector"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_3_cabriolet",
+          "title": "Saab 9-3 Cabriolet",
+          "children": [
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_1_8t_biopower_linear",
+              "title": "2007 Saab 9-3 Cabriolet 1.8t BioPower Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_1_8t_biopower_vector",
+              "title": "2007 Saab 9-3 Cabriolet 1.8t BioPower Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_1_8t_linear",
+              "title": "2007 Saab 9-3 Cabriolet 1.8t Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_1_8t_vector",
+              "title": "2007 Saab 9-3 Cabriolet 1.8t Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_1_9_ttid_180hp_aero",
+              "title": "2007 Saab 9-3 Cabriolet 1.9 TTiD 180hp Aero"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_1_9_ttid_180hp_vector",
+              "title": "2007 Saab 9-3 Cabriolet 1.9 TTiD 180hp Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_1_9_tid_150hp_linear",
+              "title": "2007 Saab 9-3 Cabriolet 1.9 TiD 150hp Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_1_9_tid_150hp_vector",
+              "title": "2007 Saab 9-3 Cabriolet 1.9 TiD 150hp Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_2_0_turbo_aero",
+              "title": "2007 Saab 9-3 Cabriolet 2.0 Turbo Aero"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_2_0_turbo_vector",
+              "title": "2007 Saab 9-3 Cabriolet 2.0 Turbo Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_2_0t_biopower_linear",
+              "title": "2007 Saab 9-3 Cabriolet 2.0t BioPower Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_2_0t_biopower_vector",
+              "title": "2007 Saab 9-3 Cabriolet 2.0t BioPower Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_2_0t_linear",
+              "title": "2007 Saab 9-3 Cabriolet 2.0t Linear"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_2_0t_vector",
+              "title": "2007 Saab 9-3 Cabriolet 2.0t Vector"
+            },
+            {
+              "id": "mod_2007_saab_9_3_cabriolet_2_8_turbo_v6_aero",
+              "title": "2007 Saab 9-3 Cabriolet 2.8 Turbo V6 Aero"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_3_cabriolet",
+          "title": "Saab 9-3 Cabriolet",
+          "children": [
+            {
+              "id": "mod_2003_saab_9_3_cabriolet_1_8t_linear",
+              "title": "2003 Saab 9-3 Cabriolet 1.8t Linear"
+            },
+            {
+              "id": "mod_2003_saab_9_3_cabriolet_1_8t_vector",
+              "title": "2003 Saab 9-3 Cabriolet 1.8t Vector"
+            },
+            {
+              "id": "mod_2003_saab_9_3_cabriolet_2_0_turbo_aero",
+              "title": "2003 Saab 9-3 Cabriolet 2.0 Turbo Aero"
+            },
+            {
+              "id": "mod_2003_saab_9_3_cabriolet_2_0t_linear",
+              "title": "2003 Saab 9-3 Cabriolet 2.0t Linear"
+            },
+            {
+              "id": "mod_2003_saab_9_3_cabriolet_2_0t_vector",
+              "title": "2003 Saab 9-3 Cabriolet 2.0t Vector"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_3_cabriolet",
+          "title": "Saab 9-3 Cabriolet",
+          "children": [
+            {
+              "id": "mod_1998_saab_9_3_cabriolet_s_2_0_t",
+              "title": "1998 Saab 9-3 Cabriolet S 2.0 T"
+            },
+            {
+              "id": "mod_1998_saab_9_3_cabriolet_s_2_0_turbo_200hp",
+              "title": "1998 Saab 9-3 Cabriolet S 2.0 Turbo 200hp"
+            },
+            {
+              "id": "mod_1998_saab_9_3_cabriolet_s_2_0_turbo",
+              "title": "1998 Saab 9-3 Cabriolet S 2.0 Turbo"
+            },
+            {
+              "id": "mod_1998_saab_9_3_cabriolet_s_2_0",
+              "title": "1998 Saab 9-3 Cabriolet S 2.0"
+            },
+            {
+              "id": "mod_1998_saab_9_3_cabriolet_s_2_3",
+              "title": "1998 Saab 9-3 Cabriolet S 2.3"
+            },
+            {
+              "id": "mod_1998_saab_9_3_cabriolet_se_2_0_t",
+              "title": "1998 Saab 9-3 Cabriolet SE 2.0 T"
+            },
+            {
+              "id": "mod_1998_saab_9_3_cabriolet_se_2_0_turbo_200hp_fsp",
+              "title": "1998 Saab 9-3 Cabriolet SE 2.0 Turbo 200hp FSP"
+            },
+            {
+              "id": "mod_1998_saab_9_3_cabriolet_se_2_0_turbo_200hp",
+              "title": "1998 Saab 9-3 Cabriolet SE 2.0 Turbo 200hp"
+            },
+            {
+              "id": "mod_1998_saab_9_3_cabriolet_se_2_0_turbo_fsp",
+              "title": "1998 Saab 9-3 Cabriolet SE 2.0 Turbo FSP"
+            },
+            {
+              "id": "mod_1998_saab_9_3_cabriolet_se_2_0_turbo",
+              "title": "1998 Saab 9-3 Cabriolet SE 2.0 Turbo"
+            },
+            {
+              "id": "mod_1998_saab_9_3_cabriolet_se_2_0",
+              "title": "1998 Saab 9-3 Cabriolet SE 2.0"
+            },
+            {
+              "id": "mod_1998_saab_9_3_cabriolet_se_2_3",
+              "title": "1998 Saab 9-3 Cabriolet SE 2.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9_5",
+      "title": "Saab 9-5",
+      "generations": [
+        {
+          "id": "gen_saab_9_5",
+          "title": "Saab 9-5",
+          "children": [
+            {
+              "id": "mod_2010_saab_9_5_1_6t_linear_exklusiv",
+              "title": "2010 Saab 9-5 1.6T Linear Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_1_6t_linear",
+              "title": "2010 Saab 9-5 1.6T Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_5_1_6t_vector_exklusiv",
+              "title": "2010 Saab 9-5 1.6T Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_1_6t_vector",
+              "title": "2010 Saab 9-5 1.6T Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_aero_exklusiv",
+              "title": "2010 Saab 9-5 2.0T Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_aero",
+              "title": "2010 Saab 9-5 2.0T Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_biopower_aero_exklusiv",
+              "title": "2010 Saab 9-5 2.0T BioPower Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_biopower_aero",
+              "title": "2010 Saab 9-5 2.0T BioPower Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_biopower_linear_exklusiv",
+              "title": "2010 Saab 9-5 2.0T BioPower Linear Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_biopower_linear",
+              "title": "2010 Saab 9-5 2.0T BioPower Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_biopower_vector_exklusiv",
+              "title": "2010 Saab 9-5 2.0T BioPower Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_biopower_vector",
+              "title": "2010 Saab 9-5 2.0T BioPower Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_linear_exklusiv",
+              "title": "2010 Saab 9-5 2.0T Linear Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_linear",
+              "title": "2010 Saab 9-5 2.0T Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_vector_exklusiv",
+              "title": "2010 Saab 9-5 2.0T Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_vector",
+              "title": "2010 Saab 9-5 2.0T Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_xwd_aero_exklusiv",
+              "title": "2010 Saab 9-5 2.0T XWD Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_xwd_aero",
+              "title": "2010 Saab 9-5 2.0T XWD Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_xwd_biopower_aero_exklusiv",
+              "title": "2010 Saab 9-5 2.0T XWD BioPower Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_xwd_biopower_aero",
+              "title": "2010 Saab 9-5 2.0T XWD BioPower Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_xwd_biopower_vector_exklusiv",
+              "title": "2010 Saab 9-5 2.0T XWD BioPower Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_xwd_biopower_vector",
+              "title": "2010 Saab 9-5 2.0T XWD BioPower Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_xwd_vector_exklusiv",
+              "title": "2010 Saab 9-5 2.0T XWD Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0t_xwd_vector",
+              "title": "2010 Saab 9-5 2.0T XWD Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0ttid_190hp_aero_exklusiv",
+              "title": "2010 Saab 9-5 2.0TTiD 190hp Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0ttid_190hp_aero",
+              "title": "2010 Saab 9-5 2.0TTiD 190hp Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0ttid_190hp_linear_exklusiv",
+              "title": "2010 Saab 9-5 2.0TTiD 190hp Linear Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0ttid_190hp_linear",
+              "title": "2010 Saab 9-5 2.0TTiD 190hp Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0ttid_190hp_vector_exklusiv",
+              "title": "2010 Saab 9-5 2.0TTiD 190hp Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0ttid_190hp_vector",
+              "title": "2010 Saab 9-5 2.0TTiD 190hp Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0ttid_190hp_xwd_aero_exklusiv",
+              "title": "2010 Saab 9-5 2.0TTiD 190hp XWD Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0ttid_190hp_xwd_aero",
+              "title": "2010 Saab 9-5 2.0TTiD 190hp XWD Aero"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0ttid_190hp_xwd_vector_exklusiv",
+              "title": "2010 Saab 9-5 2.0TTiD 190hp XWD Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0ttid_190hp_xwd_vector",
+              "title": "2010 Saab 9-5 2.0TTiD 190hp XWD Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0tid_160hp_linear_exklusiv",
+              "title": "2010 Saab 9-5 2.0TiD 160hp Linear Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0tid_160hp_linear",
+              "title": "2010 Saab 9-5 2.0TiD 160hp Linear"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0tid_160hp_vector_exklusiv",
+              "title": "2010 Saab 9-5 2.0TiD 160hp Vector Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_0tid_160hp_vector",
+              "title": "2010 Saab 9-5 2.0TiD 160hp Vector"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_8t_v6_xwd_aero_exklusiv",
+              "title": "2010 Saab 9-5 2.8T V6 XWD Aero Exklusiv"
+            },
+            {
+              "id": "mod_2010_saab_9_5_2_8t_v6_xwd_aero",
+              "title": "2010 Saab 9-5 2.8T V6 XWD Aero"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_5",
+          "title": "Saab 9-5",
+          "children": [
+            {
+              "id": "mod_2001_saab_9_5_2_0_t_arc",
+              "title": "2001 Saab 9-5 2.0 T Arc"
+            },
+            {
+              "id": "mod_2001_saab_9_5_2_0_t_linear",
+              "title": "2001 Saab 9-5 2.0 T Linear"
+            },
+            {
+              "id": "mod_2001_saab_9_5_2_0_t_vector",
+              "title": "2001 Saab 9-5 2.0 T Vector"
+            },
+            {
+              "id": "mod_2001_saab_9_5_2_3_t_arc",
+              "title": "2001 Saab 9-5 2.3 T Arc"
+            },
+            {
+              "id": "mod_2001_saab_9_5_2_3_t_linear",
+              "title": "2001 Saab 9-5 2.3 T Linear"
+            },
+            {
+              "id": "mod_2001_saab_9_5_2_3_t_vector",
+              "title": "2001 Saab 9-5 2.3 T Vector"
+            },
+            {
+              "id": "mod_2001_saab_9_5_2_3_turbo_aero",
+              "title": "2001 Saab 9-5 2.3 Turbo Aero"
+            },
+            {
+              "id": "mod_2001_saab_9_5_3_0_tid_arc",
+              "title": "2001 Saab 9-5 3.0 TiD Arc"
+            },
+            {
+              "id": "mod_2001_saab_9_5_3_0_tid_linear",
+              "title": "2001 Saab 9-5 3.0 TiD Linear"
+            },
+            {
+              "id": "mod_2001_saab_9_5_3_0_tid_vector",
+              "title": "2001 Saab 9-5 3.0 TiD Vector"
+            },
+            {
+              "id": "mod_2001_saab_9_5_3_0_v6_t_arc",
+              "title": "2001 Saab 9-5 3.0 V6 T Arc"
+            },
+            {
+              "id": "mod_2001_saab_9_5_3_0_v6_t_vector",
+              "title": "2001 Saab 9-5 3.0 V6 T Vector"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9_5",
+          "title": "Saab 9-5",
+          "children": [
+            {
+              "id": "mod_1997_saab_9_5_2_0_t_se",
+              "title": "1997 Saab 9-5 2.0 T SE"
+            },
+            {
+              "id": "mod_1997_saab_9_5_2_0_t",
+              "title": "1997 Saab 9-5 2.0 T"
+            },
+            {
+              "id": "mod_1997_saab_9_5_2_3_t_se",
+              "title": "1997 Saab 9-5 2.3 T SE"
+            },
+            {
+              "id": "mod_1997_saab_9_5_2_3_t",
+              "title": "1997 Saab 9-5 2.3 T"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_900_cabriolet",
+      "title": "Saab 900 Cabriolet",
+      "generations": [
+        {
+          "id": "gen_saab_900_cabriolet",
+          "title": "Saab 900 Cabriolet",
+          "children": [
+            {
+              "id": "mod_1994_saab_900_s_2_0i_cabriolet",
+              "title": "1994 Saab 900 S 2.0i Cabriolet"
+            },
+            {
+              "id": "mod_1994_saab_900_se_2_0i_turbo_cabriolet",
+              "title": "1994 Saab 900 SE 2.0i Turbo Cabriolet"
+            },
+            {
+              "id": "mod_1994_saab_900_se_2_3i_cabriolet",
+              "title": "1994 Saab 900 SE 2.3i Cabriolet"
+            },
+            {
+              "id": "mod_1994_saab_900_se_2_5i_v6_cabriolet",
+              "title": "1994 Saab 900 SE 2.5i V6 Cabriolet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_900_coupe",
+      "title": "Saab 900 Coupe",
+      "generations": [
+        {
+          "id": "gen_saab_900_coupe",
+          "title": "Saab 900 Coupe",
+          "children": [
+            {
+              "id": "mod_1994_saab_900_s_2_0i_coupe",
+              "title": "1994 Saab 900 S 2.0i Coupe"
+            },
+            {
+              "id": "mod_1994_saab_900_s_2_0i_turbo_coupe",
+              "title": "1994 Saab 900 S 2.0i Turbo Coupe"
+            },
+            {
+              "id": "mod_1994_saab_900_s_2_3i_coupe",
+              "title": "1994 Saab 900 S 2.3i Coupe"
+            },
+            {
+              "id": "mod_1994_saab_900_se_2_0i_turbo_coupe",
+              "title": "1994 Saab 900 SE 2.0i Turbo Coupe"
+            },
+            {
+              "id": "mod_1994_saab_900_se_2_5i_v6_coupe",
+              "title": "1994 Saab 900 SE 2.5i V6 Coupe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9000_cs",
+      "title": "Saab 9000 CS",
+      "generations": [
+        {
+          "id": "gen_saab_9000_cs",
+          "title": "Saab 9000 CS",
+          "children": [
+            {
+              "id": "mod_1991_saab_9000_cs_2_0i",
+              "title": "1991 Saab 9000 CS 2.0i"
+            },
+            {
+              "id": "mod_1991_saab_9000_cs_2_3i",
+              "title": "1991 Saab 9000 CS 2.3i"
+            },
+            {
+              "id": "mod_1991_saab_9000_cse_2_0i",
+              "title": "1991 Saab 9000 CSE 2.0i"
+            },
+            {
+              "id": "mod_1991_saab_9000_turbo_16_2_3_cs",
+              "title": "1991 Saab 9000 Turbo 16 2.3 CS"
+            },
+            {
+              "id": "mod_1991_saab_9000_turbo_16s_2_3_cs",
+              "title": "1991 Saab 9000 Turbo 16S 2.3 CS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9000_cd",
+      "title": "Saab 9000 CD",
+      "generations": [
+        {
+          "id": "gen_saab_9000_cd",
+          "title": "Saab 9000 CD",
+          "children": [
+            {
+              "id": "mod_1994_saab_9000_cd_2_0i",
+              "title": "1994 Saab 9000 CD 2.0i"
+            },
+            {
+              "id": "mod_1994_saab_9000_cd_2_3_lpt",
+              "title": "1994 Saab 9000 CD 2.3 LPT"
+            },
+            {
+              "id": "mod_1994_saab_9000_cd_2_3i",
+              "title": "1994 Saab 9000 CD 2.3i"
+            },
+            {
+              "id": "mod_1994_saab_9000_cde_2_0i",
+              "title": "1994 Saab 9000 CDE 2.0i"
+            },
+            {
+              "id": "mod_1994_saab_9000_cde_2_3_lpt",
+              "title": "1994 Saab 9000 CDE 2.3 LPT"
+            },
+            {
+              "id": "mod_1994_saab_9000_cde_2_3_turbo",
+              "title": "1994 Saab 9000 CDE 2.3 Turbo"
+            },
+            {
+              "id": "mod_1994_saab_9000_cde_2_3i",
+              "title": "1994 Saab 9000 CDE 2.3i"
+            },
+            {
+              "id": "mod_1994_saab_9000_cde_3_0i_v6",
+              "title": "1994 Saab 9000 CDE 3.0i V6"
+            },
+            {
+              "id": "mod_1994_saab_9000_griffin_3_0i_v6",
+              "title": "1994 Saab 9000 Griffin 3.0i V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_9000_cd",
+          "title": "Saab 9000 CD",
+          "children": [
+            {
+              "id": "mod_1988_saab_9000_cd_2_0i",
+              "title": "1988 Saab 9000 CD 2.0i"
+            },
+            {
+              "id": "mod_1988_saab_9000_turbo_16_cd",
+              "title": "1988 Saab 9000 Turbo 16 CD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_900_cabrio",
+      "title": "Saab 900 Cabrio",
+      "generations": [
+        {
+          "id": "gen_saab_900_cabrio",
+          "title": "Saab 900 Cabrio",
+          "children": [
+            {
+              "id": "mod_1986_saab_900_turbo_16_cabrio",
+              "title": "1986 Saab 900 Turbo 16 Cabrio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_9000",
+      "title": "Saab 9000",
+      "generations": [
+        {
+          "id": "gen_saab_9000",
+          "title": "Saab 9000",
+          "children": [
+            {
+              "id": "mod_1986_saab_9000_2_0i",
+              "title": "1986 Saab 9000 2.0i"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_90",
+      "title": "Saab 90",
+      "generations": [
+        {
+          "id": "gen_saab_90",
+          "title": "Saab 90",
+          "children": [
+            {
+              "id": "mod_1984_saab_90",
+              "title": "1984 Saab 90"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_900",
+      "title": "Saab 900",
+      "generations": [
+        {
+          "id": "gen_saab_900",
+          "title": "Saab 900",
+          "children": [
+            {
+              "id": "mod_1993_saab_900_s_2_0i",
+              "title": "1993 Saab 900 S 2.0i"
+            },
+            {
+              "id": "mod_1993_saab_900_s_2_3i",
+              "title": "1993 Saab 900 S 2.3i"
+            },
+            {
+              "id": "mod_1993_saab_900_se_2_5i_v6",
+              "title": "1993 Saab 900 SE 2.5i V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_900",
+          "title": "Saab 900",
+          "children": [
+            {
+              "id": "mod_1984_saab_900_turbo_16_cd",
+              "title": "1984 Saab 900 Turbo 16 CD"
+            },
+            {
+              "id": "mod_1984_saab_900_turbo_16",
+              "title": "1984 Saab 900 Turbo 16"
+            },
+            {
+              "id": "mod_1984_saab_900_turbo",
+              "title": "1984 Saab 900 Turbo"
+            },
+            {
+              "id": "mod_1984_saab_900",
+              "title": "1984 Saab 900"
+            },
+            {
+              "id": "mod_1984_saab_900i",
+              "title": "1984 Saab 900i"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_900",
+          "title": "Saab 900",
+          "children": [
+            {
+              "id": "mod_1984_saab_900_turbo_16",
+              "title": "1984 Saab 900 Turbo 16"
+            },
+            {
+              "id": "mod_1984_saab_900_turbo",
+              "title": "1984 Saab 900 Turbo"
+            },
+            {
+              "id": "mod_1984_saab_900",
+              "title": "1984 Saab 900"
+            },
+            {
+              "id": "mod_1984_saab_900i",
+              "title": "1984 Saab 900i"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_900",
+          "title": "Saab 900",
+          "children": [
+            {
+              "id": "mod_1984_saab_900i",
+              "title": "1984 Saab 900i"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_900",
+          "title": "Saab 900",
+          "children": [
+            {
+              "id": "mod_1984_saab_900_turbo_16",
+              "title": "1984 Saab 900 Turbo 16"
+            },
+            {
+              "id": "mod_1984_saab_900_turbo_16s",
+              "title": "1984 Saab 900 Turbo 16S"
+            },
+            {
+              "id": "mod_1984_saab_900_turbo",
+              "title": "1984 Saab 900 Turbo"
+            },
+            {
+              "id": "mod_1984_saab_900",
+              "title": "1984 Saab 900"
+            },
+            {
+              "id": "mod_1984_saab_900i",
+              "title": "1984 Saab 900i"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_900",
+          "title": "Saab 900",
+          "children": []
+        },
+        {
+          "id": "gen_saab_900",
+          "title": "Saab 900",
+          "children": [
+            {
+              "id": "mod_1978_saab_900_ems",
+              "title": "1978 Saab 900 EMS"
+            },
+            {
+              "id": "mod_1978_saab_900_gl",
+              "title": "1978 Saab 900 GL"
+            },
+            {
+              "id": "mod_1978_saab_900_gls",
+              "title": "1978 Saab 900 GLS"
+            },
+            {
+              "id": "mod_1978_saab_900_turbo_s",
+              "title": "1978 Saab 900 Turbo S"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_900",
+          "title": "Saab 900",
+          "children": []
+        },
+        {
+          "id": "gen_saab_900",
+          "title": "Saab 900",
+          "children": [
+            {
+              "id": "mod_1978_saab_900_gle",
+              "title": "1978 Saab 900 GLE"
+            },
+            {
+              "id": "mod_1978_saab_900_gls",
+              "title": "1978 Saab 900 GLS"
+            },
+            {
+              "id": "mod_1978_saab_900_turbo_s",
+              "title": "1978 Saab 900 Turbo S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_saab_99",
+      "title": "Saab 99",
+      "generations": [
+        {
+          "id": "gen_saab_99",
+          "title": "Saab 99",
+          "children": [
+            {
+              "id": "mod_1971_saab_99_gl_cm",
+              "title": "1971 Saab 99 GL CM"
+            }
+          ]
+        },
+        {
+          "id": "gen_saab_99",
+          "title": "Saab 99",
+          "children": [
+            {
+              "id": "mod_1971_saab_99_gl_cm",
+              "title": "1971 Saab 99 GL CM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

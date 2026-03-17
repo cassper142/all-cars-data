@@ -1,0 +1,802 @@
+{
+  "id": "brand_smart",
+  "title": "Smart",
+  "models": [
+    {
+      "id": "model_smart_fortwo",
+      "title": "Smart fortwo",
+      "generations": [
+        {
+          "id": "gen_smart_fortwo",
+          "title": "Smart fortwo",
+          "children": [
+            {
+              "id": "mod_2020_smart_fortwo_eq_comfort_plus",
+              "title": "2020 Smart Fortwo EQ Comfort Plus"
+            },
+            {
+              "id": "mod_2020_smart_fortwo_eq_comfort",
+              "title": "2020 Smart Fortwo EQ Comfort"
+            },
+            {
+              "id": "mod_2020_smart_fortwo_eq_essential",
+              "title": "2020 Smart Fortwo EQ Essential"
+            }
+          ]
+        },
+        {
+          "id": "gen_smart_fortwo",
+          "title": "Smart fortwo",
+          "children": [
+            {
+              "id": "mod_2014_smart_fortwo_52kw_edition_1",
+              "title": "2014 Smart Fortwo 52kW Edition 1"
+            },
+            {
+              "id": "mod_2014_smart_fortwo_52kw_essential_edition",
+              "title": "2014 Smart Fortwo 52kW Essential Edition"
+            },
+            {
+              "id": "mod_2014_smart_fortwo_52kw_joy_edition",
+              "title": "2014 Smart Fortwo 52kW Joy Edition"
+            },
+            {
+              "id": "mod_2014_smart_fortwo_52kw_passion",
+              "title": "2014 Smart Fortwo 52kW Passion"
+            },
+            {
+              "id": "mod_2014_smart_fortwo_52kw_prime",
+              "title": "2014 Smart Fortwo 52kW Prime"
+            },
+            {
+              "id": "mod_2014_smart_fortwo_52kw_proxy",
+              "title": "2014 Smart Fortwo 52kW Proxy"
+            },
+            {
+              "id": "mod_2014_smart_fortwo_52kw_pure",
+              "title": "2014 Smart Fortwo 52kW Pure"
+            },
+            {
+              "id": "mod_2014_smart_fortwo_66kw_edition_1",
+              "title": "2014 Smart Fortwo 66kW Edition 1"
+            },
+            {
+              "id": "mod_2014_smart_fortwo_66kw_passion",
+              "title": "2014 Smart Fortwo 66kW Passion"
+            },
+            {
+              "id": "mod_2014_smart_fortwo_66kw_prime",
+              "title": "2014 Smart Fortwo 66kW Prime"
+            },
+            {
+              "id": "mod_2014_smart_fortwo_66kw_proxy",
+              "title": "2014 Smart Fortwo 66kW Proxy"
+            },
+            {
+              "id": "mod_2014_smart_fortwo_66kw_pure",
+              "title": "2014 Smart Fortwo 66kW Pure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_smart_fortwo_coupe",
+      "title": "Smart fortwo coupe",
+      "generations": [
+        {
+          "id": "gen_smart_fortwo_coupe",
+          "title": "Smart fortwo coupe",
+          "children": [
+            {
+              "id": "mod_2012_smart_fortwo_coupe_brabus_72kw",
+              "title": "2012 Smart Fortwo Coupe Brabus 72kW"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_coupe_brabus_xclusive_72kw",
+              "title": "2012 Smart Fortwo Coupe Brabus Xclusive 72kW"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_coupe_electric_drive",
+              "title": "2012 Smart Fortwo Coupe Electric Drive"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_coupe_mhd_passion_52kw",
+              "title": "2012 Smart Fortwo Coupe MHD Passion 52kW"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_coupe_mhd_pulse_52kw",
+              "title": "2012 Smart Fortwo Coupe MHD Pulse 52kW"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_coupe_mhd_pure_45kw",
+              "title": "2012 Smart Fortwo Coupe MHD Pure 45kW"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_coupe_mhd_pure_52kw",
+              "title": "2012 Smart Fortwo Coupe MHD Pure 52kW"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_coupe_passion_40kw_cdi",
+              "title": "2012 Smart Fortwo Coupe Passion 40kW Cdi"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_coupe_pulse_40kw_cdi",
+              "title": "2012 Smart Fortwo Coupe Pulse 40kW Cdi"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_coupe_pure_40kw_cdi",
+              "title": "2012 Smart Fortwo Coupe Pure 40kW Cdi"
+            }
+          ]
+        },
+        {
+          "id": "gen_smart_fortwo_coupe",
+          "title": "Smart fortwo coupe",
+          "children": [
+            {
+              "id": "mod_2010_smart_fortwo_coupe_brabus_72kw",
+              "title": "2010 Smart Fortwo Coupe Brabus 72kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_coupe_brabus_xclusive_72kw",
+              "title": "2010 Smart Fortwo Coupe Brabus Xclusive 72kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_coupe_mhd_base_45kw",
+              "title": "2010 Smart Fortwo Coupe MHD Base 45kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_coupe_mhd_edition_lightshine_52kw",
+              "title": "2010 Smart Fortwo Coupe MHD Edition Lightshine 52kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_coupe_mhd_passion_52kw",
+              "title": "2010 Smart Fortwo Coupe MHD Passion 52kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_coupe_mhd_pulse_52kw",
+              "title": "2010 Smart Fortwo Coupe MHD Pulse 52kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_coupe_mhd_pure_45kw",
+              "title": "2010 Smart Fortwo Coupe MHD Pure 45kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_coupe_mhd_pure_52kw",
+              "title": "2010 Smart Fortwo Coupe MHD Pure 52kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_coupe_passion_40kw_cdi",
+              "title": "2010 Smart Fortwo Coupe Passion 40kW Cdi"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_coupe_passion_62kw",
+              "title": "2010 Smart Fortwo Coupe Passion 62kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_coupe_pulse_40kw_cdi",
+              "title": "2010 Smart Fortwo Coupe Pulse 40kW Cdi"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_coupe_pulse_62kw",
+              "title": "2010 Smart Fortwo Coupe Pulse 62kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_coupe_pure_40kw_cdi",
+              "title": "2010 Smart Fortwo Coupe Pure 40kW Cdi"
+            }
+          ]
+        },
+        {
+          "id": "gen_smart_fortwo_coupe",
+          "title": "Smart fortwo coupe",
+          "children": [
+            {
+              "id": "mod_2007_smart_fortwo_coupe_base_45kw",
+              "title": "2007 Smart Fortwo Coupe Base 45kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_brabus_72kw",
+              "title": "2007 Smart Fortwo Coupe Brabus 72kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_brabus_xclusive_72kw",
+              "title": "2007 Smart Fortwo Coupe Brabus Xclusive 72kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_limited_one_52kw",
+              "title": "2007 Smart Fortwo Coupe Limited One 52kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_mhd_passion_52kw",
+              "title": "2007 Smart Fortwo Coupe MHD Passion 52kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_mhd_pulse_52kw",
+              "title": "2007 Smart Fortwo Coupe MHD Pulse 52kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_mhd_pure_52kw",
+              "title": "2007 Smart Fortwo Coupe MHD Pure 52kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_passion_33kw_cdi",
+              "title": "2007 Smart Fortwo Coupe Passion 33kW Cdi"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_passion_52kw",
+              "title": "2007 Smart Fortwo Coupe Passion 52kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_passion_62kw",
+              "title": "2007 Smart Fortwo Coupe Passion 62kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_pulse_33kw_cdi",
+              "title": "2007 Smart Fortwo Coupe Pulse 33kW Cdi"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_pulse_52kw",
+              "title": "2007 Smart Fortwo Coupe Pulse 52kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_pulse_62kw",
+              "title": "2007 Smart Fortwo Coupe Pulse 62kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_pure_33kw_cdi",
+              "title": "2007 Smart Fortwo Coupe Pure 33kW Cdi"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_pure_45kw",
+              "title": "2007 Smart Fortwo Coupe Pure 45kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_coupe_pure_52kw",
+              "title": "2007 Smart Fortwo Coupe Pure 52kW"
+            }
+          ]
+        },
+        {
+          "id": "gen_smart_fortwo_coupe",
+          "title": "Smart fortwo coupe",
+          "children": [
+            {
+              "id": "mod_2004_smart_fortwo_coupe_brabus_55kw",
+              "title": "2004 Smart Fortwo Coupe Brabus 55kW"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_coupe_passion_45kw",
+              "title": "2004 Smart Fortwo Coupe Passion 45kW"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_coupe_passion_cdi",
+              "title": "2004 Smart Fortwo Coupe Passion Cdi"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_coupe_pulse_45kw",
+              "title": "2004 Smart Fortwo Coupe Pulse 45kW"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_coupe_pulse_cdi",
+              "title": "2004 Smart Fortwo Coupe Pulse Cdi"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_coupe_pure_37kw",
+              "title": "2004 Smart Fortwo Coupe Pure 37kW"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_coupe_pure_45kw",
+              "title": "2004 Smart Fortwo Coupe Pure 45kW"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_coupe_pure_cdi",
+              "title": "2004 Smart Fortwo Coupe Pure Cdi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_smart_forfour",
+      "title": "Smart forfour",
+      "generations": [
+        {
+          "id": "gen_smart_forfour",
+          "title": "Smart forfour",
+          "children": [
+            {
+              "id": "mod_2020_smart_forfour_eq_comfort_plus",
+              "title": "2020 Smart Forfour EQ Comfort Plus"
+            },
+            {
+              "id": "mod_2020_smart_forfour_eq_comfort",
+              "title": "2020 Smart Forfour EQ Comfort"
+            },
+            {
+              "id": "mod_2020_smart_forfour_eq_essential",
+              "title": "2020 Smart Forfour EQ Essential"
+            }
+          ]
+        },
+        {
+          "id": "gen_smart_forfour",
+          "title": "Smart forfour",
+          "children": [
+            {
+              "id": "mod_2014_smart_forfour_52kw_edition_1",
+              "title": "2014 Smart Forfour 52kW Edition 1"
+            },
+            {
+              "id": "mod_2014_smart_forfour_52kw_essential_edition",
+              "title": "2014 Smart Forfour 52kW Essential Edition"
+            },
+            {
+              "id": "mod_2014_smart_forfour_52kw_joy_edition",
+              "title": "2014 Smart Forfour 52kW Joy Edition"
+            },
+            {
+              "id": "mod_2014_smart_forfour_52kw_passion",
+              "title": "2014 Smart Forfour 52kW Passion"
+            },
+            {
+              "id": "mod_2014_smart_forfour_52kw_prime",
+              "title": "2014 Smart Forfour 52kW Prime"
+            },
+            {
+              "id": "mod_2014_smart_forfour_52kw_proxy",
+              "title": "2014 Smart Forfour 52kW Proxy"
+            },
+            {
+              "id": "mod_2014_smart_forfour_52kw_pure",
+              "title": "2014 Smart Forfour 52kW Pure"
+            }
+          ]
+        },
+        {
+          "id": "gen_smart_forfour",
+          "title": "Smart forfour",
+          "children": [
+            {
+              "id": "mod_2004_smart_forfour_1_1_blackbasic",
+              "title": "2004 Smart Forfour 1.1 Blackbasic"
+            },
+            {
+              "id": "mod_2004_smart_forfour_1_1_passion",
+              "title": "2004 Smart Forfour 1.1 Passion"
+            },
+            {
+              "id": "mod_2004_smart_forfour_1_1_pulse",
+              "title": "2004 Smart Forfour 1.1 Pulse"
+            },
+            {
+              "id": "mod_2004_smart_forfour_1_3_passion",
+              "title": "2004 Smart Forfour 1.3 Passion"
+            },
+            {
+              "id": "mod_2004_smart_forfour_1_3_pulse",
+              "title": "2004 Smart Forfour 1.3 Pulse"
+            },
+            {
+              "id": "mod_2004_smart_forfour_1_5_cdi_50kw_blackbasic",
+              "title": "2004 Smart Forfour 1.5 Cdi 50kW Blackbasic"
+            },
+            {
+              "id": "mod_2004_smart_forfour_1_5_cdi_50kw_passion",
+              "title": "2004 Smart Forfour 1.5 Cdi 50kW Passion"
+            },
+            {
+              "id": "mod_2004_smart_forfour_1_5_cdi_50kw_pulse",
+              "title": "2004 Smart Forfour 1.5 Cdi 50kW Pulse"
+            },
+            {
+              "id": "mod_2004_smart_forfour_1_5_cdi_70kw_passion",
+              "title": "2004 Smart Forfour 1.5 Cdi 70kW Passion"
+            },
+            {
+              "id": "mod_2004_smart_forfour_1_5_cdi_70kw_pulse",
+              "title": "2004 Smart Forfour 1.5 Cdi 70kW Pulse"
+            },
+            {
+              "id": "mod_2004_smart_forfour_1_5_passion",
+              "title": "2004 Smart Forfour 1.5 Passion"
+            },
+            {
+              "id": "mod_2004_smart_forfour_1_5_pulse",
+              "title": "2004 Smart Forfour 1.5 Pulse"
+            },
+            {
+              "id": "mod_2004_smart_forfour_1_5_sportstyle",
+              "title": "2004 Smart Forfour 1.5 Sportstyle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_smart_fortwo_cabrio",
+      "title": "Smart fortwo cabrio",
+      "generations": [
+        {
+          "id": "gen_smart_fortwo_cabrio",
+          "title": "Smart fortwo cabrio",
+          "children": [
+            {
+              "id": "mod_2020_smart_fortwo_cabrio_eq_comfort_plus",
+              "title": "2020 Smart Fortwo Cabrio EQ Comfort Plus"
+            },
+            {
+              "id": "mod_2020_smart_fortwo_cabrio_eq_comfort",
+              "title": "2020 Smart Fortwo Cabrio EQ Comfort"
+            },
+            {
+              "id": "mod_2020_smart_fortwo_cabrio_eq_essential",
+              "title": "2020 Smart Fortwo Cabrio EQ Essential"
+            }
+          ]
+        },
+        {
+          "id": "gen_smart_fortwo_cabrio",
+          "title": "Smart fortwo cabrio",
+          "children": [
+            {
+              "id": "mod_2016_smart_fortwo_cabrio_52kw_passion",
+              "title": "2016 Smart Fortwo Cabrio 52kW Passion"
+            },
+            {
+              "id": "mod_2016_smart_fortwo_cabrio_52kw_prime",
+              "title": "2016 Smart Fortwo Cabrio 52kW Prime"
+            },
+            {
+              "id": "mod_2016_smart_fortwo_cabrio_52kw_proxy",
+              "title": "2016 Smart Fortwo Cabrio 52kW Proxy"
+            },
+            {
+              "id": "mod_2016_smart_fortwo_cabrio_52kw_pure",
+              "title": "2016 Smart Fortwo Cabrio 52kW Pure"
+            },
+            {
+              "id": "mod_2016_smart_fortwo_cabrio_66kw_passion",
+              "title": "2016 Smart Fortwo Cabrio 66kW Passion"
+            },
+            {
+              "id": "mod_2016_smart_fortwo_cabrio_66kw_prime",
+              "title": "2016 Smart Fortwo Cabrio 66kW Prime"
+            },
+            {
+              "id": "mod_2016_smart_fortwo_cabrio_66kw_proxy",
+              "title": "2016 Smart Fortwo Cabrio 66kW Proxy"
+            },
+            {
+              "id": "mod_2016_smart_fortwo_cabrio_66kw_pure",
+              "title": "2016 Smart Fortwo Cabrio 66kW Pure"
+            },
+            {
+              "id": "mod_2016_smart_fortwo_cabrio_brabus_xclusive",
+              "title": "2016 Smart Fortwo Cabrio BRABUS Xclusive"
+            },
+            {
+              "id": "mod_2016_smart_fortwo_cabrio_brabus",
+              "title": "2016 Smart Fortwo Cabrio BRABUS"
+            }
+          ]
+        },
+        {
+          "id": "gen_smart_fortwo_cabrio",
+          "title": "Smart fortwo cabrio",
+          "children": [
+            {
+              "id": "mod_2012_smart_fortwo_cabrio_brabus_72kw",
+              "title": "2012 Smart Fortwo Cabrio Brabus 72kW"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_cabrio_brabus_xclusive_72kw",
+              "title": "2012 Smart Fortwo Cabrio Brabus Xclusive 72kW"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_cabrio_electric_drive",
+              "title": "2012 Smart Fortwo Cabrio Electric Drive"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_cabrio_mhd_passion_52kw",
+              "title": "2012 Smart Fortwo Cabrio MHD Passion 52kW"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_cabrio_mhd_pulse_52kw",
+              "title": "2012 Smart Fortwo Cabrio MHD Pulse 52kW"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_cabrio_mhd_pure_52kw",
+              "title": "2012 Smart Fortwo Cabrio MHD Pure 52kW"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_cabrio_passion_40kw_cdi",
+              "title": "2012 Smart Fortwo Cabrio Passion 40kW Cdi"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_cabrio_pulse_40kw_cdi",
+              "title": "2012 Smart Fortwo Cabrio Pulse 40kW Cdi"
+            },
+            {
+              "id": "mod_2012_smart_fortwo_cabrio_pure_40kw_cdi",
+              "title": "2012 Smart Fortwo Cabrio Pure 40kW Cdi"
+            }
+          ]
+        },
+        {
+          "id": "gen_smart_fortwo_cabrio",
+          "title": "Smart fortwo cabrio",
+          "children": [
+            {
+              "id": "mod_2010_smart_fortwo_cabrio_brabus_72kw",
+              "title": "2010 Smart Fortwo Cabrio Brabus 72kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_cabrio_brabus_xclusive_72kw",
+              "title": "2010 Smart Fortwo Cabrio Brabus Xclusive 72kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_cabrio_mhd_edition_lightshine_52kw",
+              "title": "2010 Smart Fortwo Cabrio MHD Edition Lightshine 52kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_cabrio_mhd_passion_52kw",
+              "title": "2010 Smart Fortwo Cabrio MHD Passion 52kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_cabrio_mhd_pulse_52kw",
+              "title": "2010 Smart Fortwo Cabrio MHD Pulse 52kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_cabrio_mhd_pure_52kw",
+              "title": "2010 Smart Fortwo Cabrio MHD Pure 52kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_cabrio_passion_40kw_cdi",
+              "title": "2010 Smart Fortwo Cabrio Passion 40kW Cdi"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_cabrio_passion_62kw",
+              "title": "2010 Smart Fortwo Cabrio Passion 62kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_cabrio_pulse_40kw_cdi",
+              "title": "2010 Smart Fortwo Cabrio Pulse 40kW Cdi"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_cabrio_pulse_62kw",
+              "title": "2010 Smart Fortwo Cabrio Pulse 62kW"
+            },
+            {
+              "id": "mod_2010_smart_fortwo_cabrio_pure_40kw_cdi",
+              "title": "2010 Smart Fortwo Cabrio Pure 40kW Cdi"
+            }
+          ]
+        },
+        {
+          "id": "gen_smart_fortwo_cabrio",
+          "title": "Smart fortwo cabrio",
+          "children": [
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_brabus_72kw",
+              "title": "2007 Smart Fortwo Cabrio Brabus 72kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_brabus_xclusive_72kw",
+              "title": "2007 Smart Fortwo Cabrio Brabus Xclusive 72kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_mhd_passion_52kw",
+              "title": "2007 Smart Fortwo Cabrio MHD Passion 52kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_mhd_pulse_52kw",
+              "title": "2007 Smart Fortwo Cabrio MHD Pulse 52kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_mhd_pure_52kw",
+              "title": "2007 Smart Fortwo Cabrio MHD Pure 52kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_passion_33kw_cdi",
+              "title": "2007 Smart Fortwo Cabrio Passion 33kW Cdi"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_passion_52kw",
+              "title": "2007 Smart Fortwo Cabrio Passion 52kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_passion_62kw",
+              "title": "2007 Smart Fortwo Cabrio Passion 62kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_pulse_33kw_cdi",
+              "title": "2007 Smart Fortwo Cabrio Pulse 33kW Cdi"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_pulse_52kw",
+              "title": "2007 Smart Fortwo Cabrio Pulse 52kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_pulse_62kw",
+              "title": "2007 Smart Fortwo Cabrio Pulse 62kW"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_pure_33kw_cdi",
+              "title": "2007 Smart Fortwo Cabrio Pure 33kW Cdi"
+            },
+            {
+              "id": "mod_2007_smart_fortwo_cabrio_pure_52kw",
+              "title": "2007 Smart Fortwo Cabrio Pure 52kW"
+            }
+          ]
+        },
+        {
+          "id": "gen_smart_fortwo_cabrio",
+          "title": "Smart fortwo cabrio",
+          "children": [
+            {
+              "id": "mod_2004_smart_fortwo_cabrio_brabus_55kw",
+              "title": "2004 Smart Fortwo Cabrio Brabus 55kW"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_cabrio_passion_45kw",
+              "title": "2004 Smart Fortwo Cabrio Passion 45kW"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_cabrio_passion_cdi",
+              "title": "2004 Smart Fortwo Cabrio Passion Cdi"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_cabrio_pulse_45kw",
+              "title": "2004 Smart Fortwo Cabrio Pulse 45kW"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_cabrio_pulse_cdi",
+              "title": "2004 Smart Fortwo Cabrio Pulse Cdi"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_cabrio_pure_45kw",
+              "title": "2004 Smart Fortwo Cabrio Pure 45kW"
+            },
+            {
+              "id": "mod_2004_smart_fortwo_cabrio_pure_cdi",
+              "title": "2004 Smart Fortwo Cabrio Pure Cdi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_smart_roadster",
+      "title": "Smart roadster",
+      "generations": [
+        {
+          "id": "gen_smart_roadster",
+          "title": "Smart roadster",
+          "children": [
+            {
+              "id": "mod_2003_smart_roadster_45kw",
+              "title": "2003 Smart Roadster 45kW"
+            },
+            {
+              "id": "mod_2003_smart_roadster_60kw",
+              "title": "2003 Smart Roadster 60kW"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_smart_roadster_coupe",
+      "title": "Smart roadster-coupe",
+      "generations": [
+        {
+          "id": "gen_smart_roadster_coupe",
+          "title": "Smart roadster-coupe",
+          "children": [
+            {
+              "id": "mod_2003_smart_roadster_coupe_60kw",
+              "title": "2003 Smart Roadster-coupe 60kW"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_smart_crossblade",
+      "title": "Smart crossblade",
+      "generations": [
+        {
+          "id": "gen_smart_crossblade",
+          "title": "Smart crossblade",
+          "children": [
+            {
+              "id": "mod_2002_smart_crossblade",
+              "title": "2002 Smart Crossblade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_smart_city_coupe_cabrio",
+      "title": "Smart city-coupe cabrio",
+      "generations": [
+        {
+          "id": "gen_smart_city_coupe_cabrio",
+          "title": "Smart city-coupe cabrio",
+          "children": [
+            {
+              "id": "mod_2000_smart_city_coupe_cabrio_passion_55hp",
+              "title": "2000 Smart City-coupe Cabrio & Passion 55hp"
+            },
+            {
+              "id": "mod_2000_smart_city_coupe_cabrio_pulse_55hp",
+              "title": "2000 Smart City-coupe Cabrio & Pulse 55hp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_smart_city_coupe",
+      "title": "Smart city-coupe",
+      "generations": [
+        {
+          "id": "gen_smart_city_coupe",
+          "title": "Smart city-coupe",
+          "children": [
+            {
+              "id": "mod_2002_smart_city_coupe_smart_passion_55hp",
+              "title": "2002 Smart City-coupe Smart & Passion 55hp"
+            },
+            {
+              "id": "mod_2002_smart_city_coupe_smart_passion_cdi",
+              "title": "2002 Smart City-coupe Smart & Passion Cdi"
+            },
+            {
+              "id": "mod_2002_smart_city_coupe_smart_pulse_62hp",
+              "title": "2002 Smart City-coupe Smart & Pulse 62hp"
+            },
+            {
+              "id": "mod_2002_smart_city_coupe_smart_pulse_cdi",
+              "title": "2002 Smart City-coupe Smart & Pulse Cdi"
+            },
+            {
+              "id": "mod_2002_smart_city_coupe_smart_pure_45hp",
+              "title": "2002 Smart City-coupe Smart & Pure 45hp"
+            },
+            {
+              "id": "mod_2002_smart_city_coupe_smart_pure_55hp",
+              "title": "2002 Smart City-coupe Smart & Pure 55hp"
+            },
+            {
+              "id": "mod_2002_smart_city_coupe_smart_pure_cdi",
+              "title": "2002 Smart City-coupe Smart & Pure Cdi"
+            }
+          ]
+        },
+        {
+          "id": "gen_smart_city_coupe",
+          "title": "Smart city-coupe",
+          "children": [
+            {
+              "id": "mod_1998_smart_city_coupe_limited_1",
+              "title": "1998 Smart City-coupe Limited/1"
+            },
+            {
+              "id": "mod_1998_smart_city_coupe_smart_pulse_55hp",
+              "title": "1998 Smart City-coupe Smart & Pulse 55hp"
+            },
+            {
+              "id": "mod_1998_smart_city_coupe_smart_pure_45hp",
+              "title": "1998 Smart City-coupe Smart & Pure 45hp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

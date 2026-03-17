@@ -1,0 +1,4596 @@
+{
+  "id": "brand_seat",
+  "title": "Seat",
+  "models": [
+    {
+      "id": "model_seat_leon_sportstourer",
+      "title": "Seat Leon Sportstourer",
+      "generations": [
+        {
+          "id": "gen_seat_leon_sportstourer",
+          "title": "Seat Leon Sportstourer",
+          "children": [
+            {
+              "id": "mod_2020_seat_leon_sportstourer_1_0_tsi_90hp_reference",
+              "title": "2020 Seat Leon Sportstourer 1.0 TSI 90hp Reference"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_1_0_tsi_90hp_style_launch_edition",
+              "title": "2020 Seat Leon Sportstourer 1.0 TSI 90hp Style Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_1_0_tsi_90hp_style",
+              "title": "2020 Seat Leon Sportstourer 1.0 TSI 90hp Style"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_1_4_tsi_e_hybrid_fr",
+              "title": "2020 Seat Leon Sportstourer 1.4 TSI E-Hybrid FR"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_1_5_etsi_150hp_fr_launch_edition",
+              "title": "2020 Seat Leon Sportstourer 1.5 ETSI 150hp FR Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_1_5_etsi_150hp_fr",
+              "title": "2020 Seat Leon Sportstourer 1.5 ETSI 150hp FR"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_1_5_etsi_150hp_style_launch_edition",
+              "title": "2020 Seat Leon Sportstourer 1.5 ETSI 150hp Style Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_1_5_etsi_150hp_style",
+              "title": "2020 Seat Leon Sportstourer 1.5 ETSI 150hp Style"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_1_5_tsi_130hp_style_launch_edition",
+              "title": "2020 Seat Leon Sportstourer 1.5 TSI 130hp Style Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_1_5_tsi_130hp_style",
+              "title": "2020 Seat Leon Sportstourer 1.5 TSI 130hp Style"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_1_5_tsi_150hp_fr_launch_edition",
+              "title": "2020 Seat Leon Sportstourer 1.5 TSI 150hp FR Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_1_5_tsi_150hp_fr",
+              "title": "2020 Seat Leon Sportstourer 1.5 TSI 150hp FR"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_2_0_tdi_150hp_fr_launch_edition",
+              "title": "2020 Seat Leon Sportstourer 2.0 TDI 150hp FR Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_sportstourer_2_0_tdi_150hp_fr",
+              "title": "2020 Seat Leon Sportstourer 2.0 TDI 150hp FR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_tarraco",
+      "title": "Seat Tarraco",
+      "generations": [
+        {
+          "id": "gen_seat_tarraco",
+          "title": "Seat Tarraco",
+          "children": [
+            {
+              "id": "mod_2019_seat_tarraco_1_5_tsi_style",
+              "title": "2019 Seat Tarraco 1.5 TSI Style"
+            },
+            {
+              "id": "mod_2019_seat_tarraco_1_5_tsi_xcellence",
+              "title": "2019 Seat Tarraco 1.5 TSI Xcellence"
+            },
+            {
+              "id": "mod_2019_seat_tarraco_2_0_tdi_150hp_4drive_style",
+              "title": "2019 Seat Tarraco 2.0 TDI 150hp 4Drive Style"
+            },
+            {
+              "id": "mod_2019_seat_tarraco_2_0_tdi_150hp_4drive_xcellence",
+              "title": "2019 Seat Tarraco 2.0 TDI 150hp 4Drive Xcellence"
+            },
+            {
+              "id": "mod_2019_seat_tarraco_2_0_tdi_150hp_style",
+              "title": "2019 Seat Tarraco 2.0 TDI 150hp Style"
+            },
+            {
+              "id": "mod_2019_seat_tarraco_2_0_tdi_150hp_xcellence",
+              "title": "2019 Seat Tarraco 2.0 TDI 150hp Xcellence"
+            },
+            {
+              "id": "mod_2019_seat_tarraco_2_0_tdi_190hp_4drive_xcellence",
+              "title": "2019 Seat Tarraco 2.0 TDI 190hp 4Drive Xcellence"
+            },
+            {
+              "id": "mod_2019_seat_tarraco_2_0_tsi_4drive_xcellence",
+              "title": "2019 Seat Tarraco 2.0 TSI 4Drive Xcellence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_mii_electric",
+      "title": "Seat Mii electric",
+      "generations": [
+        {
+          "id": "gen_seat_mii_electric",
+          "title": "Seat Mii electric",
+          "children": [
+            {
+              "id": "mod_2019_seat_mii_electric_plus",
+              "title": "2019 Seat Mii Electric Plus"
+            },
+            {
+              "id": "mod_2019_seat_mii_electric",
+              "title": "2019 Seat Mii Electric"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_cupra_ateca",
+      "title": "Seat Cupra Ateca",
+      "generations": [
+        {
+          "id": "gen_seat_cupra_ateca",
+          "title": "Seat Cupra Ateca",
+          "children": [
+            {
+              "id": "mod_2018_seat_cupra_ateca_2_0_tsi_4_drive",
+              "title": "2018 Seat Cupra Ateca 2.0 TSI 4-Drive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_arona",
+      "title": "Seat Arona",
+      "generations": [
+        {
+          "id": "gen_seat_arona",
+          "title": "Seat Arona",
+          "children": [
+            {
+              "id": "mod_2017_seat_arona_1_0_tsi_115hp_xcellence",
+              "title": "2017 Seat Arona 1.0 TSI 115hp Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_arona_1_0_tsi_95hp_style",
+              "title": "2017 Seat Arona 1.0 TSI 95hp Style"
+            },
+            {
+              "id": "mod_2017_seat_arona_1_0_tsi_95hp_xcellence",
+              "title": "2017 Seat Arona 1.0 TSI 95hp Xcellence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_ateca",
+      "title": "Seat Ateca",
+      "generations": [
+        {
+          "id": "gen_seat_ateca",
+          "title": "Seat Ateca",
+          "children": [
+            {
+              "id": "mod_2020_seat_ateca_1_0_tsi_fr_business_intense",
+              "title": "2020 Seat Ateca 1.0 TSI FR Business Intense"
+            },
+            {
+              "id": "mod_2020_seat_ateca_1_0_tsi_fr",
+              "title": "2020 Seat Ateca 1.0 TSI FR"
+            },
+            {
+              "id": "mod_2020_seat_ateca_1_0_tsi_reference",
+              "title": "2020 Seat Ateca 1.0 TSI Reference"
+            },
+            {
+              "id": "mod_2020_seat_ateca_1_0_tsi_style_business_intense",
+              "title": "2020 Seat Ateca 1.0 TSI Style Business Intense"
+            },
+            {
+              "id": "mod_2020_seat_ateca_1_0_tsi_style",
+              "title": "2020 Seat Ateca 1.0 TSI Style"
+            },
+            {
+              "id": "mod_2020_seat_ateca_1_5_tsi_fr_business_intense",
+              "title": "2020 Seat Ateca 1.5 TSI FR Business Intense"
+            },
+            {
+              "id": "mod_2020_seat_ateca_1_5_tsi_fr",
+              "title": "2020 Seat Ateca 1.5 TSI FR"
+            },
+            {
+              "id": "mod_2020_seat_ateca_1_5_tsi_style_business_intense",
+              "title": "2020 Seat Ateca 1.5 TSI Style Business Intense"
+            },
+            {
+              "id": "mod_2020_seat_ateca_1_5_tsi_style",
+              "title": "2020 Seat Ateca 1.5 TSI Style"
+            },
+            {
+              "id": "mod_2020_seat_ateca_1_5_tsi_xperience_business_intense",
+              "title": "2020 Seat Ateca 1.5 TSI Xperience Business Intense"
+            },
+            {
+              "id": "mod_2020_seat_ateca_1_5_tsi_xperience",
+              "title": "2020 Seat Ateca 1.5 TSI Xperience"
+            },
+            {
+              "id": "mod_2020_seat_ateca_2_0_tdi_150hp_fr_business_intense",
+              "title": "2020 Seat Ateca 2.0 TDI 150hp FR Business Intense"
+            },
+            {
+              "id": "mod_2020_seat_ateca_2_0_tsi_4_drive_fr_business_intense",
+              "title": "2020 Seat Ateca 2.0 TSI 4-Drive FR Business Intense"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ateca",
+          "title": "Seat Ateca",
+          "children": [
+            {
+              "id": "mod_2016_seat_ateca_1_0_ecotsi_reference",
+              "title": "2016 Seat Ateca 1.0 EcoTSI Reference"
+            },
+            {
+              "id": "mod_2016_seat_ateca_1_0_ecotsi_style",
+              "title": "2016 Seat Ateca 1.0 EcoTSI Style"
+            },
+            {
+              "id": "mod_2016_seat_ateca_1_4_ecotsi_4_drive_xcellence",
+              "title": "2016 Seat Ateca 1.4 EcoTSI 4-Drive Xcellence"
+            },
+            {
+              "id": "mod_2016_seat_ateca_1_4_ecotsi_style",
+              "title": "2016 Seat Ateca 1.4 EcoTSI Style"
+            },
+            {
+              "id": "mod_2016_seat_ateca_1_4_ecotsi_xcellence",
+              "title": "2016 Seat Ateca 1.4 EcoTSI Xcellence"
+            },
+            {
+              "id": "mod_2016_seat_ateca_1_6_tdi_115hp_reference",
+              "title": "2016 Seat Ateca 1.6 TDI 115hp Reference"
+            },
+            {
+              "id": "mod_2016_seat_ateca_1_6_tdi_115hp_style",
+              "title": "2016 Seat Ateca 1.6 TDI 115hp Style"
+            },
+            {
+              "id": "mod_2016_seat_ateca_2_0_tdi_150hp_4_drive_xcellence",
+              "title": "2016 Seat Ateca 2.0 TDI 150hp 4-Drive Xcellence"
+            },
+            {
+              "id": "mod_2016_seat_ateca_2_0_tdi_150hp_style",
+              "title": "2016 Seat Ateca 2.0 TDI 150hp Style"
+            },
+            {
+              "id": "mod_2016_seat_ateca_2_0_tdi_150hp_xcellence",
+              "title": "2016 Seat Ateca 2.0 TDI 150hp Xcellence"
+            },
+            {
+              "id": "mod_2016_seat_ateca_2_0_tdi_190hp_4_drive_xcellence",
+              "title": "2016 Seat Ateca 2.0 TDI 190hp 4-Drive Xcellence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_leon_sc",
+      "title": "Seat Leon SC",
+      "generations": [
+        {
+          "id": "gen_seat_leon_sc",
+          "title": "Seat Leon SC",
+          "children": [
+            {
+              "id": "mod_2017_seat_leon_sc_1_8_tsi_fr_business_intense",
+              "title": "2017 Seat Leon SC 1.8 TSI FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_sc_1_8_tsi_fr",
+              "title": "2017 Seat Leon SC 1.8 TSI FR"
+            },
+            {
+              "id": "mod_2017_seat_leon_sc_2_0_tdi_184hp_fr_business_intense",
+              "title": "2017 Seat Leon SC 2.0 TDI 184hp FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_sc_2_0_tdi_184hp_fr",
+              "title": "2017 Seat Leon SC 2.0 TDI 184hp FR"
+            },
+            {
+              "id": "mod_2017_seat_leon_sc_2_0_tsi_cupra_300",
+              "title": "2017 Seat Leon SC 2.0 TSI Cupra 300"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_leon_sc",
+          "title": "Seat Leon SC",
+          "children": [
+            {
+              "id": "mod_2013_seat_leon_sc_1_2_tsi_105hp_reference",
+              "title": "2013 Seat Leon SC 1.2 TSI 105hp Reference"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_2_tsi_105hp_style_business",
+              "title": "2013 Seat Leon SC 1.2 TSI 105hp Style Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_2_tsi_105hp_style",
+              "title": "2013 Seat Leon SC 1.2 TSI 105hp Style"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_4_tsi_122hp_fr_business",
+              "title": "2013 Seat Leon SC 1.4 TSI 122hp FR Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_4_tsi_122hp_fr",
+              "title": "2013 Seat Leon SC 1.4 TSI 122hp FR"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_4_tsi_122hp_style_business",
+              "title": "2013 Seat Leon SC 1.4 TSI 122hp Style Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_4_tsi_122hp_style",
+              "title": "2013 Seat Leon SC 1.4 TSI 122hp Style"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_4_tsi_act_140hp_fr_business",
+              "title": "2013 Seat Leon SC 1.4 TSI ACT 140hp FR Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_4_tsi_act_140hp_fr",
+              "title": "2013 Seat Leon SC 1.4 TSI ACT 140hp FR"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_6_tdi_ecomotive_limited_edition_i",
+              "title": "2013 Seat Leon SC 1.6 TDI Ecomotive Limited Edition I"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_6_tdi_ecomotive_limited_edition_ii",
+              "title": "2013 Seat Leon SC 1.6 TDI Ecomotive Limited Edition II"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_6_tdi_ecomotive_reference",
+              "title": "2013 Seat Leon SC 1.6 TDI Ecomotive Reference"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_6_tdi_ecomotive_style_business",
+              "title": "2013 Seat Leon SC 1.6 TDI Ecomotive Style Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_6_tdi_ecomotive_style",
+              "title": "2013 Seat Leon SC 1.6 TDI Ecomotive Style"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_6_tdi_reference",
+              "title": "2013 Seat Leon SC 1.6 TDI Reference"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_6_tdi_style_business",
+              "title": "2013 Seat Leon SC 1.6 TDI Style Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_6_tdi_style",
+              "title": "2013 Seat Leon SC 1.6 TDI Style"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_8_tsi_fr_business",
+              "title": "2013 Seat Leon SC 1.8 TSI FR Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_1_8_tsi_fr",
+              "title": "2013 Seat Leon SC 1.8 TSI FR"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_2_0_tdi_150hp_fr_business",
+              "title": "2013 Seat Leon SC 2.0 TDI 150hp FR Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_2_0_tdi_150hp_fr",
+              "title": "2013 Seat Leon SC 2.0 TDI 150hp FR"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_2_0_tdi_150hp_style_business",
+              "title": "2013 Seat Leon SC 2.0 TDI 150hp Style Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_2_0_tdi_150hp_style",
+              "title": "2013 Seat Leon SC 2.0 TDI 150hp Style"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_2_0_tdi_184hp_fr_business",
+              "title": "2013 Seat Leon SC 2.0 TDI 184hp FR Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_sc_2_0_tdi_184hp_fr",
+              "title": "2013 Seat Leon SC 2.0 TDI 184hp FR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_leon_st",
+      "title": "Seat Leon ST",
+      "generations": [
+        {
+          "id": "gen_seat_leon_st",
+          "title": "Seat Leon ST",
+          "children": [
+            {
+              "id": "mod_2017_seat_leon_st_1_0_ecotsi_reference",
+              "title": "2017 Seat Leon ST 1.0 EcoTSI Reference"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_0_ecotsi_style_business_intense",
+              "title": "2017 Seat Leon ST 1.0 EcoTSI Style Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_0_ecotsi_style",
+              "title": "2017 Seat Leon ST 1.0 EcoTSI Style"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_4_125hp_xperience",
+              "title": "2017 Seat Leon ST 1.4 125hp Xperience"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_4_ecotsi_150hp_fr_business_intense",
+              "title": "2017 Seat Leon ST 1.4 EcoTSI 150hp FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_4_ecotsi_150hp_fr",
+              "title": "2017 Seat Leon ST 1.4 EcoTSI 150hp FR"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_4_ecotsi_150hp_style_business_intense",
+              "title": "2017 Seat Leon ST 1.4 EcoTSI 150hp Style Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_4_ecotsi_150hp_style",
+              "title": "2017 Seat Leon ST 1.4 EcoTSI 150hp Style"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_4_ecotsi_150hp_xcellence_business_intense",
+              "title": "2017 Seat Leon ST 1.4 EcoTSI 150hp Xcellence Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_4_ecotsi_150hp_xcellence",
+              "title": "2017 Seat Leon ST 1.4 EcoTSI 150hp Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_4_tgi_110hp_style_business_intense",
+              "title": "2017 Seat Leon ST 1.4 TGI 110hp Style Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_4_tgi_110hp_style",
+              "title": "2017 Seat Leon ST 1.4 TGI 110hp Style"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_6_tdi_reference",
+              "title": "2017 Seat Leon ST 1.6 TDI Reference"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_6_tdi_style_business_intense",
+              "title": "2017 Seat Leon ST 1.6 TDI Style Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_6_tdi_style",
+              "title": "2017 Seat Leon ST 1.6 TDI Style"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_6_tdi_xcellence_business_intense",
+              "title": "2017 Seat Leon ST 1.6 TDI Xcellence Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_6_tdi_xcellence",
+              "title": "2017 Seat Leon ST 1.6 TDI Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_6_tdi_xperience",
+              "title": "2017 Seat Leon ST 1.6 TDI Xperience"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_8_tsi_4drive_xperience",
+              "title": "2017 Seat Leon ST 1.8 TSI 4DRIVE Xperience"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_8_tsi_fr_business_intense",
+              "title": "2017 Seat Leon ST 1.8 TSI FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_8_tsi_fr",
+              "title": "2017 Seat Leon ST 1.8 TSI FR"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_8_tsi_xcellence_business_intense",
+              "title": "2017 Seat Leon ST 1.8 TSI Xcellence Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_1_8_tsi_xcellence",
+              "title": "2017 Seat Leon ST 1.8 TSI Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_2_0_tdi_150hp_fr_business_intense",
+              "title": "2017 Seat Leon ST 2.0 TDI 150hp FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_2_0_tdi_150hp_fr",
+              "title": "2017 Seat Leon ST 2.0 TDI 150hp FR"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_2_0_tdi_150hp_xcellence_business_intense",
+              "title": "2017 Seat Leon ST 2.0 TDI 150hp Xcellence Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_2_0_tdi_150hp_xcellence",
+              "title": "2017 Seat Leon ST 2.0 TDI 150hp Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_2_0_tdi_184hp_4drive_xperience",
+              "title": "2017 Seat Leon ST 2.0 TDI 184hp 4DRIVE Xperience"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_2_0_tdi_184hp_fr_business_intense",
+              "title": "2017 Seat Leon ST 2.0 TDI 184hp FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_2_0_tdi_184hp_fr",
+              "title": "2017 Seat Leon ST 2.0 TDI 184hp FR"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_2_0_tdi_184hp_xcellence_business_intense",
+              "title": "2017 Seat Leon ST 2.0 TDI 184hp Xcellence Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_2_0_tdi_184hp_xcellence",
+              "title": "2017 Seat Leon ST 2.0 TDI 184hp Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_2_0_tsi_cupra_300_4drive",
+              "title": "2017 Seat Leon ST 2.0 TSI Cupra 300 4DRIVE"
+            },
+            {
+              "id": "mod_2017_seat_leon_st_2_0_tsi_cupra_300",
+              "title": "2017 Seat Leon ST 2.0 TSI Cupra 300"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_leon_st",
+          "title": "Seat Leon ST",
+          "children": [
+            {
+              "id": "mod_2013_seat_leon_st_1_2_tsi_105hp_style_first_edition",
+              "title": "2013 Seat Leon ST 1.2 TSI 105hp Style First Edition"
+            },
+            {
+              "id": "mod_2013_seat_leon_st_1_4_tsi_act_140hp_fr_first_edition",
+              "title": "2013 Seat Leon ST 1.4 TSI ACT 140hp FR First Edition"
+            },
+            {
+              "id": "mod_2013_seat_leon_st_1_6_tdi_style_first_edition",
+              "title": "2013 Seat Leon ST 1.6 TDI Style First Edition"
+            },
+            {
+              "id": "mod_2013_seat_leon_st_2_0_tdi_150hp_fr_first_edition",
+              "title": "2013 Seat Leon ST 2.0 TDI 150hp FR First Edition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_mii",
+      "title": "Seat Mii",
+      "generations": [
+        {
+          "id": "gen_seat_mii",
+          "title": "Seat Mii",
+          "children": [
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_chic",
+              "title": "2012 Seat Mii 1.0 60hp Chic"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_ecomotive_chic",
+              "title": "2012 Seat Mii 1.0 60hp Ecomotive Chic"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_ecomotive_entry",
+              "title": "2012 Seat Mii 1.0 60hp Ecomotive Entry"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_ecomotive_reference",
+              "title": "2012 Seat Mii 1.0 60hp Ecomotive Reference"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_ecomotive_sport",
+              "title": "2012 Seat Mii 1.0 60hp Ecomotive Sport"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_ecomotive_style",
+              "title": "2012 Seat Mii 1.0 60hp Ecomotive Style"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_sport",
+              "title": "2012 Seat Mii 1.0 60hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_style",
+              "title": "2012 Seat Mii 1.0 60hp Style"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_75hp_chic",
+              "title": "2012 Seat Mii 1.0 75hp Chic"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_75hp_reference",
+              "title": "2012 Seat Mii 1.0 75hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_75hp_sport",
+              "title": "2012 Seat Mii 1.0 75hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_75hp_style",
+              "title": "2012 Seat Mii 1.0 75hp Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_mii",
+          "title": "Seat Mii",
+          "children": [
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_chic",
+              "title": "2012 Seat Mii 1.0 60hp Chic"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_ecomotive_chic",
+              "title": "2012 Seat Mii 1.0 60hp Ecomotive Chic"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_ecomotive_reference",
+              "title": "2012 Seat Mii 1.0 60hp Ecomotive Reference"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_ecomotive_sport",
+              "title": "2012 Seat Mii 1.0 60hp Ecomotive Sport"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_sport",
+              "title": "2012 Seat Mii 1.0 60hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_60hp_style",
+              "title": "2012 Seat Mii 1.0 60hp Style"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_75hp_chic",
+              "title": "2012 Seat Mii 1.0 75hp Chic"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_75hp_reference",
+              "title": "2012 Seat Mii 1.0 75hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_75hp_sport",
+              "title": "2012 Seat Mii 1.0 75hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_mii_1_0_75hp_style",
+              "title": "2012 Seat Mii 1.0 75hp Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_ibiza_st",
+      "title": "Seat Ibiza ST",
+      "generations": [
+        {
+          "id": "gen_seat_ibiza_st",
+          "title": "Seat Ibiza ST",
+          "children": [
+            {
+              "id": "mod_2015_seat_ibiza_st_1_0_ecotsi_110hp_style_connect",
+              "title": "2015 Seat Ibiza ST 1.0 EcoTSI 110hp Style Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_st_1_0_ecotsi_95hp_reference",
+              "title": "2015 Seat Ibiza ST 1.0 EcoTSI 95hp Reference"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_st_1_0_ecotsi_95hp_style_connect",
+              "title": "2015 Seat Ibiza ST 1.0 EcoTSI 95hp Style Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_st_1_0_ecotsi_95hp_style",
+              "title": "2015 Seat Ibiza ST 1.0 EcoTSI 95hp Style"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_st_1_0_mpi_reference",
+              "title": "2015 Seat Ibiza ST 1.0 MPI Reference"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_st_1_4_ecotsi_150hp_fr_connect",
+              "title": "2015 Seat Ibiza ST 1.4 EcoTSI 150hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_st_1_4_tdi_105hp_fr_connect",
+              "title": "2015 Seat Ibiza ST 1.4 TDI 105hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_st_1_4_tdi_90hp_fr_connect",
+              "title": "2015 Seat Ibiza ST 1.4 TDI 90hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_st_1_4_tdi_90hp_fr",
+              "title": "2015 Seat Ibiza ST 1.4 TDI 90hp FR"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_st_1_4_tdi_90hp_reference",
+              "title": "2015 Seat Ibiza ST 1.4 TDI 90hp Reference"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_st_1_4_tdi_90hp_style_connect",
+              "title": "2015 Seat Ibiza ST 1.4 TDI 90hp Style Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_st_1_4_tdi_90hp_style",
+              "title": "2015 Seat Ibiza ST 1.4 TDI 90hp Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza_st",
+          "title": "Seat Ibiza ST",
+          "children": [
+            {
+              "id": "mod_2012_seat_ibiza_st_1_2_60hp_club",
+              "title": "2012 Seat Ibiza ST 1.2 60hp Club"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_2_60hp_reference",
+              "title": "2012 Seat Ibiza ST 1.2 60hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_2_70hp_reference",
+              "title": "2012 Seat Ibiza ST 1.2 70hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_2_70hp_style",
+              "title": "2012 Seat Ibiza ST 1.2 70hp Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_2_tdi_ecomotive_reference",
+              "title": "2012 Seat Ibiza ST 1.2 TDI Ecomotive Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_2_tdi_ecomotive_style",
+              "title": "2012 Seat Ibiza ST 1.2 TDI Ecomotive Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_2_tsi_105hp_fr",
+              "title": "2012 Seat Ibiza ST 1.2 TSI 105hp FR"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_2_tsi_105hp_reference",
+              "title": "2012 Seat Ibiza ST 1.2 TSI 105hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_2_tsi_105hp_style",
+              "title": "2012 Seat Ibiza ST 1.2 TSI 105hp Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_2_tsi_85hp_chill_out",
+              "title": "2012 Seat Ibiza ST 1.2 TSI 85hp Chill Out"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_2_tsi_85hp_reference",
+              "title": "2012 Seat Ibiza ST 1.2 TSI 85hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_2_tsi_85hp_style",
+              "title": "2012 Seat Ibiza ST 1.2 TSI 85hp Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_4_tsi_fr",
+              "title": "2012 Seat Ibiza ST 1.4 TSI FR"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_6_tdi_105hp_fr",
+              "title": "2012 Seat Ibiza ST 1.6 TDI 105hp FR"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_st_1_6_tdi_105hp_style",
+              "title": "2012 Seat Ibiza ST 1.6 TDI 105hp Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza_st",
+          "title": "Seat Ibiza ST",
+          "children": [
+            {
+              "id": "mod_2010_seat_ibiza_st_1_2_reference",
+              "title": "2010 Seat Ibiza ST 1.2 Reference"
+            },
+            {
+              "id": "mod_2010_seat_ibiza_st_1_2_style",
+              "title": "2010 Seat Ibiza ST 1.2 Style"
+            },
+            {
+              "id": "mod_2010_seat_ibiza_st_1_2_tdi_e_ecomotive_reference",
+              "title": "2010 Seat Ibiza ST 1.2 TDI E-Ecomotive Reference"
+            },
+            {
+              "id": "mod_2010_seat_ibiza_st_1_2_tdi_e_ecomotive_style",
+              "title": "2010 Seat Ibiza ST 1.2 TDI E-Ecomotive Style"
+            },
+            {
+              "id": "mod_2010_seat_ibiza_st_1_2_tsi_ecomotive_sport",
+              "title": "2010 Seat Ibiza ST 1.2 TSI Ecomotive Sport"
+            },
+            {
+              "id": "mod_2010_seat_ibiza_st_1_2_tsi_ecomotive_style",
+              "title": "2010 Seat Ibiza ST 1.2 TSI Ecomotive Style"
+            },
+            {
+              "id": "mod_2010_seat_ibiza_st_1_2_tsi_sport",
+              "title": "2010 Seat Ibiza ST 1.2 TSI Sport"
+            },
+            {
+              "id": "mod_2010_seat_ibiza_st_1_2_tsi_style",
+              "title": "2010 Seat Ibiza ST 1.2 TSI Style"
+            },
+            {
+              "id": "mod_2010_seat_ibiza_st_1_4_reference",
+              "title": "2010 Seat Ibiza ST 1.4 Reference"
+            },
+            {
+              "id": "mod_2010_seat_ibiza_st_1_4_style",
+              "title": "2010 Seat Ibiza ST 1.4 Style"
+            },
+            {
+              "id": "mod_2010_seat_ibiza_st_1_6_tdi_105hp_sport",
+              "title": "2010 Seat Ibiza ST 1.6 TDI 105hp Sport"
+            },
+            {
+              "id": "mod_2010_seat_ibiza_st_1_6_tdi_105hp_style",
+              "title": "2010 Seat Ibiza ST 1.6 TDI 105hp Style"
+            },
+            {
+              "id": "mod_2010_seat_ibiza_st_1_6_tdi_90hp_reference",
+              "title": "2010 Seat Ibiza ST 1.6 TDI 90hp Reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_exeo_st",
+      "title": "Seat Exeo ST",
+      "generations": [
+        {
+          "id": "gen_seat_exeo_st",
+          "title": "Seat Exeo ST",
+          "children": [
+            {
+              "id": "mod_2012_seat_exeo_st_1_8_tsi_120hp_reference",
+              "title": "2012 Seat Exeo ST 1.8 TSI 120hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_1_8_tsi_120hp_style",
+              "title": "2012 Seat Exeo ST 1.8 TSI 120hp Style"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_1_8_tsi_160hp_sport",
+              "title": "2012 Seat Exeo ST 1.8 TSI 160hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_1_8_tsi_160hp_style",
+              "title": "2012 Seat Exeo ST 1.8 TSI 160hp Style"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_2_0_tdi_120hp_reference",
+              "title": "2012 Seat Exeo ST 2.0 TDI 120hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_2_0_tdi_120hp_style",
+              "title": "2012 Seat Exeo ST 2.0 TDI 120hp Style"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_2_0_tdi_143hp_sport",
+              "title": "2012 Seat Exeo ST 2.0 TDI 143hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_2_0_tdi_143hp_style",
+              "title": "2012 Seat Exeo ST 2.0 TDI 143hp Style"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_2_0_tdi_170hp_sport",
+              "title": "2012 Seat Exeo ST 2.0 TDI 170hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_2_0_tdi_170hp_style",
+              "title": "2012 Seat Exeo ST 2.0 TDI 170hp Style"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_2_0_tsi_200hp_sport",
+              "title": "2012 Seat Exeo ST 2.0 TSI 200hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_2_0_tsi_200hp_style",
+              "title": "2012 Seat Exeo ST 2.0 TSI 200hp Style"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_2_0_tsi_210hp_sport",
+              "title": "2012 Seat Exeo ST 2.0 TSI 210hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_exeo_st_2_0_tsi_210hp_style",
+              "title": "2012 Seat Exeo ST 2.0 TSI 210hp Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_exeo_st",
+          "title": "Seat Exeo ST",
+          "children": [
+            {
+              "id": "mod_2009_seat_exeo_st_1_6_businessline_high",
+              "title": "2009 Seat Exeo ST 1.6 BusinessLine High"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_1_6_businessline",
+              "title": "2009 Seat Exeo ST 1.6 BusinessLine"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_1_6_reference",
+              "title": "2009 Seat Exeo ST 1.6 Reference"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_1_6_style",
+              "title": "2009 Seat Exeo ST 1.6 Style"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_1_8_tsi_150hp_businessline_high",
+              "title": "2009 Seat Exeo ST 1.8 TSI 150hp BusinessLine High"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_1_8_tsi_150hp_businessline",
+              "title": "2009 Seat Exeo ST 1.8 TSI 150hp BusinessLine"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_1_8_tsi_150hp_reference",
+              "title": "2009 Seat Exeo ST 1.8 TSI 150hp Reference"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_1_8_tsi_150hp_sport",
+              "title": "2009 Seat Exeo ST 1.8 TSI 150hp Sport"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_1_8_tsi_150hp_style",
+              "title": "2009 Seat Exeo ST 1.8 TSI 150hp Style"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_120hp_businessline_high",
+              "title": "2009 Seat Exeo ST 2.0 TDI 120hp BusinessLine High"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_120hp_businessline",
+              "title": "2009 Seat Exeo ST 2.0 TDI 120hp BusinessLine"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_120hp_reference",
+              "title": "2009 Seat Exeo ST 2.0 TDI 120hp Reference"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_120hp_style",
+              "title": "2009 Seat Exeo ST 2.0 TDI 120hp Style"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_143hp_businessline_high",
+              "title": "2009 Seat Exeo ST 2.0 TDI 143hp BusinessLine High"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_143hp_businessline",
+              "title": "2009 Seat Exeo ST 2.0 TDI 143hp BusinessLine"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_143hp_reference",
+              "title": "2009 Seat Exeo ST 2.0 TDI 143hp Reference"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_143hp_sport",
+              "title": "2009 Seat Exeo ST 2.0 TDI 143hp Sport"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_143hp_style",
+              "title": "2009 Seat Exeo ST 2.0 TDI 143hp Style"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_170hp_businessline_high",
+              "title": "2009 Seat Exeo ST 2.0 TDI 170hp BusinessLine High"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_170hp_businessline",
+              "title": "2009 Seat Exeo ST 2.0 TDI 170hp BusinessLine"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_170hp_sport",
+              "title": "2009 Seat Exeo ST 2.0 TDI 170hp Sport"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tdi_170hp_style",
+              "title": "2009 Seat Exeo ST 2.0 TDI 170hp Style"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tsi_200hp_businessline_high",
+              "title": "2009 Seat Exeo ST 2.0 TSI 200hp BusinessLine High"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tsi_200hp_businessline",
+              "title": "2009 Seat Exeo ST 2.0 TSI 200hp BusinessLine"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tsi_200hp_sport",
+              "title": "2009 Seat Exeo ST 2.0 TSI 200hp Sport"
+            },
+            {
+              "id": "mod_2009_seat_exeo_st_2_0_tsi_200hp_style",
+              "title": "2009 Seat Exeo ST 2.0 TSI 200hp Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_exeo",
+      "title": "Seat Exeo",
+      "generations": [
+        {
+          "id": "gen_seat_exeo",
+          "title": "Seat Exeo",
+          "children": [
+            {
+              "id": "mod_2012_seat_exeo_1_8_tsi_120hp_reference",
+              "title": "2012 Seat Exeo 1.8 TSI 120hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_exeo_1_8_tsi_120hp_style",
+              "title": "2012 Seat Exeo 1.8 TSI 120hp Style"
+            },
+            {
+              "id": "mod_2012_seat_exeo_1_8_tsi_160hp_sport",
+              "title": "2012 Seat Exeo 1.8 TSI 160hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_exeo_1_8_tsi_160hp_style",
+              "title": "2012 Seat Exeo 1.8 TSI 160hp Style"
+            },
+            {
+              "id": "mod_2012_seat_exeo_2_0_tdi_120hp_reference",
+              "title": "2012 Seat Exeo 2.0 TDI 120hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_exeo_2_0_tdi_120hp_style",
+              "title": "2012 Seat Exeo 2.0 TDI 120hp Style"
+            },
+            {
+              "id": "mod_2012_seat_exeo_2_0_tdi_143hp_sport",
+              "title": "2012 Seat Exeo 2.0 TDI 143hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_exeo_2_0_tdi_143hp_style",
+              "title": "2012 Seat Exeo 2.0 TDI 143hp Style"
+            },
+            {
+              "id": "mod_2012_seat_exeo_2_0_tdi_170hp_sport",
+              "title": "2012 Seat Exeo 2.0 TDI 170hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_exeo_2_0_tdi_170hp_style",
+              "title": "2012 Seat Exeo 2.0 TDI 170hp Style"
+            },
+            {
+              "id": "mod_2012_seat_exeo_2_0_tsi_200hp_sport",
+              "title": "2012 Seat Exeo 2.0 TSI 200hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_exeo_2_0_tsi_200hp_style",
+              "title": "2012 Seat Exeo 2.0 TSI 200hp Style"
+            },
+            {
+              "id": "mod_2012_seat_exeo_2_0_tsi_210hp_sport",
+              "title": "2012 Seat Exeo 2.0 TSI 210hp Sport"
+            },
+            {
+              "id": "mod_2012_seat_exeo_2_0_tsi_210hp_style",
+              "title": "2012 Seat Exeo 2.0 TSI 210hp Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_exeo",
+          "title": "Seat Exeo",
+          "children": [
+            {
+              "id": "mod_2009_seat_exeo_1_6_businessline_high",
+              "title": "2009 Seat Exeo 1.6 BusinessLine High"
+            },
+            {
+              "id": "mod_2009_seat_exeo_1_6_businessline",
+              "title": "2009 Seat Exeo 1.6 BusinessLine"
+            },
+            {
+              "id": "mod_2009_seat_exeo_1_6_reference",
+              "title": "2009 Seat Exeo 1.6 Reference"
+            },
+            {
+              "id": "mod_2009_seat_exeo_1_6_style",
+              "title": "2009 Seat Exeo 1.6 Style"
+            },
+            {
+              "id": "mod_2009_seat_exeo_1_8_tsi_150hp_businessline_high",
+              "title": "2009 Seat Exeo 1.8 TSI 150hp BusinessLine High"
+            },
+            {
+              "id": "mod_2009_seat_exeo_1_8_tsi_150hp_businessline",
+              "title": "2009 Seat Exeo 1.8 TSI 150hp BusinessLine"
+            },
+            {
+              "id": "mod_2009_seat_exeo_1_8_tsi_150hp_reference",
+              "title": "2009 Seat Exeo 1.8 TSI 150hp Reference"
+            },
+            {
+              "id": "mod_2009_seat_exeo_1_8_tsi_150hp_sport",
+              "title": "2009 Seat Exeo 1.8 TSI 150hp Sport"
+            },
+            {
+              "id": "mod_2009_seat_exeo_1_8_tsi_150hp_style",
+              "title": "2009 Seat Exeo 1.8 TSI 150hp Style"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_120hp_businessline_high",
+              "title": "2009 Seat Exeo 2.0 TDI 120hp BusinessLine High"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_120hp_businessline",
+              "title": "2009 Seat Exeo 2.0 TDI 120hp BusinessLine"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_120hp_reference",
+              "title": "2009 Seat Exeo 2.0 TDI 120hp Reference"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_120hp_style",
+              "title": "2009 Seat Exeo 2.0 TDI 120hp Style"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_143hp_businessline_high",
+              "title": "2009 Seat Exeo 2.0 TDI 143hp BusinessLine High"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_143hp_businessline",
+              "title": "2009 Seat Exeo 2.0 TDI 143hp BusinessLine"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_143hp_reference",
+              "title": "2009 Seat Exeo 2.0 TDI 143hp Reference"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_143hp_sport",
+              "title": "2009 Seat Exeo 2.0 TDI 143hp Sport"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_143hp_style",
+              "title": "2009 Seat Exeo 2.0 TDI 143hp Style"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_170hp_businessline_high",
+              "title": "2009 Seat Exeo 2.0 TDI 170hp BusinessLine High"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_170hp_businessline",
+              "title": "2009 Seat Exeo 2.0 TDI 170hp BusinessLine"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_170hp_sport",
+              "title": "2009 Seat Exeo 2.0 TDI 170hp Sport"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tdi_170hp_style",
+              "title": "2009 Seat Exeo 2.0 TDI 170hp Style"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tsi_200hp_businessline_high",
+              "title": "2009 Seat Exeo 2.0 TSI 200hp BusinessLine High"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tsi_200hp_businessline",
+              "title": "2009 Seat Exeo 2.0 TSI 200hp BusinessLine"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tsi_200hp_sport",
+              "title": "2009 Seat Exeo 2.0 TSI 200hp Sport"
+            },
+            {
+              "id": "mod_2009_seat_exeo_2_0_tsi_200hp_style",
+              "title": "2009 Seat Exeo 2.0 TSI 200hp Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_ibiza_sc",
+      "title": "Seat Ibiza SC",
+      "generations": [
+        {
+          "id": "gen_seat_ibiza_sc",
+          "title": "Seat Ibiza SC",
+          "children": [
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_0_ecotsi_110hp_fr_connect",
+              "title": "2015 Seat Ibiza SC 1.0 EcoTSI 110hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_0_ecotsi_110hp_style_connect",
+              "title": "2015 Seat Ibiza SC 1.0 EcoTSI 110hp Style Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_0_ecotsi_95hp_fr_connect",
+              "title": "2015 Seat Ibiza SC 1.0 EcoTSI 95hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_0_ecotsi_95hp_fr",
+              "title": "2015 Seat Ibiza SC 1.0 EcoTSI 95hp FR"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_0_ecotsi_95hp_reference",
+              "title": "2015 Seat Ibiza SC 1.0 EcoTSI 95hp Reference"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_0_ecotsi_95hp_style_connect",
+              "title": "2015 Seat Ibiza SC 1.0 EcoTSI 95hp Style Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_0_ecotsi_95hp_style",
+              "title": "2015 Seat Ibiza SC 1.0 EcoTSI 95hp Style"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_0_mpi_reference",
+              "title": "2015 Seat Ibiza SC 1.0 MPI Reference"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_4_ecotsi_150hp_fr_connect",
+              "title": "2015 Seat Ibiza SC 1.4 EcoTSI 150hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_4_tdi_105hp_fr_connect",
+              "title": "2015 Seat Ibiza SC 1.4 TDI 105hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_4_tdi_90hp_fr_connect",
+              "title": "2015 Seat Ibiza SC 1.4 TDI 90hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_4_tdi_90hp_fr",
+              "title": "2015 Seat Ibiza SC 1.4 TDI 90hp FR"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_4_tdi_90hp_reference",
+              "title": "2015 Seat Ibiza SC 1.4 TDI 90hp Reference"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_4_tdi_90hp_style_connect",
+              "title": "2015 Seat Ibiza SC 1.4 TDI 90hp Style Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_4_tdi_90hp_style",
+              "title": "2015 Seat Ibiza SC 1.4 TDI 90hp Style"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_sc_1_8_tsi_cupra",
+              "title": "2015 Seat Ibiza SC 1.8 TSI Cupra"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza_sc",
+          "title": "Seat Ibiza SC",
+          "children": [
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_2_60hp_entry",
+              "title": "2012 Seat Ibiza SC 1.2 60hp Entry"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_2_60hp_reference",
+              "title": "2012 Seat Ibiza SC 1.2 60hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_2_70hp_reference",
+              "title": "2012 Seat Ibiza SC 1.2 70hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_2_70hp_style",
+              "title": "2012 Seat Ibiza SC 1.2 70hp Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_2_tdi_ecomotive_reference",
+              "title": "2012 Seat Ibiza SC 1.2 TDI Ecomotive Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_2_tdi_ecomotive_style",
+              "title": "2012 Seat Ibiza SC 1.2 TDI Ecomotive Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_2_tsi_105hp_fr",
+              "title": "2012 Seat Ibiza SC 1.2 TSI 105hp FR"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_2_tsi_105hp_reference",
+              "title": "2012 Seat Ibiza SC 1.2 TSI 105hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_2_tsi_105hp_style",
+              "title": "2012 Seat Ibiza SC 1.2 TSI 105hp Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_2_tsi_85hp_chill_out",
+              "title": "2012 Seat Ibiza SC 1.2 TSI 85hp Chill Out"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_2_tsi_85hp_reference",
+              "title": "2012 Seat Ibiza SC 1.2 TSI 85hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_2_tsi_85hp_style",
+              "title": "2012 Seat Ibiza SC 1.2 TSI 85hp Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_4_tsi_fr",
+              "title": "2012 Seat Ibiza SC 1.4 TSI FR"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_6_tdi_105hp_fr",
+              "title": "2012 Seat Ibiza SC 1.6 TDI 105hp FR"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_1_6_tdi_105hp_style",
+              "title": "2012 Seat Ibiza SC 1.6 TDI 105hp Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_sc_2_0_tdi_143hp_fr",
+              "title": "2012 Seat Ibiza SC 2.0 TDI 143hp FR"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza_sc",
+          "title": "Seat Ibiza SC",
+          "children": [
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_2_reference",
+              "title": "2008 Seat Ibiza SC 1.2 Reference"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_4_reference",
+              "title": "2008 Seat Ibiza SC 1.4 Reference"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_4_sport",
+              "title": "2008 Seat Ibiza SC 1.4 Sport"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_4_style",
+              "title": "2008 Seat Ibiza SC 1.4 Style"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_4_tdi_reference",
+              "title": "2008 Seat Ibiza SC 1.4 TDI Reference"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_6_reference",
+              "title": "2008 Seat Ibiza SC 1.6 Reference"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_6_sport",
+              "title": "2008 Seat Ibiza SC 1.6 Sport"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_6_style",
+              "title": "2008 Seat Ibiza SC 1.6 Style"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_9_tdi_105hp_reference",
+              "title": "2008 Seat Ibiza SC 1.9 TDI 105hp Reference"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_9_tdi_105hp_sport",
+              "title": "2008 Seat Ibiza SC 1.9 TDI 105hp Sport"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_9_tdi_105hp_style",
+              "title": "2008 Seat Ibiza SC 1.9 TDI 105hp Style"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_9_tdi_90hp_reference",
+              "title": "2008 Seat Ibiza SC 1.9 TDI 90hp Reference"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_9_tdi_90hp_sport_up",
+              "title": "2008 Seat Ibiza SC 1.9 TDI 90hp Sport-up"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_sc_1_9_tdi_90hp_style",
+              "title": "2008 Seat Ibiza SC 1.9 TDI 90hp Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_altea_freetrack",
+      "title": "Seat Altea FreeTrack",
+      "generations": [
+        {
+          "id": "gen_seat_altea_freetrack",
+          "title": "Seat Altea FreeTrack",
+          "children": [
+            {
+              "id": "mod_2009_seat_altea_freetrack_2_0_tdi_140hp_2wd",
+              "title": "2009 Seat Altea FreeTrack 2.0 TDI 140hp 2WD"
+            },
+            {
+              "id": "mod_2009_seat_altea_freetrack_2_0_tdi_140hp_4wd",
+              "title": "2009 Seat Altea FreeTrack 2.0 TDI 140hp 4WD"
+            },
+            {
+              "id": "mod_2009_seat_altea_freetrack_2_0_tdi_170hp_4wd",
+              "title": "2009 Seat Altea FreeTrack 2.0 TDI 170hp 4WD"
+            },
+            {
+              "id": "mod_2009_seat_altea_freetrack_2_0_tsi_2wd",
+              "title": "2009 Seat Altea FreeTrack 2.0 TSI 2WD"
+            },
+            {
+              "id": "mod_2009_seat_altea_freetrack_2_0_tsi_4wd",
+              "title": "2009 Seat Altea FreeTrack 2.0 TSI 4WD"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_altea_freetrack",
+          "title": "Seat Altea FreeTrack",
+          "children": [
+            {
+              "id": "mod_2007_seat_altea_freetrack_2_0_tdi_140hp_2wd",
+              "title": "2007 Seat Altea FreeTrack 2.0 TDi 140hp 2WD"
+            },
+            {
+              "id": "mod_2007_seat_altea_freetrack_2_0_tdi_170hp_4wd",
+              "title": "2007 Seat Altea FreeTrack 2.0 TDi 170hp 4WD"
+            },
+            {
+              "id": "mod_2007_seat_altea_freetrack_2_0_tsi_4wd",
+              "title": "2007 Seat Altea FreeTrack 2.0 TSI 4WD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_altea_xl_stationwagon",
+      "title": "Seat Altea XL Stationwagon",
+      "generations": [
+        {
+          "id": "gen_seat_altea_xl_stationwagon",
+          "title": "Seat Altea XL Stationwagon",
+          "children": [
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_4_tsi_businessline_high",
+              "title": "2009 Seat Altea XL Stationwagon 1.4 TSI Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_4_tsi_businessline",
+              "title": "2009 Seat Altea XL Stationwagon 1.4 TSI Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_4_tsi_reference",
+              "title": "2009 Seat Altea XL Stationwagon 1.4 TSI Reference"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_4_tsi_sport",
+              "title": "2009 Seat Altea XL Stationwagon 1.4 TSI Sport"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_4_tsi_style",
+              "title": "2009 Seat Altea XL Stationwagon 1.4 TSI Style"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_4",
+              "title": "2009 Seat Altea XL Stationwagon 1.4"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_6_businessline_high",
+              "title": "2009 Seat Altea XL Stationwagon 1.6 Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_6_businessline",
+              "title": "2009 Seat Altea XL Stationwagon 1.6 Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_6_hattrick",
+              "title": "2009 Seat Altea XL Stationwagon 1.6 Hattrick"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_6_reference",
+              "title": "2009 Seat Altea XL Stationwagon 1.6 Reference"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_6_sport",
+              "title": "2009 Seat Altea XL Stationwagon 1.6 Sport"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_6_style",
+              "title": "2009 Seat Altea XL Stationwagon 1.6 Style"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_6_tdi_e_ecomotive_bus_h",
+              "title": "2009 Seat Altea XL Stationwagon 1.6 TDI E-Ecomotive Bus. H."
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_6_tdi_e_ecomotive_busin",
+              "title": "2009 Seat Altea XL Stationwagon 1.6 TDI E-Ecomotive Busin."
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_6_tdi_e_ecomotive_reference",
+              "title": "2009 Seat Altea XL Stationwagon 1.6 TDI E-Ecomotive Reference"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_6_tdi_e_ecomotive_style",
+              "title": "2009 Seat Altea XL Stationwagon 1.6 TDI E-Ecomotive Style"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_8_tsi_businessline_high",
+              "title": "2009 Seat Altea XL Stationwagon 1.8 TSI Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_8_tsi_businessline",
+              "title": "2009 Seat Altea XL Stationwagon 1.8 TSI Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_8_tsi_sport",
+              "title": "2009 Seat Altea XL Stationwagon 1.8 TSI Sport"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_8_tsi_style",
+              "title": "2009 Seat Altea XL Stationwagon 1.8 TSI Style"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_9_tdi_businessline_high",
+              "title": "2009 Seat Altea XL Stationwagon 1.9 TDI Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_9_tdi_businessline",
+              "title": "2009 Seat Altea XL Stationwagon 1.9 TDI Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_9_tdi_reference",
+              "title": "2009 Seat Altea XL Stationwagon 1.9 TDI Reference"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_9_tdi_sport",
+              "title": "2009 Seat Altea XL Stationwagon 1.9 TDI Sport"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_1_9_tdi_style",
+              "title": "2009 Seat Altea XL Stationwagon 1.9 TDI Style"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_2_0_tdi_140hp_bus_high",
+              "title": "2009 Seat Altea XL Stationwagon 2.0 TDI 140hp Bus. High"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_2_0_tdi_140hp_businessline",
+              "title": "2009 Seat Altea XL Stationwagon 2.0 TDI 140hp Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_2_0_tdi_140hp_sport",
+              "title": "2009 Seat Altea XL Stationwagon 2.0 TDI 140hp Sport"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_2_0_tdi_140hp_style",
+              "title": "2009 Seat Altea XL Stationwagon 2.0 TDI 140hp Style"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_2_0_tdi_170hp_bus_high",
+              "title": "2009 Seat Altea XL Stationwagon 2.0 TDI 170hp Bus. High"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_2_0_tdi_170hp_businessline",
+              "title": "2009 Seat Altea XL Stationwagon 2.0 TDI 170hp Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_2_0_tdi_170hp_sport",
+              "title": "2009 Seat Altea XL Stationwagon 2.0 TDI 170hp Sport"
+            },
+            {
+              "id": "mod_2009_seat_altea_xl_stationwagon_2_0_tdi_170hp_style",
+              "title": "2009 Seat Altea XL Stationwagon 2.0 TDi 170hp Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_altea_xl_stationwagon",
+          "title": "Seat Altea XL Stationwagon",
+          "children": [
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_1_4_16v",
+              "title": "2006 Seat Altea XL Stationwagon 1.4 16V"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_1_6_businessline",
+              "title": "2006 Seat Altea XL Stationwagon 1.6 Businessline"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_1_6_reference",
+              "title": "2006 Seat Altea XL Stationwagon 1.6 Reference"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_1_6_stylance",
+              "title": "2006 Seat Altea XL Stationwagon 1.6 Stylance"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_1_8_tsi_businessline",
+              "title": "2006 Seat Altea XL Stationwagon 1.8 TSI Businessline"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_1_8_tsi_sport_up",
+              "title": "2006 Seat Altea XL Stationwagon 1.8 TSI Sport-up"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_1_8_tsi_stylance",
+              "title": "2006 Seat Altea XL Stationwagon 1.8 TSI Stylance"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_1_9_tdi_businessline",
+              "title": "2006 Seat Altea XL Stationwagon 1.9 TDi Businessline"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_1_9_tdi_reference",
+              "title": "2006 Seat Altea XL Stationwagon 1.9 TDi Reference"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_1_9_tdi_stylance",
+              "title": "2006 Seat Altea XL Stationwagon 1.9 TDi Stylance"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_2_0_fsi_businessline",
+              "title": "2006 Seat Altea XL Stationwagon 2.0 FSI Businessline"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_2_0_fsi_stylance",
+              "title": "2006 Seat Altea XL Stationwagon 2.0 FSI Stylance"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_2_0_tdi_businessline",
+              "title": "2006 Seat Altea XL Stationwagon 2.0 TDi Businessline"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_2_0_tdi_sport_up",
+              "title": "2006 Seat Altea XL Stationwagon 2.0 TDi Sport-up"
+            },
+            {
+              "id": "mod_2006_seat_altea_xl_stationwagon_2_0_tdi_stylance",
+              "title": "2006 Seat Altea XL Stationwagon 2.0 TDi Stylance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_altea",
+      "title": "Seat Altea",
+      "generations": [
+        {
+          "id": "gen_seat_altea",
+          "title": "Seat Altea",
+          "children": [
+            {
+              "id": "mod_2009_seat_altea_1_4_tsi_businessline_high",
+              "title": "2009 Seat Altea 1.4 TSI Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_4_tsi_businessline",
+              "title": "2009 Seat Altea 1.4 TSI Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_4_tsi_reference",
+              "title": "2009 Seat Altea 1.4 TSI Reference"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_4_tsi_sport",
+              "title": "2009 Seat Altea 1.4 TSI Sport"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_4_tsi_style",
+              "title": "2009 Seat Altea 1.4 TSI Style"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_4",
+              "title": "2009 Seat Altea 1.4"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_6_businessline_high",
+              "title": "2009 Seat Altea 1.6 Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_6_businessline",
+              "title": "2009 Seat Altea 1.6 Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_6_hattrick",
+              "title": "2009 Seat Altea 1.6 Hattrick"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_6_reference",
+              "title": "2009 Seat Altea 1.6 Reference"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_6_sport",
+              "title": "2009 Seat Altea 1.6 Sport"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_6_style",
+              "title": "2009 Seat Altea 1.6 Style"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_6_tdi_e_ecomotive_businessline_high",
+              "title": "2009 Seat Altea 1.6 TDI E-Ecomotive Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_6_tdi_e_ecomotive_businessline",
+              "title": "2009 Seat Altea 1.6 TDI E-Ecomotive Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_6_tdi_e_ecomotive_reference",
+              "title": "2009 Seat Altea 1.6 TDI E-Ecomotive Reference"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_6_tdi_e_ecomotive_style",
+              "title": "2009 Seat Altea 1.6 TDI E-Ecomotive Style"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_8_tsi_businessline_high",
+              "title": "2009 Seat Altea 1.8 TSI Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_8_tsi_businessline",
+              "title": "2009 Seat Altea 1.8 TSI Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_8_tsi_sport",
+              "title": "2009 Seat Altea 1.8 TSI Sport"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_8_tsi_style",
+              "title": "2009 Seat Altea 1.8 TSI Style"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_9_tdi_businessline_high",
+              "title": "2009 Seat Altea 1.9 TDI Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_9_tdi_businessline",
+              "title": "2009 Seat Altea 1.9 TDI Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_9_tdi_reference",
+              "title": "2009 Seat Altea 1.9 TDI Reference"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_9_tdi_sport",
+              "title": "2009 Seat Altea 1.9 TDI Sport"
+            },
+            {
+              "id": "mod_2009_seat_altea_1_9_tdi_style",
+              "title": "2009 Seat Altea 1.9 TDI Style"
+            },
+            {
+              "id": "mod_2009_seat_altea_2_0_tdi_140hp_businessline_high",
+              "title": "2009 Seat Altea 2.0 TDI 140hp Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_altea_2_0_tdi_140hp_businessline",
+              "title": "2009 Seat Altea 2.0 TDI 140hp Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_2_0_tdi_140hp_sport",
+              "title": "2009 Seat Altea 2.0 TDI 140hp Sport"
+            },
+            {
+              "id": "mod_2009_seat_altea_2_0_tdi_140hp_style",
+              "title": "2009 Seat Altea 2.0 TDI 140hp Style"
+            },
+            {
+              "id": "mod_2009_seat_altea_2_0_tdi_170hp_businessline_high",
+              "title": "2009 Seat Altea 2.0 TDI 170hp Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_altea_2_0_tdi_170hp_businessline",
+              "title": "2009 Seat Altea 2.0 TDI 170hp Businessline"
+            },
+            {
+              "id": "mod_2009_seat_altea_2_0_tdi_170hp_sport",
+              "title": "2009 Seat Altea 2.0 TDI 170hp Sport"
+            },
+            {
+              "id": "mod_2009_seat_altea_2_0_tdi_170hp_style",
+              "title": "2009 Seat Altea 2.0 TDI 170hp Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_altea",
+          "title": "Seat Altea",
+          "children": [
+            {
+              "id": "mod_2004_seat_altea_1_6_reference",
+              "title": "2004 Seat Altea 1.6 Reference"
+            },
+            {
+              "id": "mod_2004_seat_altea_1_6_sport",
+              "title": "2004 Seat Altea 1.6 Sport"
+            },
+            {
+              "id": "mod_2004_seat_altea_1_6_sport_up",
+              "title": "2004 Seat Altea 1.6 Sport-up"
+            },
+            {
+              "id": "mod_2004_seat_altea_1_6_stylance",
+              "title": "2004 Seat Altea 1.6 Stylance"
+            },
+            {
+              "id": "mod_2004_seat_altea_1_6",
+              "title": "2004 Seat Altea 1.6"
+            },
+            {
+              "id": "mod_2004_seat_altea_1_9_tdi_reference",
+              "title": "2004 Seat Altea 1.9 TDi Reference"
+            },
+            {
+              "id": "mod_2004_seat_altea_1_9_tdi_sport",
+              "title": "2004 Seat Altea 1.9 TDi Sport"
+            },
+            {
+              "id": "mod_2004_seat_altea_1_9_tdi_sport_up",
+              "title": "2004 Seat Altea 1.9 TDi Sport-up"
+            },
+            {
+              "id": "mod_2004_seat_altea_1_9_tdi_stylance",
+              "title": "2004 Seat Altea 1.9 TDi Stylance"
+            },
+            {
+              "id": "mod_2004_seat_altea_1_9_tdi",
+              "title": "2004 Seat Altea 1.9 TDi"
+            },
+            {
+              "id": "mod_2004_seat_altea_2_0_fsi_sport_up",
+              "title": "2004 Seat Altea 2.0 FSI Sport-up"
+            },
+            {
+              "id": "mod_2004_seat_altea_2_0_fsi_stylance",
+              "title": "2004 Seat Altea 2.0 FSI Stylance"
+            },
+            {
+              "id": "mod_2004_seat_altea_2_0_tdi_sport_up",
+              "title": "2004 Seat Altea 2.0 TDi Sport-up"
+            },
+            {
+              "id": "mod_2004_seat_altea_2_0_tdi_stylance",
+              "title": "2004 Seat Altea 2.0 TDi Stylance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_leon",
+      "title": "Seat Leon",
+      "generations": [
+        {
+          "id": "gen_seat_leon",
+          "title": "Seat Leon",
+          "children": [
+            {
+              "id": "mod_2020_seat_leon_1_0_etsi_110hp_fr_launch_edition",
+              "title": "2020 Seat Leon 1.0 ETSI 110hp FR Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_0_etsi_110hp_fr",
+              "title": "2020 Seat Leon 1.0 ETSI 110hp FR"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_0_etsi_110hp_style_launch_edition",
+              "title": "2020 Seat Leon 1.0 ETSI 110hp Style Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_0_etsi_110hp_style",
+              "title": "2020 Seat Leon 1.0 ETSI 110hp Style"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_0_tsi_110hp_fr_launch_edition",
+              "title": "2020 Seat Leon 1.0 TSI 110hp FR Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_0_tsi_110hp_fr",
+              "title": "2020 Seat Leon 1.0 TSI 110hp FR"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_0_tsi_110hp_style_launch_edition",
+              "title": "2020 Seat Leon 1.0 TSI 110hp Style Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_0_tsi_110hp_style",
+              "title": "2020 Seat Leon 1.0 TSI 110hp Style"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_0_tsi_90hp_reference",
+              "title": "2020 Seat Leon 1.0 TSI 90hp Reference"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_4_tsi_e_hybrid_fr",
+              "title": "2020 Seat Leon 1.4 TSI E-Hybrid FR"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_5_etsi_150hp_fr_launch_edition",
+              "title": "2020 Seat Leon 1.5 ETSI 150hp FR Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_5_etsi_150hp_fr",
+              "title": "2020 Seat Leon 1.5 ETSI 150hp FR"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_5_etsi_150hp_style_launch_edition",
+              "title": "2020 Seat Leon 1.5 ETSI 150hp Style Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_5_etsi_150hp_style",
+              "title": "2020 Seat Leon 1.5 ETSI 150hp Style"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_5_tsi_150hp_fr_launch_edition",
+              "title": "2020 Seat Leon 1.5 TSI 150hp FR Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_1_5_tsi_150hp_fr",
+              "title": "2020 Seat Leon 1.5 TSI 150hp FR"
+            },
+            {
+              "id": "mod_2020_seat_leon_2_0_tdi_115hp_style_launch_edition",
+              "title": "2020 Seat Leon 2.0 TDI 115hp Style Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_2_0_tdi_115hp_style",
+              "title": "2020 Seat Leon 2.0 TDI 115hp Style"
+            },
+            {
+              "id": "mod_2020_seat_leon_2_0_tdi_150hp_fr_launch_edition",
+              "title": "2020 Seat Leon 2.0 TDI 150hp FR Launch Edition"
+            },
+            {
+              "id": "mod_2020_seat_leon_2_0_tdi_150hp_fr",
+              "title": "2020 Seat Leon 2.0 TDI 150hp FR"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_leon",
+          "title": "Seat Leon",
+          "children": [
+            {
+              "id": "mod_2017_seat_leon_1_0_ecotsi_reference",
+              "title": "2017 Seat Leon 1.0 EcoTSI Reference"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_0_ecotsi_style_business_intense",
+              "title": "2017 Seat Leon 1.0 EcoTSI Style Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_0_ecotsi_style",
+              "title": "2017 Seat Leon 1.0 EcoTSI Style"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_4_ecotsi_150hp_fr_business_intense",
+              "title": "2017 Seat Leon 1.4 EcoTSI 150hp FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_4_ecotsi_150hp_fr",
+              "title": "2017 Seat Leon 1.4 EcoTSI 150hp FR"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_4_ecotsi_150hp_style_business_intense",
+              "title": "2017 Seat Leon 1.4 EcoTSI 150hp Style Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_4_ecotsi_150hp_style",
+              "title": "2017 Seat Leon 1.4 EcoTSI 150hp Style"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_4_ecotsi_150hp_xcellence_business_intense",
+              "title": "2017 Seat Leon 1.4 EcoTSI 150hp Xcellence Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_4_ecotsi_150hp_xcellence",
+              "title": "2017 Seat Leon 1.4 EcoTSI 150hp Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_4_tgi_110hp_style_business_intense",
+              "title": "2017 Seat Leon 1.4 TGI 110hp Style Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_4_tgi_110hp_style",
+              "title": "2017 Seat Leon 1.4 TGI 110hp Style"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_6_tdi_reference",
+              "title": "2017 Seat Leon 1.6 TDI Reference"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_6_tdi_style_business_intense",
+              "title": "2017 Seat Leon 1.6 TDI Style Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_6_tdi_style",
+              "title": "2017 Seat Leon 1.6 TDI Style"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_6_tdi_xcellence_business_intense",
+              "title": "2017 Seat Leon 1.6 TDI Xcellence Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_6_tdi_xcellence",
+              "title": "2017 Seat Leon 1.6 TDI Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_8_tsi_fr_business_intense",
+              "title": "2017 Seat Leon 1.8 TSI FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_8_tsi_fr",
+              "title": "2017 Seat Leon 1.8 TSI FR"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_8_tsi_xcellence_business_intense",
+              "title": "2017 Seat Leon 1.8 TSI Xcellence Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_1_8_tsi_xcellence",
+              "title": "2017 Seat Leon 1.8 TSI Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_leon_2_0_tdi_150hp_fr_business_intense",
+              "title": "2017 Seat Leon 2.0 TDI 150hp FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_2_0_tdi_150hp_fr",
+              "title": "2017 Seat Leon 2.0 TDI 150hp FR"
+            },
+            {
+              "id": "mod_2017_seat_leon_2_0_tdi_150hp_xcellence_business_intense",
+              "title": "2017 Seat Leon 2.0 TDI 150hp Xcellence Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_2_0_tdi_150hp_xcellence",
+              "title": "2017 Seat Leon 2.0 TDI 150hp Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_leon_2_0_tdi_184hp_fr_business_intense",
+              "title": "2017 Seat Leon 2.0 TDI 184hp FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_2_0_tdi_184hp_fr",
+              "title": "2017 Seat Leon 2.0 TDI 184hp FR"
+            },
+            {
+              "id": "mod_2017_seat_leon_2_0_tdi_184hp_xcellence_business_intense",
+              "title": "2017 Seat Leon 2.0 TDI 184hp Xcellence Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_leon_2_0_tdi_184hp_xcellence",
+              "title": "2017 Seat Leon 2.0 TDI 184hp Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_leon_2_0_tsi_cupra_300",
+              "title": "2017 Seat Leon 2.0 TSI Cupra 300"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_leon",
+          "title": "Seat Leon",
+          "children": [
+            {
+              "id": "mod_2013_seat_leon_1_2_tsi_105hp_reference",
+              "title": "2013 Seat Leon 1.2 TSI 105hp Reference"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_2_tsi_105hp_style_business",
+              "title": "2013 Seat Leon 1.2 TSI 105hp Style Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_2_tsi_105hp_style",
+              "title": "2013 Seat Leon 1.2 TSI 105hp Style"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_2_tsi_85hp_enjoy",
+              "title": "2013 Seat Leon 1.2 TSI 85hp Enjoy"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_2_tsi_85hp_entry",
+              "title": "2013 Seat Leon 1.2 TSI 85hp Entry"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_2_tsi_85hp_reference",
+              "title": "2013 Seat Leon 1.2 TSI 85hp Reference"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_4_tsi_122hp_fr_business",
+              "title": "2013 Seat Leon 1.4 TSI 122hp FR Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_4_tsi_122hp_fr",
+              "title": "2013 Seat Leon 1.4 TSI 122hp FR"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_4_tsi_122hp_style_business",
+              "title": "2013 Seat Leon 1.4 TSI 122hp Style Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_4_tsi_122hp_style",
+              "title": "2013 Seat Leon 1.4 TSI 122hp Style"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_4_tsi_act_140hp_fr_business",
+              "title": "2013 Seat Leon 1.4 TSI ACT 140hp FR Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_4_tsi_act_140hp_fr",
+              "title": "2013 Seat Leon 1.4 TSI ACT 140hp FR"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_6_tdi_ecomotive_limited_edition_i",
+              "title": "2013 Seat Leon 1.6 TDI Ecomotive Limited Edition I"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_6_tdi_ecomotive_limited_edition_ii",
+              "title": "2013 Seat Leon 1.6 TDI Ecomotive Limited Edition II"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_6_tdi_ecomotive_reference",
+              "title": "2013 Seat Leon 1.6 TDI Ecomotive Reference"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_6_tdi_ecomotive_style_business",
+              "title": "2013 Seat Leon 1.6 TDI Ecomotive Style Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_6_tdi_ecomotive_style",
+              "title": "2013 Seat Leon 1.6 TDI Ecomotive Style"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_6_tdi_reference",
+              "title": "2013 Seat Leon 1.6 TDI Reference"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_6_tdi_style_business",
+              "title": "2013 Seat Leon 1.6 TDI Style Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_6_tdi_style",
+              "title": "2013 Seat Leon 1.6 TDI Style"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_8_tsi_fr_business",
+              "title": "2013 Seat Leon 1.8 TSI FR Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_1_8_tsi_fr",
+              "title": "2013 Seat Leon 1.8 TSI FR"
+            },
+            {
+              "id": "mod_2013_seat_leon_2_0_tdi_150hp_fr_business",
+              "title": "2013 Seat Leon 2.0 TDI 150hp FR Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_2_0_tdi_150hp_fr",
+              "title": "2013 Seat Leon 2.0 TDI 150hp FR"
+            },
+            {
+              "id": "mod_2013_seat_leon_2_0_tdi_150hp_style_business",
+              "title": "2013 Seat Leon 2.0 TDI 150hp Style Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_2_0_tdi_150hp_style",
+              "title": "2013 Seat Leon 2.0 TDI 150hp Style"
+            },
+            {
+              "id": "mod_2013_seat_leon_2_0_tdi_184hp_fr_business",
+              "title": "2013 Seat Leon 2.0 TDI 184hp FR Business"
+            },
+            {
+              "id": "mod_2013_seat_leon_2_0_tdi_184hp_fr",
+              "title": "2013 Seat Leon 2.0 TDI 184hp FR"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_leon",
+          "title": "Seat Leon",
+          "children": [
+            {
+              "id": "mod_2009_seat_leon_1_4_tsi_businessline_high",
+              "title": "2009 Seat Leon 1.4 TSI Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_4_tsi_businessline",
+              "title": "2009 Seat Leon 1.4 TSI Businessline"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_4_tsi_reference",
+              "title": "2009 Seat Leon 1.4 TSI Reference"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_4_tsi_sport",
+              "title": "2009 Seat Leon 1.4 TSI Sport"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_4_tsi_style",
+              "title": "2009 Seat Leon 1.4 TSI Style"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_4",
+              "title": "2009 Seat Leon 1.4"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_6_businessline_high",
+              "title": "2009 Seat Leon 1.6 Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_6_businessline",
+              "title": "2009 Seat Leon 1.6 Businessline"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_6_hattrick",
+              "title": "2009 Seat Leon 1.6 Hattrick"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_6_reference",
+              "title": "2009 Seat Leon 1.6 Reference"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_6_sport",
+              "title": "2009 Seat Leon 1.6 Sport"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_6_style",
+              "title": "2009 Seat Leon 1.6 Style"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_8_tsi_businessline_high",
+              "title": "2009 Seat Leon 1.8 TSI Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_8_tsi_businessline",
+              "title": "2009 Seat Leon 1.8 TSI Businessline"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_8_tsi_sport",
+              "title": "2009 Seat Leon 1.8 TSI Sport"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_8_tsi_style",
+              "title": "2009 Seat Leon 1.8 TSI Style"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_9_tdi_businessline_high",
+              "title": "2009 Seat Leon 1.9 TDI Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_9_tdi_businessline",
+              "title": "2009 Seat Leon 1.9 TDI Businessline"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_9_tdi_ecomotive_businessline_high",
+              "title": "2009 Seat Leon 1.9 TDI Ecomotive Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_9_tdi_ecomotive_businessline",
+              "title": "2009 Seat Leon 1.9 TDI Ecomotive Businessline"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_9_tdi_ecomotive_reference",
+              "title": "2009 Seat Leon 1.9 TDI Ecomotive Reference"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_9_tdi_ecomotive_style",
+              "title": "2009 Seat Leon 1.9 TDI Ecomotive Style"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_9_tdi_reference",
+              "title": "2009 Seat Leon 1.9 TDI Reference"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_9_tdi_sport",
+              "title": "2009 Seat Leon 1.9 TDI Sport"
+            },
+            {
+              "id": "mod_2009_seat_leon_1_9_tdi_style",
+              "title": "2009 Seat Leon 1.9 TDI Style"
+            },
+            {
+              "id": "mod_2009_seat_leon_2_0_tdi_170hp_fr",
+              "title": "2009 Seat Leon 2.0 TDI 170hp FR"
+            },
+            {
+              "id": "mod_2009_seat_leon_2_0_tdi_businessline_high",
+              "title": "2009 Seat Leon 2.0 TDI Businessline High"
+            },
+            {
+              "id": "mod_2009_seat_leon_2_0_tdi_businessline",
+              "title": "2009 Seat Leon 2.0 TDI Businessline"
+            },
+            {
+              "id": "mod_2009_seat_leon_2_0_tdi_sport",
+              "title": "2009 Seat Leon 2.0 TDI Sport"
+            },
+            {
+              "id": "mod_2009_seat_leon_2_0_tdi_style",
+              "title": "2009 Seat Leon 2.0 TDI Style"
+            },
+            {
+              "id": "mod_2009_seat_leon_2_0_tsi_cupra_r",
+              "title": "2009 Seat Leon 2.0 TSI Cupra R"
+            },
+            {
+              "id": "mod_2009_seat_leon_2_0_tsi_cupra",
+              "title": "2009 Seat Leon 2.0 TSI Cupra"
+            },
+            {
+              "id": "mod_2009_seat_leon_2_0_tsi_fr",
+              "title": "2009 Seat Leon 2.0 TSI FR"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_leon",
+          "title": "Seat Leon",
+          "children": [
+            {
+              "id": "mod_2005_seat_leon_1_6_reference",
+              "title": "2005 Seat Leon 1.6 Reference"
+            },
+            {
+              "id": "mod_2005_seat_leon_1_6_sport",
+              "title": "2005 Seat Leon 1.6 Sport"
+            },
+            {
+              "id": "mod_2005_seat_leon_1_6_sport_up",
+              "title": "2005 Seat Leon 1.6 Sport-up"
+            },
+            {
+              "id": "mod_2005_seat_leon_1_6_stylance",
+              "title": "2005 Seat Leon 1.6 Stylance"
+            },
+            {
+              "id": "mod_2005_seat_leon_1_6",
+              "title": "2005 Seat Leon 1.6"
+            },
+            {
+              "id": "mod_2005_seat_leon_1_9_tdi_reference",
+              "title": "2005 Seat Leon 1.9 TDI Reference"
+            },
+            {
+              "id": "mod_2005_seat_leon_1_9_tdi_sport",
+              "title": "2005 Seat Leon 1.9 TDI Sport"
+            },
+            {
+              "id": "mod_2005_seat_leon_1_9_tdi_sport_up",
+              "title": "2005 Seat Leon 1.9 TDI Sport-up"
+            },
+            {
+              "id": "mod_2005_seat_leon_1_9_tdi_stylance",
+              "title": "2005 Seat Leon 1.9 TDI Stylance"
+            },
+            {
+              "id": "mod_2005_seat_leon_1_9_tdi",
+              "title": "2005 Seat Leon 1.9 TDI"
+            },
+            {
+              "id": "mod_2005_seat_leon_2_0_fsi_reference",
+              "title": "2005 Seat Leon 2.0 FSI Reference"
+            },
+            {
+              "id": "mod_2005_seat_leon_2_0_fsi_sport",
+              "title": "2005 Seat Leon 2.0 FSI Sport"
+            },
+            {
+              "id": "mod_2005_seat_leon_2_0_fsi_sport_up",
+              "title": "2005 Seat Leon 2.0 FSI Sport-up"
+            },
+            {
+              "id": "mod_2005_seat_leon_2_0_fsi_stylance",
+              "title": "2005 Seat Leon 2.0 FSI Stylance"
+            },
+            {
+              "id": "mod_2005_seat_leon_2_0_tdi_reference",
+              "title": "2005 Seat Leon 2.0 TDI Reference"
+            },
+            {
+              "id": "mod_2005_seat_leon_2_0_tdi_sport",
+              "title": "2005 Seat Leon 2.0 TDI Sport"
+            },
+            {
+              "id": "mod_2005_seat_leon_2_0_tdi_sport_up",
+              "title": "2005 Seat Leon 2.0 TDI Sport-up"
+            },
+            {
+              "id": "mod_2005_seat_leon_2_0_tdi_stylance",
+              "title": "2005 Seat Leon 2.0 TDI Stylance"
+            },
+            {
+              "id": "mod_2005_seat_leon_2_0_tfsi_sport_up",
+              "title": "2005 Seat Leon 2.0 TFSI Sport-up"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_leon",
+          "title": "Seat Leon",
+          "children": [
+            {
+              "id": "mod_2000_seat_leon_1_4_16v_signo",
+              "title": "2000 Seat Leon 1.4 16V Signo"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_4_16v_stella",
+              "title": "2000 Seat Leon 1.4 16V Stella"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_6_16v_signo",
+              "title": "2000 Seat Leon 1.6 16V Signo"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_6_16v_sport",
+              "title": "2000 Seat Leon 1.6 16V Sport"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_6_16v_stella",
+              "title": "2000 Seat Leon 1.6 16V Stella"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_6_signo",
+              "title": "2000 Seat Leon 1.6 Signo"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_6_sport",
+              "title": "2000 Seat Leon 1.6 Sport"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_6_stella",
+              "title": "2000 Seat Leon 1.6 Stella"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_8_20v_signo",
+              "title": "2000 Seat Leon 1.8 20V Signo"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_8_20v_sport",
+              "title": "2000 Seat Leon 1.8 20V Sport"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_8_20vt_sport",
+              "title": "2000 Seat Leon 1.8 20VT Sport"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_9_sdi_stella",
+              "title": "2000 Seat Leon 1.9 SDi Stella"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_9_tdi_110hp_signo",
+              "title": "2000 Seat Leon 1.9 TDi 110hp Signo"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_9_tdi_110hp_sport",
+              "title": "2000 Seat Leon 1.9 TDi 110hp Sport"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_9_tdi_110hp_stella",
+              "title": "2000 Seat Leon 1.9 TDi 110hp Stella"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_9_tdi_90hp_signo",
+              "title": "2000 Seat Leon 1.9 TDi 90hp Signo"
+            },
+            {
+              "id": "mod_2000_seat_leon_1_9_tdi_90hp_stella",
+              "title": "2000 Seat Leon 1.9 TDi 90hp Stella"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_cordoba_2_drs",
+      "title": "Seat Cordoba 2-drs",
+      "generations": [
+        {
+          "id": "gen_seat_cordoba_2_drs",
+          "title": "Seat Cordoba 2-drs",
+          "children": [
+            {
+              "id": "mod_1999_seat_cordoba_2_drs_1_6_100hp_sport",
+              "title": "1999 Seat Cordoba 2-drs 1.6 100hp Sport"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_2_drs_1_9_tdi_110hp_sport",
+              "title": "1999 Seat Cordoba 2-drs 1.9 TDi 110hp Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_cordoba_vario",
+      "title": "Seat Cordoba Vario",
+      "generations": [
+        {
+          "id": "gen_seat_cordoba_vario",
+          "title": "Seat Cordoba Vario",
+          "children": [
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_4_stella",
+              "title": "1999 Seat Cordoba Vario 1.4 Stella +"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_4_stella",
+              "title": "1999 Seat Cordoba Vario 1.4 Stella"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_6_100hp_signo",
+              "title": "1999 Seat Cordoba Vario 1.6 100hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_6_100hp_sport",
+              "title": "1999 Seat Cordoba Vario 1.6 100hp Sport"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_6_75hp_signo",
+              "title": "1999 Seat Cordoba Vario 1.6 75hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_6_75hp_stella",
+              "title": "1999 Seat Cordoba Vario 1.6 75hp Stella +"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_6_75hp_stella",
+              "title": "1999 Seat Cordoba Vario 1.6 75hp Stella"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_9_sdi_stella",
+              "title": "1999 Seat Cordoba Vario 1.9 SDi Stella +"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_9_sdi_stella",
+              "title": "1999 Seat Cordoba Vario 1.9 SDi Stella"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_9_tdi_110hp_signo",
+              "title": "1999 Seat Cordoba Vario 1.9 TDi 110hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_9_tdi_110hp_sport",
+              "title": "1999 Seat Cordoba Vario 1.9 TDi 110hp Sport"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_9_tdi_90hp_signo",
+              "title": "1999 Seat Cordoba Vario 1.9 TDi 90hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_9_tdi_90hp_stella",
+              "title": "1999 Seat Cordoba Vario 1.9 TDi 90hp Stella +"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_vario_1_9_tdi_90hp_stella",
+              "title": "1999 Seat Cordoba Vario 1.9 TDi 90hp Stella"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_cordoba_vario",
+          "title": "Seat Cordoba Vario",
+          "children": [
+            {
+              "id": "mod_1998_seat_cordoba_vario_1_4i_se",
+              "title": "1998 Seat Cordoba Vario 1.4i SE"
+            },
+            {
+              "id": "mod_1998_seat_cordoba_vario_1_6i_100hp_sxe",
+              "title": "1998 Seat Cordoba Vario 1.6i 100hp SXE"
+            },
+            {
+              "id": "mod_1998_seat_cordoba_vario_1_6i_se",
+              "title": "1998 Seat Cordoba Vario 1.6i SE"
+            },
+            {
+              "id": "mod_1998_seat_cordoba_vario_1_6i_sxe",
+              "title": "1998 Seat Cordoba Vario 1.6i SXE"
+            },
+            {
+              "id": "mod_1998_seat_cordoba_vario_1_9_sdi_se",
+              "title": "1998 Seat Cordoba Vario 1.9 SDi SE"
+            },
+            {
+              "id": "mod_1998_seat_cordoba_vario_1_9_tdi_110hp_gt",
+              "title": "1998 Seat Cordoba Vario 1.9 TDi 110hp GT"
+            },
+            {
+              "id": "mod_1998_seat_cordoba_vario_1_9_tdi_90hp_se",
+              "title": "1998 Seat Cordoba Vario 1.9 TDi 90hp SE"
+            },
+            {
+              "id": "mod_1998_seat_cordoba_vario_1_9_tdi_90hp_sxe",
+              "title": "1998 Seat Cordoba Vario 1.9 TDi 90hp SXE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_arosa",
+      "title": "Seat Arosa",
+      "generations": [
+        {
+          "id": "gen_seat_arosa",
+          "title": "Seat Arosa",
+          "children": [
+            {
+              "id": "mod_2001_seat_arosa_1_0_select",
+              "title": "2001 Seat Arosa 1.0 Select"
+            },
+            {
+              "id": "mod_2001_seat_arosa_1_0_stella",
+              "title": "2001 Seat Arosa 1.0 Stella"
+            },
+            {
+              "id": "mod_2001_seat_arosa_1_4_16v_sport",
+              "title": "2001 Seat Arosa 1.4 16V Sport"
+            },
+            {
+              "id": "mod_2001_seat_arosa_1_4_signo",
+              "title": "2001 Seat Arosa 1.4 Signo"
+            },
+            {
+              "id": "mod_2001_seat_arosa_1_4_stella",
+              "title": "2001 Seat Arosa 1.4 Stella"
+            },
+            {
+              "id": "mod_2001_seat_arosa_1_4_tdi_signo",
+              "title": "2001 Seat Arosa 1.4 TDi Signo"
+            },
+            {
+              "id": "mod_2001_seat_arosa_1_4_tdi_stella",
+              "title": "2001 Seat Arosa 1.4 TDi Stella"
+            },
+            {
+              "id": "mod_2001_seat_arosa_1_7_sdi_select",
+              "title": "2001 Seat Arosa 1.7 SDi Select"
+            },
+            {
+              "id": "mod_2001_seat_arosa_1_7_sdi_stella",
+              "title": "2001 Seat Arosa 1.7 SDi Stella"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_arosa",
+          "title": "Seat Arosa",
+          "children": [
+            {
+              "id": "mod_1997_seat_arosa_1_0",
+              "title": "1997 Seat Arosa 1.0"
+            },
+            {
+              "id": "mod_1997_seat_arosa_1_4",
+              "title": "1997 Seat Arosa 1.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_cordoba_sx",
+      "title": "Seat Cordoba SX",
+      "generations": [
+        {
+          "id": "gen_seat_cordoba_sx",
+          "title": "Seat Cordoba SX",
+          "children": [
+            {
+              "id": "mod_1996_seat_cordoba_sx_1_6i_100hp",
+              "title": "1996 Seat Cordoba SX 1.6i 100hp"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_sx_1_8i_16v",
+              "title": "1996 Seat Cordoba SX 1.8i 16V"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_sx_1_9_tdi_90hp",
+              "title": "1996 Seat Cordoba SX 1.9 TDi 90hp"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_sx_2_0i_16v",
+              "title": "1996 Seat Cordoba SX 2.0i 16V"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_sx_2_0i",
+              "title": "1996 Seat Cordoba SX 2.0i"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_alhambra",
+      "title": "Seat Alhambra",
+      "generations": [
+        {
+          "id": "gen_seat_alhambra",
+          "title": "Seat Alhambra",
+          "children": [
+            {
+              "id": "mod_2015_seat_alhambra_1_4_tsi_fr_connect",
+              "title": "2015 Seat Alhambra 1.4 TSI FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_alhambra_1_4_tsi_reference",
+              "title": "2015 Seat Alhambra 1.4 TSI Reference"
+            },
+            {
+              "id": "mod_2015_seat_alhambra_1_4_tsi_style_connect",
+              "title": "2015 Seat Alhambra 1.4 TSI Style Connect"
+            },
+            {
+              "id": "mod_2015_seat_alhambra_1_4_tsi_style",
+              "title": "2015 Seat Alhambra 1.4 TSI Style"
+            },
+            {
+              "id": "mod_2015_seat_alhambra_2_0_tdi_150hp_fr_connect",
+              "title": "2015 Seat Alhambra 2.0 TDI 150hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_alhambra_2_0_tdi_150hp_reference",
+              "title": "2015 Seat Alhambra 2.0 TDI 150hp Reference"
+            },
+            {
+              "id": "mod_2015_seat_alhambra_2_0_tdi_150hp_style_connect",
+              "title": "2015 Seat Alhambra 2.0 TDI 150hp Style Connect"
+            },
+            {
+              "id": "mod_2015_seat_alhambra_2_0_tdi_150hp_style",
+              "title": "2015 Seat Alhambra 2.0 TDI 150hp Style"
+            },
+            {
+              "id": "mod_2015_seat_alhambra_2_0_tdi_184hp_fr_connect",
+              "title": "2015 Seat Alhambra 2.0 TDI 184hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_alhambra_2_0_tdi_184hp_style_connect",
+              "title": "2015 Seat Alhambra 2.0 TDI 184hp Style Connect"
+            },
+            {
+              "id": "mod_2015_seat_alhambra_2_0_tsi_fr_connect",
+              "title": "2015 Seat Alhambra 2.0 TSI FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_alhambra_2_0_tsi_style_connect",
+              "title": "2015 Seat Alhambra 2.0 TSI Style Connect"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_alhambra",
+          "title": "Seat Alhambra",
+          "children": [
+            {
+              "id": "mod_2010_seat_alhambra_1_4_tsi_reference",
+              "title": "2010 Seat Alhambra 1.4 TSI Reference"
+            },
+            {
+              "id": "mod_2010_seat_alhambra_1_4_tsi_style",
+              "title": "2010 Seat Alhambra 1.4 TSI Style"
+            },
+            {
+              "id": "mod_2010_seat_alhambra_2_0_tdi_140hp_ecomotive_reference",
+              "title": "2010 Seat Alhambra 2.0 TDI 140hp Ecomotive Reference"
+            },
+            {
+              "id": "mod_2010_seat_alhambra_2_0_tdi_140hp_ecomotive_style",
+              "title": "2010 Seat Alhambra 2.0 TDI 140hp Ecomotive Style"
+            },
+            {
+              "id": "mod_2010_seat_alhambra_2_0_tdi_140hp_reference",
+              "title": "2010 Seat Alhambra 2.0 TDI 140hp Reference"
+            },
+            {
+              "id": "mod_2010_seat_alhambra_2_0_tdi_140hp_style",
+              "title": "2010 Seat Alhambra 2.0 TDI 140hp Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_alhambra",
+          "title": "Seat Alhambra",
+          "children": [
+            {
+              "id": "mod_2000_seat_alhambra_1_8_20vt_signo",
+              "title": "2000 Seat Alhambra 1.8 20VT Signo"
+            },
+            {
+              "id": "mod_2000_seat_alhambra_1_8_20vt_sport",
+              "title": "2000 Seat Alhambra 1.8 20VT Sport"
+            },
+            {
+              "id": "mod_2000_seat_alhambra_1_8_20vt_stella",
+              "title": "2000 Seat Alhambra 1.8 20VT Stella"
+            },
+            {
+              "id": "mod_2000_seat_alhambra_1_9_tdi_115hp_signo",
+              "title": "2000 Seat Alhambra 1.9 TDi 115hp Signo"
+            },
+            {
+              "id": "mod_2000_seat_alhambra_1_9_tdi_115hp_sport",
+              "title": "2000 Seat Alhambra 1.9 TDi 115hp Sport"
+            },
+            {
+              "id": "mod_2000_seat_alhambra_1_9_tdi_115hp_stella",
+              "title": "2000 Seat Alhambra 1.9 TDi 115hp Stella"
+            },
+            {
+              "id": "mod_2000_seat_alhambra_1_9_tdi_90hp_stella",
+              "title": "2000 Seat Alhambra 1.9 TDi 90hp Stella"
+            },
+            {
+              "id": "mod_2000_seat_alhambra_2_0_stella",
+              "title": "2000 Seat Alhambra 2.0 Stella"
+            },
+            {
+              "id": "mod_2000_seat_alhambra_2_8_v6_signo",
+              "title": "2000 Seat Alhambra 2.8 V6 Signo"
+            },
+            {
+              "id": "mod_2000_seat_alhambra_2_8_v6_sport",
+              "title": "2000 Seat Alhambra 2.8 V6 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_alhambra",
+          "title": "Seat Alhambra",
+          "children": [
+            {
+              "id": "mod_1996_seat_alhambra_1_9_tdi_90hp_comfort",
+              "title": "1996 Seat Alhambra 1.9 TDi 90hp Comfort"
+            },
+            {
+              "id": "mod_1996_seat_alhambra_1_9_tdi_90hp_luxe",
+              "title": "1996 Seat Alhambra 1.9 TDi 90hp Luxe"
+            },
+            {
+              "id": "mod_1996_seat_alhambra_2_0i_comfort",
+              "title": "1996 Seat Alhambra 2.0i Comfort"
+            },
+            {
+              "id": "mod_1996_seat_alhambra_2_0i_luxe",
+              "title": "1996 Seat Alhambra 2.0i Luxe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_cordoba",
+      "title": "Seat Cordoba",
+      "generations": [
+        {
+          "id": "gen_seat_cordoba",
+          "title": "Seat Cordoba",
+          "children": [
+            {
+              "id": "mod_2006_seat_cordoba_1_2_12v_reference",
+              "title": "2006 Seat Cordoba 1.2 12V Reference"
+            },
+            {
+              "id": "mod_2006_seat_cordoba_1_2_12v_selection",
+              "title": "2006 Seat Cordoba 1.2 12V Selection"
+            },
+            {
+              "id": "mod_2006_seat_cordoba_1_4_16v_100hp_sensation",
+              "title": "2006 Seat Cordoba 1.4 16V 100hp Sensation"
+            },
+            {
+              "id": "mod_2006_seat_cordoba_1_4_16v_75hp_reference",
+              "title": "2006 Seat Cordoba 1.4 16V 75hp Reference"
+            },
+            {
+              "id": "mod_2006_seat_cordoba_1_4_16v_85hp_reference",
+              "title": "2006 Seat Cordoba 1.4 16V 85hp Reference"
+            },
+            {
+              "id": "mod_2006_seat_cordoba_1_4_16v_85hp_trendstyle",
+              "title": "2006 Seat Cordoba 1.4 16V 85hp Trendstyle"
+            },
+            {
+              "id": "mod_2006_seat_cordoba_1_4_tdi_70hp_reference",
+              "title": "2006 Seat Cordoba 1.4 TDi 70hp Reference"
+            },
+            {
+              "id": "mod_2006_seat_cordoba_1_9_tdi_100hp_reference",
+              "title": "2006 Seat Cordoba 1.9 TDi 100hp Reference"
+            },
+            {
+              "id": "mod_2006_seat_cordoba_1_9_tdi_100hp_sensation",
+              "title": "2006 Seat Cordoba 1.9 TDi 100hp Sensation"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_cordoba",
+          "title": "Seat Cordoba",
+          "children": [
+            {
+              "id": "mod_2003_seat_cordoba_1_4_16v_100hp_signo",
+              "title": "2003 Seat Cordoba 1.4 16V 100hp Signo"
+            },
+            {
+              "id": "mod_2003_seat_cordoba_1_4_16v_100hp_sport",
+              "title": "2003 Seat Cordoba 1.4 16V 100hp Sport"
+            },
+            {
+              "id": "mod_2003_seat_cordoba_1_4_16v_75hp_signo",
+              "title": "2003 Seat Cordoba 1.4 16V 75hp Signo"
+            },
+            {
+              "id": "mod_2003_seat_cordoba_1_4_16v_75hp_sport",
+              "title": "2003 Seat Cordoba 1.4 16V 75hp Sport"
+            },
+            {
+              "id": "mod_2003_seat_cordoba_1_4_16v_75hp_stella",
+              "title": "2003 Seat Cordoba 1.4 16V 75hp Stella"
+            },
+            {
+              "id": "mod_2003_seat_cordoba_1_9_sdi_signo",
+              "title": "2003 Seat Cordoba 1.9 SDi Signo"
+            },
+            {
+              "id": "mod_2003_seat_cordoba_1_9_sdi_stella",
+              "title": "2003 Seat Cordoba 1.9 SDi Stella"
+            },
+            {
+              "id": "mod_2003_seat_cordoba_1_9_tdi_100hp_signo",
+              "title": "2003 Seat Cordoba 1.9 TDi 100hp Signo"
+            },
+            {
+              "id": "mod_2003_seat_cordoba_1_9_tdi_100hp_sport",
+              "title": "2003 Seat Cordoba 1.9 TDi 100hp Sport"
+            },
+            {
+              "id": "mod_2003_seat_cordoba_1_9_tdi_100hp_stella",
+              "title": "2003 Seat Cordoba 1.9 TDi 100hp Stella"
+            },
+            {
+              "id": "mod_2003_seat_cordoba_1_9_tdi_130hp_signo",
+              "title": "2003 Seat Cordoba 1.9 TDi 130hp Signo"
+            },
+            {
+              "id": "mod_2003_seat_cordoba_1_9_tdi_130hp_sport",
+              "title": "2003 Seat Cordoba 1.9 TDi 130hp Sport"
+            },
+            {
+              "id": "mod_2003_seat_cordoba_2_0_sport",
+              "title": "2003 Seat Cordoba 2.0 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_cordoba",
+          "title": "Seat Cordoba",
+          "children": [
+            {
+              "id": "mod_1999_seat_cordoba_1_4_stella",
+              "title": "1999 Seat Cordoba 1.4 Stella +"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_4_stella",
+              "title": "1999 Seat Cordoba 1.4 Stella"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_6_100hp_signo",
+              "title": "1999 Seat Cordoba 1.6 100hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_6_100hp_stella",
+              "title": "1999 Seat Cordoba 1.6 100hp Stella +"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_6_100hp_stella",
+              "title": "1999 Seat Cordoba 1.6 100hp Stella"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_6_75hp_signo",
+              "title": "1999 Seat Cordoba 1.6 75hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_6_75hp_stella",
+              "title": "1999 Seat Cordoba 1.6 75hp Stella +"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_6_75hp_stella",
+              "title": "1999 Seat Cordoba 1.6 75hp Stella"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_9_sdi_stella",
+              "title": "1999 Seat Cordoba 1.9 SDi Stella +"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_9_sdi_stella",
+              "title": "1999 Seat Cordoba 1.9 SDi Stella"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_9_tdi_110hp_signo",
+              "title": "1999 Seat Cordoba 1.9 TDi 110hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_9_tdi_90hp_signo",
+              "title": "1999 Seat Cordoba 1.9 TDi 90hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_9_tdi_90hp_stella",
+              "title": "1999 Seat Cordoba 1.9 TDi 90hp Stella +"
+            },
+            {
+              "id": "mod_1999_seat_cordoba_1_9_tdi_90hp_stella",
+              "title": "1999 Seat Cordoba 1.9 TDi 90hp Stella"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_cordoba",
+          "title": "Seat Cordoba",
+          "children": [
+            {
+              "id": "mod_1996_seat_cordoba_1_4i_latino",
+              "title": "1996 Seat Cordoba 1.4i Latino"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_1_4i_se",
+              "title": "1996 Seat Cordoba 1.4i SE"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_1_6i_100hp_sxe",
+              "title": "1996 Seat Cordoba 1.6i 100hp SXE"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_1_6i_latino",
+              "title": "1996 Seat Cordoba 1.6i Latino"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_1_6i_sxe",
+              "title": "1996 Seat Cordoba 1.6i SXE"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_1_8i_sxe",
+              "title": "1996 Seat Cordoba 1.8i SXE"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_1_9_d_se",
+              "title": "1996 Seat Cordoba 1.9 D SE"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_1_9_sdi_latino",
+              "title": "1996 Seat Cordoba 1.9 SDi Latino"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_1_9_sdi_sxe",
+              "title": "1996 Seat Cordoba 1.9 SDi SXE"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_1_9_tdi_90hp_gt",
+              "title": "1996 Seat Cordoba 1.9 TDi 90hp GT"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_1_9_tdi_90hp_sxe",
+              "title": "1996 Seat Cordoba 1.9 TDi 90hp SXE"
+            },
+            {
+              "id": "mod_1996_seat_cordoba_2_0_gti",
+              "title": "1996 Seat Cordoba 2.0 GTi"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_cordoba",
+          "title": "Seat Cordoba",
+          "children": [
+            {
+              "id": "mod_1994_seat_cordoba_1_4i_clx",
+              "title": "1994 Seat Cordoba 1.4i CLX"
+            },
+            {
+              "id": "mod_1994_seat_cordoba_1_6i_clx",
+              "title": "1994 Seat Cordoba 1.6i CLX"
+            },
+            {
+              "id": "mod_1994_seat_cordoba_1_6i_glx",
+              "title": "1994 Seat Cordoba 1.6i GLX"
+            },
+            {
+              "id": "mod_1994_seat_cordoba_1_8_gti_16v",
+              "title": "1994 Seat Cordoba 1.8 GTi-16V"
+            },
+            {
+              "id": "mod_1994_seat_cordoba_1_8i_glx",
+              "title": "1994 Seat Cordoba 1.8i GLX"
+            },
+            {
+              "id": "mod_1994_seat_cordoba_1_9_d_clx",
+              "title": "1994 Seat Cordoba 1.9 D CLX"
+            },
+            {
+              "id": "mod_1994_seat_cordoba_1_9_d_glx",
+              "title": "1994 Seat Cordoba 1.9 D GLX"
+            },
+            {
+              "id": "mod_1994_seat_cordoba_1_9_td_glx",
+              "title": "1994 Seat Cordoba 1.9 TD GLX"
+            },
+            {
+              "id": "mod_1994_seat_cordoba_1_9_td_gt",
+              "title": "1994 Seat Cordoba 1.9 TD GT"
+            },
+            {
+              "id": "mod_1994_seat_cordoba_2_0_gti",
+              "title": "1994 Seat Cordoba 2.0 GTi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_toledo",
+      "title": "Seat Toledo",
+      "generations": [
+        {
+          "id": "gen_seat_toledo",
+          "title": "Seat Toledo",
+          "children": [
+            {
+              "id": "mod_2013_seat_toledo_1_2_entry",
+              "title": "2013 Seat Toledo 1.2 Entry"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_2_tsi_105hp_businessline_high",
+              "title": "2013 Seat Toledo 1.2 TSI 105hp Businessline High"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_2_tsi_105hp_reference",
+              "title": "2013 Seat Toledo 1.2 TSI 105hp Reference"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_2_tsi_105hp_style",
+              "title": "2013 Seat Toledo 1.2 TSI 105hp Style"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_2_tsi_85hp_businessline_high",
+              "title": "2013 Seat Toledo 1.2 TSI 85hp Businessline High"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_2_tsi_85hp_enjoy",
+              "title": "2013 Seat Toledo 1.2 TSI 85hp Enjoy"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_2_tsi_85hp_reference",
+              "title": "2013 Seat Toledo 1.2 TSI 85hp Reference"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_2_tsi_85hp_style",
+              "title": "2013 Seat Toledo 1.2 TSI 85hp Style"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_4_tsi_122hp_businessline_high",
+              "title": "2013 Seat Toledo 1.4 TSI 122hp Businessline High"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_4_tsi_122hp_reference",
+              "title": "2013 Seat Toledo 1.4 TSI 122hp Reference"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_4_tsi_122hp_style",
+              "title": "2013 Seat Toledo 1.4 TSI 122hp Style"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_6_tdi_ecomotive_businessline_high",
+              "title": "2013 Seat Toledo 1.6 TDI Ecomotive Businessline High"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_6_tdi_ecomotive_reference",
+              "title": "2013 Seat Toledo 1.6 TDI Ecomotive Reference"
+            },
+            {
+              "id": "mod_2013_seat_toledo_1_6_tdi_ecomotive_style",
+              "title": "2013 Seat Toledo 1.6 TDI Ecomotive Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_toledo",
+          "title": "Seat Toledo",
+          "children": [
+            {
+              "id": "mod_2004_seat_toledo_1_6_reference",
+              "title": "2004 Seat Toledo 1.6 Reference"
+            },
+            {
+              "id": "mod_2004_seat_toledo_1_6_sport",
+              "title": "2004 Seat Toledo 1.6 Sport"
+            },
+            {
+              "id": "mod_2004_seat_toledo_1_6_sport_up",
+              "title": "2004 Seat Toledo 1.6 Sport-up"
+            },
+            {
+              "id": "mod_2004_seat_toledo_1_6_stylance",
+              "title": "2004 Seat Toledo 1.6 Stylance"
+            },
+            {
+              "id": "mod_2004_seat_toledo_1_9_tdi_reference",
+              "title": "2004 Seat Toledo 1.9 TDi Reference"
+            },
+            {
+              "id": "mod_2004_seat_toledo_1_9_tdi_sport",
+              "title": "2004 Seat Toledo 1.9 TDi Sport"
+            },
+            {
+              "id": "mod_2004_seat_toledo_1_9_tdi_sport_up",
+              "title": "2004 Seat Toledo 1.9 TDi Sport-up"
+            },
+            {
+              "id": "mod_2004_seat_toledo_1_9_tdi_stylance",
+              "title": "2004 Seat Toledo 1.9 TDi Stylance"
+            },
+            {
+              "id": "mod_2004_seat_toledo_2_0_fsi_sport_up",
+              "title": "2004 Seat Toledo 2.0 FSI Sport-up"
+            },
+            {
+              "id": "mod_2004_seat_toledo_2_0_fsi_stylance",
+              "title": "2004 Seat Toledo 2.0 FSI Stylance"
+            },
+            {
+              "id": "mod_2004_seat_toledo_2_0_tdi_sport_up",
+              "title": "2004 Seat Toledo 2.0 TDi Sport-up"
+            },
+            {
+              "id": "mod_2004_seat_toledo_2_0_tdi_stylance",
+              "title": "2004 Seat Toledo 2.0 TDi Stylance"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_toledo",
+          "title": "Seat Toledo",
+          "children": [
+            {
+              "id": "mod_1999_seat_toledo_1_6_signo",
+              "title": "1999 Seat Toledo 1.6 Signo"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_6_signum",
+              "title": "1999 Seat Toledo 1.6 Signum"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_6_sport",
+              "title": "1999 Seat Toledo 1.6 Sport"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_6_stella",
+              "title": "1999 Seat Toledo 1.6 Stella"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_8_20v_signo",
+              "title": "1999 Seat Toledo 1.8 20V Signo"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_8_20v_signum",
+              "title": "1999 Seat Toledo 1.8 20V Signum"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_8_20v_sport",
+              "title": "1999 Seat Toledo 1.8 20V Sport"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_9_tdi_110hp_signo",
+              "title": "1999 Seat Toledo 1.9 TDi 110hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_9_tdi_110hp_signum",
+              "title": "1999 Seat Toledo 1.9 TDi 110hp Signum"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_9_tdi_110hp_sport",
+              "title": "1999 Seat Toledo 1.9 TDi 110hp Sport"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_9_tdi_110hp_stella",
+              "title": "1999 Seat Toledo 1.9 TDi 110hp Stella"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_9_tdi_90hp_signo",
+              "title": "1999 Seat Toledo 1.9 TDi 90hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_9_tdi_90hp_signum",
+              "title": "1999 Seat Toledo 1.9 TDi 90hp Signum"
+            },
+            {
+              "id": "mod_1999_seat_toledo_1_9_tdi_90hp_stella",
+              "title": "1999 Seat Toledo 1.9 TDi 90hp Stella"
+            },
+            {
+              "id": "mod_1999_seat_toledo_2_3_v5",
+              "title": "1999 Seat Toledo 2.3 V5"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_toledo",
+          "title": "Seat Toledo",
+          "children": [
+            {
+              "id": "mod_1995_seat_toledo_1_6i_75hp_e",
+              "title": "1995 Seat Toledo 1.6i 75hp E"
+            },
+            {
+              "id": "mod_1995_seat_toledo_1_8i_se",
+              "title": "1995 Seat Toledo 1.8i SE"
+            },
+            {
+              "id": "mod_1995_seat_toledo_1_8i_sxe",
+              "title": "1995 Seat Toledo 1.8i SXE"
+            },
+            {
+              "id": "mod_1995_seat_toledo_1_9_d_e",
+              "title": "1995 Seat Toledo 1.9 D E"
+            },
+            {
+              "id": "mod_1995_seat_toledo_1_9_td_se",
+              "title": "1995 Seat Toledo 1.9 TD SE"
+            },
+            {
+              "id": "mod_1995_seat_toledo_1_9_tdi_90hp_se",
+              "title": "1995 Seat Toledo 1.9 TDi 90hp SE"
+            },
+            {
+              "id": "mod_1995_seat_toledo_1_9_tdi_90hp_sxe",
+              "title": "1995 Seat Toledo 1.9 TDi 90hp SXE"
+            },
+            {
+              "id": "mod_1995_seat_toledo_1_9_tdi_90hp_sport",
+              "title": "1995 Seat Toledo 1.9 TDi 90hp Sport"
+            },
+            {
+              "id": "mod_1995_seat_toledo_2_0i_sxe",
+              "title": "1995 Seat Toledo 2.0i SXE"
+            },
+            {
+              "id": "mod_1995_seat_toledo_2_0i_sport",
+              "title": "1995 Seat Toledo 2.0i Sport"
+            },
+            {
+              "id": "mod_1995_seat_toledo_2_0i_16v",
+              "title": "1995 Seat Toledo 2.0i-16V"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_toledo",
+          "title": "Seat Toledo",
+          "children": [
+            {
+              "id": "mod_1991_seat_toledo_1_6i_cl",
+              "title": "1991 Seat Toledo 1.6i CL"
+            },
+            {
+              "id": "mod_1991_seat_toledo_1_8_gti_16v",
+              "title": "1991 Seat Toledo 1.8 GTi-16V"
+            },
+            {
+              "id": "mod_1991_seat_toledo_1_8i_cl",
+              "title": "1991 Seat Toledo 1.8i CL"
+            },
+            {
+              "id": "mod_1991_seat_toledo_1_8i_gl",
+              "title": "1991 Seat Toledo 1.8i GL"
+            },
+            {
+              "id": "mod_1991_seat_toledo_1_8i_glx",
+              "title": "1991 Seat Toledo 1.8i GLX"
+            },
+            {
+              "id": "mod_1991_seat_toledo_1_9_d_cl",
+              "title": "1991 Seat Toledo 1.9 D CL"
+            },
+            {
+              "id": "mod_1991_seat_toledo_1_9_td_gl",
+              "title": "1991 Seat Toledo 1.9 TD GL"
+            },
+            {
+              "id": "mod_1991_seat_toledo_2_0i_glx",
+              "title": "1991 Seat Toledo 2.0i GLX"
+            },
+            {
+              "id": "mod_1991_seat_toledo_2_0i_gt",
+              "title": "1991 Seat Toledo 2.0i GT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_marbella",
+      "title": "Seat Marbella",
+      "generations": [
+        {
+          "id": "gen_seat_marbella",
+          "title": "Seat Marbella",
+          "children": [
+            {
+              "id": "mod_1986_seat_marbella_gl",
+              "title": "1986 Seat Marbella GL"
+            },
+            {
+              "id": "mod_1986_seat_marbella_glx",
+              "title": "1986 Seat Marbella GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_malaga",
+      "title": "Seat Malaga",
+      "generations": [
+        {
+          "id": "gen_seat_malaga",
+          "title": "Seat Malaga",
+          "children": [
+            {
+              "id": "mod_1985_seat_malaga_1_2_gl",
+              "title": "1985 Seat Malaga 1.2 GL"
+            },
+            {
+              "id": "mod_1985_seat_malaga_1_2_glx",
+              "title": "1985 Seat Malaga 1.2 GLX"
+            },
+            {
+              "id": "mod_1985_seat_malaga_1_2_l",
+              "title": "1985 Seat Malaga 1.2 L"
+            },
+            {
+              "id": "mod_1985_seat_malaga_1_5_gl",
+              "title": "1985 Seat Malaga 1.5 GL"
+            },
+            {
+              "id": "mod_1985_seat_malaga_1_5_glx",
+              "title": "1985 Seat Malaga 1.5 GLX"
+            },
+            {
+              "id": "mod_1985_seat_malaga_1_7_d_gl",
+              "title": "1985 Seat Malaga 1.7 D GL"
+            },
+            {
+              "id": "mod_1985_seat_malaga_1_7_d_l",
+              "title": "1985 Seat Malaga 1.7 D L"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_ibiza",
+      "title": "Seat Ibiza",
+      "generations": [
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_2017_seat_ibiza_1_0_mpi_75hp_reference",
+              "title": "2017 Seat Ibiza 1.0 MPI 75hp Reference"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_0_tsi_115hp_fr_business_intense",
+              "title": "2017 Seat Ibiza 1.0 TSI 115hp FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_0_tsi_115hp_fr",
+              "title": "2017 Seat Ibiza 1.0 TSI 115hp FR"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_0_tsi_115hp_style_business_intense",
+              "title": "2017 Seat Ibiza 1.0 TSI 115hp Style Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_0_tsi_115hp_style",
+              "title": "2017 Seat Ibiza 1.0 TSI 115hp Style"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_0_tsi_115hp_xcellence",
+              "title": "2017 Seat Ibiza 1.0 TSI 115hp Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_0_tsi_95hp_fr_business_intense",
+              "title": "2017 Seat Ibiza 1.0 TSI 95hp FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_0_tsi_95hp_fr",
+              "title": "2017 Seat Ibiza 1.0 TSI 95hp FR"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_0_tsi_95hp_style_business_intense",
+              "title": "2017 Seat Ibiza 1.0 TSI 95hp Style Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_0_tsi_95hp_style",
+              "title": "2017 Seat Ibiza 1.0 TSI 95hp Style"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_0_tsi_95hp_xcellence",
+              "title": "2017 Seat Ibiza 1.0 TSI 95hp Xcellence"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_5_tsi_evo_fr_business_intense",
+              "title": "2017 Seat Ibiza 1.5 TSI EVO FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_5_tsi_evo_fr",
+              "title": "2017 Seat Ibiza 1.5 TSI EVO FR"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_6_tdi_fr_business_intense",
+              "title": "2017 Seat Ibiza 1.6 TDI FR Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_6_tdi_fr",
+              "title": "2017 Seat Ibiza 1.6 TDI FR"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_6_tdi_style_business_intense",
+              "title": "2017 Seat Ibiza 1.6 TDI Style Business Intense"
+            },
+            {
+              "id": "mod_2017_seat_ibiza_1_6_tdi_style",
+              "title": "2017 Seat Ibiza 1.6 TDI Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_2015_seat_ibiza_1_0_ecotsi_110hp_fr_connect",
+              "title": "2015 Seat Ibiza 1.0 EcoTSI 110hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_0_ecotsi_110hp_style_connect",
+              "title": "2015 Seat Ibiza 1.0 EcoTSI 110hp Style Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_0_ecotsi_95hp_fr_connect",
+              "title": "2015 Seat Ibiza 1.0 EcoTSI 95hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_0_ecotsi_95hp_fr",
+              "title": "2015 Seat Ibiza 1.0 EcoTSI 95hp FR"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_0_ecotsi_95hp_reference",
+              "title": "2015 Seat Ibiza 1.0 EcoTSI 95hp Reference"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_0_ecotsi_95hp_style_connect",
+              "title": "2015 Seat Ibiza 1.0 EcoTSI 95hp Style Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_0_ecotsi_95hp_style",
+              "title": "2015 Seat Ibiza 1.0 EcoTSI 95hp Style"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_0_mpi_reference",
+              "title": "2015 Seat Ibiza 1.0 MPI Reference"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_4_ecotsi_150hp_fr_connect",
+              "title": "2015 Seat Ibiza 1.4 EcoTSI 150hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_4_tdi_105hp_fr_connect",
+              "title": "2015 Seat Ibiza 1.4 TDI 105hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_4_tdi_90hp_fr_connect",
+              "title": "2015 Seat Ibiza 1.4 TDI 90hp FR Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_4_tdi_90hp_fr",
+              "title": "2015 Seat Ibiza 1.4 TDI 90hp FR"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_4_tdi_90hp_reference",
+              "title": "2015 Seat Ibiza 1.4 TDI 90hp Reference"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_4_tdi_90hp_style_connect",
+              "title": "2015 Seat Ibiza 1.4 TDI 90hp Style Connect"
+            },
+            {
+              "id": "mod_2015_seat_ibiza_1_4_tdi_90hp_style",
+              "title": "2015 Seat Ibiza 1.4 TDI 90hp Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_2012_seat_ibiza_1_2_60hp_club",
+              "title": "2012 Seat Ibiza 1.2 60hp Club"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_2_60hp_reference",
+              "title": "2012 Seat Ibiza 1.2 60hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_2_70hp_reference",
+              "title": "2012 Seat Ibiza 1.2 70hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_2_70hp_style",
+              "title": "2012 Seat Ibiza 1.2 70hp Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_2_tdi_ecomotive_reference",
+              "title": "2012 Seat Ibiza 1.2 TDI Ecomotive Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_2_tdi_ecomotive_style",
+              "title": "2012 Seat Ibiza 1.2 TDI Ecomotive Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_2_tsi_105hp_fr",
+              "title": "2012 Seat Ibiza 1.2 TSI 105hp FR"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_2_tsi_105hp_reference",
+              "title": "2012 Seat Ibiza 1.2 TSI 105hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_2_tsi_105hp_style",
+              "title": "2012 Seat Ibiza 1.2 TSI 105hp Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_2_tsi_85hp_chill_out",
+              "title": "2012 Seat Ibiza 1.2 TSI 85hp Chill Out"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_2_tsi_85hp_reference",
+              "title": "2012 Seat Ibiza 1.2 TSI 85hp Reference"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_2_tsi_85hp_style",
+              "title": "2012 Seat Ibiza 1.2 TSI 85hp Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_4_tsi_fr",
+              "title": "2012 Seat Ibiza 1.4 TSI FR"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_6_tdi_105hp_fr",
+              "title": "2012 Seat Ibiza 1.6 TDI 105hp FR"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_1_6_tdi_105hp_style",
+              "title": "2012 Seat Ibiza 1.6 TDI 105hp Style"
+            },
+            {
+              "id": "mod_2012_seat_ibiza_2_0_tdi_143hp_fr",
+              "title": "2012 Seat Ibiza 2.0 TDI 143hp FR"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_2008_seat_ibiza_1_2_reference",
+              "title": "2008 Seat Ibiza 1.2 Reference"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_4_reference",
+              "title": "2008 Seat Ibiza 1.4 Reference"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_4_sport",
+              "title": "2008 Seat Ibiza 1.4 Sport"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_4_style",
+              "title": "2008 Seat Ibiza 1.4 Style"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_4_tdi_reference",
+              "title": "2008 Seat Ibiza 1.4 TDI Reference"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_6_reference",
+              "title": "2008 Seat Ibiza 1.6 Reference"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_6_sport",
+              "title": "2008 Seat Ibiza 1.6 Sport"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_6_style",
+              "title": "2008 Seat Ibiza 1.6 Style"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_9_tdi_105hp_reference",
+              "title": "2008 Seat Ibiza 1.9 TDI 105hp Reference"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_9_tdi_105hp_sport",
+              "title": "2008 Seat Ibiza 1.9 TDI 105hp Sport"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_9_tdi_105hp_style",
+              "title": "2008 Seat Ibiza 1.9 TDI 105hp Style"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_9_tdi_90hp_reference",
+              "title": "2008 Seat Ibiza 1.9 TDI 90hp Reference"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_9_tdi_90hp_sport_up",
+              "title": "2008 Seat Ibiza 1.9 TDI 90hp Sport-up"
+            },
+            {
+              "id": "mod_2008_seat_ibiza_1_9_tdi_90hp_style",
+              "title": "2008 Seat Ibiza 1.9 TDI 90hp Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_2006_seat_ibiza_1_2_12v_reference",
+              "title": "2006 Seat Ibiza 1.2 12V Reference"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_2_12v_selection",
+              "title": "2006 Seat Ibiza 1.2 12V Selection"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_2_12v_trendstyle",
+              "title": "2006 Seat Ibiza 1.2 12V Trendstyle"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_4_16v_100hp_sensation",
+              "title": "2006 Seat Ibiza 1.4 16V 100hp Sensation"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_4_16v_100hp_sport",
+              "title": "2006 Seat Ibiza 1.4 16V 100hp Sport"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_4_16v_75hp_reference",
+              "title": "2006 Seat Ibiza 1.4 16V 75hp Reference"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_4_16v_85hp_reference",
+              "title": "2006 Seat Ibiza 1.4 16V 85hp Reference"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_4_16v_85hp_trendstyle",
+              "title": "2006 Seat Ibiza 1.4 16V 85hp Trendstyle"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_4_tdi_70hp_reference",
+              "title": "2006 Seat Ibiza 1.4 TDi 70hp Reference"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_8_20vt_cupra",
+              "title": "2006 Seat Ibiza 1.8 20VT Cupra"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_8_20vt_fr",
+              "title": "2006 Seat Ibiza 1.8 20VT FR"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_9_tdi_100hp_reference",
+              "title": "2006 Seat Ibiza 1.9 TDi 100hp Reference"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_9_tdi_100hp_sensation",
+              "title": "2006 Seat Ibiza 1.9 TDi 100hp Sensation"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_9_tdi_100hp_sport",
+              "title": "2006 Seat Ibiza 1.9 TDi 100hp Sport"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_9_tdi_130hp_fr",
+              "title": "2006 Seat Ibiza 1.9 TDi 130hp FR"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_9_tdi_160hp_cupra",
+              "title": "2006 Seat Ibiza 1.9 TDi 160hp Cupra"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_2006_seat_ibiza_1_2_12v_reference",
+              "title": "2006 Seat Ibiza 1.2 12V Reference"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_2_12v_selection",
+              "title": "2006 Seat Ibiza 1.2 12V Selection"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_2_12v_trendstyle",
+              "title": "2006 Seat Ibiza 1.2 12V Trendstyle"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_4_16v_100hp_sensation",
+              "title": "2006 Seat Ibiza 1.4 16V 100hp Sensation"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_4_16v_100hp_sport",
+              "title": "2006 Seat Ibiza 1.4 16V 100hp Sport"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_4_16v_75hp_reference",
+              "title": "2006 Seat Ibiza 1.4 16V 75hp Reference"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_4_16v_85hp_reference",
+              "title": "2006 Seat Ibiza 1.4 16V 85hp Reference"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_4_16v_85hp_trendstyle",
+              "title": "2006 Seat Ibiza 1.4 16V 85hp Trendstyle"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_4_tdi_70hp_reference",
+              "title": "2006 Seat Ibiza 1.4 TDi 70hp Reference"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_8_20vt_fr",
+              "title": "2006 Seat Ibiza 1.8 20VT FR"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_9_tdi_100hp_reference",
+              "title": "2006 Seat Ibiza 1.9 TDi 100hp Reference"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_9_tdi_100hp_sensation",
+              "title": "2006 Seat Ibiza 1.9 TDi 100hp Sensation"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_9_tdi_100hp_sport",
+              "title": "2006 Seat Ibiza 1.9 TDi 100hp Sport"
+            },
+            {
+              "id": "mod_2006_seat_ibiza_1_9_tdi_130hp_fr",
+              "title": "2006 Seat Ibiza 1.9 TDi 130hp FR"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_2002_seat_ibiza_1_2_12v_signo",
+              "title": "2002 Seat Ibiza 1.2 12V Signo"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_2_12v_stella",
+              "title": "2002 Seat Ibiza 1.2 12V Stella"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_4_16v_100hp_signo",
+              "title": "2002 Seat Ibiza 1.4 16V 100hp Signo"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_4_16v_100hp_sport",
+              "title": "2002 Seat Ibiza 1.4 16V 100hp Sport"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_4_16v_75hp_signo",
+              "title": "2002 Seat Ibiza 1.4 16V 75hp Signo"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_4_16v_75hp_sport",
+              "title": "2002 Seat Ibiza 1.4 16V 75hp Sport"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_4_16v_75hp_stella",
+              "title": "2002 Seat Ibiza 1.4 16V 75hp Stella"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_9_sdi_stella",
+              "title": "2002 Seat Ibiza 1.9 SDi Stella"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_9_tdi_100hp_signo",
+              "title": "2002 Seat Ibiza 1.9 TDi 100hp Signo"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_9_tdi_100hp_stella",
+              "title": "2002 Seat Ibiza 1.9 TDi 100hp Stella"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_9_tdi_130hp_signo",
+              "title": "2002 Seat Ibiza 1.9 TDi 130hp Signo"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_9_tdi_130hp_sport",
+              "title": "2002 Seat Ibiza 1.9 TDi 130hp Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_2002_seat_ibiza_1_2_12v_signo",
+              "title": "2002 Seat Ibiza 1.2 12V Signo"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_2_12v_stella",
+              "title": "2002 Seat Ibiza 1.2 12V Stella"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_4_16v_100hp_signo",
+              "title": "2002 Seat Ibiza 1.4 16V 100hp Signo"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_4_16v_100hp_sport",
+              "title": "2002 Seat Ibiza 1.4 16V 100hp Sport"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_4_16v_75hp_signo",
+              "title": "2002 Seat Ibiza 1.4 16V 75hp Signo"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_4_16v_75hp_sport",
+              "title": "2002 Seat Ibiza 1.4 16V 75hp Sport"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_4_16v_75hp_stella",
+              "title": "2002 Seat Ibiza 1.4 16V 75hp Stella"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_9_sdi_stella",
+              "title": "2002 Seat Ibiza 1.9 SDi Stella"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_9_tdi_100hp_signo",
+              "title": "2002 Seat Ibiza 1.9 TDi 100hp Signo"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_9_tdi_100hp_stella",
+              "title": "2002 Seat Ibiza 1.9 TDi 100hp Stella"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_9_tdi_130hp_signo",
+              "title": "2002 Seat Ibiza 1.9 TDi 130hp Signo"
+            },
+            {
+              "id": "mod_2002_seat_ibiza_1_9_tdi_130hp_sport",
+              "title": "2002 Seat Ibiza 1.9 TDi 130hp Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_1999_seat_ibiza_1_4_select",
+              "title": "1999 Seat Ibiza 1.4 Select"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_4_stella",
+              "title": "1999 Seat Ibiza 1.4 Stella +"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_4_stella",
+              "title": "1999 Seat Ibiza 1.4 Stella"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_100hp_signo",
+              "title": "1999 Seat Ibiza 1.6 100hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_100hp_sport",
+              "title": "1999 Seat Ibiza 1.6 100hp Sport"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_100hp_stella",
+              "title": "1999 Seat Ibiza 1.6 100hp Stella +"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_100hp_stella",
+              "title": "1999 Seat Ibiza 1.6 100hp Stella"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_75hp_signo",
+              "title": "1999 Seat Ibiza 1.6 75hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_75hp_stella",
+              "title": "1999 Seat Ibiza 1.6 75hp Stella +"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_75hp_stella",
+              "title": "1999 Seat Ibiza 1.6 75hp Stella"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_8_20vt_cupra",
+              "title": "1999 Seat Ibiza 1.8 20VT Cupra"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_8_20vt_sport",
+              "title": "1999 Seat Ibiza 1.8 20VT Sport"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_sdi_select",
+              "title": "1999 Seat Ibiza 1.9 SDi Select"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_sdi_stella",
+              "title": "1999 Seat Ibiza 1.9 SDi Stella +"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_sdi_stella",
+              "title": "1999 Seat Ibiza 1.9 SDi Stella"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_tdi_110hp_signo",
+              "title": "1999 Seat Ibiza 1.9 TDi 110hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_tdi_110hp_sport",
+              "title": "1999 Seat Ibiza 1.9 TDi 110hp Sport"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_tdi_90hp_signo",
+              "title": "1999 Seat Ibiza 1.9 TDi 90hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_tdi_90hp_stella",
+              "title": "1999 Seat Ibiza 1.9 TDi 90hp Stella +"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_tdi_90hp_stella",
+              "title": "1999 Seat Ibiza 1.9 TDi 90hp Stella"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_1999_seat_ibiza_1_4_select",
+              "title": "1999 Seat Ibiza 1.4 Select"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_4_stella",
+              "title": "1999 Seat Ibiza 1.4 Stella +"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_4_stella",
+              "title": "1999 Seat Ibiza 1.4 Stella"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_100hp_signo",
+              "title": "1999 Seat Ibiza 1.6 100hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_100hp_sport",
+              "title": "1999 Seat Ibiza 1.6 100hp Sport"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_100hp_stella",
+              "title": "1999 Seat Ibiza 1.6 100hp Stella +"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_100hp_stella",
+              "title": "1999 Seat Ibiza 1.6 100hp Stella"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_75hp_signo",
+              "title": "1999 Seat Ibiza 1.6 75hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_75hp_stella",
+              "title": "1999 Seat Ibiza 1.6 75hp Stella +"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_6_75hp_stella",
+              "title": "1999 Seat Ibiza 1.6 75hp Stella"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_sdi_select",
+              "title": "1999 Seat Ibiza 1.9 SDi Select"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_sdi_stella",
+              "title": "1999 Seat Ibiza 1.9 SDi Stella +"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_sdi_stella",
+              "title": "1999 Seat Ibiza 1.9 SDi Stella"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_tdi_110hp_signo",
+              "title": "1999 Seat Ibiza 1.9 TDi 110hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_tdi_110hp_sport",
+              "title": "1999 Seat Ibiza 1.9 TDi 110hp Sport"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_tdi_90hp_signo",
+              "title": "1999 Seat Ibiza 1.9 TDi 90hp Signo"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_tdi_90hp_stella",
+              "title": "1999 Seat Ibiza 1.9 TDi 90hp Stella +"
+            },
+            {
+              "id": "mod_1999_seat_ibiza_1_9_tdi_90hp_stella",
+              "title": "1999 Seat Ibiza 1.9 TDi 90hp Stella"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_1996_seat_ibiza_1_0i_conga",
+              "title": "1996 Seat Ibiza 1.0i Conga"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_4i_copa",
+              "title": "1996 Seat Ibiza 1.4i Copa"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_4i_latino",
+              "title": "1996 Seat Ibiza 1.4i Latino"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_6i_100hp_sxe",
+              "title": "1996 Seat Ibiza 1.6i 100hp SXE"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_6i_100hp_slalom",
+              "title": "1996 Seat Ibiza 1.6i 100hp Slalom"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_6i_s",
+              "title": "1996 Seat Ibiza 1.6i S"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_6i_sxe",
+              "title": "1996 Seat Ibiza 1.6i SXE"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_8i_sxe",
+              "title": "1996 Seat Ibiza 1.8i SXE"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_9_d_conga",
+              "title": "1996 Seat Ibiza 1.9 D Conga"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_9_sdi_latino",
+              "title": "1996 Seat Ibiza 1.9 SDi Latino"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_9_tdi_90hp_gt",
+              "title": "1996 Seat Ibiza 1.9 TDi 90hp GT"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_9_tdi_90hp_sxe",
+              "title": "1996 Seat Ibiza 1.9 TDi 90hp SXE"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_9_tdi_90hp_slalom",
+              "title": "1996 Seat Ibiza 1.9 TDi 90hp Slalom"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_2_0_gti",
+              "title": "1996 Seat Ibiza 2.0 GTi"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_2_0i_16v_gti_cupra",
+              "title": "1996 Seat Ibiza 2.0i 16V GTi Cupra"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_1996_seat_ibiza_1_0i_conga",
+              "title": "1996 Seat Ibiza 1.0i Conga"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_4i_copa",
+              "title": "1996 Seat Ibiza 1.4i Copa"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_4i_latino",
+              "title": "1996 Seat Ibiza 1.4i Latino"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_6i_100hp_sxe",
+              "title": "1996 Seat Ibiza 1.6i 100hp SXE"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_6i_100hp_slalom",
+              "title": "1996 Seat Ibiza 1.6i 100hp Slalom"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_6i_s",
+              "title": "1996 Seat Ibiza 1.6i S"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_6i_sxe",
+              "title": "1996 Seat Ibiza 1.6i SXE"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_8i_sxe",
+              "title": "1996 Seat Ibiza 1.8i SXE"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_9_d_conga",
+              "title": "1996 Seat Ibiza 1.9 D Conga"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_9_sdi_latino",
+              "title": "1996 Seat Ibiza 1.9 SDi Latino"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_9_tdi_90hp_gt",
+              "title": "1996 Seat Ibiza 1.9 TDi 90hp GT"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_9_tdi_90hp_sxe",
+              "title": "1996 Seat Ibiza 1.9 TDi 90hp SXE"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_1_9_tdi_90hp_slalom",
+              "title": "1996 Seat Ibiza 1.9 TDi 90hp Slalom"
+            },
+            {
+              "id": "mod_1996_seat_ibiza_2_0_gti",
+              "title": "1996 Seat Ibiza 2.0 GTi"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_1993_seat_ibiza_1_3i_cl",
+              "title": "1993 Seat Ibiza 1.3i CL"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_3i_clx",
+              "title": "1993 Seat Ibiza 1.3i CLX"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_6i_clx",
+              "title": "1993 Seat Ibiza 1.6i CLX"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_6i_glx",
+              "title": "1993 Seat Ibiza 1.6i GLX"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_8i_clx",
+              "title": "1993 Seat Ibiza 1.8i CLX"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_8i_glx",
+              "title": "1993 Seat Ibiza 1.8i GLX"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_9_d_cl",
+              "title": "1993 Seat Ibiza 1.9 D CL"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_9_d_clx",
+              "title": "1993 Seat Ibiza 1.9 D CLX"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_2_0_gti",
+              "title": "1993 Seat Ibiza 2.0 GTi"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_1993_seat_ibiza_1_3i_cl",
+              "title": "1993 Seat Ibiza 1.3i CL"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_3i_clx",
+              "title": "1993 Seat Ibiza 1.3i CLX"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_6i_clx",
+              "title": "1993 Seat Ibiza 1.6i CLX"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_6i_glx",
+              "title": "1993 Seat Ibiza 1.6i GLX"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_8i_clx",
+              "title": "1993 Seat Ibiza 1.8i CLX"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_8i_glx",
+              "title": "1993 Seat Ibiza 1.8i GLX"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_9_d_cl",
+              "title": "1993 Seat Ibiza 1.9 D CL"
+            },
+            {
+              "id": "mod_1993_seat_ibiza_1_9_d_clx",
+              "title": "1993 Seat Ibiza 1.9 D CLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_1991_seat_ibiza_1_2i_clx",
+              "title": "1991 Seat Ibiza 1.2i CLX"
+            },
+            {
+              "id": "mod_1991_seat_ibiza_1_2i_glx",
+              "title": "1991 Seat Ibiza 1.2i GLX"
+            },
+            {
+              "id": "mod_1991_seat_ibiza_1_2i_special",
+              "title": "1991 Seat Ibiza 1.2i Special"
+            },
+            {
+              "id": "mod_1991_seat_ibiza_1_5i_clx",
+              "title": "1991 Seat Ibiza 1.5i CLX"
+            },
+            {
+              "id": "mod_1991_seat_ibiza_1_5i_glx",
+              "title": "1991 Seat Ibiza 1.5i GLX"
+            },
+            {
+              "id": "mod_1991_seat_ibiza_1_5i_sx",
+              "title": "1991 Seat Ibiza 1.5i SX"
+            },
+            {
+              "id": "mod_1991_seat_ibiza_1_7_d_special",
+              "title": "1991 Seat Ibiza 1.7 D Special"
+            },
+            {
+              "id": "mod_1991_seat_ibiza_900_special",
+              "title": "1991 Seat Ibiza 900 Special"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_1991_seat_ibiza_1_2i_clx",
+              "title": "1991 Seat Ibiza 1.2i CLX"
+            },
+            {
+              "id": "mod_1991_seat_ibiza_1_5i_glx",
+              "title": "1991 Seat Ibiza 1.5i GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_1987_seat_ibiza_1_2_gl",
+              "title": "1987 Seat Ibiza 1.2 GL"
+            },
+            {
+              "id": "mod_1987_seat_ibiza_1_2_l",
+              "title": "1987 Seat Ibiza 1.2 L"
+            },
+            {
+              "id": "mod_1987_seat_ibiza_1_5_gl",
+              "title": "1987 Seat Ibiza 1.5 GL"
+            },
+            {
+              "id": "mod_1987_seat_ibiza_1_5_glx",
+              "title": "1987 Seat Ibiza 1.5 GLX"
+            },
+            {
+              "id": "mod_1987_seat_ibiza_900_j",
+              "title": "1987 Seat Ibiza 900 J"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_ibiza",
+          "title": "Seat Ibiza",
+          "children": [
+            {
+              "id": "mod_1985_seat_ibiza_900_j",
+              "title": "1985 Seat Ibiza 900 J"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_fura",
+      "title": "Seat Fura",
+      "generations": [
+        {
+          "id": "gen_seat_fura",
+          "title": "Seat Fura",
+          "children": [
+            {
+              "id": "mod_1984_seat_fura_900_gl",
+              "title": "1984 Seat Fura 900 GL"
+            },
+            {
+              "id": "mod_1984_seat_fura_900_l",
+              "title": "1984 Seat Fura 900 L"
+            },
+            {
+              "id": "mod_1984_seat_fura_900_le",
+              "title": "1984 Seat Fura 900 LE"
+            }
+          ]
+        },
+        {
+          "id": "gen_seat_fura",
+          "title": "Seat Fura",
+          "children": [
+            {
+              "id": "mod_1984_seat_fura_900_gl",
+              "title": "1984 Seat Fura 900 GL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_seat_ronda",
+      "title": "Seat Ronda",
+      "generations": [
+        {
+          "id": "gen_seat_ronda",
+          "title": "Seat Ronda",
+          "children": [
+            {
+              "id": "mod_1983_seat_ronda_1_2_gl",
+              "title": "1983 Seat Ronda 1.2 GL"
+            },
+            {
+              "id": "mod_1983_seat_ronda_1_2_glx",
+              "title": "1983 Seat Ronda 1.2 GLX"
+            },
+            {
+              "id": "mod_1983_seat_ronda_1_2_l",
+              "title": "1983 Seat Ronda 1.2 L"
+            },
+            {
+              "id": "mod_1983_seat_ronda_1_2_le",
+              "title": "1983 Seat Ronda 1.2 LE"
+            },
+            {
+              "id": "mod_1983_seat_ronda_1_6_glx",
+              "title": "1983 Seat Ronda 1.6 GLX"
+            },
+            {
+              "id": "mod_1983_seat_ronda_1_6_sx",
+              "title": "1983 Seat Ronda 1.6 SX"
+            },
+            {
+              "id": "mod_1983_seat_ronda_1_7_d_gl",
+              "title": "1983 Seat Ronda 1.7 D GL"
+            },
+            {
+              "id": "mod_1983_seat_ronda_1_7_d_glx",
+              "title": "1983 Seat Ronda 1.7 D GLX"
+            },
+            {
+              "id": "mod_1983_seat_ronda_1_7_d_l",
+              "title": "1983 Seat Ronda 1.7 D L"
+            },
+            {
+              "id": "mod_1983_seat_ronda_1_7_d_le",
+              "title": "1983 Seat Ronda 1.7 D LE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

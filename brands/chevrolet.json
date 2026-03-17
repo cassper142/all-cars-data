@@ -1,0 +1,1178 @@
+{
+  "id": "brand_chevrolet",
+  "title": "Chevrolet",
+  "models": [
+    {
+      "id": "model_chevrolet_trax",
+      "title": "Chevrolet Trax",
+      "generations": [
+        {
+          "id": "gen_chevrolet_trax",
+          "title": "Chevrolet Trax",
+          "children": [
+            {
+              "id": "mod_2013_chevrolet_trax_1_4t_awd_ls",
+              "title": "2013 Chevrolet Trax 1.4T AWD LS"
+            },
+            {
+              "id": "mod_2013_chevrolet_trax_1_4t_awd_lt",
+              "title": "2013 Chevrolet Trax 1.4T AWD LT"
+            },
+            {
+              "id": "mod_2013_chevrolet_trax_1_4t_awd_lt",
+              "title": "2013 Chevrolet Trax 1.4T AWD LT+"
+            },
+            {
+              "id": "mod_2013_chevrolet_trax_1_6_ls",
+              "title": "2013 Chevrolet Trax 1.6 LS"
+            },
+            {
+              "id": "mod_2013_chevrolet_trax_1_6_lt",
+              "title": "2013 Chevrolet Trax 1.6 LT"
+            },
+            {
+              "id": "mod_2013_chevrolet_trax_1_7d_ls",
+              "title": "2013 Chevrolet Trax 1.7D LS"
+            },
+            {
+              "id": "mod_2013_chevrolet_trax_1_7d_lt",
+              "title": "2013 Chevrolet Trax 1.7D LT"
+            },
+            {
+              "id": "mod_2013_chevrolet_trax_1_7d_lt",
+              "title": "2013 Chevrolet Trax 1.7D LT+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_cruze_stationwagon",
+      "title": "Chevrolet Cruze Stationwagon",
+      "generations": [
+        {
+          "id": "gen_chevrolet_cruze_stationwagon",
+          "title": "Chevrolet Cruze Stationwagon",
+          "children": [
+            {
+              "id": "mod_2012_chevrolet_cruze_stationwagon_1_4t_lt",
+              "title": "2012 Chevrolet Cruze Stationwagon 1.4T LT"
+            },
+            {
+              "id": "mod_2012_chevrolet_cruze_stationwagon_1_4t_ltz",
+              "title": "2012 Chevrolet Cruze Stationwagon 1.4T LTZ"
+            },
+            {
+              "id": "mod_2012_chevrolet_cruze_stationwagon_1_7d_130hp_lt",
+              "title": "2012 Chevrolet Cruze Stationwagon 1.7D 130hp LT"
+            },
+            {
+              "id": "mod_2012_chevrolet_cruze_stationwagon_1_7d_130hp_ltz",
+              "title": "2012 Chevrolet Cruze Stationwagon 1.7D 130hp LTZ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_volt",
+      "title": "Chevrolet Volt",
+      "generations": [
+        {
+          "id": "gen_chevrolet_volt",
+          "title": "Chevrolet Volt",
+          "children": [
+            {
+              "id": "mod_2011_chevrolet_volt_lt",
+              "title": "2011 Chevrolet Volt LT"
+            },
+            {
+              "id": "mod_2011_chevrolet_volt_ltz",
+              "title": "2011 Chevrolet Volt LTZ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_orlando",
+      "title": "Chevrolet Orlando",
+      "generations": [
+        {
+          "id": "gen_chevrolet_orlando",
+          "title": "Chevrolet Orlando",
+          "children": [
+            {
+              "id": "mod_2011_chevrolet_orlando_1_8_ls",
+              "title": "2011 Chevrolet Orlando 1.8 LS"
+            },
+            {
+              "id": "mod_2011_chevrolet_orlando_1_8_lt",
+              "title": "2011 Chevrolet Orlando 1.8 LT"
+            },
+            {
+              "id": "mod_2011_chevrolet_orlando_1_8_ltz",
+              "title": "2011 Chevrolet Orlando 1.8 LTZ"
+            },
+            {
+              "id": "mod_2011_chevrolet_orlando_1_8_ltz",
+              "title": "2011 Chevrolet Orlando 1.8 LTZ+"
+            },
+            {
+              "id": "mod_2011_chevrolet_orlando_2_0d_ls",
+              "title": "2011 Chevrolet Orlando 2.0D LS"
+            },
+            {
+              "id": "mod_2011_chevrolet_orlando_2_0d_lt",
+              "title": "2011 Chevrolet Orlando 2.0D LT"
+            },
+            {
+              "id": "mod_2011_chevrolet_orlando_2_0d_ltz",
+              "title": "2011 Chevrolet Orlando 2.0D LTZ"
+            },
+            {
+              "id": "mod_2011_chevrolet_orlando_2_0d_ltz",
+              "title": "2011 Chevrolet Orlando 2.0D LTZ+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_spark",
+      "title": "Chevrolet Spark",
+      "generations": [
+        {
+          "id": "gen_chevrolet_spark",
+          "title": "Chevrolet Spark",
+          "children": [
+            {
+              "id": "mod_2013_chevrolet_spark_1_0_ls",
+              "title": "2013 Chevrolet Spark 1.0 LS"
+            },
+            {
+              "id": "mod_2013_chevrolet_spark_1_0_ls",
+              "title": "2013 Chevrolet Spark 1.0 LS+"
+            },
+            {
+              "id": "mod_2013_chevrolet_spark_1_0_lt",
+              "title": "2013 Chevrolet Spark 1.0 LT"
+            },
+            {
+              "id": "mod_2013_chevrolet_spark_1_2_ltz",
+              "title": "2013 Chevrolet Spark 1.2 LTZ"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_spark",
+          "title": "Chevrolet Spark",
+          "children": [
+            {
+              "id": "mod_2010_chevrolet_spark_1_0_l",
+              "title": "2010 Chevrolet Spark 1.0 L"
+            },
+            {
+              "id": "mod_2010_chevrolet_spark_1_0_le",
+              "title": "2010 Chevrolet Spark 1.0 LE"
+            },
+            {
+              "id": "mod_2010_chevrolet_spark_1_0_ls_bifuel",
+              "title": "2010 Chevrolet Spark 1.0 LS BiFuel"
+            },
+            {
+              "id": "mod_2010_chevrolet_spark_1_0_ls",
+              "title": "2010 Chevrolet Spark 1.0 LS"
+            },
+            {
+              "id": "mod_2010_chevrolet_spark_1_2_lt",
+              "title": "2010 Chevrolet Spark 1.2 LT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_cruze",
+      "title": "Chevrolet Cruze",
+      "generations": [
+        {
+          "id": "gen_chevrolet_cruze",
+          "title": "Chevrolet Cruze",
+          "children": [
+            {
+              "id": "mod_2011_chevrolet_cruze_1_6_ls",
+              "title": "2011 Chevrolet Cruze 1.6 LS"
+            },
+            {
+              "id": "mod_2011_chevrolet_cruze_1_6_lt",
+              "title": "2011 Chevrolet Cruze 1.6 LT"
+            },
+            {
+              "id": "mod_2011_chevrolet_cruze_1_8_lt",
+              "title": "2011 Chevrolet Cruze 1.8 LT"
+            },
+            {
+              "id": "mod_2011_chevrolet_cruze_1_8_ltz",
+              "title": "2011 Chevrolet Cruze 1.8 LTZ"
+            },
+            {
+              "id": "mod_2011_chevrolet_cruze_2_0d_163hp_ltz",
+              "title": "2011 Chevrolet Cruze 2.0D 163hp LTZ"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_cruze",
+          "title": "Chevrolet Cruze",
+          "children": [
+            {
+              "id": "mod_2009_chevrolet_cruze_1_6_le",
+              "title": "2009 Chevrolet Cruze 1.6 LE"
+            },
+            {
+              "id": "mod_2009_chevrolet_cruze_1_6_ls",
+              "title": "2009 Chevrolet Cruze 1.6 LS"
+            },
+            {
+              "id": "mod_2009_chevrolet_cruze_1_8_ls",
+              "title": "2009 Chevrolet Cruze 1.8 LS"
+            },
+            {
+              "id": "mod_2009_chevrolet_cruze_1_8_lt",
+              "title": "2009 Chevrolet Cruze 1.8 LT"
+            },
+            {
+              "id": "mod_2009_chevrolet_cruze_2_0d_150hp_lt",
+              "title": "2009 Chevrolet Cruze 2.0D 150hp LT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_hhr",
+      "title": "Chevrolet HHR",
+      "generations": [
+        {
+          "id": "gen_chevrolet_hhr",
+          "title": "Chevrolet HHR",
+          "children": [
+            {
+              "id": "mod_2007_chevrolet_hhr_2_4_lt",
+              "title": "2007 Chevrolet HHR 2.4 LT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_captiva",
+      "title": "Chevrolet Captiva",
+      "generations": [
+        {
+          "id": "gen_chevrolet_captiva",
+          "title": "Chevrolet Captiva",
+          "children": [
+            {
+              "id": "mod_2011_chevrolet_captiva_2_2d_184hp_ltz",
+              "title": "2011 Chevrolet Captiva 2.2D 184hp LTZ"
+            },
+            {
+              "id": "mod_2011_chevrolet_captiva_2_4_lt",
+              "title": "2011 Chevrolet Captiva 2.4 LT"
+            },
+            {
+              "id": "mod_2011_chevrolet_captiva_3_0_ltz",
+              "title": "2011 Chevrolet Captiva 3.0 LTZ"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_captiva",
+          "title": "Chevrolet Captiva",
+          "children": [
+            {
+              "id": "mod_2006_chevrolet_captiva_2_0_vcdi_150hp_class",
+              "title": "2006 Chevrolet Captiva 2.0 VCDI 150hp Class"
+            },
+            {
+              "id": "mod_2006_chevrolet_captiva_2_0_vcdi_150hp_executive",
+              "title": "2006 Chevrolet Captiva 2.0 VCDI 150hp Executive"
+            },
+            {
+              "id": "mod_2006_chevrolet_captiva_2_4_class",
+              "title": "2006 Chevrolet Captiva 2.4 Class"
+            },
+            {
+              "id": "mod_2006_chevrolet_captiva_2_4_executive",
+              "title": "2006 Chevrolet Captiva 2.4 Executive"
+            },
+            {
+              "id": "mod_2006_chevrolet_captiva_2_4_style",
+              "title": "2006 Chevrolet Captiva 2.4 Style"
+            },
+            {
+              "id": "mod_2006_chevrolet_captiva_3_2_executive",
+              "title": "2006 Chevrolet Captiva 3.2 Executive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_aveo",
+      "title": "Chevrolet Aveo",
+      "generations": [
+        {
+          "id": "gen_chevrolet_aveo",
+          "title": "Chevrolet Aveo",
+          "children": [
+            {
+              "id": "mod_2011_chevrolet_aveo_1_2_ls",
+              "title": "2011 Chevrolet Aveo 1.2 LS"
+            },
+            {
+              "id": "mod_2011_chevrolet_aveo_1_2_lt",
+              "title": "2011 Chevrolet Aveo 1.2 LT"
+            },
+            {
+              "id": "mod_2011_chevrolet_aveo_1_4_lt",
+              "title": "2011 Chevrolet Aveo 1.4 LT"
+            },
+            {
+              "id": "mod_2011_chevrolet_aveo_1_4_ltz",
+              "title": "2011 Chevrolet Aveo 1.4 LTZ"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_aveo",
+          "title": "Chevrolet Aveo",
+          "children": [
+            {
+              "id": "mod_2011_chevrolet_aveo_1_2_ls",
+              "title": "2011 Chevrolet Aveo 1.2 LS"
+            },
+            {
+              "id": "mod_2011_chevrolet_aveo_1_2_lt",
+              "title": "2011 Chevrolet Aveo 1.2 LT"
+            },
+            {
+              "id": "mod_2011_chevrolet_aveo_1_3d_lt",
+              "title": "2011 Chevrolet Aveo 1.3D LT"
+            },
+            {
+              "id": "mod_2011_chevrolet_aveo_1_4_lt",
+              "title": "2011 Chevrolet Aveo 1.4 LT"
+            },
+            {
+              "id": "mod_2011_chevrolet_aveo_1_4_ltz",
+              "title": "2011 Chevrolet Aveo 1.4 LTZ"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_aveo",
+          "title": "Chevrolet Aveo",
+          "children": [
+            {
+              "id": "mod_2008_chevrolet_aveo_1_2_16v_l",
+              "title": "2008 Chevrolet Aveo 1.2 16V L"
+            },
+            {
+              "id": "mod_2008_chevrolet_aveo_1_2_16v_ls",
+              "title": "2008 Chevrolet Aveo 1.2 16V LS"
+            },
+            {
+              "id": "mod_2008_chevrolet_aveo_1_4_16v_ls",
+              "title": "2008 Chevrolet Aveo 1.4 16V LS"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_aveo",
+          "title": "Chevrolet Aveo",
+          "children": [
+            {
+              "id": "mod_2008_chevrolet_aveo_1_2_16v_l",
+              "title": "2008 Chevrolet Aveo 1.2 16V L"
+            },
+            {
+              "id": "mod_2008_chevrolet_aveo_1_2_16v_ls",
+              "title": "2008 Chevrolet Aveo 1.2 16V LS"
+            },
+            {
+              "id": "mod_2008_chevrolet_aveo_1_4_16v_ls",
+              "title": "2008 Chevrolet Aveo 1.4 16V LS"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_aveo",
+          "title": "Chevrolet Aveo",
+          "children": [
+            {
+              "id": "mod_2006_chevrolet_aveo_1_4_16v_class",
+              "title": "2006 Chevrolet Aveo 1.4 16V Class"
+            },
+            {
+              "id": "mod_2006_chevrolet_aveo_1_4_16v_spirit",
+              "title": "2006 Chevrolet Aveo 1.4 16V Spirit"
+            },
+            {
+              "id": "mod_2006_chevrolet_aveo_1_4_16v_style",
+              "title": "2006 Chevrolet Aveo 1.4 16V Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_epica",
+      "title": "Chevrolet Epica",
+      "generations": [
+        {
+          "id": "gen_chevrolet_epica",
+          "title": "Chevrolet Epica",
+          "children": [
+            {
+              "id": "mod_2006_chevrolet_epica_2_0_class",
+              "title": "2006 Chevrolet Epica 2.0 Class"
+            },
+            {
+              "id": "mod_2006_chevrolet_epica_2_0_executive",
+              "title": "2006 Chevrolet Epica 2.0 Executive"
+            },
+            {
+              "id": "mod_2006_chevrolet_epica_2_5_executive",
+              "title": "2006 Chevrolet Epica 2.5 Executive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_evanda",
+      "title": "Chevrolet Evanda",
+      "generations": [
+        {
+          "id": "gen_chevrolet_evanda",
+          "title": "Chevrolet Evanda",
+          "children": [
+            {
+              "id": "mod_2005_chevrolet_evanda_2_0_class",
+              "title": "2005 Chevrolet Evanda 2.0 Class"
+            },
+            {
+              "id": "mod_2005_chevrolet_evanda_2_0_style",
+              "title": "2005 Chevrolet Evanda 2.0 Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_tacuma",
+      "title": "Chevrolet Tacuma",
+      "generations": [
+        {
+          "id": "gen_chevrolet_tacuma",
+          "title": "Chevrolet Tacuma",
+          "children": [
+            {
+              "id": "mod_2005_chevrolet_tacuma_1_6_ace",
+              "title": "2005 Chevrolet Tacuma 1.6 Ace"
+            },
+            {
+              "id": "mod_2005_chevrolet_tacuma_1_6_spirit",
+              "title": "2005 Chevrolet Tacuma 1.6 Spirit"
+            },
+            {
+              "id": "mod_2005_chevrolet_tacuma_1_6_style",
+              "title": "2005 Chevrolet Tacuma 1.6 Style"
+            },
+            {
+              "id": "mod_2005_chevrolet_tacuma_2_0_class",
+              "title": "2005 Chevrolet Tacuma 2.0 Class"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_kalos",
+      "title": "Chevrolet Kalos",
+      "generations": [
+        {
+          "id": "gen_chevrolet_kalos",
+          "title": "Chevrolet Kalos",
+          "children": [
+            {
+              "id": "mod_2005_chevrolet_kalos_1_4_16v_class",
+              "title": "2005 Chevrolet Kalos 1.4 16V Class"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_4_16v_style",
+              "title": "2005 Chevrolet Kalos 1.4 16V Style"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_4_spirit",
+              "title": "2005 Chevrolet Kalos 1.4 Spirit"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_4_style",
+              "title": "2005 Chevrolet Kalos 1.4 Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_kalos",
+          "title": "Chevrolet Kalos",
+          "children": [
+            {
+              "id": "mod_2005_chevrolet_kalos_1_2_ace",
+              "title": "2005 Chevrolet Kalos 1.2 Ace"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_2_pure",
+              "title": "2005 Chevrolet Kalos 1.2 Pure"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_2_spirit",
+              "title": "2005 Chevrolet Kalos 1.2 Spirit"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_4_16v_class",
+              "title": "2005 Chevrolet Kalos 1.4 16V Class"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_4_16v_spirit",
+              "title": "2005 Chevrolet Kalos 1.4 16V Spirit"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_4_16v_style",
+              "title": "2005 Chevrolet Kalos 1.4 16V Style"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_4_spirit",
+              "title": "2005 Chevrolet Kalos 1.4 Spirit"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_4_style",
+              "title": "2005 Chevrolet Kalos 1.4 Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_kalos",
+          "title": "Chevrolet Kalos",
+          "children": [
+            {
+              "id": "mod_2005_chevrolet_kalos_1_2_pure",
+              "title": "2005 Chevrolet Kalos 1.2 Pure"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_2_spirit",
+              "title": "2005 Chevrolet Kalos 1.2 Spirit"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_4_16v_class",
+              "title": "2005 Chevrolet Kalos 1.4 16V Class"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_4_16v_spirit",
+              "title": "2005 Chevrolet Kalos 1.4 16V Spirit"
+            },
+            {
+              "id": "mod_2005_chevrolet_kalos_1_4_16v_style",
+              "title": "2005 Chevrolet Kalos 1.4 16V Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_lacetti",
+      "title": "Chevrolet Lacetti",
+      "generations": [
+        {
+          "id": "gen_chevrolet_lacetti",
+          "title": "Chevrolet Lacetti",
+          "children": [
+            {
+              "id": "mod_2005_chevrolet_lacetti_1_4_spirit",
+              "title": "2005 Chevrolet Lacetti 1.4 Spirit"
+            },
+            {
+              "id": "mod_2005_chevrolet_lacetti_1_4_style",
+              "title": "2005 Chevrolet Lacetti 1.4 Style"
+            },
+            {
+              "id": "mod_2005_chevrolet_lacetti_1_6_class",
+              "title": "2005 Chevrolet Lacetti 1.6 Class"
+            },
+            {
+              "id": "mod_2005_chevrolet_lacetti_1_6_style",
+              "title": "2005 Chevrolet Lacetti 1.6 Style"
+            },
+            {
+              "id": "mod_2005_chevrolet_lacetti_1_8_class",
+              "title": "2005 Chevrolet Lacetti 1.8 Class"
+            },
+            {
+              "id": "mod_2005_chevrolet_lacetti_1_8_style",
+              "title": "2005 Chevrolet Lacetti 1.8 Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_matiz",
+      "title": "Chevrolet Matiz",
+      "generations": [
+        {
+          "id": "gen_chevrolet_matiz",
+          "title": "Chevrolet Matiz",
+          "children": [
+            {
+              "id": "mod_2005_chevrolet_matiz_0_8_pure",
+              "title": "2005 Chevrolet Matiz 0.8 Pure"
+            },
+            {
+              "id": "mod_2005_chevrolet_matiz_0_8_spirit",
+              "title": "2005 Chevrolet Matiz 0.8 Spirit"
+            },
+            {
+              "id": "mod_2005_chevrolet_matiz_0_8_style",
+              "title": "2005 Chevrolet Matiz 0.8 Style"
+            },
+            {
+              "id": "mod_2005_chevrolet_matiz_1_0_class",
+              "title": "2005 Chevrolet Matiz 1.0 Class"
+            },
+            {
+              "id": "mod_2005_chevrolet_matiz_1_0_style",
+              "title": "2005 Chevrolet Matiz 1.0 Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_nubira",
+      "title": "Chevrolet Nubira",
+      "generations": [
+        {
+          "id": "gen_chevrolet_nubira",
+          "title": "Chevrolet Nubira",
+          "children": [
+            {
+              "id": "mod_2005_chevrolet_nubira_1_4_ace",
+              "title": "2005 Chevrolet Nubira 1.4 Ace"
+            },
+            {
+              "id": "mod_2005_chevrolet_nubira_1_4_spirit",
+              "title": "2005 Chevrolet Nubira 1.4 Spirit"
+            },
+            {
+              "id": "mod_2005_chevrolet_nubira_1_6_spirit",
+              "title": "2005 Chevrolet Nubira 1.6 Spirit"
+            },
+            {
+              "id": "mod_2005_chevrolet_nubira_1_6_style",
+              "title": "2005 Chevrolet Nubira 1.6 Style"
+            },
+            {
+              "id": "mod_2005_chevrolet_nubira_1_8_class",
+              "title": "2005 Chevrolet Nubira 1.8 Class"
+            },
+            {
+              "id": "mod_2005_chevrolet_nubira_1_8_style",
+              "title": "2005 Chevrolet Nubira 1.8 Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_nubira_station_wagon",
+      "title": "Chevrolet Nubira Station Wagon",
+      "generations": [
+        {
+          "id": "gen_chevrolet_nubira_station_wagon",
+          "title": "Chevrolet Nubira Station Wagon",
+          "children": [
+            {
+              "id": "mod_2005_chevrolet_nubira_station_wagon_1_6_spirit",
+              "title": "2005 Chevrolet Nubira Station Wagon 1.6 Spirit"
+            },
+            {
+              "id": "mod_2005_chevrolet_nubira_station_wagon_1_6_style",
+              "title": "2005 Chevrolet Nubira Station Wagon 1.6 Style"
+            },
+            {
+              "id": "mod_2005_chevrolet_nubira_station_wagon_1_8_class",
+              "title": "2005 Chevrolet Nubira Station Wagon 1.8 Class"
+            },
+            {
+              "id": "mod_2005_chevrolet_nubira_station_wagon_1_8_style",
+              "title": "2005 Chevrolet Nubira Station Wagon 1.8 Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_trailblazer",
+      "title": "Chevrolet TrailBlazer",
+      "generations": [
+        {
+          "id": "gen_chevrolet_trailblazer",
+          "title": "Chevrolet TrailBlazer",
+          "children": [
+            {
+              "id": "mod_2001_chevrolet_trailblazer_lt_premium",
+              "title": "2001 Chevrolet TrailBlazer LT Premium"
+            },
+            {
+              "id": "mod_2001_chevrolet_trailblazer_lt",
+              "title": "2001 Chevrolet TrailBlazer LT"
+            },
+            {
+              "id": "mod_2001_chevrolet_trailblazer_ltz",
+              "title": "2001 Chevrolet TrailBlazer LTZ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_tahoe",
+      "title": "Chevrolet Tahoe",
+      "generations": [
+        {
+          "id": "gen_chevrolet_tahoe",
+          "title": "Chevrolet Tahoe",
+          "children": [
+            {
+              "id": "mod_2000_chevrolet_tahoe_ls",
+              "title": "2000 Chevrolet Tahoe LS"
+            },
+            {
+              "id": "mod_2000_chevrolet_tahoe_lt_premium",
+              "title": "2000 Chevrolet Tahoe LT Premium"
+            },
+            {
+              "id": "mod_2000_chevrolet_tahoe_lt",
+              "title": "2000 Chevrolet Tahoe LT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_alero",
+      "title": "Chevrolet Alero",
+      "generations": [
+        {
+          "id": "gen_chevrolet_alero",
+          "title": "Chevrolet Alero",
+          "children": [
+            {
+              "id": "mod_1999_chevrolet_alero_2_4_sa",
+              "title": "1999 Chevrolet Alero 2.4 SA"
+            },
+            {
+              "id": "mod_1999_chevrolet_alero_2_4_sb",
+              "title": "1999 Chevrolet Alero 2.4 SB"
+            },
+            {
+              "id": "mod_1999_chevrolet_alero_3_4_sc",
+              "title": "1999 Chevrolet Alero 3.4 SC"
+            },
+            {
+              "id": "mod_1999_chevrolet_alero_3_4_sd",
+              "title": "1999 Chevrolet Alero 3.4 SD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_blazer_zr2",
+      "title": "Chevrolet Blazer ZR2",
+      "generations": [
+        {
+          "id": "gen_chevrolet_blazer_zr2",
+          "title": "Chevrolet Blazer ZR2",
+          "children": [
+            {
+              "id": "mod_1998_chevrolet_blazer_zr2",
+              "title": "1998 Chevrolet Blazer ZR2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_camaro_convertible",
+      "title": "Chevrolet Camaro Convertible",
+      "generations": [
+        {
+          "id": "gen_chevrolet_camaro_convertible",
+          "title": "Chevrolet Camaro Convertible",
+          "children": [
+            {
+              "id": "mod_2018_chevrolet_camaro_convertible_2_0_i4",
+              "title": "2018 Chevrolet Camaro Convertible 2.0 I4"
+            },
+            {
+              "id": "mod_2018_chevrolet_camaro_convertible_6_2_v8",
+              "title": "2018 Chevrolet Camaro Convertible 6.2 V8"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_camaro_convertible",
+          "title": "Chevrolet Camaro Convertible",
+          "children": [
+            {
+              "id": "mod_2011_chevrolet_camaro_convertible_6_2_v8",
+              "title": "2011 Chevrolet Camaro Convertible 6.2 V8"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_camaro_convertible",
+          "title": "Chevrolet Camaro Convertible",
+          "children": [
+            {
+              "id": "mod_1998_chevrolet_camaro_convertible",
+              "title": "1998 Chevrolet Camaro Convertible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_camaro_coupe",
+      "title": "Chevrolet Camaro Coupe",
+      "generations": [
+        {
+          "id": "gen_chevrolet_camaro_coupe",
+          "title": "Chevrolet Camaro Coupe",
+          "children": [
+            {
+              "id": "mod_2018_chevrolet_camaro_coupe_2_0_i4",
+              "title": "2018 Chevrolet Camaro Coupe 2.0 I4"
+            },
+            {
+              "id": "mod_2018_chevrolet_camaro_coupe_6_2_v8",
+              "title": "2018 Chevrolet Camaro Coupe 6.2 V8"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_camaro_coupe",
+          "title": "Chevrolet Camaro Coupe",
+          "children": [
+            {
+              "id": "mod_2011_chevrolet_camaro_coupe_6_2_v8",
+              "title": "2011 Chevrolet Camaro Coupe 6.2 V8"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_camaro_coupe",
+          "title": "Chevrolet Camaro Coupe",
+          "children": [
+            {
+              "id": "mod_1998_chevrolet_camaro_coupe",
+              "title": "1998 Chevrolet Camaro Coupe"
+            },
+            {
+              "id": "mod_1998_chevrolet_camaro_z28_coupe",
+              "title": "1998 Chevrolet Camaro Z28 Coupe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_blazer_wagon",
+      "title": "Chevrolet Blazer Wagon",
+      "generations": [
+        {
+          "id": "gen_chevrolet_blazer_wagon",
+          "title": "Chevrolet Blazer Wagon",
+          "children": [
+            {
+              "id": "mod_1998_chevrolet_blazer_wagon",
+              "title": "1998 Chevrolet Blazer Wagon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_trans_sport",
+      "title": "Chevrolet Trans Sport",
+      "generations": [
+        {
+          "id": "gen_chevrolet_trans_sport",
+          "title": "Chevrolet Trans Sport",
+          "children": [
+            {
+              "id": "mod_1997_chevrolet_trans_sport_3_4_v6",
+              "title": "1997 Chevrolet Trans Sport 3.4 V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_blazer",
+      "title": "Chevrolet Blazer",
+      "generations": [
+        {
+          "id": "gen_chevrolet_blazer",
+          "title": "Chevrolet Blazer",
+          "children": [
+            {
+              "id": "mod_1995_chevrolet_blazer",
+              "title": "1995 Chevrolet Blazer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_corvette_convertible",
+      "title": "Chevrolet Corvette Convertible",
+      "generations": [
+        {
+          "id": "gen_chevrolet_corvette_convertible",
+          "title": "Chevrolet Corvette Convertible",
+          "children": [
+            {
+              "id": "mod_2014_chevrolet_corvette_stingray_convertible",
+              "title": "2014 Chevrolet Corvette Stingray Convertible"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_corvette_convertible",
+          "title": "Chevrolet Corvette Convertible",
+          "children": [
+            {
+              "id": "mod_2010_chevrolet_corvette_grand_sport_convertible",
+              "title": "2010 Chevrolet Corvette Grand Sport Convertible"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_corvette_convertible",
+          "title": "Chevrolet Corvette Convertible",
+          "children": [
+            {
+              "id": "mod_1998_chevrolet_corvette_convertible",
+              "title": "1998 Chevrolet Corvette Convertible"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_corvette_convertible",
+          "title": "Chevrolet Corvette Convertible",
+          "children": [
+            {
+              "id": "mod_1993_chevrolet_corvette_convertible",
+              "title": "1993 Chevrolet Corvette Convertible"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_corvette_coupe",
+      "title": "Chevrolet Corvette Coupe",
+      "generations": [
+        {
+          "id": "gen_chevrolet_corvette_coupe",
+          "title": "Chevrolet Corvette Coupe",
+          "children": [
+            {
+              "id": "mod_2014_chevrolet_corvette_stingray_coupe",
+              "title": "2014 Chevrolet Corvette Stingray Coupe"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_corvette_coupe",
+          "title": "Chevrolet Corvette Coupe",
+          "children": [
+            {
+              "id": "mod_2010_chevrolet_corvette_grand_sport_coupe",
+              "title": "2010 Chevrolet Corvette Grand Sport Coupe"
+            },
+            {
+              "id": "mod_2010_chevrolet_corvette_z06_coupe",
+              "title": "2010 Chevrolet Corvette Z06 Coupe"
+            },
+            {
+              "id": "mod_2010_chevrolet_corvette_zr1_coupe",
+              "title": "2010 Chevrolet Corvette ZR1 Coupe"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_corvette_coupe",
+          "title": "Chevrolet Corvette Coupe",
+          "children": [
+            {
+              "id": "mod_1997_chevrolet_corvette_coupe",
+              "title": "1997 Chevrolet Corvette Coupe"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_corvette_coupe",
+          "title": "Chevrolet Corvette Coupe",
+          "children": [
+            {
+              "id": "mod_1993_chevrolet_corvette_coupe",
+              "title": "1993 Chevrolet Corvette Coupe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_caprice",
+      "title": "Chevrolet Caprice",
+      "generations": [
+        {
+          "id": "gen_chevrolet_caprice",
+          "title": "Chevrolet Caprice",
+          "children": [
+            {
+              "id": "mod_1991_chevrolet_caprice_classic",
+              "title": "1991 Chevrolet Caprice Classic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_lumina_apv",
+      "title": "Chevrolet Lumina APV",
+      "generations": [
+        {
+          "id": "gen_chevrolet_lumina_apv",
+          "title": "Chevrolet Lumina APV",
+          "children": [
+            {
+              "id": "mod_1990_chevrolet_lumina_apv_cl",
+              "title": "1990 Chevrolet Lumina APV CL"
+            },
+            {
+              "id": "mod_1990_chevrolet_lumina_apv",
+              "title": "1990 Chevrolet Lumina APV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_lumina",
+      "title": "Chevrolet Lumina",
+      "generations": [
+        {
+          "id": "gen_chevrolet_lumina",
+          "title": "Chevrolet Lumina",
+          "children": [
+            {
+              "id": "mod_1995_chevrolet_lumina_3_1i",
+              "title": "1995 Chevrolet Lumina 3.1i"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_lumina",
+          "title": "Chevrolet Lumina",
+          "children": [
+            {
+              "id": "mod_1990_chevrolet_lumina_euro",
+              "title": "1990 Chevrolet Lumina Euro"
+            },
+            {
+              "id": "mod_1990_chevrolet_lumina",
+              "title": "1990 Chevrolet Lumina"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_lumina",
+          "title": "Chevrolet Lumina",
+          "children": [
+            {
+              "id": "mod_1990_chevrolet_lumina_euro",
+              "title": "1990 Chevrolet Lumina Euro"
+            },
+            {
+              "id": "mod_1990_chevrolet_lumina",
+              "title": "1990 Chevrolet Lumina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_corsica",
+      "title": "Chevrolet Corsica",
+      "generations": [
+        {
+          "id": "gen_chevrolet_corsica",
+          "title": "Chevrolet Corsica",
+          "children": [
+            {
+              "id": "mod_1989_chevrolet_corsica_2_2i_lt",
+              "title": "1989 Chevrolet Corsica 2.2i LT"
+            },
+            {
+              "id": "mod_1989_chevrolet_corsica_3_1i_lt",
+              "title": "1989 Chevrolet Corsica 3.1i LT"
+            }
+          ]
+        },
+        {
+          "id": "gen_chevrolet_corsica",
+          "title": "Chevrolet Corsica",
+          "children": [
+            {
+              "id": "mod_1987_chevrolet_corsica_2_8i",
+              "title": "1987 Chevrolet Corsica 2.8i"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_chevrolet_beretta",
+      "title": "Chevrolet Beretta",
+      "generations": [
+        {
+          "id": "gen_chevrolet_beretta",
+          "title": "Chevrolet Beretta",
+          "children": [
+            {
+              "id": "mod_1987_chevrolet_beretta_2_8i",
+              "title": "1987 Chevrolet Beretta 2.8i"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

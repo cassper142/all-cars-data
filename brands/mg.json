@@ -1,0 +1,350 @@
+{
+  "id": "brand_mg",
+  "title": "MG",
+  "models": [
+    {
+      "id": "model_mg_tf",
+      "title": "MG TF",
+      "generations": [
+        {
+          "id": "gen_mg_tf",
+          "title": "MG TF",
+          "children": [
+            {
+              "id": "mod_2005_mg_tf_115",
+              "title": "2005 MG TF 115"
+            },
+            {
+              "id": "mod_2005_mg_tf_120_stepspeed",
+              "title": "2005 MG TF 120 Stepspeed"
+            },
+            {
+              "id": "mod_2005_mg_tf_135_oxford_special_edition",
+              "title": "2005 MG TF 135 Oxford Special Edition"
+            },
+            {
+              "id": "mod_2005_mg_tf_135",
+              "title": "2005 MG TF 135"
+            },
+            {
+              "id": "mod_2005_mg_tf_160",
+              "title": "2005 MG TF 160"
+            }
+          ]
+        },
+        {
+          "id": "gen_mg_tf",
+          "title": "MG TF",
+          "children": [
+            {
+              "id": "mod_2002_mg_tf_115",
+              "title": "2002 MG TF 115"
+            },
+            {
+              "id": "mod_2002_mg_tf_120_stepspeed",
+              "title": "2002 MG TF 120 Stepspeed"
+            },
+            {
+              "id": "mod_2002_mg_tf_135",
+              "title": "2002 MG TF 135"
+            },
+            {
+              "id": "mod_2002_mg_tf_160",
+              "title": "2002 MG TF 160"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mg_zr",
+      "title": "MG ZR",
+      "generations": [
+        {
+          "id": "gen_mg_zr",
+          "title": "MG ZR",
+          "children": [
+            {
+              "id": "mod_2004_mg_zr_105",
+              "title": "2004 MG ZR 105"
+            },
+            {
+              "id": "mod_2004_mg_zr_115_idt",
+              "title": "2004 MG ZR 115 IDT"
+            },
+            {
+              "id": "mod_2004_mg_zr_160",
+              "title": "2004 MG ZR 160"
+            }
+          ]
+        },
+        {
+          "id": "gen_mg_zr",
+          "title": "MG ZR",
+          "children": [
+            {
+              "id": "mod_2004_mg_zr_105",
+              "title": "2004 MG ZR 105"
+            },
+            {
+              "id": "mod_2004_mg_zr_115_idt",
+              "title": "2004 MG ZR 115 IDT"
+            },
+            {
+              "id": "mod_2004_mg_zr_160",
+              "title": "2004 MG ZR 160"
+            }
+          ]
+        },
+        {
+          "id": "gen_mg_zr",
+          "title": "MG ZR",
+          "children": [
+            {
+              "id": "mod_2002_mg_zr_100_idt_le_mans_se",
+              "title": "2002 MG ZR 100 IDT Le Mans SE"
+            },
+            {
+              "id": "mod_2002_mg_zr_100_idt",
+              "title": "2002 MG ZR 100 IDT"
+            },
+            {
+              "id": "mod_2002_mg_zr_105_le_mans_se",
+              "title": "2002 MG ZR 105 Le Mans SE"
+            },
+            {
+              "id": "mod_2002_mg_zr_105",
+              "title": "2002 MG ZR 105"
+            },
+            {
+              "id": "mod_2002_mg_zr_160",
+              "title": "2002 MG ZR 160"
+            }
+          ]
+        },
+        {
+          "id": "gen_mg_zr",
+          "title": "MG ZR",
+          "children": [
+            {
+              "id": "mod_2001_mg_zr_105",
+              "title": "2001 MG ZR 105"
+            },
+            {
+              "id": "mod_2001_mg_zr_160",
+              "title": "2001 MG ZR 160"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mg_zs",
+      "title": "MG ZS",
+      "generations": [
+        {
+          "id": "gen_mg_zs",
+          "title": "MG ZS",
+          "children": [
+            {
+              "id": "mod_2019_mg_zs_ev_comfort",
+              "title": "2019 MG ZS EV Comfort"
+            },
+            {
+              "id": "mod_2019_mg_zs_ev_luxury",
+              "title": "2019 MG ZS EV Luxury"
+            }
+          ]
+        },
+        {
+          "id": "gen_mg_zs",
+          "title": "MG ZS",
+          "children": [
+            {
+              "id": "mod_2004_mg_zs_115_idt",
+              "title": "2004 MG ZS 115 IDT"
+            },
+            {
+              "id": "mod_2004_mg_zs_120",
+              "title": "2004 MG ZS 120"
+            },
+            {
+              "id": "mod_2004_mg_zs_180",
+              "title": "2004 MG ZS 180"
+            }
+          ]
+        },
+        {
+          "id": "gen_mg_zs",
+          "title": "MG ZS",
+          "children": [
+            {
+              "id": "mod_2004_mg_zs_115_idt",
+              "title": "2004 MG ZS 115 IDT"
+            },
+            {
+              "id": "mod_2004_mg_zs_120",
+              "title": "2004 MG ZS 120"
+            },
+            {
+              "id": "mod_2004_mg_zs_180",
+              "title": "2004 MG ZS 180"
+            }
+          ]
+        },
+        {
+          "id": "gen_mg_zs",
+          "title": "MG ZS",
+          "children": [
+            {
+              "id": "mod_2002_mg_zs_100_idt",
+              "title": "2002 MG ZS 100 IDT"
+            },
+            {
+              "id": "mod_2002_mg_zs_120",
+              "title": "2002 MG ZS 120"
+            },
+            {
+              "id": "mod_2002_mg_zs_180",
+              "title": "2002 MG ZS 180"
+            }
+          ]
+        },
+        {
+          "id": "gen_mg_zs",
+          "title": "MG ZS",
+          "children": [
+            {
+              "id": "mod_2001_mg_zs_120",
+              "title": "2001 MG ZS 120"
+            },
+            {
+              "id": "mod_2001_mg_zs_180",
+              "title": "2001 MG ZS 180"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mg_zt",
+      "title": "MG ZT",
+      "generations": [
+        {
+          "id": "gen_mg_zt",
+          "title": "MG ZT",
+          "children": [
+            {
+              "id": "mod_2004_mg_zt_135_cdti",
+              "title": "2004 MG ZT 135 CDTI"
+            },
+            {
+              "id": "mod_2004_mg_zt_160",
+              "title": "2004 MG ZT 160"
+            },
+            {
+              "id": "mod_2004_mg_zt_180",
+              "title": "2004 MG ZT 180"
+            },
+            {
+              "id": "mod_2004_mg_zt_190",
+              "title": "2004 MG ZT 190"
+            },
+            {
+              "id": "mod_2004_mg_zt_260",
+              "title": "2004 MG ZT 260"
+            }
+          ]
+        },
+        {
+          "id": "gen_mg_zt",
+          "title": "MG ZT",
+          "children": [
+            {
+              "id": "mod_2001_mg_zt_190",
+              "title": "2001 MG ZT 190"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mg_zt_t",
+      "title": "MG ZT-T",
+      "generations": [
+        {
+          "id": "gen_mg_zt_t",
+          "title": "MG ZT-T",
+          "children": [
+            {
+              "id": "mod_2004_mg_zt_t_135_cdti",
+              "title": "2004 MG ZT-T 135 CDTI"
+            },
+            {
+              "id": "mod_2004_mg_zt_t_160",
+              "title": "2004 MG ZT-T 160"
+            },
+            {
+              "id": "mod_2004_mg_zt_t_180",
+              "title": "2004 MG ZT-T 180"
+            },
+            {
+              "id": "mod_2004_mg_zt_t_190",
+              "title": "2004 MG ZT-T 190"
+            },
+            {
+              "id": "mod_2004_mg_zt_t_260",
+              "title": "2004 MG ZT-T 260"
+            }
+          ]
+        },
+        {
+          "id": "gen_mg_zt_t",
+          "title": "MG ZT-T",
+          "children": [
+            {
+              "id": "mod_2001_mg_zt_t_190",
+              "title": "2001 MG ZT-T 190"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mg_f",
+      "title": "MG F",
+      "generations": [
+        {
+          "id": "gen_mg_f",
+          "title": "MG F",
+          "children": [
+            {
+              "id": "mod_1996_mg_f_1_8i_vvc",
+              "title": "1996 MG F 1.8i VVC"
+            },
+            {
+              "id": "mod_1996_mg_f_1_8i",
+              "title": "1996 MG F 1.8i"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mg_rv8",
+      "title": "MG RV8",
+      "generations": [
+        {
+          "id": "gen_mg_rv8",
+          "title": "MG RV8",
+          "children": [
+            {
+              "id": "mod_1994_mg_rv8",
+              "title": "1994 MG RV8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "brand_marcos",
+  "title": "Marcos",
+  "models": [
+    {
+      "id": "model_marcos_lm_500",
+      "title": "Marcos LM 500",
+      "generations": [
+        {
+          "id": "gen_marcos_lm_500",
+          "title": "Marcos LM 500",
+          "children": [
+            {
+              "id": "mod_1994_marcos_lm_500_coupe",
+              "title": "1994 Marcos LM 500 Coupe"
+            }
+          ]
+        },
+        {
+          "id": "gen_marcos_lm_500",
+          "title": "Marcos LM 500",
+          "children": [
+            {
+              "id": "mod_1994_marcos_lm_500_spyder",
+              "title": "1994 Marcos LM 500 Spyder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_marcos_mantara",
+      "title": "Marcos Mantara",
+      "generations": [
+        {
+          "id": "gen_marcos_mantara",
+          "title": "Marcos Mantara",
+          "children": [
+            {
+              "id": "mod_1994_marcos_mantara_coupe",
+              "title": "1994 Marcos Mantara Coupe"
+            }
+          ]
+        },
+        {
+          "id": "gen_marcos_mantara",
+          "title": "Marcos Mantara",
+          "children": [
+            {
+              "id": "mod_1994_marcos_mantara_spyder",
+              "title": "1994 Marcos Mantara Spyder"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

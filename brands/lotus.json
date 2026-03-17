@@ -1,0 +1,154 @@
+{
+  "id": "brand_lotus",
+  "title": "Lotus",
+  "models": [
+    {
+      "id": "model_lotus_evora",
+      "title": "Lotus Evora",
+      "generations": [
+        {
+          "id": "gen_lotus_evora",
+          "title": "Lotus Evora",
+          "children": [
+            {
+              "id": "mod_2009_lotus_evora_2_0",
+              "title": "2009 Lotus Evora 2+0"
+            },
+            {
+              "id": "mod_2009_lotus_evora_2_2",
+              "title": "2009 Lotus Evora 2+2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lotus_europa",
+      "title": "Lotus Europa",
+      "generations": [
+        {
+          "id": "gen_lotus_europa",
+          "title": "Lotus Europa",
+          "children": [
+            {
+              "id": "mod_2006_lotus_europa_s",
+              "title": "2006 Lotus Europa S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lotus_exige",
+      "title": "Lotus Exige",
+      "generations": [
+        {
+          "id": "gen_lotus_exige",
+          "title": "Lotus Exige",
+          "children": [
+            {
+              "id": "mod_2013_lotus_exige_s",
+              "title": "2013 Lotus Exige S"
+            }
+          ]
+        },
+        {
+          "id": "gen_lotus_exige",
+          "title": "Lotus Exige",
+          "children": [
+            {
+              "id": "mod_2004_lotus_exige",
+              "title": "2004 Lotus Exige"
+            }
+          ]
+        },
+        {
+          "id": "gen_lotus_exige",
+          "title": "Lotus Exige",
+          "children": [
+            {
+              "id": "mod_2000_lotus_exige",
+              "title": "2000 Lotus Exige"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lotus_elise",
+      "title": "Lotus Elise",
+      "generations": [
+        {
+          "id": "gen_lotus_elise",
+          "title": "Lotus Elise",
+          "children": [
+            {
+              "id": "mod_2010_lotus_elise_r",
+              "title": "2010 Lotus Elise R"
+            },
+            {
+              "id": "mod_2010_lotus_elise_sc",
+              "title": "2010 Lotus Elise SC"
+            },
+            {
+              "id": "mod_2010_lotus_elise",
+              "title": "2010 Lotus Elise"
+            }
+          ]
+        },
+        {
+          "id": "gen_lotus_elise",
+          "title": "Lotus Elise",
+          "children": [
+            {
+              "id": "mod_2001_lotus_elise_race_122_s2",
+              "title": "2001 Lotus Elise Race 122 S2"
+            },
+            {
+              "id": "mod_2001_lotus_elise_s",
+              "title": "2001 Lotus Elise S"
+            },
+            {
+              "id": "mod_2001_lotus_elise",
+              "title": "2001 Lotus Elise"
+            }
+          ]
+        },
+        {
+          "id": "gen_lotus_elise",
+          "title": "Lotus Elise",
+          "children": [
+            {
+              "id": "mod_1997_lotus_elise",
+              "title": "1997 Lotus Elise"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lotus_esprit",
+      "title": "Lotus Esprit",
+      "generations": [
+        {
+          "id": "gen_lotus_esprit",
+          "title": "Lotus Esprit",
+          "children": [
+            {
+              "id": "mod_1997_lotus_esprit_gt3",
+              "title": "1997 Lotus Esprit GT3"
+            },
+            {
+              "id": "mod_1997_lotus_esprit_v8_gt",
+              "title": "1997 Lotus Esprit V8 GT"
+            },
+            {
+              "id": "mod_1997_lotus_esprit_v8",
+              "title": "1997 Lotus Esprit V8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

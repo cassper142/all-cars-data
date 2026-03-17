@@ -1,0 +1,524 @@
+{
+  "id": "brand_dacia",
+  "title": "Dacia",
+  "models": [
+    {
+      "id": "model_dacia_dokker",
+      "title": "Dacia Dokker",
+      "generations": [
+        {
+          "id": "gen_dacia_dokker",
+          "title": "Dacia Dokker",
+          "children": [
+            {
+              "id": "mod_2013_dacia_dokker_dci_90_laureate",
+              "title": "2013 Dacia Dokker DCi 90 Laureate"
+            },
+            {
+              "id": "mod_2013_dacia_dokker_tce_115_ambiance",
+              "title": "2013 Dacia Dokker TCe 115 Ambiance"
+            },
+            {
+              "id": "mod_2013_dacia_dokker_tce_115_laureate",
+              "title": "2013 Dacia Dokker TCe 115 Laureate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_dacia_dokker_van",
+      "title": "Dacia Dokker Van",
+      "generations": [
+        {
+          "id": "gen_dacia_dokker_van",
+          "title": "Dacia Dokker Van",
+          "children": [
+            {
+              "id": "mod_2013_dacia_dokker_van_1_6_basic",
+              "title": "2013 Dacia Dokker Van 1.6 Basic"
+            },
+            {
+              "id": "mod_2013_dacia_dokker_van_dci_75_ambiance",
+              "title": "2013 Dacia Dokker Van DCi 75 Ambiance"
+            },
+            {
+              "id": "mod_2013_dacia_dokker_van_dci_75_basic",
+              "title": "2013 Dacia Dokker Van DCi 75 Basic"
+            },
+            {
+              "id": "mod_2013_dacia_dokker_van_dci_90_ambiance",
+              "title": "2013 Dacia Dokker Van DCi 90 Ambiance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_dacia_lodgy",
+      "title": "Dacia Lodgy",
+      "generations": [
+        {
+          "id": "gen_dacia_lodgy",
+          "title": "Dacia Lodgy",
+          "children": [
+            {
+              "id": "mod_2012_dacia_lodgy_dci_110_laureate_5p",
+              "title": "2012 Dacia Lodgy DCi 110 Laureate 5P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_dci_110_laureate_7p",
+              "title": "2012 Dacia Lodgy DCi 110 Laureate 7P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_dci_110_prestige_5p",
+              "title": "2012 Dacia Lodgy DCi 110 Prestige 5P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_dci_110_prestige_7p",
+              "title": "2012 Dacia Lodgy DCi 110 Prestige 7P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_dci_90_ambiance_5p",
+              "title": "2012 Dacia Lodgy DCi 90 Ambiance 5P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_dci_90_ambiance_7p",
+              "title": "2012 Dacia Lodgy DCi 90 Ambiance 7P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_dci_90_laureate_5p",
+              "title": "2012 Dacia Lodgy DCi 90 Laureate 5P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_dci_90_laureate_7p",
+              "title": "2012 Dacia Lodgy DCi 90 Laureate 7P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_tce_115_ambiance_5p",
+              "title": "2012 Dacia Lodgy TCe 115 Ambiance 5P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_tce_115_ambiance_7p",
+              "title": "2012 Dacia Lodgy TCe 115 Ambiance 7P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_tce_115_laureate_5p",
+              "title": "2012 Dacia Lodgy TCe 115 Laureate 5P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_tce_115_laureate_7p",
+              "title": "2012 Dacia Lodgy TCe 115 Laureate 7P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_tce_115_prestige_5p",
+              "title": "2012 Dacia Lodgy TCe 115 Prestige 5P"
+            },
+            {
+              "id": "mod_2012_dacia_lodgy_tce_115_prestige_7p",
+              "title": "2012 Dacia Lodgy TCe 115 Prestige 7P"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_dacia_logan_van",
+      "title": "Dacia Logan Van",
+      "generations": [
+        {
+          "id": "gen_dacia_logan_van",
+          "title": "Dacia Logan Van",
+          "children": [
+            {
+              "id": "mod_2011_dacia_logan_van_1_5_dci_75",
+              "title": "2011 Dacia Logan Van 1.5 DCi 75"
+            },
+            {
+              "id": "mod_2011_dacia_logan_van_1_6",
+              "title": "2011 Dacia Logan Van 1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_dacia_logan_pick_up",
+      "title": "Dacia Logan Pick-Up",
+      "generations": [
+        {
+          "id": "gen_dacia_logan_pick_up",
+          "title": "Dacia Logan Pick-Up",
+          "children": [
+            {
+              "id": "mod_2011_dacia_logan_pick_up_1_5_dci_75",
+              "title": "2011 Dacia Logan Pick-Up 1.5 DCi 75"
+            },
+            {
+              "id": "mod_2011_dacia_logan_pick_up_1_6",
+              "title": "2011 Dacia Logan Pick-Up 1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_dacia_duster",
+      "title": "Dacia Duster",
+      "generations": [
+        {
+          "id": "gen_dacia_duster",
+          "title": "Dacia Duster",
+          "children": [
+            {
+              "id": "mod_2018_dacia_duster_sce_115_bi_fuel_comfort",
+              "title": "2018 Dacia Duster SCe 115 Bi-Fuel Comfort"
+            },
+            {
+              "id": "mod_2018_dacia_duster_sce_115_bi_fuel_essential",
+              "title": "2018 Dacia Duster SCe 115 Bi-Fuel Essential"
+            },
+            {
+              "id": "mod_2018_dacia_duster_sce_115_bi_fuel_prestige",
+              "title": "2018 Dacia Duster SCe 115 Bi-Fuel Prestige"
+            },
+            {
+              "id": "mod_2018_dacia_duster_tce_125_4x2_comfort",
+              "title": "2018 Dacia Duster TCe 125 4x2 Comfort"
+            },
+            {
+              "id": "mod_2018_dacia_duster_tce_125_4x2_essential",
+              "title": "2018 Dacia Duster TCe 125 4x2 Essential"
+            },
+            {
+              "id": "mod_2018_dacia_duster_tce_125_4x2_prestige",
+              "title": "2018 Dacia Duster TCe 125 4x2 Prestige"
+            },
+            {
+              "id": "mod_2018_dacia_duster_tce_125_4x4_comfort",
+              "title": "2018 Dacia Duster TCe 125 4x4 Comfort"
+            },
+            {
+              "id": "mod_2018_dacia_duster_tce_125_4x4_essential",
+              "title": "2018 Dacia Duster TCe 125 4x4 Essential"
+            },
+            {
+              "id": "mod_2018_dacia_duster_tce_125_4x4_prestige",
+              "title": "2018 Dacia Duster TCe 125 4x4 Prestige"
+            }
+          ]
+        },
+        {
+          "id": "gen_dacia_duster",
+          "title": "Dacia Duster",
+          "children": [
+            {
+              "id": "mod_2014_dacia_duster_dci_110_4x2_prestige",
+              "title": "2014 Dacia Duster DCi 110 4x2 Prestige"
+            },
+            {
+              "id": "mod_2014_dacia_duster_dci_110_4x4_prestige",
+              "title": "2014 Dacia Duster DCi 110 4x4 Prestige"
+            },
+            {
+              "id": "mod_2014_dacia_duster_tce_125_4x2_ambiance",
+              "title": "2014 Dacia Duster TCe 125 4x2 Ambiance"
+            },
+            {
+              "id": "mod_2014_dacia_duster_tce_125_4x2_laureate",
+              "title": "2014 Dacia Duster TCe 125 4x2 Laureate"
+            },
+            {
+              "id": "mod_2014_dacia_duster_tce_125_4x2_prestige",
+              "title": "2014 Dacia Duster TCe 125 4x2 Prestige"
+            }
+          ]
+        },
+        {
+          "id": "gen_dacia_duster",
+          "title": "Dacia Duster",
+          "children": [
+            {
+              "id": "mod_2010_dacia_duster_1_6_16v_4x2_ambiance",
+              "title": "2010 Dacia Duster 1.6 16V 4x2 Ambiance"
+            },
+            {
+              "id": "mod_2010_dacia_duster_1_6_16v_4x2_laureate",
+              "title": "2010 Dacia Duster 1.6 16V 4x2 Laureate"
+            },
+            {
+              "id": "mod_2010_dacia_duster_1_6_16v_4x2",
+              "title": "2010 Dacia Duster 1.6 16V 4x2"
+            },
+            {
+              "id": "mod_2010_dacia_duster_1_6_16v_4x4_ambiance",
+              "title": "2010 Dacia Duster 1.6 16V 4x4 Ambiance"
+            },
+            {
+              "id": "mod_2010_dacia_duster_1_6_16v_4x4_laureate",
+              "title": "2010 Dacia Duster 1.6 16V 4x4 Laureate"
+            },
+            {
+              "id": "mod_2010_dacia_duster_dci_110_4x2_ambiance",
+              "title": "2010 Dacia Duster DCi 110 4x2 Ambiance"
+            },
+            {
+              "id": "mod_2010_dacia_duster_dci_110_4x2_laureate",
+              "title": "2010 Dacia Duster DCi 110 4x2 Laureate"
+            },
+            {
+              "id": "mod_2010_dacia_duster_dci_110_4x4_ambiance",
+              "title": "2010 Dacia Duster DCi 110 4x4 Ambiance"
+            },
+            {
+              "id": "mod_2010_dacia_duster_dci_110_4x4_laureate",
+              "title": "2010 Dacia Duster DCi 110 4x4 Laureate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_dacia_sandero",
+      "title": "Dacia Sandero",
+      "generations": [
+        {
+          "id": "gen_dacia_sandero",
+          "title": "Dacia Sandero",
+          "children": [
+            {
+              "id": "mod_2016_dacia_sandero_stepway_tce_90_ambiance",
+              "title": "2016 Dacia Sandero Stepway TCe 90 Ambiance"
+            },
+            {
+              "id": "mod_2016_dacia_sandero_stepway_tce_90_bi_fuel_ambiance",
+              "title": "2016 Dacia Sandero Stepway TCe 90 Bi-Fuel Ambiance"
+            },
+            {
+              "id": "mod_2016_dacia_sandero_stepway_tce_90_bi_fuel_laureate",
+              "title": "2016 Dacia Sandero Stepway TCe 90 Bi-Fuel Laureate"
+            },
+            {
+              "id": "mod_2016_dacia_sandero_stepway_tce_90_laureate",
+              "title": "2016 Dacia Sandero Stepway TCe 90 Laureate"
+            },
+            {
+              "id": "mod_2016_dacia_sandero_tce_90_ambiance",
+              "title": "2016 Dacia Sandero TCe 90 Ambiance"
+            },
+            {
+              "id": "mod_2016_dacia_sandero_tce_90_bi_fuel_ambiance",
+              "title": "2016 Dacia Sandero TCe 90 Bi-Fuel Ambiance"
+            },
+            {
+              "id": "mod_2016_dacia_sandero_tce_90_bi_fuel_laureate",
+              "title": "2016 Dacia Sandero TCe 90 Bi-Fuel Laureate"
+            },
+            {
+              "id": "mod_2016_dacia_sandero_tce_90_laureate",
+              "title": "2016 Dacia Sandero TCe 90 Laureate"
+            }
+          ]
+        },
+        {
+          "id": "gen_dacia_sandero",
+          "title": "Dacia Sandero",
+          "children": [
+            {
+              "id": "mod_2012_dacia_sandero_stepway_tce_90_ambiance",
+              "title": "2012 Dacia Sandero Stepway Tce 90 Ambiance"
+            },
+            {
+              "id": "mod_2012_dacia_sandero_stepway_tce_90_laureate",
+              "title": "2012 Dacia Sandero Stepway Tce 90 Laureate"
+            },
+            {
+              "id": "mod_2012_dacia_sandero_tce_90_ambiance",
+              "title": "2012 Dacia Sandero Tce 90 Ambiance"
+            },
+            {
+              "id": "mod_2012_dacia_sandero_tce_90_laureate",
+              "title": "2012 Dacia Sandero Tce 90 Laureate"
+            }
+          ]
+        },
+        {
+          "id": "gen_dacia_sandero",
+          "title": "Dacia Sandero",
+          "children": [
+            {
+              "id": "mod_2008_dacia_sandero_1_4_ambiance",
+              "title": "2008 Dacia Sandero 1.4 Ambiance"
+            },
+            {
+              "id": "mod_2008_dacia_sandero_1_4_laureate",
+              "title": "2008 Dacia Sandero 1.4 Laureate"
+            },
+            {
+              "id": "mod_2008_dacia_sandero_1_4",
+              "title": "2008 Dacia Sandero 1.4"
+            },
+            {
+              "id": "mod_2008_dacia_sandero_1_6_ambiance",
+              "title": "2008 Dacia Sandero 1.6 Ambiance"
+            },
+            {
+              "id": "mod_2008_dacia_sandero_1_6_laureate",
+              "title": "2008 Dacia Sandero 1.6 Laureate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_dacia_logan_mcv",
+      "title": "Dacia Logan MCV",
+      "generations": [
+        {
+          "id": "gen_dacia_logan_mcv",
+          "title": "Dacia Logan MCV",
+          "children": [
+            {
+              "id": "mod_2016_dacia_logan_mcv_dci_90_laureate",
+              "title": "2016 Dacia Logan MCV DCi 90 Laureate"
+            },
+            {
+              "id": "mod_2016_dacia_logan_mcv_tce_90_ambiance",
+              "title": "2016 Dacia Logan MCV TCe 90 Ambiance"
+            },
+            {
+              "id": "mod_2016_dacia_logan_mcv_tce_90_bi_fuel_ambiance",
+              "title": "2016 Dacia Logan MCV TCe 90 Bi-Fuel Ambiance"
+            },
+            {
+              "id": "mod_2016_dacia_logan_mcv_tce_90_bi_fuel_laureate",
+              "title": "2016 Dacia Logan MCV TCe 90 Bi-Fuel Laureate"
+            },
+            {
+              "id": "mod_2016_dacia_logan_mcv_tce_90_laureate",
+              "title": "2016 Dacia Logan MCV TCe 90 Laureate"
+            }
+          ]
+        },
+        {
+          "id": "gen_dacia_logan_mcv",
+          "title": "Dacia Logan MCV",
+          "children": [
+            {
+              "id": "mod_2013_dacia_logan_mcv_dci_90_laureate",
+              "title": "2013 Dacia Logan MCV DCi 90 Laureate"
+            },
+            {
+              "id": "mod_2013_dacia_logan_mcv_dci_90_prestige",
+              "title": "2013 Dacia Logan MCV DCi 90 Prestige"
+            },
+            {
+              "id": "mod_2013_dacia_logan_mcv_tce_90_ambiance",
+              "title": "2013 Dacia Logan MCV TCe 90 Ambiance"
+            },
+            {
+              "id": "mod_2013_dacia_logan_mcv_tce_90_laureate",
+              "title": "2013 Dacia Logan MCV TCe 90 Laureate"
+            },
+            {
+              "id": "mod_2013_dacia_logan_mcv_tce_90_prestige",
+              "title": "2013 Dacia Logan MCV TCe 90 Prestige"
+            }
+          ]
+        },
+        {
+          "id": "gen_dacia_logan_mcv",
+          "title": "Dacia Logan MCV",
+          "children": [
+            {
+              "id": "mod_2008_dacia_logan_mcv_1_4_ambiance",
+              "title": "2008 Dacia Logan MCV 1.4 Ambiance"
+            },
+            {
+              "id": "mod_2008_dacia_logan_mcv_1_4_laureate",
+              "title": "2008 Dacia Logan MCV 1.4 Laureate"
+            },
+            {
+              "id": "mod_2008_dacia_logan_mcv_1_6_16v_laureate",
+              "title": "2008 Dacia Logan MCV 1.6 16V Laureate"
+            },
+            {
+              "id": "mod_2008_dacia_logan_mcv_1_6_ambiance",
+              "title": "2008 Dacia Logan MCV 1.6 Ambiance"
+            },
+            {
+              "id": "mod_2008_dacia_logan_mcv_1_6_laureate",
+              "title": "2008 Dacia Logan MCV 1.6 Laureate"
+            }
+          ]
+        },
+        {
+          "id": "gen_dacia_logan_mcv",
+          "title": "Dacia Logan MCV",
+          "children": [
+            {
+              "id": "mod_2007_dacia_logan_mcv_1_4_ambiance",
+              "title": "2007 Dacia Logan MCV 1.4 Ambiance"
+            },
+            {
+              "id": "mod_2007_dacia_logan_mcv_1_4_laureate",
+              "title": "2007 Dacia Logan MCV 1.4 Laureate"
+            },
+            {
+              "id": "mod_2007_dacia_logan_mcv_1_4",
+              "title": "2007 Dacia Logan MCV 1.4"
+            },
+            {
+              "id": "mod_2007_dacia_logan_mcv_1_5_dci_ambiance",
+              "title": "2007 Dacia Logan MCV 1.5 DCi Ambiance"
+            },
+            {
+              "id": "mod_2007_dacia_logan_mcv_1_5_dci_laureate",
+              "title": "2007 Dacia Logan MCV 1.5 DCi Laureate"
+            },
+            {
+              "id": "mod_2007_dacia_logan_mcv_1_6_16v_laureate",
+              "title": "2007 Dacia Logan MCV 1.6 16V Laureate"
+            },
+            {
+              "id": "mod_2007_dacia_logan_mcv_1_6_ambiance",
+              "title": "2007 Dacia Logan MCV 1.6 Ambiance"
+            },
+            {
+              "id": "mod_2007_dacia_logan_mcv_1_6_laureate",
+              "title": "2007 Dacia Logan MCV 1.6 Laureate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_dacia_logan",
+      "title": "Dacia Logan",
+      "generations": [
+        {
+          "id": "gen_dacia_logan",
+          "title": "Dacia Logan",
+          "children": [
+            {
+              "id": "mod_2005_dacia_logan_1_4_ambiance",
+              "title": "2005 Dacia Logan 1.4 Ambiance"
+            },
+            {
+              "id": "mod_2005_dacia_logan_1_4_laureate",
+              "title": "2005 Dacia Logan 1.4 Laureate"
+            },
+            {
+              "id": "mod_2005_dacia_logan_1_4",
+              "title": "2005 Dacia Logan 1.4"
+            },
+            {
+              "id": "mod_2005_dacia_logan_1_6_laureate",
+              "title": "2005 Dacia Logan 1.6 Laureate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

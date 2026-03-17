@@ -1,0 +1,38 @@
+{
+  "id": "brand_maybach",
+  "title": "Maybach",
+  "models": [
+    {
+      "id": "model_maybach_57",
+      "title": "Maybach 57",
+      "generations": [
+        {
+          "id": "gen_maybach_57",
+          "title": "Maybach 57",
+          "children": [
+            {
+              "id": "mod_2002_maybach_57",
+              "title": "2002 Maybach 57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_maybach_62",
+      "title": "Maybach 62",
+      "generations": [
+        {
+          "id": "gen_maybach_62",
+          "title": "Maybach 62",
+          "children": [
+            {
+              "id": "mod_2002_maybach_62",
+              "title": "2002 Maybach 62"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

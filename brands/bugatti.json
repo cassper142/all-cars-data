@@ -1,0 +1,22 @@
+{
+  "id": "brand_bugatti",
+  "title": "Bugatti",
+  "models": [
+    {
+      "id": "model_bugatti_veyron",
+      "title": "Bugatti Veyron",
+      "generations": [
+        {
+          "id": "gen_bugatti_veyron",
+          "title": "Bugatti Veyron",
+          "children": [
+            {
+              "id": "mod_2005_bugatti_veyron_16_4",
+              "title": "2005 Bugatti Veyron 16.4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

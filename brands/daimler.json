@@ -1,0 +1,136 @@
+{
+  "id": "brand_daimler",
+  "title": "Daimler",
+  "models": [
+    {
+      "id": "model_daimler_super_eight",
+      "title": "Daimler Super Eight",
+      "generations": [
+        {
+          "id": "gen_daimler_super_eight",
+          "title": "Daimler Super Eight",
+          "children": [
+            {
+              "id": "mod_2005_daimler_super_eight",
+              "title": "2005 Daimler Super Eight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daimler_v8",
+      "title": "Daimler V8",
+      "generations": [
+        {
+          "id": "gen_daimler_v8",
+          "title": "Daimler V8",
+          "children": [
+            {
+              "id": "mod_1997_daimler_super_v8_lwb",
+              "title": "1997 Daimler Super V8 LWB"
+            },
+            {
+              "id": "mod_1997_daimler_v8_lwb_4_0",
+              "title": "1997 Daimler V8 LWB 4.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daimler_six",
+      "title": "Daimler Six",
+      "generations": [
+        {
+          "id": "gen_daimler_six",
+          "title": "Daimler Six",
+          "children": [
+            {
+              "id": "mod_1994_daimler_six",
+              "title": "1994 Daimler Six"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daimler_4_0",
+      "title": "Daimler 4.0",
+      "generations": [
+        {
+          "id": "gen_daimler_4_0",
+          "title": "Daimler 4.0",
+          "children": [
+            {
+              "id": "mod_1989_daimler_4_0",
+              "title": "1989 Daimler 4.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daimler_3_6",
+      "title": "Daimler 3.6",
+      "generations": [
+        {
+          "id": "gen_daimler_3_6",
+          "title": "Daimler 3.6",
+          "children": [
+            {
+              "id": "mod_1986_daimler_3_6",
+              "title": "1986 Daimler 3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daimler_double_six",
+      "title": "Daimler Double Six",
+      "generations": [
+        {
+          "id": "gen_daimler_double_six",
+          "title": "Daimler Double Six",
+          "children": [
+            {
+              "id": "mod_1994_daimler_double_six",
+              "title": "1994 Daimler Double Six"
+            }
+          ]
+        },
+        {
+          "id": "gen_daimler_double_six",
+          "title": "Daimler Double Six",
+          "children": [
+            {
+              "id": "mod_1993_daimler_double_six",
+              "title": "1993 Daimler Double Six"
+            }
+          ]
+        },
+        {
+          "id": "gen_daimler_double_six",
+          "title": "Daimler Double Six",
+          "children": [
+            {
+              "id": "mod_1986_daimler_double_six",
+              "title": "1986 Daimler Double Six"
+            }
+          ]
+        },
+        {
+          "id": "gen_daimler_double_six",
+          "title": "Daimler Double Six",
+          "children": [
+            {
+              "id": "mod_1982_daimler_double_six",
+              "title": "1982 Daimler Double Six"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "id": "brand_datsun",
+  "title": "Datsun",
+  "models": [
+    {
+      "id": "model_datsun_stanza",
+      "title": "Datsun Stanza",
+      "generations": [
+        {
+          "id": "gen_datsun_stanza",
+          "title": "Datsun Stanza",
+          "children": [
+            {
+              "id": "mod_1981_datsun_stanza_1600_de_luxe",
+              "title": "1981 Datsun Stanza 1600 De Luxe"
+            },
+            {
+              "id": "mod_1981_datsun_stanza_1600_gl",
+              "title": "1981 Datsun Stanza 1600 GL"
+            },
+            {
+              "id": "mod_1981_datsun_stanza_1800_gl",
+              "title": "1981 Datsun Stanza 1800 GL"
+            },
+            {
+              "id": "mod_1981_datsun_stanza_1800_sgl",
+              "title": "1981 Datsun Stanza 1800 SGL"
+            }
+          ]
+        },
+        {
+          "id": "gen_datsun_stanza",
+          "title": "Datsun Stanza",
+          "children": [
+            {
+              "id": "mod_1981_datsun_stanza_1600_de_luxe",
+              "title": "1981 Datsun Stanza 1600 De Luxe"
+            },
+            {
+              "id": "mod_1981_datsun_stanza_1600_gl",
+              "title": "1981 Datsun Stanza 1600 GL"
+            },
+            {
+              "id": "mod_1981_datsun_stanza_1800_gl",
+              "title": "1981 Datsun Stanza 1800 GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_datsun_stanza",
+          "title": "Datsun Stanza",
+          "children": [
+            {
+              "id": "mod_1981_datsun_stanza_1800_gl",
+              "title": "1981 Datsun Stanza 1800 GL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_datsun_bluebird",
+      "title": "Datsun Bluebird",
+      "generations": [
+        {
+          "id": "gen_datsun_bluebird",
+          "title": "Datsun Bluebird",
+          "children": [
+            {
+              "id": "mod_1980_datsun_bluebird_1600_dx",
+              "title": "1980 Datsun Bluebird 1600 DX"
+            },
+            {
+              "id": "mod_1980_datsun_bluebird_1600_gl",
+              "title": "1980 Datsun Bluebird 1600 GL"
+            },
+            {
+              "id": "mod_1980_datsun_bluebird_1800_gl",
+              "title": "1980 Datsun Bluebird 1800 GL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_datsun_bluebird_combi",
+      "title": "Datsun Bluebird Combi",
+      "generations": [
+        {
+          "id": "gen_datsun_bluebird_combi",
+          "title": "Datsun Bluebird Combi",
+          "children": [
+            {
+              "id": "mod_1980_datsun_bluebird_combi_1800_gl",
+              "title": "1980 Datsun Bluebird Combi 1800 GL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_datsun_cherry",
+      "title": "Datsun Cherry",
+      "generations": [
+        {
+          "id": "gen_datsun_cherry",
+          "title": "Datsun Cherry",
+          "children": [
+            {
+              "id": "mod_1980_datsun_cherry_1000_custom",
+              "title": "1980 Datsun Cherry 1000 Custom"
+            },
+            {
+              "id": "mod_1980_datsun_cherry_1200_luxe",
+              "title": "1980 Datsun Cherry 1200 Luxe"
+            },
+            {
+              "id": "mod_1980_datsun_cherry_1400_gl",
+              "title": "1980 Datsun Cherry 1400 GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_datsun_cherry",
+          "title": "Datsun Cherry",
+          "children": [
+            {
+              "id": "mod_1980_datsun_cherry_1200_luxe",
+              "title": "1980 Datsun Cherry 1200 Luxe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_datsun_cherry_coupe",
+      "title": "Datsun Cherry Coupe",
+      "generations": [
+        {
+          "id": "gen_datsun_cherry_coupe",
+          "title": "Datsun Cherry Coupe",
+          "children": [
+            {
+              "id": "mod_1980_datsun_cherry_coupe_1400_gl",
+              "title": "1980 Datsun Cherry Coupe 1400 GL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_datsun_sunny",
+      "title": "Datsun Sunny",
+      "generations": [
+        {
+          "id": "gen_datsun_sunny",
+          "title": "Datsun Sunny",
+          "children": [
+            {
+              "id": "mod_1980_datsun_sunny_1500_gl",
+              "title": "1980 Datsun Sunny 1500 GL"
+            }
+          ]
+        },
+        {
+          "id": "gen_datsun_sunny",
+          "title": "Datsun Sunny",
+          "children": [
+            {
+              "id": "mod_1980_datsun_sunny_1200_custom",
+              "title": "1980 Datsun Sunny 1200 Custom"
+            },
+            {
+              "id": "mod_1980_datsun_sunny_1200_luxe",
+              "title": "1980 Datsun Sunny 1200 Luxe"
+            },
+            {
+              "id": "mod_1980_datsun_sunny_1500_gl",
+              "title": "1980 Datsun Sunny 1500 GL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_datsun_sunny_combi",
+      "title": "Datsun Sunny Combi",
+      "generations": [
+        {
+          "id": "gen_datsun_sunny_combi",
+          "title": "Datsun Sunny Combi",
+          "children": [
+            {
+              "id": "mod_1980_datsun_sunny_combi_1500",
+              "title": "1980 Datsun Sunny Combi 1500"
+            },
+            {
+              "id": "mod_1980_datsun_sunny_traveller_1500",
+              "title": "1980 Datsun Sunny Traveller 1500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_datsun_sunny_coupe",
+      "title": "Datsun Sunny Coupe",
+      "generations": [
+        {
+          "id": "gen_datsun_sunny_coupe",
+          "title": "Datsun Sunny Coupe",
+          "children": [
+            {
+              "id": "mod_1980_datsun_sunny_coupe_1500_gl",
+              "title": "1980 Datsun Sunny Coupe 1500 GL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_datsun_violet_coupe",
+      "title": "Datsun Violet Coupe",
+      "generations": [
+        {
+          "id": "gen_datsun_violet_coupe",
+          "title": "Datsun Violet Coupe",
+          "children": [
+            {
+              "id": "mod_1979_datsun_violet_coupe_de_luxe",
+              "title": "1979 Datsun Violet Coupe De Luxe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_datsun_laurel",
+      "title": "Datsun Laurel",
+      "generations": [
+        {
+          "id": "gen_datsun_laurel",
+          "title": "Datsun Laurel",
+          "children": [
+            {
+              "id": "mod_1981_datsun_laurel_2400_sgl",
+              "title": "1981 Datsun Laurel 2400 SGL"
+            },
+            {
+              "id": "mod_1981_datsun_laurel_2800_diesel_sgl",
+              "title": "1981 Datsun Laurel 2800 Diesel SGL"
+            }
+          ]
+        },
+        {
+          "id": "gen_datsun_laurel",
+          "title": "Datsun Laurel",
+          "children": [
+            {
+              "id": "mod_1979_datsun_laurel_2400_de_luxe",
+              "title": "1979 Datsun Laurel 2400 De Luxe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_datsun_sylvia",
+      "title": "Datsun Sylvia",
+      "generations": [
+        {
+          "id": "gen_datsun_sylvia",
+          "title": "Datsun Sylvia",
+          "children": [
+            {
+              "id": "mod_1979_datsun_sylvia_1800_sx",
+              "title": "1979 Datsun Sylvia 1800 SX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_datsun_280_zx",
+      "title": "Datsun 280 ZX",
+      "generations": [
+        {
+          "id": "gen_datsun_280_zx",
+          "title": "Datsun 280 ZX",
+          "children": [
+            {
+              "id": "mod_1979_datsun_280_zx_2_2",
+              "title": "1979 Datsun 280 ZX 2+2"
+            },
+            {
+              "id": "mod_1979_datsun_280_zx",
+              "title": "1979 Datsun 280 ZX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_datsun_violet",
+      "title": "Datsun Violet",
+      "generations": [
+        {
+          "id": "gen_datsun_violet",
+          "title": "Datsun Violet",
+          "children": [
+            {
+              "id": "mod_1979_datsun_violet_de_luxe",
+              "title": "1979 Datsun Violet De Luxe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

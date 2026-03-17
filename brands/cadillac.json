@@ -1,0 +1,660 @@
+{
+  "id": "brand_cadillac",
+  "title": "Cadillac",
+  "models": [
+    {
+      "id": "model_cadillac_xt5",
+      "title": "Cadillac XT5",
+      "generations": [
+        {
+          "id": "gen_cadillac_xt5",
+          "title": "Cadillac XT5",
+          "children": [
+            {
+              "id": "mod_2017_cadillac_xt5_3_6_v6_awd_luxury",
+              "title": "2017 Cadillac XT5 3.6 V6 AWD Luxury"
+            },
+            {
+              "id": "mod_2017_cadillac_xt5_3_6_v6_awd_platinum",
+              "title": "2017 Cadillac XT5 3.6 V6 AWD Platinum"
+            },
+            {
+              "id": "mod_2017_cadillac_xt5_3_6_v6_awd_premium",
+              "title": "2017 Cadillac XT5 3.6 V6 AWD Premium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_ct6",
+      "title": "Cadillac CT6",
+      "generations": [
+        {
+          "id": "gen_cadillac_ct6",
+          "title": "Cadillac CT6",
+          "children": [
+            {
+              "id": "mod_2017_cadillac_ct6_3_0_v6_twin_turbo_luxury",
+              "title": "2017 Cadillac CT6 3.0 V6 Twin-Turbo Luxury"
+            },
+            {
+              "id": "mod_2017_cadillac_ct6_3_0_v6_twin_turbo_platinum",
+              "title": "2017 Cadillac CT6 3.0 V6 Twin-Turbo Platinum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_ats_coupe",
+      "title": "Cadillac ATS Coupe",
+      "generations": [
+        {
+          "id": "gen_cadillac_ats_coupe",
+          "title": "Cadillac ATS Coupe",
+          "children": [
+            {
+              "id": "mod_2015_cadillac_ats_coupe_2_0_t_awd_performance",
+              "title": "2015 Cadillac ATS Coupe 2.0 T AWD Performance"
+            },
+            {
+              "id": "mod_2015_cadillac_ats_coupe_2_0_t_awd_premium",
+              "title": "2015 Cadillac ATS Coupe 2.0 T AWD Premium"
+            },
+            {
+              "id": "mod_2015_cadillac_ats_coupe_2_0_t_elegance",
+              "title": "2015 Cadillac ATS Coupe 2.0 T Elegance"
+            },
+            {
+              "id": "mod_2015_cadillac_ats_coupe_2_0_t_luxury",
+              "title": "2015 Cadillac ATS Coupe 2.0 T Luxury"
+            },
+            {
+              "id": "mod_2015_cadillac_ats_coupe_2_0_t_performance",
+              "title": "2015 Cadillac ATS Coupe 2.0 T Performance"
+            },
+            {
+              "id": "mod_2015_cadillac_ats_coupe_2_0_t_premium",
+              "title": "2015 Cadillac ATS Coupe 2.0 T Premium"
+            },
+            {
+              "id": "mod_2015_cadillac_ats_v_coupe_premium",
+              "title": "2015 Cadillac ATS-V Coupe Premium"
+            },
+            {
+              "id": "mod_2015_cadillac_ats_v_coupe",
+              "title": "2015 Cadillac ATS-V Coupe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_ats",
+      "title": "Cadillac ATS",
+      "generations": [
+        {
+          "id": "gen_cadillac_ats",
+          "title": "Cadillac ATS",
+          "children": [
+            {
+              "id": "mod_2013_cadillac_ats_2_0_t_awd_luxury",
+              "title": "2013 Cadillac ATS 2.0 T AWD Luxury"
+            },
+            {
+              "id": "mod_2013_cadillac_ats_2_0_t_awd_performance",
+              "title": "2013 Cadillac ATS 2.0 T AWD Performance"
+            },
+            {
+              "id": "mod_2013_cadillac_ats_2_0_t_awd_premium",
+              "title": "2013 Cadillac ATS 2.0 T AWD Premium"
+            },
+            {
+              "id": "mod_2013_cadillac_ats_2_0_t_elegance",
+              "title": "2013 Cadillac ATS 2.0 T Elegance"
+            },
+            {
+              "id": "mod_2013_cadillac_ats_2_0_t_luxury",
+              "title": "2013 Cadillac ATS 2.0 T Luxury"
+            },
+            {
+              "id": "mod_2013_cadillac_ats_2_0_t_performance",
+              "title": "2013 Cadillac ATS 2.0 T Performance"
+            },
+            {
+              "id": "mod_2013_cadillac_ats_2_0_t_premium",
+              "title": "2013 Cadillac ATS 2.0 T Premium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_cts_coupe",
+      "title": "Cadillac CTS Coupe",
+      "generations": [
+        {
+          "id": "gen_cadillac_cts_coupe",
+          "title": "Cadillac CTS Coupe",
+          "children": [
+            {
+              "id": "mod_2010_cadillac_cts_coupe_3_6_awd_sport_luxury",
+              "title": "2010 Cadillac CTS Coupe 3.6 AWD Sport Luxury"
+            },
+            {
+              "id": "mod_2010_cadillac_cts_coupe_3_6_sport_luxury",
+              "title": "2010 Cadillac CTS Coupe 3.6 Sport Luxury"
+            },
+            {
+              "id": "mod_2010_cadillac_cts_v_coupe",
+              "title": "2010 Cadillac CTS-V Coupe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_cts_wagon",
+      "title": "Cadillac CTS Wagon",
+      "generations": [
+        {
+          "id": "gen_cadillac_cts_wagon",
+          "title": "Cadillac CTS Wagon",
+          "children": [
+            {
+              "id": "mod_2010_cadillac_cts_wagon_3_0_elegance",
+              "title": "2010 Cadillac CTS Wagon 3.0 Elegance"
+            },
+            {
+              "id": "mod_2010_cadillac_cts_wagon_3_6_awd_sport_luxury",
+              "title": "2010 Cadillac CTS Wagon 3.6 AWD Sport Luxury"
+            },
+            {
+              "id": "mod_2010_cadillac_cts_wagon_3_6_sport_luxury",
+              "title": "2010 Cadillac CTS Wagon 3.6 Sport Luxury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_bls_wagon",
+      "title": "Cadillac BLS Wagon",
+      "generations": [
+        {
+          "id": "gen_cadillac_bls_wagon",
+          "title": "Cadillac BLS Wagon",
+          "children": [
+            {
+              "id": "mod_2007_cadillac_bls_wagon_1_9d_150hp_business",
+              "title": "2007 Cadillac BLS Wagon 1.9D 150hp Business"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_1_9d_150hp_elegance",
+              "title": "2007 Cadillac BLS Wagon 1.9D 150hp Elegance"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_1_9d_150hp_sport_luxury",
+              "title": "2007 Cadillac BLS Wagon 1.9D 150hp Sport Luxury"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_1_9d_150hp_sport",
+              "title": "2007 Cadillac BLS Wagon 1.9D 150hp Sport"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_1_9d_180hp_business",
+              "title": "2007 Cadillac BLS Wagon 1.9D 180hp Business"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_1_9d_180hp_elegance",
+              "title": "2007 Cadillac BLS Wagon 1.9D 180hp Elegance"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_1_9d_180hp_sport_luxury",
+              "title": "2007 Cadillac BLS Wagon 1.9D 180hp Sport Luxury"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_1_9d_180hp_sport",
+              "title": "2007 Cadillac BLS Wagon 1.9D 180hp Sport"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_2_0t_175hp_business",
+              "title": "2007 Cadillac BLS Wagon 2.0T 175hp Business"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_2_0t_175hp_elegance",
+              "title": "2007 Cadillac BLS Wagon 2.0T 175hp Elegance"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_2_0t_175hp_sport",
+              "title": "2007 Cadillac BLS Wagon 2.0T 175hp Sport"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_2_0t_210hp_elegance",
+              "title": "2007 Cadillac BLS Wagon 2.0T 210hp Elegance"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_2_0t_210hp_sport",
+              "title": "2007 Cadillac BLS Wagon 2.0T 210hp Sport"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_2_0t_flexpower_business",
+              "title": "2007 Cadillac BLS Wagon 2.0T Flexpower Business"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_2_0t_flexpower_elegance",
+              "title": "2007 Cadillac BLS Wagon 2.0T Flexpower Elegance"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_2_0t_flexpower_sport",
+              "title": "2007 Cadillac BLS Wagon 2.0T Flexpower Sport"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_2_8_v6_elegance",
+              "title": "2007 Cadillac BLS Wagon 2.8 V6 Elegance"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_2_8_v6_sport_luxury",
+              "title": "2007 Cadillac BLS Wagon 2.8 V6 Sport Luxury"
+            },
+            {
+              "id": "mod_2007_cadillac_bls_wagon_2_8_v6_sport",
+              "title": "2007 Cadillac BLS Wagon 2.8 V6 Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_escalade",
+      "title": "Cadillac Escalade",
+      "generations": [
+        {
+          "id": "gen_cadillac_escalade",
+          "title": "Cadillac Escalade",
+          "children": [
+            {
+              "id": "mod_2015_cadillac_escalade_6_2_v8_esv_platinum",
+              "title": "2015 Cadillac Escalade 6.2 V8 ESV Platinum"
+            },
+            {
+              "id": "mod_2015_cadillac_escalade_6_2_v8_esv_premium",
+              "title": "2015 Cadillac Escalade 6.2 V8 ESV Premium"
+            },
+            {
+              "id": "mod_2015_cadillac_escalade_6_2_v8_platinum",
+              "title": "2015 Cadillac Escalade 6.2 V8 Platinum"
+            },
+            {
+              "id": "mod_2015_cadillac_escalade_6_2_v8_premium",
+              "title": "2015 Cadillac Escalade 6.2 V8 Premium"
+            }
+          ]
+        },
+        {
+          "id": "gen_cadillac_escalade",
+          "title": "Cadillac Escalade",
+          "children": [
+            {
+              "id": "mod_2010_cadillac_escalade_6_0_v8_hybrid_sport_luxury",
+              "title": "2010 Cadillac Escalade 6.0 V8 Hybrid Sport Luxury"
+            },
+            {
+              "id": "mod_2010_cadillac_escalade_6_2_v8_sport_luxury",
+              "title": "2010 Cadillac Escalade 6.2 V8 Sport Luxury"
+            }
+          ]
+        },
+        {
+          "id": "gen_cadillac_escalade",
+          "title": "Cadillac Escalade",
+          "children": [
+            {
+              "id": "mod_2006_cadillac_escalade_6_2_v8_elegance",
+              "title": "2006 Cadillac Escalade 6.2 V8 Elegance"
+            },
+            {
+              "id": "mod_2006_cadillac_escalade_6_2_v8_sport_luxury",
+              "title": "2006 Cadillac Escalade 6.2 V8 Sport Luxury"
+            }
+          ]
+        },
+        {
+          "id": "gen_cadillac_escalade",
+          "title": "Cadillac Escalade",
+          "children": [
+            {
+              "id": "mod_2005_cadillac_escalade_6_0_v8",
+              "title": "2005 Cadillac Escalade 6.0 V8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_bls",
+      "title": "Cadillac BLS",
+      "generations": [
+        {
+          "id": "gen_cadillac_bls",
+          "title": "Cadillac BLS",
+          "children": [
+            {
+              "id": "mod_2006_cadillac_bls_1_9d_150hp_business",
+              "title": "2006 Cadillac BLS 1.9D 150hp Business"
+            },
+            {
+              "id": "mod_2006_cadillac_bls_1_9d_150hp_elegance",
+              "title": "2006 Cadillac BLS 1.9D 150hp Elegance"
+            },
+            {
+              "id": "mod_2006_cadillac_bls_1_9d_150hp_sport_luxury",
+              "title": "2006 Cadillac BLS 1.9D 150hp Sport Luxury"
+            },
+            {
+              "id": "mod_2006_cadillac_bls_1_9d_150hp_sport",
+              "title": "2006 Cadillac BLS 1.9D 150hp Sport"
+            },
+            {
+              "id": "mod_2006_cadillac_bls_2_0t_175hp_business",
+              "title": "2006 Cadillac BLS 2.0T 175hp Business"
+            },
+            {
+              "id": "mod_2006_cadillac_bls_2_0t_175hp_elegance",
+              "title": "2006 Cadillac BLS 2.0T 175hp Elegance"
+            },
+            {
+              "id": "mod_2006_cadillac_bls_2_0t_175hp_sport",
+              "title": "2006 Cadillac BLS 2.0T 175hp Sport"
+            },
+            {
+              "id": "mod_2006_cadillac_bls_2_0t_210hp_elegance",
+              "title": "2006 Cadillac BLS 2.0T 210hp Elegance"
+            },
+            {
+              "id": "mod_2006_cadillac_bls_2_0t_210hp_sport",
+              "title": "2006 Cadillac BLS 2.0T 210hp Sport"
+            },
+            {
+              "id": "mod_2006_cadillac_bls_2_8_v6_elegance",
+              "title": "2006 Cadillac BLS 2.8 V6 Elegance"
+            },
+            {
+              "id": "mod_2006_cadillac_bls_2_8_v6_sport_luxury",
+              "title": "2006 Cadillac BLS 2.8 V6 Sport Luxury"
+            },
+            {
+              "id": "mod_2006_cadillac_bls_2_8_v6_sport",
+              "title": "2006 Cadillac BLS 2.8 V6 Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_sts",
+      "title": "Cadillac STS",
+      "generations": [
+        {
+          "id": "gen_cadillac_sts",
+          "title": "Cadillac STS",
+          "children": [
+            {
+              "id": "mod_2005_cadillac_sts_3_6_v6_elegance",
+              "title": "2005 Cadillac STS 3.6 V6 Elegance"
+            },
+            {
+              "id": "mod_2005_cadillac_sts_3_6_v6_launch_edition",
+              "title": "2005 Cadillac STS 3.6 V6 Launch Edition"
+            },
+            {
+              "id": "mod_2005_cadillac_sts_3_6_v6_sport_luxury",
+              "title": "2005 Cadillac STS 3.6 V6 Sport Luxury"
+            },
+            {
+              "id": "mod_2005_cadillac_sts_4_6_v8_elegance",
+              "title": "2005 Cadillac STS 4.6 V8 Elegance"
+            },
+            {
+              "id": "mod_2005_cadillac_sts_4_6_v8_launch_edition",
+              "title": "2005 Cadillac STS 4.6 V8 Launch Edition"
+            },
+            {
+              "id": "mod_2005_cadillac_sts_4_6_v8_sport_luxury",
+              "title": "2005 Cadillac STS 4.6 V8 Sport Luxury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_srx",
+      "title": "Cadillac SRX",
+      "generations": [
+        {
+          "id": "gen_cadillac_srx",
+          "title": "Cadillac SRX",
+          "children": [
+            {
+              "id": "mod_2015_cadillac_srx_3_0_v6_awd_premium",
+              "title": "2015 Cadillac SRX 3.0 V6 AWD Premium"
+            }
+          ]
+        },
+        {
+          "id": "gen_cadillac_srx",
+          "title": "Cadillac SRX",
+          "children": [
+            {
+              "id": "mod_2010_cadillac_srx_3_0_v6_awd_elegance",
+              "title": "2010 Cadillac SRX 3.0 V6 AWD Elegance"
+            },
+            {
+              "id": "mod_2010_cadillac_srx_3_0_v6_awd_sport_luxury",
+              "title": "2010 Cadillac SRX 3.0 V6 AWD Sport Luxury"
+            }
+          ]
+        },
+        {
+          "id": "gen_cadillac_srx",
+          "title": "Cadillac SRX",
+          "children": [
+            {
+              "id": "mod_2004_cadillac_srx_3_6_v6_awd_elegance_plus",
+              "title": "2004 Cadillac SRX 3.6 V6 AWD Elegance Plus"
+            },
+            {
+              "id": "mod_2004_cadillac_srx_3_6_v6_awd_elegance",
+              "title": "2004 Cadillac SRX 3.6 V6 AWD Elegance"
+            },
+            {
+              "id": "mod_2004_cadillac_srx_3_6_v6_awd_sport_luxury",
+              "title": "2004 Cadillac SRX 3.6 V6 AWD Sport Luxury"
+            },
+            {
+              "id": "mod_2004_cadillac_srx_4_6_v8_awd_sport_luxury",
+              "title": "2004 Cadillac SRX 4.6 V8 AWD Sport Luxury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_xlr",
+      "title": "Cadillac XLR",
+      "generations": [
+        {
+          "id": "gen_cadillac_xlr",
+          "title": "Cadillac XLR",
+          "children": [
+            {
+              "id": "mod_2004_cadillac_xlr",
+              "title": "2004 Cadillac XLR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_cts",
+      "title": "Cadillac CTS",
+      "generations": [
+        {
+          "id": "gen_cadillac_cts",
+          "title": "Cadillac CTS",
+          "children": [
+            {
+              "id": "mod_2015_cadillac_cts_2_0t_awd_elegance",
+              "title": "2015 Cadillac CTS 2.0T AWD Elegance"
+            },
+            {
+              "id": "mod_2015_cadillac_cts_2_0t_awd_luxury",
+              "title": "2015 Cadillac CTS 2.0T AWD Luxury"
+            },
+            {
+              "id": "mod_2015_cadillac_cts_2_0t_awd_performance",
+              "title": "2015 Cadillac CTS 2.0T AWD Performance"
+            },
+            {
+              "id": "mod_2015_cadillac_cts_2_0t_awd_premium",
+              "title": "2015 Cadillac CTS 2.0T AWD Premium"
+            },
+            {
+              "id": "mod_2015_cadillac_cts_2_0t_elegance",
+              "title": "2015 Cadillac CTS 2.0T Elegance"
+            },
+            {
+              "id": "mod_2015_cadillac_cts_2_0t_luxury",
+              "title": "2015 Cadillac CTS 2.0T Luxury"
+            },
+            {
+              "id": "mod_2015_cadillac_cts_2_0t_performance",
+              "title": "2015 Cadillac CTS 2.0T Performance"
+            },
+            {
+              "id": "mod_2015_cadillac_cts_2_0t_premium",
+              "title": "2015 Cadillac CTS 2.0T Premium"
+            },
+            {
+              "id": "mod_2015_cadillac_cts_v",
+              "title": "2015 Cadillac CTS-V"
+            }
+          ]
+        },
+        {
+          "id": "gen_cadillac_cts",
+          "title": "Cadillac CTS",
+          "children": [
+            {
+              "id": "mod_2010_cadillac_cts_3_0_elegance",
+              "title": "2010 Cadillac CTS 3.0 Elegance"
+            },
+            {
+              "id": "mod_2010_cadillac_cts_3_6_awd_sport_luxury",
+              "title": "2010 Cadillac CTS 3.6 AWD Sport Luxury"
+            },
+            {
+              "id": "mod_2010_cadillac_cts_3_6_sport_luxury",
+              "title": "2010 Cadillac CTS 3.6 Sport Luxury"
+            },
+            {
+              "id": "mod_2010_cadillac_cts_v",
+              "title": "2010 Cadillac CTS-V"
+            }
+          ]
+        },
+        {
+          "id": "gen_cadillac_cts",
+          "title": "Cadillac CTS",
+          "children": [
+            {
+              "id": "mod_2007_cadillac_cts_2_8_elegance",
+              "title": "2007 Cadillac CTS 2.8 Elegance"
+            },
+            {
+              "id": "mod_2007_cadillac_cts_2_8_sport_luxury",
+              "title": "2007 Cadillac CTS 2.8 Sport Luxury"
+            },
+            {
+              "id": "mod_2007_cadillac_cts_3_6_awd_sport_luxury",
+              "title": "2007 Cadillac CTS 3.6 AWD Sport Luxury"
+            },
+            {
+              "id": "mod_2007_cadillac_cts_3_6_sport_luxury",
+              "title": "2007 Cadillac CTS 3.6 Sport Luxury"
+            }
+          ]
+        },
+        {
+          "id": "gen_cadillac_cts",
+          "title": "Cadillac CTS",
+          "children": [
+            {
+              "id": "mod_2003_cadillac_cts_2_6_elegance",
+              "title": "2003 Cadillac CTS 2.6 Elegance"
+            },
+            {
+              "id": "mod_2003_cadillac_cts_2_6_sport_luxury",
+              "title": "2003 Cadillac CTS 2.6 Sport Luxury"
+            },
+            {
+              "id": "mod_2003_cadillac_cts_3_2_elegance",
+              "title": "2003 Cadillac CTS 3.2 Elegance"
+            },
+            {
+              "id": "mod_2003_cadillac_cts_3_2_sport_luxury",
+              "title": "2003 Cadillac CTS 3.2 Sport Luxury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_eldorado",
+      "title": "Cadillac Eldorado",
+      "generations": [
+        {
+          "id": "gen_cadillac_eldorado",
+          "title": "Cadillac Eldorado",
+          "children": [
+            {
+              "id": "mod_1995_cadillac_eldorado_tc",
+              "title": "1995 Cadillac Eldorado TC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_cadillac_seville",
+      "title": "Cadillac Seville",
+      "generations": [
+        {
+          "id": "gen_cadillac_seville",
+          "title": "Cadillac Seville",
+          "children": [
+            {
+              "id": "mod_1998_cadillac_seville_sls",
+              "title": "1998 Cadillac Seville SLS"
+            },
+            {
+              "id": "mod_1998_cadillac_seville_sts",
+              "title": "1998 Cadillac Seville STS"
+            }
+          ]
+        },
+        {
+          "id": "gen_cadillac_seville",
+          "title": "Cadillac Seville",
+          "children": [
+            {
+              "id": "mod_1995_cadillac_seville_sts",
+              "title": "1995 Cadillac Seville STS"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

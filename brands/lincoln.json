@@ -1,0 +1,96 @@
+{
+  "id": "brand_lincoln",
+  "title": "Lincoln",
+  "models": [
+    {
+      "id": "model_lincoln_navigator",
+      "title": "Lincoln Navigator",
+      "generations": [
+        {
+          "id": "gen_lincoln_navigator",
+          "title": "Lincoln Navigator",
+          "children": [
+            {
+              "id": "mod_1998_lincoln_navigator",
+              "title": "1998 Lincoln Navigator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lincoln_continental",
+      "title": "Lincoln Continental",
+      "generations": [
+        {
+          "id": "gen_lincoln_continental",
+          "title": "Lincoln Continental",
+          "children": [
+            {
+              "id": "mod_1995_lincoln_continental",
+              "title": "1995 Lincoln Continental"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lincoln_town_car",
+      "title": "Lincoln Town Car",
+      "generations": [
+        {
+          "id": "gen_lincoln_town_car",
+          "title": "Lincoln Town Car",
+          "children": [
+            {
+              "id": "mod_1998_lincoln_town_car",
+              "title": "1998 Lincoln Town Car"
+            }
+          ]
+        },
+        {
+          "id": "gen_lincoln_town_car",
+          "title": "Lincoln Town Car",
+          "children": [
+            {
+              "id": "mod_1994_lincoln_town_car",
+              "title": "1994 Lincoln Town Car"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lincoln_mark_viii",
+      "title": "Lincoln Mark VIII",
+      "generations": [
+        {
+          "id": "gen_lincoln_mark_viii",
+          "title": "Lincoln Mark VIII",
+          "children": [
+            {
+              "id": "mod_1993_lincoln_mark_viii",
+              "title": "1993 Lincoln Mark VIII"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lincoln_continental_signature_series",
+      "title": "Lincoln Continental Signature Series",
+      "generations": [
+        {
+          "id": "gen_lincoln_continental_signature_series",
+          "title": "Lincoln Continental Signature Series",
+          "children": [
+            {
+              "id": "mod_1988_lincoln_continental_signature_series",
+              "title": "1988 Lincoln Continental Signature Series"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

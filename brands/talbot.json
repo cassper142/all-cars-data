@@ -1,0 +1,281 @@
+{
+  "id": "brand_talbot",
+  "title": "Talbot",
+  "models": [
+    {
+      "id": "model_talbot_samba",
+      "title": "Talbot Samba",
+      "generations": [
+        {
+          "id": "gen_talbot_samba",
+          "title": "Talbot Samba",
+          "children": [
+            {
+              "id": "mod_1982_talbot_samba_1_3_cabriolet",
+              "title": "1982 Talbot Samba 1.3 Cabriolet"
+            }
+          ]
+        },
+        {
+          "id": "gen_talbot_samba",
+          "title": "Talbot Samba",
+          "children": [
+            {
+              "id": "mod_1982_talbot_samba_1_0_ls",
+              "title": "1982 Talbot Samba 1.0 LS"
+            },
+            {
+              "id": "mod_1982_talbot_samba_1_1_gl",
+              "title": "1982 Talbot Samba 1.1 GL"
+            },
+            {
+              "id": "mod_1982_talbot_samba_1_1_ls",
+              "title": "1982 Talbot Samba 1.1 LS"
+            },
+            {
+              "id": "mod_1982_talbot_samba_1_3_gls",
+              "title": "1982 Talbot Samba 1.3 GLS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_talbot_tagora",
+      "title": "Talbot Tagora",
+      "generations": [
+        {
+          "id": "gen_talbot_tagora",
+          "title": "Talbot Tagora",
+          "children": [
+            {
+              "id": "mod_1981_talbot_tagora_2_2_gl",
+              "title": "1981 Talbot Tagora 2.2 GL"
+            },
+            {
+              "id": "mod_1981_talbot_tagora_2_2_gls",
+              "title": "1981 Talbot Tagora 2.2 GLS"
+            },
+            {
+              "id": "mod_1981_talbot_tagora_2_3_td",
+              "title": "1981 Talbot Tagora 2.3 TD"
+            },
+            {
+              "id": "mod_1981_talbot_tagora_2_6_v6_sx",
+              "title": "1981 Talbot Tagora 2.6 V6 SX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_talbot_matra_murena",
+      "title": "Talbot Matra Murena",
+      "generations": [
+        {
+          "id": "gen_talbot_matra_murena",
+          "title": "Talbot Matra Murena",
+          "children": [
+            {
+              "id": "mod_1981_talbot_matra_murena_1_6",
+              "title": "1981 Talbot Matra Murena 1.6"
+            },
+            {
+              "id": "mod_1981_talbot_matra_murena_2_2",
+              "title": "1981 Talbot Matra Murena 2.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_talbot_solara",
+      "title": "Talbot Solara",
+      "generations": [
+        {
+          "id": "gen_talbot_solara",
+          "title": "Talbot Solara",
+          "children": [
+            {
+              "id": "mod_1980_talbot_solara_1_5_ls",
+              "title": "1980 Talbot Solara 1.5 LS"
+            },
+            {
+              "id": "mod_1980_talbot_solara_1_6_gl",
+              "title": "1980 Talbot Solara 1.6 GL"
+            },
+            {
+              "id": "mod_1980_talbot_solara_1_6_gls",
+              "title": "1980 Talbot Solara 1.6 GLS"
+            },
+            {
+              "id": "mod_1980_talbot_solara_1_6_ls",
+              "title": "1980 Talbot Solara 1.6 LS"
+            },
+            {
+              "id": "mod_1980_talbot_solara_1_6_sx",
+              "title": "1980 Talbot Solara 1.6 SX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_talbot_sunbeam",
+      "title": "Talbot Sunbeam",
+      "generations": [
+        {
+          "id": "gen_talbot_sunbeam",
+          "title": "Talbot Sunbeam",
+          "children": [
+            {
+              "id": "mod_1979_talbot_sunbeam_1_0_gl",
+              "title": "1979 Talbot Sunbeam 1.0 GL"
+            },
+            {
+              "id": "mod_1979_talbot_sunbeam_1_0_ls",
+              "title": "1979 Talbot Sunbeam 1.0 LS"
+            },
+            {
+              "id": "mod_1979_talbot_sunbeam_1_6_ti",
+              "title": "1979 Talbot Sunbeam 1.6 TI"
+            },
+            {
+              "id": "mod_1979_talbot_sunbeam_lotus",
+              "title": "1979 Talbot Sunbeam Lotus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_talbot_1100",
+      "title": "Talbot 1100",
+      "generations": [
+        {
+          "id": "gen_talbot_1100",
+          "title": "Talbot 1100",
+          "children": []
+        },
+        {
+          "id": "gen_talbot_1100",
+          "title": "Talbot 1100",
+          "children": [
+            {
+              "id": "mod_1979_talbot_1100_gls",
+              "title": "1979 Talbot 1100 GLS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_talbot_1100_tourist",
+      "title": "Talbot 1100 Tourist",
+      "generations": [
+        {
+          "id": "gen_talbot_1100_tourist",
+          "title": "Talbot 1100 Tourist",
+          "children": [
+            {
+              "id": "mod_1979_talbot_1100_tourist_gls",
+              "title": "1979 Talbot 1100 Tourist GLS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_talbot_1510",
+      "title": "Talbot 1510",
+      "generations": [
+        {
+          "id": "gen_talbot_1510",
+          "title": "Talbot 1510",
+          "children": [
+            {
+              "id": "mod_1979_talbot_1510_1_3_ls",
+              "title": "1979 Talbot 1510 1.3 LS"
+            },
+            {
+              "id": "mod_1979_talbot_1510_1_5_gl",
+              "title": "1979 Talbot 1510 1.5 GL"
+            },
+            {
+              "id": "mod_1979_talbot_1510_1_5_gls",
+              "title": "1979 Talbot 1510 1.5 GLS"
+            },
+            {
+              "id": "mod_1979_talbot_1510_1_5_ls",
+              "title": "1979 Talbot 1510 1.5 LS"
+            },
+            {
+              "id": "mod_1979_talbot_1510_1_6_sx",
+              "title": "1979 Talbot 1510 1.6 SX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_talbot_horizon",
+      "title": "Talbot Horizon",
+      "generations": [
+        {
+          "id": "gen_talbot_horizon",
+          "title": "Talbot Horizon",
+          "children": [
+            {
+              "id": "mod_1979_talbot_horizon_1_1_ls",
+              "title": "1979 Talbot Horizon 1.1 LS"
+            },
+            {
+              "id": "mod_1979_talbot_horizon_1_3_gl",
+              "title": "1979 Talbot Horizon 1.3 GL"
+            },
+            {
+              "id": "mod_1979_talbot_horizon_1_5_gl",
+              "title": "1979 Talbot Horizon 1.5 GL"
+            },
+            {
+              "id": "mod_1979_talbot_horizon_1_5_gls",
+              "title": "1979 Talbot Horizon 1.5 GLS"
+            },
+            {
+              "id": "mod_1979_talbot_horizon_1_5_s",
+              "title": "1979 Talbot Horizon 1.5 S"
+            },
+            {
+              "id": "mod_1979_talbot_horizon_1_5_sx",
+              "title": "1979 Talbot Horizon 1.5 SX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_talbot_matra_rancho",
+      "title": "Talbot Matra Rancho",
+      "generations": [
+        {
+          "id": "gen_talbot_matra_rancho",
+          "title": "Talbot Matra Rancho",
+          "children": [
+            {
+              "id": "mod_1979_talbot_matra_rancho_grand_raid",
+              "title": "1979 Talbot Matra Rancho Grand Raid"
+            },
+            {
+              "id": "mod_1979_talbot_matra_rancho_x",
+              "title": "1979 Talbot Matra Rancho X"
+            },
+            {
+              "id": "mod_1979_talbot_matra_rancho",
+              "title": "1979 Talbot Matra Rancho"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

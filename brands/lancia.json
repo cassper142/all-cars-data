@@ -1,0 +1,1636 @@
+{
+  "id": "brand_lancia",
+  "title": "Lancia",
+  "models": [
+    {
+      "id": "model_lancia_voyager_van",
+      "title": "Lancia Voyager Van",
+      "generations": [
+        {
+          "id": "gen_lancia_voyager_van",
+          "title": "Lancia Voyager Van",
+          "children": [
+            {
+              "id": "mod_2012_lancia_voyager_van_2_8_multijet_platinum",
+              "title": "2012 Lancia Voyager Van 2.8 Multijet Platinum"
+            },
+            {
+              "id": "mod_2012_lancia_voyager_van_2_8_multijet_s",
+              "title": "2012 Lancia Voyager Van 2.8 Multijet S"
+            },
+            {
+              "id": "mod_2012_lancia_voyager_van_2_8_multijet_silver",
+              "title": "2012 Lancia Voyager Van 2.8 Multijet Silver"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_flavia",
+      "title": "Lancia Flavia",
+      "generations": [
+        {
+          "id": "gen_lancia_flavia",
+          "title": "Lancia Flavia",
+          "children": [
+            {
+              "id": "mod_2012_lancia_flavia_2_4",
+              "title": "2012 Lancia Flavia 2.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_voyager",
+      "title": "Lancia Voyager",
+      "generations": [
+        {
+          "id": "gen_lancia_voyager",
+          "title": "Lancia Voyager",
+          "children": [
+            {
+              "id": "mod_2011_lancia_voyager_2_8_multijet_gold",
+              "title": "2011 Lancia Voyager 2.8 Multijet Gold"
+            },
+            {
+              "id": "mod_2011_lancia_voyager_3_6_v6_pentastar_gold",
+              "title": "2011 Lancia Voyager 3.6 V6 Pentastar Gold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_musa",
+      "title": "Lancia Musa",
+      "generations": [
+        {
+          "id": "gen_lancia_musa",
+          "title": "Lancia Musa",
+          "children": [
+            {
+              "id": "mod_2008_lancia_musa_1_3_multijet_16v_90hp_argento",
+              "title": "2008 Lancia Musa 1.3 Multijet 16v 90hp Argento"
+            },
+            {
+              "id": "mod_2008_lancia_musa_1_3_multijet_16v_90hp_oro",
+              "title": "2008 Lancia Musa 1.3 Multijet 16v 90hp Oro"
+            },
+            {
+              "id": "mod_2008_lancia_musa_1_4_16v_oro",
+              "title": "2008 Lancia Musa 1.4 16v Oro"
+            },
+            {
+              "id": "mod_2008_lancia_musa_1_4_16v_platino",
+              "title": "2008 Lancia Musa 1.4 16v Platino"
+            },
+            {
+              "id": "mod_2008_lancia_musa_1_4_8v_argento",
+              "title": "2008 Lancia Musa 1.4 8v Argento"
+            },
+            {
+              "id": "mod_2008_lancia_musa_1_4_8v_oro",
+              "title": "2008 Lancia Musa 1.4 8v Oro"
+            },
+            {
+              "id": "mod_2008_lancia_musa_1_4_8v_platino",
+              "title": "2008 Lancia Musa 1.4 8v Platino"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_musa",
+          "title": "Lancia Musa",
+          "children": [
+            {
+              "id": "mod_2004_lancia_musa_1_3_multijet_16v_70hp_oro",
+              "title": "2004 Lancia Musa 1.3 Multijet 16v 70hp Oro"
+            },
+            {
+              "id": "mod_2004_lancia_musa_1_3_multijet_16v_70hp_platino",
+              "title": "2004 Lancia Musa 1.3 Multijet 16v 70hp Platino"
+            },
+            {
+              "id": "mod_2004_lancia_musa_1_4_16v_oro",
+              "title": "2004 Lancia Musa 1.4 16v Oro"
+            },
+            {
+              "id": "mod_2004_lancia_musa_1_4_16v_platino",
+              "title": "2004 Lancia Musa 1.4 16v Platino"
+            },
+            {
+              "id": "mod_2004_lancia_musa_1_9_multijet_oro",
+              "title": "2004 Lancia Musa 1.9 Multijet Oro"
+            },
+            {
+              "id": "mod_2004_lancia_musa_1_9_multijet_platino",
+              "title": "2004 Lancia Musa 1.9 Multijet Platino"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_thesis",
+      "title": "Lancia Thesis",
+      "generations": [
+        {
+          "id": "gen_lancia_thesis",
+          "title": "Lancia Thesis",
+          "children": [
+            {
+              "id": "mod_2002_lancia_thesis_2_0_turbo_20v_emblema",
+              "title": "2002 Lancia Thesis 2.0 Turbo 20v Emblema"
+            },
+            {
+              "id": "mod_2002_lancia_thesis_2_0_turbo_20v_executive",
+              "title": "2002 Lancia Thesis 2.0 Turbo 20v Executive"
+            },
+            {
+              "id": "mod_2002_lancia_thesis_2_4_20v_emblema",
+              "title": "2002 Lancia Thesis 2.4 20v Emblema"
+            },
+            {
+              "id": "mod_2002_lancia_thesis_2_4_20v_executive",
+              "title": "2002 Lancia Thesis 2.4 20v Executive"
+            },
+            {
+              "id": "mod_2002_lancia_thesis_2_4_jtd_10v_emblema",
+              "title": "2002 Lancia Thesis 2.4 JTD 10v Emblema"
+            },
+            {
+              "id": "mod_2002_lancia_thesis_2_4_jtd_10v_executive",
+              "title": "2002 Lancia Thesis 2.4 JTD 10v Executive"
+            },
+            {
+              "id": "mod_2002_lancia_thesis_3_0_v6_24v_emblema",
+              "title": "2002 Lancia Thesis 3.0 V6 24v Emblema"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_phedra",
+      "title": "Lancia Phedra",
+      "generations": [
+        {
+          "id": "gen_lancia_phedra",
+          "title": "Lancia Phedra",
+          "children": [
+            {
+              "id": "mod_2008_lancia_phedra_2_0_multijet_16v_argento",
+              "title": "2008 Lancia Phedra 2.0 Multijet 16v Argento"
+            },
+            {
+              "id": "mod_2008_lancia_phedra_2_0_multijet_16v_oro",
+              "title": "2008 Lancia Phedra 2.0 Multijet 16v Oro"
+            },
+            {
+              "id": "mod_2008_lancia_phedra_2_0_multijet_16v_platino",
+              "title": "2008 Lancia Phedra 2.0 Multijet 16v Platino"
+            },
+            {
+              "id": "mod_2008_lancia_phedra_2_2_multijet_16v_oro",
+              "title": "2008 Lancia Phedra 2.2 Multijet 16v Oro"
+            },
+            {
+              "id": "mod_2008_lancia_phedra_2_2_multijet_16v_platino",
+              "title": "2008 Lancia Phedra 2.2 Multijet 16v Platino"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_phedra",
+          "title": "Lancia Phedra",
+          "children": [
+            {
+              "id": "mod_2002_lancia_phedra_2_0_16v_emblema",
+              "title": "2002 Lancia Phedra 2.0 16v Emblema"
+            },
+            {
+              "id": "mod_2002_lancia_phedra_2_0_16v_executive",
+              "title": "2002 Lancia Phedra 2.0 16v Executive"
+            },
+            {
+              "id": "mod_2002_lancia_phedra_2_0_jtd_16v_emblema",
+              "title": "2002 Lancia Phedra 2.0 JTD 16v Emblema"
+            },
+            {
+              "id": "mod_2002_lancia_phedra_2_0_jtd_16v_executive",
+              "title": "2002 Lancia Phedra 2.0 JTD 16v Executive"
+            },
+            {
+              "id": "mod_2002_lancia_phedra_2_2_jtd_16v_emblema",
+              "title": "2002 Lancia Phedra 2.2 JTD 16v Emblema"
+            },
+            {
+              "id": "mod_2002_lancia_phedra_2_2_jtd_16v_executive",
+              "title": "2002 Lancia Phedra 2.2 JTD 16v Executive"
+            },
+            {
+              "id": "mod_2002_lancia_phedra_3_0_v6_24v_emblema",
+              "title": "2002 Lancia Phedra 3.0 V6 24v Emblema"
+            },
+            {
+              "id": "mod_2002_lancia_phedra_3_0_v6_24v_executive",
+              "title": "2002 Lancia Phedra 3.0 V6 24v Executive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_lybra",
+      "title": "Lancia Lybra",
+      "generations": [
+        {
+          "id": "gen_lancia_lybra",
+          "title": "Lancia Lybra",
+          "children": [
+            {
+              "id": "mod_2001_lancia_lybra_1_8_16v_ls",
+              "title": "2001 Lancia Lybra 1.8 16v LS"
+            },
+            {
+              "id": "mod_2001_lancia_lybra_1_8_16v_lx",
+              "title": "2001 Lancia Lybra 1.8 16v LX"
+            },
+            {
+              "id": "mod_2001_lancia_lybra_1_9_jtd_ls",
+              "title": "2001 Lancia Lybra 1.9 JTD LS"
+            },
+            {
+              "id": "mod_2001_lancia_lybra_1_9_jtd_lx",
+              "title": "2001 Lancia Lybra 1.9 JTD LX"
+            },
+            {
+              "id": "mod_2001_lancia_lybra_2_0_20v_lx",
+              "title": "2001 Lancia Lybra 2.0 20v LX"
+            },
+            {
+              "id": "mod_2001_lancia_lybra_2_4_jtd_lx",
+              "title": "2001 Lancia Lybra 2.4 JTD LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_lybra",
+          "title": "Lancia Lybra",
+          "children": [
+            {
+              "id": "mod_1999_lancia_lybra_1_6_16v",
+              "title": "1999 Lancia Lybra 1.6 16v"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_1_8_16v_lx",
+              "title": "1999 Lancia Lybra 1.8 16v LX"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_1_8_16v",
+              "title": "1999 Lancia Lybra 1.8 16v"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_1_9_jtd_lx",
+              "title": "1999 Lancia Lybra 1.9 JTD LX"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_1_9_jtd",
+              "title": "1999 Lancia Lybra 1.9 JTD"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_2_0_20v_comfortronic_lx",
+              "title": "1999 Lancia Lybra 2.0 20v Comfortronic LX"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_2_0_20v_lx",
+              "title": "1999 Lancia Lybra 2.0 20v LX"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_2_4_jtd_lx",
+              "title": "1999 Lancia Lybra 2.4 JTD LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_lybra_sw",
+      "title": "Lancia Lybra SW",
+      "generations": [
+        {
+          "id": "gen_lancia_lybra_sw",
+          "title": "Lancia Lybra SW",
+          "children": [
+            {
+              "id": "mod_2001_lancia_lybra_sw_1_8_16v_ls",
+              "title": "2001 Lancia Lybra SW 1.8 16v LS"
+            },
+            {
+              "id": "mod_2001_lancia_lybra_sw_1_8_16v_lx",
+              "title": "2001 Lancia Lybra SW 1.8 16v LX"
+            },
+            {
+              "id": "mod_2001_lancia_lybra_sw_1_9_jtd_ls",
+              "title": "2001 Lancia Lybra SW 1.9 JTD LS"
+            },
+            {
+              "id": "mod_2001_lancia_lybra_sw_1_9_jtd_lx",
+              "title": "2001 Lancia Lybra SW 1.9 JTD LX"
+            },
+            {
+              "id": "mod_2001_lancia_lybra_sw_2_0_20v_lx",
+              "title": "2001 Lancia Lybra SW 2.0 20v LX"
+            },
+            {
+              "id": "mod_2001_lancia_lybra_sw_2_4_jtd_lx",
+              "title": "2001 Lancia Lybra SW 2.4 JTD LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_lybra_sw",
+          "title": "Lancia Lybra SW",
+          "children": [
+            {
+              "id": "mod_1999_lancia_lybra_sw_1_6_16v",
+              "title": "1999 Lancia Lybra SW 1.6 16v"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_sw_1_8_16v_lx",
+              "title": "1999 Lancia Lybra SW 1.8 16v LX"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_sw_1_8_16v",
+              "title": "1999 Lancia Lybra SW 1.8 16v"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_sw_1_9_jtd_lx",
+              "title": "1999 Lancia Lybra SW 1.9 JTD LX"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_sw_1_9_jtd",
+              "title": "1999 Lancia Lybra SW 1.9 JTD"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_sw_2_0_20v_comfortronic_lx",
+              "title": "1999 Lancia Lybra SW 2.0 20v Comfortronic LX"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_sw_2_0_20v_lx",
+              "title": "1999 Lancia Lybra SW 2.0 20v LX"
+            },
+            {
+              "id": "mod_1999_lancia_lybra_sw_2_4_jtd_lx",
+              "title": "1999 Lancia Lybra SW 2.4 JTD LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_dedra_sw",
+      "title": "Lancia Dedra SW",
+      "generations": [
+        {
+          "id": "gen_lancia_dedra_sw",
+          "title": "Lancia Dedra SW",
+          "children": [
+            {
+              "id": "mod_1998_lancia_dedra_sw_1_6_16v",
+              "title": "1998 Lancia Dedra SW 1.6 16v"
+            },
+            {
+              "id": "mod_1998_lancia_dedra_sw_1_8_16v_vvt",
+              "title": "1998 Lancia Dedra SW 1.8 16v VVT"
+            },
+            {
+              "id": "mod_1998_lancia_dedra_sw_1_9_td",
+              "title": "1998 Lancia Dedra SW 1.9 Td"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_kappa_coupe",
+      "title": "Lancia Kappa Coupe",
+      "generations": [
+        {
+          "id": "gen_lancia_kappa_coupe",
+          "title": "Lancia Kappa Coupe",
+          "children": [
+            {
+              "id": "mod_1997_lancia_kappa_coupe_2_4_20v",
+              "title": "1997 Lancia Kappa Coupe 2.4 20v"
+            },
+            {
+              "id": "mod_1997_lancia_kappa_coupe_3_0_24v_v6",
+              "title": "1997 Lancia Kappa Coupe 3.0 24v V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_kappa_sw",
+      "title": "Lancia Kappa SW",
+      "generations": [
+        {
+          "id": "gen_lancia_kappa_sw",
+          "title": "Lancia Kappa SW",
+          "children": [
+            {
+              "id": "mod_1996_lancia_kappa_sw_2_0_20v_le",
+              "title": "1996 Lancia Kappa SW 2.0 20v LE"
+            },
+            {
+              "id": "mod_1996_lancia_kappa_sw_2_0_20v_ls",
+              "title": "1996 Lancia Kappa SW 2.0 20v LS"
+            },
+            {
+              "id": "mod_1996_lancia_kappa_sw_2_4_20v_ls",
+              "title": "1996 Lancia Kappa SW 2.4 20v LS"
+            },
+            {
+              "id": "mod_1996_lancia_kappa_sw_2_4_turbo_ds_ls",
+              "title": "1996 Lancia Kappa SW 2.4 Turbo DS LS"
+            },
+            {
+              "id": "mod_1996_lancia_kappa_sw_3_0_24v_v6_ls",
+              "title": "1996 Lancia Kappa SW 3.0 24v V6 LS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_zeta",
+      "title": "Lancia Zeta",
+      "generations": [
+        {
+          "id": "gen_lancia_zeta",
+          "title": "Lancia Zeta",
+          "children": [
+            {
+              "id": "mod_1996_lancia_zeta_2_1_turbo_ds_lx",
+              "title": "1996 Lancia Zeta 2.1 Turbo DS LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_kappa",
+      "title": "Lancia Kappa",
+      "generations": [
+        {
+          "id": "gen_lancia_kappa",
+          "title": "Lancia Kappa",
+          "children": [
+            {
+              "id": "mod_1995_lancia_kappa_2_0_20v_le",
+              "title": "1995 Lancia Kappa 2.0 20v LE"
+            },
+            {
+              "id": "mod_1995_lancia_kappa_2_0_20v_ls",
+              "title": "1995 Lancia Kappa 2.0 20v LS"
+            },
+            {
+              "id": "mod_1995_lancia_kappa_2_4_20v_le",
+              "title": "1995 Lancia Kappa 2.4 20v LE"
+            },
+            {
+              "id": "mod_1995_lancia_kappa_2_4_20v_ls",
+              "title": "1995 Lancia Kappa 2.4 20v LS"
+            },
+            {
+              "id": "mod_1995_lancia_kappa_2_4_20v_lx",
+              "title": "1995 Lancia Kappa 2.4 20v LX"
+            },
+            {
+              "id": "mod_1995_lancia_kappa_2_4_turbo_ds_le",
+              "title": "1995 Lancia Kappa 2.4 Turbo DS LE"
+            },
+            {
+              "id": "mod_1995_lancia_kappa_2_4_turbo_ds_ls",
+              "title": "1995 Lancia Kappa 2.4 Turbo DS LS"
+            },
+            {
+              "id": "mod_1995_lancia_kappa_3_0_24v_v6_ls",
+              "title": "1995 Lancia Kappa 3.0 24v V6 LS"
+            },
+            {
+              "id": "mod_1995_lancia_kappa_3_0_24v_v6_lx",
+              "title": "1995 Lancia Kappa 3.0 24v V6 LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_delta_hpe",
+      "title": "Lancia Delta HPE",
+      "generations": [
+        {
+          "id": "gen_lancia_delta_hpe",
+          "title": "Lancia Delta HPE",
+          "children": [
+            {
+              "id": "mod_1998_lancia_delta_hpe_1_6_16v",
+              "title": "1998 Lancia Delta HPE 1.6 16v"
+            },
+            {
+              "id": "mod_1998_lancia_delta_hpe_1_8_16v_vvt",
+              "title": "1998 Lancia Delta HPE 1.8 16v VVT"
+            },
+            {
+              "id": "mod_1998_lancia_delta_hpe_1_9_turbo_ds",
+              "title": "1998 Lancia Delta HPE 1.9 Turbo DS"
+            },
+            {
+              "id": "mod_1998_lancia_delta_hpe_2_0_16v_hf_turbo",
+              "title": "1998 Lancia Delta HPE 2.0 16v HF Turbo"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_delta_hpe",
+          "title": "Lancia Delta HPE",
+          "children": [
+            {
+              "id": "mod_1996_lancia_delta_hpe_1_6_16v",
+              "title": "1996 Lancia Delta HPE 1.6 16v"
+            },
+            {
+              "id": "mod_1996_lancia_delta_hpe_1_8_16v_vvt",
+              "title": "1996 Lancia Delta HPE 1.8 16v VVT"
+            },
+            {
+              "id": "mod_1996_lancia_delta_hpe_1_9_turbo_ds",
+              "title": "1996 Lancia Delta HPE 1.9 Turbo DS"
+            },
+            {
+              "id": "mod_1996_lancia_delta_hpe_2_0_16v_hf_turbo",
+              "title": "1996 Lancia Delta HPE 2.0 16v HF Turbo"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_delta_hpe",
+          "title": "Lancia Delta HPE",
+          "children": [
+            {
+              "id": "mod_1995_lancia_delta_hpe_1_9_turbo_ds",
+              "title": "1995 Lancia Delta HPE 1.9 Turbo DS"
+            },
+            {
+              "id": "mod_1995_lancia_delta_hpe_2_0_16v_hf_turbo",
+              "title": "1995 Lancia Delta HPE 2.0 16v HF Turbo"
+            },
+            {
+              "id": "mod_1995_lancia_delta_hpe_2_0_16v",
+              "title": "1995 Lancia Delta HPE 2.0 16v"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_dedra_station_wagon",
+      "title": "Lancia Dedra Station Wagon",
+      "generations": [
+        {
+          "id": "gen_lancia_dedra_station_wagon",
+          "title": "Lancia Dedra Station Wagon",
+          "children": [
+            {
+              "id": "mod_1994_lancia_dedra_station_wagon_1_6_le",
+              "title": "1994 Lancia Dedra Station Wagon 1.6 LE"
+            },
+            {
+              "id": "mod_1994_lancia_dedra_station_wagon_1_8_le",
+              "title": "1994 Lancia Dedra Station Wagon 1.8 LE"
+            },
+            {
+              "id": "mod_1994_lancia_dedra_station_wagon_1_8_ls",
+              "title": "1994 Lancia Dedra Station Wagon 1.8 LS"
+            },
+            {
+              "id": "mod_1994_lancia_dedra_station_wagon_1_9_turbo_d_le",
+              "title": "1994 Lancia Dedra Station Wagon 1.9 Turbo D LE"
+            },
+            {
+              "id": "mod_1994_lancia_dedra_station_wagon_2_0_16v_ls_integrale",
+              "title": "1994 Lancia Dedra Station Wagon 2.0 16v LS Integrale"
+            },
+            {
+              "id": "mod_1994_lancia_dedra_station_wagon_2_0_16v_ls",
+              "title": "1994 Lancia Dedra Station Wagon 2.0 16v LS"
+            },
+            {
+              "id": "mod_1994_lancia_dedra_station_wagon_2_0_16v_lx",
+              "title": "1994 Lancia Dedra Station Wagon 2.0 16v LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_thema_station_wagon",
+      "title": "Lancia Thema Station Wagon",
+      "generations": [
+        {
+          "id": "gen_lancia_thema_station_wagon",
+          "title": "Lancia Thema Station Wagon",
+          "children": [
+            {
+              "id": "mod_1993_lancia_thema_station_wagon_2_0_i_e_16v_le",
+              "title": "1993 Lancia Thema Station Wagon 2.0 I.e. 16V LE"
+            },
+            {
+              "id": "mod_1993_lancia_thema_station_wagon_2_0_i_e_16v_ls",
+              "title": "1993 Lancia Thema Station Wagon 2.0 I.e. 16V LS"
+            },
+            {
+              "id": "mod_1993_lancia_thema_station_wagon_2_0_i_e_16v",
+              "title": "1993 Lancia Thema Station Wagon 2.0 I.e. 16V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_dedra",
+      "title": "Lancia Dedra",
+      "generations": [
+        {
+          "id": "gen_lancia_dedra",
+          "title": "Lancia Dedra",
+          "children": [
+            {
+              "id": "mod_1998_lancia_dedra_1_6_16v",
+              "title": "1998 Lancia Dedra 1.6 16v"
+            },
+            {
+              "id": "mod_1998_lancia_dedra_1_8_16v_vvt",
+              "title": "1998 Lancia Dedra 1.8 16v VVT"
+            },
+            {
+              "id": "mod_1998_lancia_dedra_1_9_td",
+              "title": "1998 Lancia Dedra 1.9 Td"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_dedra",
+          "title": "Lancia Dedra",
+          "children": [
+            {
+              "id": "mod_1995_lancia_dedra_1_6_le",
+              "title": "1995 Lancia Dedra 1.6 LE"
+            },
+            {
+              "id": "mod_1995_lancia_dedra_1_8_le",
+              "title": "1995 Lancia Dedra 1.8 LE"
+            },
+            {
+              "id": "mod_1995_lancia_dedra_1_8_ls",
+              "title": "1995 Lancia Dedra 1.8 LS"
+            },
+            {
+              "id": "mod_1995_lancia_dedra_1_9_turbo_ds_le",
+              "title": "1995 Lancia Dedra 1.9 Turbo DS LE"
+            },
+            {
+              "id": "mod_1995_lancia_dedra_1_9_turbo_ds_ls",
+              "title": "1995 Lancia Dedra 1.9 Turbo DS LS"
+            },
+            {
+              "id": "mod_1995_lancia_dedra_2_0_16v_le",
+              "title": "1995 Lancia Dedra 2.0 16v LE"
+            },
+            {
+              "id": "mod_1995_lancia_dedra_2_0_16v_lx",
+              "title": "1995 Lancia Dedra 2.0 16v LX"
+            },
+            {
+              "id": "mod_1995_lancia_dedra_2_0_ls_automatic",
+              "title": "1995 Lancia Dedra 2.0 LS Automatic"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_dedra",
+          "title": "Lancia Dedra",
+          "children": [
+            {
+              "id": "mod_1990_lancia_dedra_1_6_i_e",
+              "title": "1990 Lancia Dedra 1.6 I.e."
+            },
+            {
+              "id": "mod_1990_lancia_dedra_1_8_i_e",
+              "title": "1990 Lancia Dedra 1.8 I.e."
+            },
+            {
+              "id": "mod_1990_lancia_dedra_2_0_i_e",
+              "title": "1990 Lancia Dedra 2.0 I.e."
+            },
+            {
+              "id": "mod_1990_lancia_dedra_turbo_ds",
+              "title": "1990 Lancia Dedra Turbo DS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_thema_pininfarina",
+      "title": "Lancia Thema Pininfarina",
+      "generations": [
+        {
+          "id": "gen_lancia_thema_pininfarina",
+          "title": "Lancia Thema Pininfarina",
+          "children": [
+            {
+              "id": "mod_1991_lancia_thema_pininfarina_2_0_i_e_16v",
+              "title": "1991 Lancia Thema Pininfarina 2.0 I.e. 16V"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_thema_pininfarina",
+          "title": "Lancia Thema Pininfarina",
+          "children": [
+            {
+              "id": "mod_1989_lancia_thema_pininfarina_2_0_i_e_turbo",
+              "title": "1989 Lancia Thema Pininfarina 2.0 I.e. Turbo"
+            },
+            {
+              "id": "mod_1989_lancia_thema_pininfarina_turbo_d",
+              "title": "1989 Lancia Thema Pininfarina Turbo D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_ypsilon",
+      "title": "Lancia Ypsilon",
+      "generations": [
+        {
+          "id": "gen_lancia_ypsilon",
+          "title": "Lancia Ypsilon",
+          "children": [
+            {
+              "id": "mod_2015_lancia_ypsilon_1_2_8v_gold",
+              "title": "2015 Lancia Ypsilon 1.2 8v Gold"
+            },
+            {
+              "id": "mod_2015_lancia_ypsilon_1_2_8v_opening_edition",
+              "title": "2015 Lancia Ypsilon 1.2 8v Opening Edition"
+            },
+            {
+              "id": "mod_2015_lancia_ypsilon_1_2_8v_platinum",
+              "title": "2015 Lancia Ypsilon 1.2 8v Platinum"
+            },
+            {
+              "id": "mod_2015_lancia_ypsilon_1_2_8v_silver",
+              "title": "2015 Lancia Ypsilon 1.2 8v Silver"
+            },
+            {
+              "id": "mod_2015_lancia_ypsilon_twinair_80_gold",
+              "title": "2015 Lancia Ypsilon TwinAir 80 Gold"
+            },
+            {
+              "id": "mod_2015_lancia_ypsilon_twinair_80_opening_edition",
+              "title": "2015 Lancia Ypsilon TwinAir 80 Opening Edition"
+            },
+            {
+              "id": "mod_2015_lancia_ypsilon_twinair_80_platinum",
+              "title": "2015 Lancia Ypsilon TwinAir 80 Platinum"
+            },
+            {
+              "id": "mod_2015_lancia_ypsilon_twinair_80_silver",
+              "title": "2015 Lancia Ypsilon TwinAir 80 Silver"
+            },
+            {
+              "id": "mod_2015_lancia_ypsilon_twinair_cng_ecochic_gold",
+              "title": "2015 Lancia Ypsilon TwinAir CNG Ecochic Gold"
+            },
+            {
+              "id": "mod_2015_lancia_ypsilon_twinair_cng_ecochic_platinum",
+              "title": "2015 Lancia Ypsilon TwinAir CNG Ecochic Platinum"
+            },
+            {
+              "id": "mod_2015_lancia_ypsilon_twinair_cng_ecochic_silver",
+              "title": "2015 Lancia Ypsilon TwinAir CNG Ecochic Silver"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_ypsilon",
+          "title": "Lancia Ypsilon",
+          "children": [
+            {
+              "id": "mod_2011_lancia_ypsilon_1_2_8v_black_red",
+              "title": "2011 Lancia Ypsilon 1.2 8v Black & Red"
+            },
+            {
+              "id": "mod_2011_lancia_ypsilon_1_2_8v_gold",
+              "title": "2011 Lancia Ypsilon 1.2 8v Gold"
+            },
+            {
+              "id": "mod_2011_lancia_ypsilon_1_2_8v_lpg_gold",
+              "title": "2011 Lancia Ypsilon 1.2 8v LPG Gold"
+            },
+            {
+              "id": "mod_2011_lancia_ypsilon_1_2_8v_lpg_platinum",
+              "title": "2011 Lancia Ypsilon 1.2 8v LPG Platinum"
+            },
+            {
+              "id": "mod_2011_lancia_ypsilon_1_2_8v_platinum",
+              "title": "2011 Lancia Ypsilon 1.2 8v Platinum"
+            },
+            {
+              "id": "mod_2011_lancia_ypsilon_1_2_8v_silver",
+              "title": "2011 Lancia Ypsilon 1.2 8v Silver"
+            },
+            {
+              "id": "mod_2011_lancia_ypsilon_twinair_85_black_red",
+              "title": "2011 Lancia Ypsilon TwinAir 85 Black & Red"
+            },
+            {
+              "id": "mod_2011_lancia_ypsilon_twinair_85_gold",
+              "title": "2011 Lancia Ypsilon TwinAir 85 Gold"
+            },
+            {
+              "id": "mod_2011_lancia_ypsilon_twinair_85_platinum",
+              "title": "2011 Lancia Ypsilon TwinAir 85 Platinum"
+            },
+            {
+              "id": "mod_2011_lancia_ypsilon_twinair_85_silver",
+              "title": "2011 Lancia Ypsilon TwinAir 85 Silver"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_ypsilon",
+          "title": "Lancia Ypsilon",
+          "children": [
+            {
+              "id": "mod_2006_lancia_ypsilon_1_2_8v_argento",
+              "title": "2006 Lancia Ypsilon 1.2 8v Argento"
+            },
+            {
+              "id": "mod_2006_lancia_ypsilon_1_2_8v_oro",
+              "title": "2006 Lancia Ypsilon 1.2 8v Oro"
+            },
+            {
+              "id": "mod_2006_lancia_ypsilon_1_3_multijet_16v_90hp_oro",
+              "title": "2006 Lancia Ypsilon 1.3 Multijet 16v 90hp Oro"
+            },
+            {
+              "id": "mod_2006_lancia_ypsilon_1_4_16v_oro",
+              "title": "2006 Lancia Ypsilon 1.4 16v Oro"
+            },
+            {
+              "id": "mod_2006_lancia_ypsilon_1_4_16v_platino",
+              "title": "2006 Lancia Ypsilon 1.4 16v Platino"
+            },
+            {
+              "id": "mod_2006_lancia_ypsilon_1_4_8v_blue_me",
+              "title": "2006 Lancia Ypsilon 1.4 8v Blue & Me"
+            },
+            {
+              "id": "mod_2006_lancia_ypsilon_1_4_8v_oro",
+              "title": "2006 Lancia Ypsilon 1.4 8v Oro"
+            },
+            {
+              "id": "mod_2006_lancia_ypsilon_1_4_8v_platino",
+              "title": "2006 Lancia Ypsilon 1.4 8v Platino"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_ypsilon",
+          "title": "Lancia Ypsilon",
+          "children": [
+            {
+              "id": "mod_2003_lancia_ypsilon_1_2_16v_argento",
+              "title": "2003 Lancia Ypsilon 1.2 16v Argento"
+            },
+            {
+              "id": "mod_2003_lancia_ypsilon_1_2_16v_platino",
+              "title": "2003 Lancia Ypsilon 1.2 16v Platino"
+            },
+            {
+              "id": "mod_2003_lancia_ypsilon_1_2_8v_argento",
+              "title": "2003 Lancia Ypsilon 1.2 8v Argento"
+            },
+            {
+              "id": "mod_2003_lancia_ypsilon_1_2_8v",
+              "title": "2003 Lancia Ypsilon 1.2 8v"
+            },
+            {
+              "id": "mod_2003_lancia_ypsilon_1_3_multijet_16v_argento",
+              "title": "2003 Lancia Ypsilon 1.3 Multijet 16v Argento"
+            },
+            {
+              "id": "mod_2003_lancia_ypsilon_1_4_16v_argento",
+              "title": "2003 Lancia Ypsilon 1.4 16v Argento"
+            },
+            {
+              "id": "mod_2003_lancia_ypsilon_1_4_16v_platino",
+              "title": "2003 Lancia Ypsilon 1.4 16v Platino"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_ypsilon",
+          "title": "Lancia Ypsilon",
+          "children": [
+            {
+              "id": "mod_2000_lancia_ypsilon_1_2_16v_elefantino_rosso",
+              "title": "2000 Lancia Ypsilon 1.2 16v Elefantino Rosso"
+            },
+            {
+              "id": "mod_2000_lancia_ypsilon_1_2_16v_ls",
+              "title": "2000 Lancia Ypsilon 1.2 16v LS"
+            },
+            {
+              "id": "mod_2000_lancia_ypsilon_1_2_16v_lx",
+              "title": "2000 Lancia Ypsilon 1.2 16v LX"
+            },
+            {
+              "id": "mod_2000_lancia_ypsilon_1_2_elefantino_blu",
+              "title": "2000 Lancia Ypsilon 1.2 Elefantino Blu"
+            },
+            {
+              "id": "mod_2000_lancia_ypsilon_1_2_ls",
+              "title": "2000 Lancia Ypsilon 1.2 LS"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_ypsilon",
+          "title": "Lancia Ypsilon",
+          "children": [
+            {
+              "id": "mod_1996_lancia_ypsilon_1_2_le",
+              "title": "1996 Lancia Ypsilon 1.2 LE"
+            },
+            {
+              "id": "mod_1996_lancia_ypsilon_1_2_ls",
+              "title": "1996 Lancia Ypsilon 1.2 LS"
+            },
+            {
+              "id": "mod_1996_lancia_ypsilon_1_4_ls",
+              "title": "1996 Lancia Ypsilon 1.4 LS"
+            },
+            {
+              "id": "mod_1996_lancia_ypsilon_1_4_lx",
+              "title": "1996 Lancia Ypsilon 1.4 LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_ypsilon",
+          "title": "Lancia Ypsilon",
+          "children": [
+            {
+              "id": "mod_1993_lancia_ypsilon_1_1_i_e_elite",
+              "title": "1993 Lancia Ypsilon 1.1 I.e. Elite"
+            },
+            {
+              "id": "mod_1993_lancia_ypsilon_1_1_i_e",
+              "title": "1993 Lancia Ypsilon 1.1 I.e."
+            },
+            {
+              "id": "mod_1993_lancia_ypsilon_1_3_i_e_elite",
+              "title": "1993 Lancia Ypsilon 1.3 I.e. Elite"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_ypsilon",
+          "title": "Lancia Ypsilon",
+          "children": [
+            {
+              "id": "mod_1985_lancia_ypsilon_10_touring",
+              "title": "1985 Lancia Ypsilon 10 Touring"
+            },
+            {
+              "id": "mod_1985_lancia_ypsilon_10_turbo",
+              "title": "1985 Lancia Ypsilon 10 Turbo"
+            },
+            {
+              "id": "mod_1985_lancia_ypsilon_10",
+              "title": "1985 Lancia Ypsilon 10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_thema",
+      "title": "Lancia Thema",
+      "generations": [
+        {
+          "id": "gen_lancia_thema",
+          "title": "Lancia Thema",
+          "children": [
+            {
+              "id": "mod_2011_lancia_thema_3_0_v6_multijet_ii_190hp_gold",
+              "title": "2011 Lancia Thema 3.0 V6 Multijet II 190hp Gold"
+            },
+            {
+              "id": "mod_2011_lancia_thema_3_0_v6_multijet_ii_190hp_platinum",
+              "title": "2011 Lancia Thema 3.0 V6 Multijet II 190hp Platinum"
+            },
+            {
+              "id": "mod_2011_lancia_thema_3_0_v6_multijet_ii_240hp_executive",
+              "title": "2011 Lancia Thema 3.0 V6 Multijet II 240hp Executive"
+            },
+            {
+              "id": "mod_2011_lancia_thema_3_0_v6_multijet_ii_240hp_platinum",
+              "title": "2011 Lancia Thema 3.0 V6 Multijet II 240hp Platinum"
+            },
+            {
+              "id": "mod_2011_lancia_thema_3_6_v6_pentastar_executive",
+              "title": "2011 Lancia Thema 3.6 V6 Pentastar Executive"
+            },
+            {
+              "id": "mod_2011_lancia_thema_3_6_v6_pentastar_gold",
+              "title": "2011 Lancia Thema 3.6 V6 Pentastar Gold"
+            },
+            {
+              "id": "mod_2011_lancia_thema_3_6_v6_pentastar_platinum",
+              "title": "2011 Lancia Thema 3.6 V6 Pentastar Platinum"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_thema",
+          "title": "Lancia Thema",
+          "children": [
+            {
+              "id": "mod_1992_lancia_thema_2_0_i_e_16v_le",
+              "title": "1992 Lancia Thema 2.0 I.e. 16V LE"
+            },
+            {
+              "id": "mod_1992_lancia_thema_2_0_i_e_16v_ls",
+              "title": "1992 Lancia Thema 2.0 I.e. 16V LS"
+            },
+            {
+              "id": "mod_1992_lancia_thema_2_0_i_e_16v",
+              "title": "1992 Lancia Thema 2.0 I.e. 16V"
+            },
+            {
+              "id": "mod_1992_lancia_thema_2_0_i_e_turbo_16v_le",
+              "title": "1992 Lancia Thema 2.0 I.e. Turbo 16V LE"
+            },
+            {
+              "id": "mod_1992_lancia_thema_2_0_i_e_turbo_16v_ls",
+              "title": "1992 Lancia Thema 2.0 I.e. Turbo 16V LS"
+            },
+            {
+              "id": "mod_1992_lancia_thema_2_0_i_e_turbo_16v_lx",
+              "title": "1992 Lancia Thema 2.0 I.e. Turbo 16V LX"
+            },
+            {
+              "id": "mod_1992_lancia_thema_2_0_i_e",
+              "title": "1992 Lancia Thema 2.0 I.e."
+            },
+            {
+              "id": "mod_1992_lancia_thema_3_0_v6_le",
+              "title": "1992 Lancia Thema 3.0 V6 LE"
+            },
+            {
+              "id": "mod_1992_lancia_thema_3_0_v6_ls",
+              "title": "1992 Lancia Thema 3.0 V6 LS"
+            },
+            {
+              "id": "mod_1992_lancia_thema_3_0_v6_lx",
+              "title": "1992 Lancia Thema 3.0 V6 LX"
+            },
+            {
+              "id": "mod_1992_lancia_thema_turbo_ds_ls",
+              "title": "1992 Lancia Thema Turbo DS LS"
+            },
+            {
+              "id": "mod_1992_lancia_thema_turbo_ds",
+              "title": "1992 Lancia Thema Turbo DS"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_thema",
+          "title": "Lancia Thema",
+          "children": [
+            {
+              "id": "mod_1989_lancia_thema_2_0_i_e_16v",
+              "title": "1989 Lancia Thema 2.0 I.e. 16V"
+            },
+            {
+              "id": "mod_1989_lancia_thema_2_0_i_e_turbo_16v",
+              "title": "1989 Lancia Thema 2.0 I.e. Turbo 16V"
+            },
+            {
+              "id": "mod_1989_lancia_thema_2_0_i_e",
+              "title": "1989 Lancia Thema 2.0 I.e."
+            },
+            {
+              "id": "mod_1989_lancia_thema_8_32",
+              "title": "1989 Lancia Thema 8.32"
+            },
+            {
+              "id": "mod_1989_lancia_thema_turbo_d",
+              "title": "1989 Lancia Thema Turbo D"
+            },
+            {
+              "id": "mod_1989_lancia_thema_v6",
+              "title": "1989 Lancia Thema V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_thema",
+          "title": "Lancia Thema",
+          "children": [
+            {
+              "id": "mod_1985_lancia_thema_2_0_i_e_turbo",
+              "title": "1985 Lancia Thema 2.0 I.e. Turbo"
+            },
+            {
+              "id": "mod_1985_lancia_thema_2_0_i_e",
+              "title": "1985 Lancia Thema 2.0 I.e."
+            },
+            {
+              "id": "mod_1985_lancia_thema_turbo_d",
+              "title": "1985 Lancia Thema Turbo D"
+            },
+            {
+              "id": "mod_1985_lancia_thema_v6",
+              "title": "1985 Lancia Thema V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_prisma",
+      "title": "Lancia Prisma",
+      "generations": [
+        {
+          "id": "gen_lancia_prisma",
+          "title": "Lancia Prisma",
+          "children": [
+            {
+              "id": "mod_1983_lancia_prisma_1_5",
+              "title": "1983 Lancia Prisma 1.5"
+            },
+            {
+              "id": "mod_1983_lancia_prisma_1_6",
+              "title": "1983 Lancia Prisma 1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_a112",
+      "title": "Lancia A112",
+      "generations": [
+        {
+          "id": "gen_lancia_a112",
+          "title": "Lancia A112",
+          "children": [
+            {
+              "id": "mod_1982_lancia_a112_abarth",
+              "title": "1982 Lancia A112 Abarth"
+            },
+            {
+              "id": "mod_1982_lancia_a112_elite",
+              "title": "1982 Lancia A112 Elite"
+            },
+            {
+              "id": "mod_1982_lancia_a112_junior",
+              "title": "1982 Lancia A112 Junior"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_trevi",
+      "title": "Lancia Trevi",
+      "generations": [
+        {
+          "id": "gen_lancia_trevi",
+          "title": "Lancia Trevi",
+          "children": [
+            {
+              "id": "mod_1981_lancia_trevi_2000_i_e",
+              "title": "1981 Lancia Trevi 2000 I.e."
+            },
+            {
+              "id": "mod_1981_lancia_trevi_2000",
+              "title": "1981 Lancia Trevi 2000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_gamma",
+      "title": "Lancia Gamma",
+      "generations": [
+        {
+          "id": "gen_lancia_gamma",
+          "title": "Lancia Gamma",
+          "children": [
+            {
+              "id": "mod_1981_lancia_gamma_2500_f_l_i_e",
+              "title": "1981 Lancia Gamma 2500 F.L. I.e."
+            },
+            {
+              "id": "mod_1981_lancia_gamma_2500_f_l",
+              "title": "1981 Lancia Gamma 2500 F.L."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_gamma_coupe",
+      "title": "Lancia Gamma Coupe",
+      "generations": [
+        {
+          "id": "gen_lancia_gamma_coupe",
+          "title": "Lancia Gamma Coupe",
+          "children": [
+            {
+              "id": "mod_1981_lancia_gamma_coupe_2500_f_l_i_e",
+              "title": "1981 Lancia Gamma Coupe 2500 F.L. I.e."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_delta",
+      "title": "Lancia Delta",
+      "generations": [
+        {
+          "id": "gen_lancia_delta",
+          "title": "Lancia Delta",
+          "children": [
+            {
+              "id": "mod_2011_lancia_delta_1_4_multiair_140hp_gold",
+              "title": "2011 Lancia Delta 1.4 MultiAir 140hp Gold"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_4_multiair_140hp_lounge",
+              "title": "2011 Lancia Delta 1.4 MultiAir 140hp Lounge"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_4_multiair_140hp_platinum",
+              "title": "2011 Lancia Delta 1.4 MultiAir 140hp Platinum"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_4_multiair_140hp_silver",
+              "title": "2011 Lancia Delta 1.4 MultiAir 140hp Silver"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_4_multiair_140hp_steel",
+              "title": "2011 Lancia Delta 1.4 MultiAir 140hp Steel"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_4_t_jet_120hp_gold",
+              "title": "2011 Lancia Delta 1.4 T-Jet 120hp Gold"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_4_t_jet_120hp_silver",
+              "title": "2011 Lancia Delta 1.4 T-Jet 120hp Silver"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_4_t_jet_120hp_steel",
+              "title": "2011 Lancia Delta 1.4 T-Jet 120hp Steel"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_6_multijet_105hp_gold",
+              "title": "2011 Lancia Delta 1.6 Multijet 105hp Gold"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_6_multijet_105hp_silver",
+              "title": "2011 Lancia Delta 1.6 Multijet 105hp Silver"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_6_multijet_105hp_steel",
+              "title": "2011 Lancia Delta 1.6 Multijet 105hp Steel"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_6_multijet_120hp_gold",
+              "title": "2011 Lancia Delta 1.6 Multijet 120hp Gold"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_6_multijet_120hp_silver",
+              "title": "2011 Lancia Delta 1.6 Multijet 120hp Silver"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_8_di_turbojet_gold",
+              "title": "2011 Lancia Delta 1.8 Di TurboJet Gold"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_8_di_turbojet_platinum",
+              "title": "2011 Lancia Delta 1.8 Di TurboJet Platinum"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_8_di_turbojet_silver",
+              "title": "2011 Lancia Delta 1.8 Di TurboJet Silver"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_9_multijet_190hp_gold",
+              "title": "2011 Lancia Delta 1.9 Multijet 190hp Gold"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_9_multijet_190hp_platinum",
+              "title": "2011 Lancia Delta 1.9 Multijet 190hp Platinum"
+            },
+            {
+              "id": "mod_2011_lancia_delta_1_9_multijet_190hp_silver",
+              "title": "2011 Lancia Delta 1.9 Multijet 190hp Silver"
+            },
+            {
+              "id": "mod_2011_lancia_delta_2_0_multijet_165hp_gold",
+              "title": "2011 Lancia Delta 2.0 Multijet 165hp Gold"
+            },
+            {
+              "id": "mod_2011_lancia_delta_2_0_multijet_165hp_silver",
+              "title": "2011 Lancia Delta 2.0 Multijet 165hp Silver"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_delta",
+          "title": "Lancia Delta",
+          "children": [
+            {
+              "id": "mod_2008_lancia_delta_1_4_t_jet_120hp_argento",
+              "title": "2008 Lancia Delta 1.4 T-Jet 120hp Argento"
+            },
+            {
+              "id": "mod_2008_lancia_delta_1_4_t_jet_120hp_oro",
+              "title": "2008 Lancia Delta 1.4 T-Jet 120hp Oro"
+            },
+            {
+              "id": "mod_2008_lancia_delta_1_4_t_jet_150hp_argento",
+              "title": "2008 Lancia Delta 1.4 T-Jet 150hp Argento"
+            },
+            {
+              "id": "mod_2008_lancia_delta_1_4_t_jet_150hp_oro",
+              "title": "2008 Lancia Delta 1.4 T-Jet 150hp Oro"
+            },
+            {
+              "id": "mod_2008_lancia_delta_1_4_t_jet_150hp_platino",
+              "title": "2008 Lancia Delta 1.4 T-Jet 150hp Platino"
+            },
+            {
+              "id": "mod_2008_lancia_delta_1_6_multijet_120hp_argento",
+              "title": "2008 Lancia Delta 1.6 Multijet 120hp Argento"
+            },
+            {
+              "id": "mod_2008_lancia_delta_1_6_multijet_120hp_oro",
+              "title": "2008 Lancia Delta 1.6 Multijet 120hp Oro"
+            },
+            {
+              "id": "mod_2008_lancia_delta_1_6_multijet_120hp_platino",
+              "title": "2008 Lancia Delta 1.6 Multijet 120hp Platino"
+            },
+            {
+              "id": "mod_2008_lancia_delta_1_9_multijet_190hp_oro",
+              "title": "2008 Lancia Delta 1.9 Multijet 190hp Oro"
+            },
+            {
+              "id": "mod_2008_lancia_delta_1_9_multijet_190hp_platino",
+              "title": "2008 Lancia Delta 1.9 Multijet 190hp Platino"
+            },
+            {
+              "id": "mod_2008_lancia_delta_2_0_multijet_165hp_argento",
+              "title": "2008 Lancia Delta 2.0 Multijet 165hp Argento"
+            },
+            {
+              "id": "mod_2008_lancia_delta_2_0_multijet_165hp_oro",
+              "title": "2008 Lancia Delta 2.0 Multijet 165hp Oro"
+            },
+            {
+              "id": "mod_2008_lancia_delta_2_0_multijet_165hp_platino",
+              "title": "2008 Lancia Delta 2.0 Multijet 165hp Platino"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_delta",
+          "title": "Lancia Delta",
+          "children": [
+            {
+              "id": "mod_1998_lancia_delta_1_6_16v_ls",
+              "title": "1998 Lancia Delta 1.6 16v LS"
+            },
+            {
+              "id": "mod_1998_lancia_delta_1_8_16v_vvt_ls",
+              "title": "1998 Lancia Delta 1.8 16v VVT LS"
+            },
+            {
+              "id": "mod_1998_lancia_delta_1_9_turbo_ds_ls",
+              "title": "1998 Lancia Delta 1.9 Turbo DS LS"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_delta",
+          "title": "Lancia Delta",
+          "children": [
+            {
+              "id": "mod_1996_lancia_delta_1_6_16v_le",
+              "title": "1996 Lancia Delta 1.6 16v LE"
+            },
+            {
+              "id": "mod_1996_lancia_delta_1_8_16v_le",
+              "title": "1996 Lancia Delta 1.8 16v LE"
+            },
+            {
+              "id": "mod_1996_lancia_delta_1_8_16v_lx",
+              "title": "1996 Lancia Delta 1.8 16v LX"
+            },
+            {
+              "id": "mod_1996_lancia_delta_1_8_16v_vvt_gt",
+              "title": "1996 Lancia Delta 1.8 16v VVT GT"
+            },
+            {
+              "id": "mod_1996_lancia_delta_1_9_turbo_ds_le",
+              "title": "1996 Lancia Delta 1.9 Turbo DS LE"
+            },
+            {
+              "id": "mod_1996_lancia_delta_1_9_turbo_ds_lx",
+              "title": "1996 Lancia Delta 1.9 Turbo DS LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_delta",
+          "title": "Lancia Delta",
+          "children": [
+            {
+              "id": "mod_1993_lancia_delta_1_6_i_e",
+              "title": "1993 Lancia Delta 1.6 I.e."
+            },
+            {
+              "id": "mod_1993_lancia_delta_1_8_i_e_le",
+              "title": "1993 Lancia Delta 1.8 I.e. LE"
+            },
+            {
+              "id": "mod_1993_lancia_delta_1_8_i_e",
+              "title": "1993 Lancia Delta 1.8 I.e."
+            },
+            {
+              "id": "mod_1993_lancia_delta_2_0_i_e_16v_hf_turbo_ls",
+              "title": "1993 Lancia Delta 2.0 I.e. 16v HF Turbo LS"
+            },
+            {
+              "id": "mod_1993_lancia_delta_2_0_i_e_16v_ls",
+              "title": "1993 Lancia Delta 2.0 I.e. 16v LS"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_delta",
+          "title": "Lancia Delta",
+          "children": [
+            {
+              "id": "mod_1983_lancia_delta_1_3",
+              "title": "1983 Lancia Delta 1.3"
+            },
+            {
+              "id": "mod_1983_lancia_delta_1_5",
+              "title": "1983 Lancia Delta 1.5"
+            },
+            {
+              "id": "mod_1983_lancia_delta_gt",
+              "title": "1983 Lancia Delta GT"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_delta",
+          "title": "Lancia Delta",
+          "children": [
+            {
+              "id": "mod_1980_lancia_delta_1300",
+              "title": "1980 Lancia Delta 1300"
+            },
+            {
+              "id": "mod_1980_lancia_delta_1500",
+              "title": "1980 Lancia Delta 1500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_monte_carlo",
+      "title": "Lancia Monte Carlo",
+      "generations": [
+        {
+          "id": "gen_lancia_monte_carlo",
+          "title": "Lancia Monte Carlo",
+          "children": [
+            {
+              "id": "mod_1980_lancia_monte_carlo",
+              "title": "1980 Lancia Monte Carlo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_hpe",
+      "title": "Lancia HPE",
+      "generations": [
+        {
+          "id": "gen_lancia_hpe",
+          "title": "Lancia HPE",
+          "children": [
+            {
+              "id": "mod_1983_lancia_hpe_2000_i_e_luxe",
+              "title": "1983 Lancia HPE 2000 I.e. Luxe"
+            },
+            {
+              "id": "mod_1983_lancia_hpe_2000_i_e",
+              "title": "1983 Lancia HPE 2000 I.e."
+            },
+            {
+              "id": "mod_1983_lancia_hpe_2000_volumex",
+              "title": "1983 Lancia HPE 2000 Volumex"
+            }
+          ]
+        },
+        {
+          "id": "gen_lancia_hpe",
+          "title": "Lancia HPE",
+          "children": [
+            {
+              "id": "mod_1976_lancia_hpe_1600",
+              "title": "1976 Lancia HPE 1600"
+            },
+            {
+              "id": "mod_1976_lancia_hpe_2000",
+              "title": "1976 Lancia HPE 2000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_beta_coupe",
+      "title": "Lancia Beta Coupe",
+      "generations": [
+        {
+          "id": "gen_lancia_beta_coupe",
+          "title": "Lancia Beta Coupe",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_beta",
+      "title": "Lancia Beta",
+      "generations": [
+        {
+          "id": "gen_lancia_beta",
+          "title": "Lancia Beta",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "model_lancia_beta_spider",
+      "title": "Lancia Beta Spider",
+      "generations": [
+        {
+          "id": "gen_lancia_beta_spider",
+          "title": "Lancia Beta Spider",
+          "children": [
+            {
+              "id": "mod_1973_lancia_beta_spider_1600",
+              "title": "1973 Lancia Beta Spider 1600"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "brand_mercury",
+  "title": "Mercury",
+  "models": [
+    {
+      "id": "model_mercury_sable_wagon",
+      "title": "Mercury Sable Wagon",
+      "generations": [
+        {
+          "id": "gen_mercury_sable_wagon",
+          "title": "Mercury Sable Wagon",
+          "children": [
+            {
+              "id": "mod_2000_mercury_sable_wagon",
+              "title": "2000 Mercury Sable Wagon"
+            }
+          ]
+        },
+        {
+          "id": "gen_mercury_sable_wagon",
+          "title": "Mercury Sable Wagon",
+          "children": [
+            {
+              "id": "mod_1996_mercury_sable_wagon_ls",
+              "title": "1996 Mercury Sable Wagon LS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mercury_villager",
+      "title": "Mercury Villager",
+      "generations": [
+        {
+          "id": "gen_mercury_villager",
+          "title": "Mercury Villager",
+          "children": [
+            {
+              "id": "mod_1993_mercury_villager_gs_special",
+              "title": "1993 Mercury Villager GS Special"
+            },
+            {
+              "id": "mod_1993_mercury_villager_ls",
+              "title": "1993 Mercury Villager LS"
+            },
+            {
+              "id": "mod_1993_mercury_villager",
+              "title": "1993 Mercury Villager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mercury_sable",
+      "title": "Mercury Sable",
+      "generations": [
+        {
+          "id": "gen_mercury_sable",
+          "title": "Mercury Sable",
+          "children": [
+            {
+              "id": "mod_1992_mercury_sable_gs",
+              "title": "1992 Mercury Sable GS"
+            },
+            {
+              "id": "mod_1992_mercury_sable_ls",
+              "title": "1992 Mercury Sable LS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mercury_sable_stationwagon",
+      "title": "Mercury Sable Stationwagon",
+      "generations": [
+        {
+          "id": "gen_mercury_sable_stationwagon",
+          "title": "Mercury Sable Stationwagon",
+          "children": [
+            {
+              "id": "mod_1992_mercury_sable_stationwagon_gs",
+              "title": "1992 Mercury Sable Stationwagon GS"
+            },
+            {
+              "id": "mod_1992_mercury_sable_stationwagon_ls",
+              "title": "1992 Mercury Sable Stationwagon LS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mercury_grand_marquis",
+      "title": "Mercury Grand Marquis",
+      "generations": [
+        {
+          "id": "gen_mercury_grand_marquis",
+          "title": "Mercury Grand Marquis",
+          "children": [
+            {
+              "id": "mod_2000_mercury_grand_marquis",
+              "title": "2000 Mercury Grand Marquis"
+            }
+          ]
+        },
+        {
+          "id": "gen_mercury_grand_marquis",
+          "title": "Mercury Grand Marquis",
+          "children": [
+            {
+              "id": "mod_1991_mercury_grand_marquis_ls",
+              "title": "1991 Mercury Grand Marquis LS"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "id": "brand_iveco",
+  "title": "Iveco",
+  "models": [
+    {
+      "id": "model_iveco_daily",
+      "title": "Iveco Daily",
+      "generations": [
+        {
+          "id": "gen_iveco_daily",
+          "title": "Iveco Daily",
+          "children": [
+            {
+              "id": "mod_2014_iveco_daily_35s11v_3000_h1_2_3",
+              "title": "2014 Iveco Daily 35S11V 3000 H1 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s11v_3520_h1_2_3",
+              "title": "2014 Iveco Daily 35S11V 3520 H1 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s11v_3520_h2_2_3",
+              "title": "2014 Iveco Daily 35S11V 3520 H2 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s11v_3520l_h2_2_3",
+              "title": "2014 Iveco Daily 35S11V 3520L H2 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s11v_3520l_h3_2_3",
+              "title": "2014 Iveco Daily 35S11V 3520L H3 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s11v_4100_h2_2_3",
+              "title": "2014 Iveco Daily 35S11V 4100 H2 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s11v_4100_h3_2_3",
+              "title": "2014 Iveco Daily 35S11V 4100 H3 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s13v_3000_h1_2_3",
+              "title": "2014 Iveco Daily 35S13V 3000 H1 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s13v_3520_h1_2_3",
+              "title": "2014 Iveco Daily 35S13V 3520 H1 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s13v_3520_h2_2_3",
+              "title": "2014 Iveco Daily 35S13V 3520 H2 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s13v_3520l_h2_2_3",
+              "title": "2014 Iveco Daily 35S13V 3520L H2 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s13v_3520l_h3_2_3",
+              "title": "2014 Iveco Daily 35S13V 3520L H3 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s13v_4100_h2_2_3",
+              "title": "2014 Iveco Daily 35S13V 4100 H2 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s13v_4100_h3_2_3",
+              "title": "2014 Iveco Daily 35S13V 4100 H3 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s14nv_3520_h1",
+              "title": "2014 Iveco Daily 35S14NV 3520 H1"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s14nv_3520_h2",
+              "title": "2014 Iveco Daily 35S14NV 3520 H2"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s14nv_3520l_h2",
+              "title": "2014 Iveco Daily 35S14NV 3520L H2"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s14nv_3520l_h3",
+              "title": "2014 Iveco Daily 35S14NV 3520L H3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s14nv_4100_h2",
+              "title": "2014 Iveco Daily 35S14NV 4100 H2"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s14nv_4100_h3",
+              "title": "2014 Iveco Daily 35S14NV 4100 H3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s15v_3000_h1_2_3",
+              "title": "2014 Iveco Daily 35S15V 3000 H1 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s15v_3520_h1_2_3",
+              "title": "2014 Iveco Daily 35S15V 3520 H1 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s15v_3520_h2_2_3",
+              "title": "2014 Iveco Daily 35S15V 3520 H2 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s15v_3520l_h2_2_3",
+              "title": "2014 Iveco Daily 35S15V 3520L H2 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s15v_3520l_h3_2_3",
+              "title": "2014 Iveco Daily 35S15V 3520L H3 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s15v_4100_h2_2_3",
+              "title": "2014 Iveco Daily 35S15V 4100 H2 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s15v_4100_h3_2_3",
+              "title": "2014 Iveco Daily 35S15V 4100 H3 2.3"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s17v_3000_h1_3_0",
+              "title": "2014 Iveco Daily 35S17V 3000 H1 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s17v_3520_h1_3_0",
+              "title": "2014 Iveco Daily 35S17V 3520 H1 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s17v_3520_h2_3_0",
+              "title": "2014 Iveco Daily 35S17V 3520 H2 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s17v_3520l_h2_3_0",
+              "title": "2014 Iveco Daily 35S17V 3520L H2 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s17v_3520l_h3_3_0",
+              "title": "2014 Iveco Daily 35S17V 3520L H3 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s17v_4100_h2_3_0",
+              "title": "2014 Iveco Daily 35S17V 4100 H2 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s17v_4100_h3_3_0",
+              "title": "2014 Iveco Daily 35S17V 4100 H3 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s21v_3000_h1_3_0",
+              "title": "2014 Iveco Daily 35S21V 3000 H1 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s21v_3520_h1_3_0",
+              "title": "2014 Iveco Daily 35S21V 3520 H1 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s21v_3520_h2_3_0",
+              "title": "2014 Iveco Daily 35S21V 3520 H2 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s21v_3520l_h2_3_0",
+              "title": "2014 Iveco Daily 35S21V 3520L H2 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s21v_3520l_h3_3_0",
+              "title": "2014 Iveco Daily 35S21V 3520L H3 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s21v_4100_h2_3_0",
+              "title": "2014 Iveco Daily 35S21V 4100 H2 3.0"
+            },
+            {
+              "id": "mod_2014_iveco_daily_35s21v_4100_h3_3_0",
+              "title": "2014 Iveco Daily 35S21V 4100 H3 3.0"
+            }
+          ]
+        },
+        {
+          "id": "gen_iveco_daily",
+          "title": "Iveco Daily",
+          "children": [
+            {
+              "id": "mod_2012_iveco_daily_29l11v_3000_h1_2_3",
+              "title": "2012 Iveco Daily 29L11V 3000 H1 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l11v_3000_h2_2_3",
+              "title": "2012 Iveco Daily 29L11V 3000 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l11v_3000l_h1_2_3",
+              "title": "2012 Iveco Daily 29L11V 3000L H1 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l11v_3000l_h2_2_3",
+              "title": "2012 Iveco Daily 29L11V 3000L H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l11v_3300_h2_2_3",
+              "title": "2012 Iveco Daily 29L11V 3300 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l13v_3000_h1_2_3",
+              "title": "2012 Iveco Daily 29L13V 3000 H1 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l13v_3000_h2_2_3",
+              "title": "2012 Iveco Daily 29L13V 3000 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l13v_3000l_h1_2_3",
+              "title": "2012 Iveco Daily 29L13V 3000L H1 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l13v_3000l_h2_2_3",
+              "title": "2012 Iveco Daily 29L13V 3000L H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l13v_3300_h2_2_3",
+              "title": "2012 Iveco Daily 29L13V 3300 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l15v_3000_h1_2_3",
+              "title": "2012 Iveco Daily 29L15V 3000 H1 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l15v_3000_h2_2_3",
+              "title": "2012 Iveco Daily 29L15V 3000 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l15v_3000l_h1_2_3",
+              "title": "2012 Iveco Daily 29L15V 3000L H1 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l15v_3000l_h2_2_3",
+              "title": "2012 Iveco Daily 29L15V 3000L H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_29l15v_3300_h2_2_3",
+              "title": "2012 Iveco Daily 29L15V 3300 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s11v_3000_h1_2_3",
+              "title": "2012 Iveco Daily 35S11V 3000 H1 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s11v_3000_h2_2_3",
+              "title": "2012 Iveco Daily 35S11V 3000 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s11v_3000l_h1_2_3",
+              "title": "2012 Iveco Daily 35S11V 3000L H1 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s11v_3000l_h2_2_3",
+              "title": "2012 Iveco Daily 35S11V 3000L H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s11v_3300_h2_2_3",
+              "title": "2012 Iveco Daily 35S11V 3300 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s11v_3300_h3_2_3",
+              "title": "2012 Iveco Daily 35S11V 3300 H3 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s11v_3950_h2_2_3",
+              "title": "2012 Iveco Daily 35S11V 3950 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s11v_3950_h3_2_3",
+              "title": "2012 Iveco Daily 35S11V 3950 H3 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s13v_3000_h1_2_3",
+              "title": "2012 Iveco Daily 35S13V 3000 H1 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s13v_3000_h2_2_3",
+              "title": "2012 Iveco Daily 35S13V 3000 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s13v_3000l_h1_2_3",
+              "title": "2012 Iveco Daily 35S13V 3000L H1 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s13v_3000l_h2_2_3",
+              "title": "2012 Iveco Daily 35S13V 3000L H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s13v_3300_h2_2_3",
+              "title": "2012 Iveco Daily 35S13V 3300 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s13v_3300_h3_2_3",
+              "title": "2012 Iveco Daily 35S13V 3300 H3 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s13v_3950_h2_2_3",
+              "title": "2012 Iveco Daily 35S13V 3950 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s13v_3950_h3_2_3",
+              "title": "2012 Iveco Daily 35S13V 3950 H3 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s14gv_3300_h2",
+              "title": "2012 Iveco Daily 35S14GV 3300 H2"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s14gv_3300_h3",
+              "title": "2012 Iveco Daily 35S14GV 3300 H3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s14gv_3950_h2",
+              "title": "2012 Iveco Daily 35S14GV 3950 H2"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s14gv_3950_h3",
+              "title": "2012 Iveco Daily 35S14GV 3950 H3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s15v_3000_h1_2_3",
+              "title": "2012 Iveco Daily 35S15V 3000 H1 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s15v_3000_h2_2_3",
+              "title": "2012 Iveco Daily 35S15V 3000 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s15v_3000l_h1_2_3",
+              "title": "2012 Iveco Daily 35S15V 3000L H1 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s15v_3000l_h2_2_3",
+              "title": "2012 Iveco Daily 35S15V 3000L H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s15v_3300_h2_2_3",
+              "title": "2012 Iveco Daily 35S15V 3300 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s15v_3300_h3_2_3",
+              "title": "2012 Iveco Daily 35S15V 3300 H3 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s15v_3950_h2_2_3",
+              "title": "2012 Iveco Daily 35S15V 3950 H2 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s15v_3950_h3_2_3",
+              "title": "2012 Iveco Daily 35S15V 3950 H3 2.3"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s17v_3000_h1_3_0",
+              "title": "2012 Iveco Daily 35S17V 3000 H1 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s17v_3000_h2_3_0",
+              "title": "2012 Iveco Daily 35S17V 3000 H2 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s17v_3000l_h1_3_0",
+              "title": "2012 Iveco Daily 35S17V 3000L H1 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s17v_3000l_h2_3_0",
+              "title": "2012 Iveco Daily 35S17V 3000L H2 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s17v_3300_h2_3_0",
+              "title": "2012 Iveco Daily 35S17V 3300 H2 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s17v_3300_h3_3_0",
+              "title": "2012 Iveco Daily 35S17V 3300 H3 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s17v_3950_h2_3_0",
+              "title": "2012 Iveco Daily 35S17V 3950 H2 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s17v_3950_h3_3_0",
+              "title": "2012 Iveco Daily 35S17V 3950 H3 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s21v_3000_h1_3_0",
+              "title": "2012 Iveco Daily 35S21V 3000 H1 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s21v_3000_h2_3_0",
+              "title": "2012 Iveco Daily 35S21V 3000 H2 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s21v_3000l_h1_3_0",
+              "title": "2012 Iveco Daily 35S21V 3000L H1 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s21v_3000l_h2_3_0",
+              "title": "2012 Iveco Daily 35S21V 3000L H2 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s21v_3300_h2_3_0",
+              "title": "2012 Iveco Daily 35S21V 3300 H2 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s21v_3300_h3_3_0",
+              "title": "2012 Iveco Daily 35S21V 3300 H3 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s21v_3950_h2_3_0",
+              "title": "2012 Iveco Daily 35S21V 3950 H2 3.0"
+            },
+            {
+              "id": "mod_2012_iveco_daily_35s21v_3950_h3_3_0",
+              "title": "2012 Iveco Daily 35S21V 3950 H3 3.0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

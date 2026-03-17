@@ -1,0 +1,5176 @@
+{
+  "id": "brand_mazda",
+  "title": "Mazda",
+  "models": [
+    {
+      "id": "model_mazda_mx_30",
+      "title": "Mazda MX-30",
+      "generations": [
+        {
+          "id": "gen_mazda_mx_30",
+          "title": "Mazda MX-30",
+          "children": [
+            {
+              "id": "mod_2020_mazda_mx_30_first_edition",
+              "title": "2020 Mazda MX-30 First Edition"
+            },
+            {
+              "id": "mod_2020_mazda_mx_30_luxury",
+              "title": "2020 Mazda MX-30 Luxury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_cx_30",
+      "title": "Mazda CX-30",
+      "generations": [
+        {
+          "id": "gen_mazda_cx_30",
+          "title": "Mazda CX-30",
+          "children": [
+            {
+              "id": "mod_2019_mazda_cx_30_skyactiv_d_116_comfort",
+              "title": "2019 Mazda CX-30 SkyActiv-D 116 Comfort"
+            },
+            {
+              "id": "mod_2019_mazda_cx_30_skyactiv_d_116_luxury",
+              "title": "2019 Mazda CX-30 SkyActiv-D 116 Luxury"
+            },
+            {
+              "id": "mod_2019_mazda_cx_30_skyactiv_g_122_comfort",
+              "title": "2019 Mazda CX-30 SkyActiv-G 122 Comfort"
+            },
+            {
+              "id": "mod_2019_mazda_cx_30_skyactiv_g_122",
+              "title": "2019 Mazda CX-30 SkyActiv-G 122"
+            },
+            {
+              "id": "mod_2019_mazda_cx_30_skyactiv_x_180_2wd_comfort",
+              "title": "2019 Mazda CX-30 SkyActiv-X 180 2WD Comfort"
+            },
+            {
+              "id": "mod_2019_mazda_cx_30_skyactiv_x_180_2wd_luxury",
+              "title": "2019 Mazda CX-30 SkyActiv-X 180 2WD Luxury"
+            },
+            {
+              "id": "mod_2019_mazda_cx_30_skyactiv_x_180_4wd_luxury",
+              "title": "2019 Mazda CX-30 SkyActiv-X 180 4WD Luxury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_mx_5_rf",
+      "title": "Mazda MX-5 RF",
+      "generations": [
+        {
+          "id": "gen_mazda_mx_5_rf",
+          "title": "Mazda MX-5 RF",
+          "children": [
+            {
+              "id": "mod_2017_mazda_mx_5_rf_skyactiv_g_131_gt_m",
+              "title": "2017 Mazda MX-5 RF SkyActiv-G 131 GT-M"
+            },
+            {
+              "id": "mod_2017_mazda_mx_5_rf_skyactiv_g_131_ts",
+              "title": "2017 Mazda MX-5 RF SkyActiv-G 131 TS"
+            },
+            {
+              "id": "mod_2017_mazda_mx_5_rf_skyactiv_g_131_ts",
+              "title": "2017 Mazda MX-5 RF SkyActiv-G 131 TS+"
+            },
+            {
+              "id": "mod_2017_mazda_mx_5_rf_skyactiv_g_160_gt_m",
+              "title": "2017 Mazda MX-5 RF SkyActiv-G 160 GT-M"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_cx_5",
+      "title": "Mazda CX-5",
+      "generations": [
+        {
+          "id": "gen_mazda_cx_5",
+          "title": "Mazda CX-5",
+          "children": [
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_d_150_skylease_gt",
+              "title": "2017 Mazda CX-5 SkyActiv-D 150 Skylease GT"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_d_150_skylease",
+              "title": "2017 Mazda CX-5 SkyActiv-D 150 Skylease"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_d_150_skylease",
+              "title": "2017 Mazda CX-5 SkyActiv-D 150 Skylease+"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_d_150_ts",
+              "title": "2017 Mazda CX-5 SkyActiv-D 150 TS"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_d_150_ts",
+              "title": "2017 Mazda CX-5 SkyActiv-D 150 TS+"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_d_175_gt_m",
+              "title": "2017 Mazda CX-5 SkyActiv-D 175 GT-M"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_g_160_4wd_gt_m",
+              "title": "2017 Mazda CX-5 SkyActiv-G 160 4WD GT-M"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_g_165_s",
+              "title": "2017 Mazda CX-5 SkyActiv-G 165 S"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_g_165_skylease_gt",
+              "title": "2017 Mazda CX-5 SkyActiv-G 165 Skylease GT"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_g_165_skylease",
+              "title": "2017 Mazda CX-5 SkyActiv-G 165 Skylease"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_g_165_skylease",
+              "title": "2017 Mazda CX-5 SkyActiv-G 165 Skylease+"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_g_165_ts",
+              "title": "2017 Mazda CX-5 SkyActiv-G 165 TS"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_g_165_ts",
+              "title": "2017 Mazda CX-5 SkyActiv-G 165 TS+"
+            },
+            {
+              "id": "mod_2017_mazda_cx_5_skyactiv_g_194_4wd_gt_m",
+              "title": "2017 Mazda CX-5 SkyActiv-G 194 4WD GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_cx_5",
+          "title": "Mazda CX-5",
+          "children": [
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_d_150_skylease_gt",
+              "title": "2015 Mazda CX-5 SkyActiv-D 150 Skylease GT"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_d_150_skylease",
+              "title": "2015 Mazda CX-5 SkyActiv-D 150 Skylease"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_d_150_skylease",
+              "title": "2015 Mazda CX-5 SkyActiv-D 150 Skylease+"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_d_150_ts",
+              "title": "2015 Mazda CX-5 SkyActiv-D 150 TS"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_d_150_ts",
+              "title": "2015 Mazda CX-5 SkyActiv-D 150 TS+"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_d_175_4wd_gt_m",
+              "title": "2015 Mazda CX-5 SkyActiv-D 175 4WD GT-M"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_g_160_4wd_gt_m",
+              "title": "2015 Mazda CX-5 SkyActiv-G 160 4WD GT-M"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_g_165_s",
+              "title": "2015 Mazda CX-5 SkyActiv-G 165 S"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_g_165_skylease_gt",
+              "title": "2015 Mazda CX-5 SkyActiv-G 165 Skylease GT"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_g_165_skylease",
+              "title": "2015 Mazda CX-5 SkyActiv-G 165 Skylease"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_g_165_skylease",
+              "title": "2015 Mazda CX-5 SkyActiv-G 165 Skylease+"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_g_165_ts",
+              "title": "2015 Mazda CX-5 SkyActiv-G 165 TS"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_g_165_ts",
+              "title": "2015 Mazda CX-5 SkyActiv-G 165 TS+"
+            },
+            {
+              "id": "mod_2015_mazda_cx_5_skyactiv_g_192_4wd_gt_m",
+              "title": "2015 Mazda CX-5 SkyActiv-G 192 4WD GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_cx_5",
+          "title": "Mazda CX-5",
+          "children": [
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_d_2_2_150hp_s",
+              "title": "2012 Mazda CX-5 SkyActiv-D 2.2 150hp S"
+            },
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_d_2_2_150hp_ts",
+              "title": "2012 Mazda CX-5 SkyActiv-D 2.2 150hp TS"
+            },
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_d_2_2_150hp_ts_lease_pack",
+              "title": "2012 Mazda CX-5 SkyActiv-D 2.2 150hp TS+ Lease Pack"
+            },
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_d_2_2_150hp_ts",
+              "title": "2012 Mazda CX-5 SkyActiv-D 2.2 150hp TS+"
+            },
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_d_2_2_175hp_4wd_gt_m",
+              "title": "2012 Mazda CX-5 SkyActiv-D 2.2 175hp 4WD GT-M"
+            },
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_g_2_0_4wd_gt_m",
+              "title": "2012 Mazda CX-5 SkyActiv-G 2.0 4WD GT-M"
+            },
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_g_2_0_4wd_ts",
+              "title": "2012 Mazda CX-5 SkyActiv-G 2.0 4WD TS"
+            },
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_g_2_0_4wd_ts_lease_pack",
+              "title": "2012 Mazda CX-5 SkyActiv-G 2.0 4WD TS+ Lease Pack"
+            },
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_g_2_0_4wd_ts",
+              "title": "2012 Mazda CX-5 SkyActiv-G 2.0 4WD TS+"
+            },
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_g_2_0_s",
+              "title": "2012 Mazda CX-5 SkyActiv-G 2.0 S"
+            },
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_g_2_0_ts",
+              "title": "2012 Mazda CX-5 SkyActiv-G 2.0 TS"
+            },
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_g_2_0_ts_lease_pack",
+              "title": "2012 Mazda CX-5 SkyActiv-G 2.0 TS+ Lease Pack"
+            },
+            {
+              "id": "mod_2012_mazda_cx_5_skyactiv_g_2_0_ts",
+              "title": "2012 Mazda CX-5 SkyActiv-G 2.0 TS+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_cx_3",
+      "title": "Mazda CX-3",
+      "generations": [
+        {
+          "id": "gen_mazda_cx_3",
+          "title": "Mazda CX-3",
+          "children": [
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_d_115_gt_m",
+              "title": "2018 Mazda CX-3 SkyActiv-D 115 GT-M"
+            },
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_d_115_skylease_gt",
+              "title": "2018 Mazda CX-3 SkyActiv-D 115 Skylease GT"
+            },
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_d_115_skylease",
+              "title": "2018 Mazda CX-3 SkyActiv-D 115 Skylease"
+            },
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_d_115_sport_selected",
+              "title": "2018 Mazda CX-3 SkyActiv-D 115 Sport Selected"
+            },
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_g_120_gt_m",
+              "title": "2018 Mazda CX-3 SkyActiv-G 120 GT-M"
+            },
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_g_120_s",
+              "title": "2018 Mazda CX-3 SkyActiv-G 120 S"
+            },
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_g_120_skylease_gt",
+              "title": "2018 Mazda CX-3 SkyActiv-G 120 Skylease GT"
+            },
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_g_120_skylease",
+              "title": "2018 Mazda CX-3 SkyActiv-G 120 Skylease"
+            },
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_g_120_sport_selected",
+              "title": "2018 Mazda CX-3 SkyActiv-G 120 Sport Selected"
+            },
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_g_120_ts",
+              "title": "2018 Mazda CX-3 SkyActiv-G 120 TS"
+            },
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_g_120_ts",
+              "title": "2018 Mazda CX-3 SkyActiv-G 120 TS+"
+            },
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_g_150_4wd_gt_m",
+              "title": "2018 Mazda CX-3 SkyActiv-G 150 4WD GT-M"
+            },
+            {
+              "id": "mod_2018_mazda_cx_3_skyactiv_g_150_4wd_skylease_gt",
+              "title": "2018 Mazda CX-3 SkyActiv-G 150 4WD Skylease GT"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_cx_3",
+          "title": "Mazda CX-3",
+          "children": [
+            {
+              "id": "mod_2015_mazda_cx_3_skyactiv_d_105_gt_m",
+              "title": "2015 Mazda CX-3 SkyActiv-D 105 GT-M"
+            },
+            {
+              "id": "mod_2015_mazda_cx_3_skyactiv_d_105_skylease_gt",
+              "title": "2015 Mazda CX-3 SkyActiv-D 105 Skylease GT"
+            },
+            {
+              "id": "mod_2015_mazda_cx_3_skyactiv_d_105_skylease",
+              "title": "2015 Mazda CX-3 SkyActiv-D 105 Skylease+"
+            },
+            {
+              "id": "mod_2015_mazda_cx_3_skyactiv_g_2_0_120_gt_m",
+              "title": "2015 Mazda CX-3 SkyActiv-G 2.0 120 GT-M"
+            },
+            {
+              "id": "mod_2015_mazda_cx_3_skyactiv_g_2_0_120_s",
+              "title": "2015 Mazda CX-3 SkyActiv-G 2.0 120 S"
+            },
+            {
+              "id": "mod_2015_mazda_cx_3_skyactiv_g_2_0_120_skylease",
+              "title": "2015 Mazda CX-3 SkyActiv-G 2.0 120 Skylease+"
+            },
+            {
+              "id": "mod_2015_mazda_cx_3_skyactiv_g_2_0_120_ts",
+              "title": "2015 Mazda CX-3 SkyActiv-G 2.0 120 TS"
+            },
+            {
+              "id": "mod_2015_mazda_cx_3_skyactiv_g_2_0_120_ts",
+              "title": "2015 Mazda CX-3 SkyActiv-G 2.0 120 TS+"
+            },
+            {
+              "id": "mod_2015_mazda_cx_3_skyactiv_g_2_0_150_4wd_gt_m",
+              "title": "2015 Mazda CX-3 SkyActiv-G 2.0 150 4WD GT-M"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_cx_9",
+      "title": "Mazda CX-9",
+      "generations": [
+        {
+          "id": "gen_mazda_cx_9",
+          "title": "Mazda CX-9",
+          "children": [
+            {
+              "id": "mod_2009_mazda_cx_9_3_7_v6",
+              "title": "2009 Mazda CX-9 3.7 V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_cx_7",
+      "title": "Mazda CX-7",
+      "generations": [
+        {
+          "id": "gen_mazda_cx_7",
+          "title": "Mazda CX-7",
+          "children": [
+            {
+              "id": "mod_2009_mazda_cx_7_2_2_citd_business",
+              "title": "2009 Mazda CX-7 2.2 CiTD Business"
+            },
+            {
+              "id": "mod_2009_mazda_cx_7_2_2_citd_gt_l",
+              "title": "2009 Mazda CX-7 2.2 CiTD GT-L"
+            },
+            {
+              "id": "mod_2009_mazda_cx_7_2_2_citd_ts",
+              "title": "2009 Mazda CX-7 2.2 CiTD TS+"
+            },
+            {
+              "id": "mod_2009_mazda_cx_7_2_3_disi_turbo_gt_l",
+              "title": "2009 Mazda CX-7 2.3 DISI Turbo GT-L"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_cx_7",
+          "title": "Mazda CX-7",
+          "children": [
+            {
+              "id": "mod_2007_mazda_cx_7_2_3_disi_turbo_executive",
+              "title": "2007 Mazda CX-7 2.3 DISI Turbo Executive"
+            },
+            {
+              "id": "mod_2007_mazda_cx_7_2_3_disi_turbo_touring",
+              "title": "2007 Mazda CX-7 2.3 DISI Turbo Touring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_3",
+      "title": "Mazda 3",
+      "generations": [
+        {
+          "id": "gen_mazda_3",
+          "title": "Mazda 3",
+          "children": [
+            {
+              "id": "mod_2019_mazda_3_skyactiv_d_1_8_116_comfort",
+              "title": "2019 Mazda 3 SkyActiv-D 1.8 116 Comfort"
+            },
+            {
+              "id": "mod_2019_mazda_3_skyactiv_d_1_8_116",
+              "title": "2019 Mazda 3 SkyActiv-D 1.8 116"
+            },
+            {
+              "id": "mod_2019_mazda_3_skyactiv_g_2_0_122_comfort",
+              "title": "2019 Mazda 3 SkyActiv-G 2.0 122 Comfort"
+            },
+            {
+              "id": "mod_2019_mazda_3_skyactiv_g_2_0_122_luxury",
+              "title": "2019 Mazda 3 SkyActiv-G 2.0 122 Luxury"
+            },
+            {
+              "id": "mod_2019_mazda_3_skyactiv_g_2_0_122",
+              "title": "2019 Mazda 3 SkyActiv-G 2.0 122"
+            },
+            {
+              "id": "mod_2019_mazda_3_skyactiv_x_2_0_180_comfort",
+              "title": "2019 Mazda 3 SkyActiv-X 2.0 180 Comfort"
+            },
+            {
+              "id": "mod_2019_mazda_3_skyactiv_x_2_0_180_luxury",
+              "title": "2019 Mazda 3 SkyActiv-X 2.0 180 Luxury"
+            },
+            {
+              "id": "mod_2019_mazda_3_skyactiv_x_2_0_180",
+              "title": "2019 Mazda 3 SkyActiv-X 2.0 180"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_3",
+          "title": "Mazda 3",
+          "children": [
+            {
+              "id": "mod_2016_mazda_3_skyactiv_d_2_2_150_gt_m",
+              "title": "2016 Mazda 3 SkyActiv-D 2.2 150 GT-M"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_d_2_2_150_skylease_gt",
+              "title": "2016 Mazda 3 SkyActiv-D 2.2 150 Skylease GT"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_d_2_2_150_skylease",
+              "title": "2016 Mazda 3 SkyActiv-D 2.2 150 Skylease"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_d_2_2_150_skylease",
+              "title": "2016 Mazda 3 SkyActiv-D 2.2 150 Skylease+"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_g_1_5_100_s",
+              "title": "2016 Mazda 3 SkyActiv-G 1.5 100 S"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_g_1_5_100_ts",
+              "title": "2016 Mazda 3 SkyActiv-G 1.5 100 TS"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_g_2_0_120_gt_m_line",
+              "title": "2016 Mazda 3 SkyActiv-G 2.0 120 GT-M Line"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_g_2_0_120_gt_m",
+              "title": "2016 Mazda 3 SkyActiv-G 2.0 120 GT-M"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_g_2_0_120_skylease_gt",
+              "title": "2016 Mazda 3 SkyActiv-G 2.0 120 Skylease GT"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_g_2_0_120_skylease",
+              "title": "2016 Mazda 3 SkyActiv-G 2.0 120 Skylease"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_g_2_0_120_skylease",
+              "title": "2016 Mazda 3 SkyActiv-G 2.0 120 Skylease+"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_g_2_0_120_ts",
+              "title": "2016 Mazda 3 SkyActiv-G 2.0 120 TS"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_g_2_0_120_ts",
+              "title": "2016 Mazda 3 SkyActiv-G 2.0 120 TS+"
+            },
+            {
+              "id": "mod_2016_mazda_3_skyactiv_g_2_0_165_gt_m",
+              "title": "2016 Mazda 3 SkyActiv-G 2.0 165 GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_3",
+          "title": "Mazda 3",
+          "children": [
+            {
+              "id": "mod_2013_mazda_3_skyactiv_d_2_2_150_gt_m",
+              "title": "2013 Mazda 3 SkyActiv-D 2.2 150 GT-M"
+            },
+            {
+              "id": "mod_2013_mazda_3_skyactiv_d_2_2_150_skylease",
+              "title": "2013 Mazda 3 SkyActiv-D 2.2 150 Skylease"
+            },
+            {
+              "id": "mod_2013_mazda_3_skyactiv_d_2_2_150_ts",
+              "title": "2013 Mazda 3 SkyActiv-D 2.2 150 TS+"
+            },
+            {
+              "id": "mod_2013_mazda_3_skyactiv_g_2_0_120_gt_m",
+              "title": "2013 Mazda 3 SkyActiv-G 2.0 120 GT-M"
+            },
+            {
+              "id": "mod_2013_mazda_3_skyactiv_g_2_0_120_skylease",
+              "title": "2013 Mazda 3 SkyActiv-G 2.0 120 Skylease"
+            },
+            {
+              "id": "mod_2013_mazda_3_skyactiv_g_2_0_120_ts",
+              "title": "2013 Mazda 3 SkyActiv-G 2.0 120 TS"
+            },
+            {
+              "id": "mod_2013_mazda_3_skyactiv_g_2_0_120_ts",
+              "title": "2013 Mazda 3 SkyActiv-G 2.0 120 TS+"
+            },
+            {
+              "id": "mod_2013_mazda_3_skyactiv_g_2_0_165_gt_m",
+              "title": "2013 Mazda 3 SkyActiv-G 2.0 165 GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_3",
+          "title": "Mazda 3",
+          "children": [
+            {
+              "id": "mod_2011_mazda_3_1_6_business",
+              "title": "2011 Mazda 3 1.6 Business"
+            },
+            {
+              "id": "mod_2011_mazda_3_1_6_citd_business",
+              "title": "2011 Mazda 3 1.6 CiTD Business"
+            },
+            {
+              "id": "mod_2011_mazda_3_1_6_citd_navigator",
+              "title": "2011 Mazda 3 1.6 CiTD Navigator"
+            },
+            {
+              "id": "mod_2011_mazda_3_1_6_citd_ts",
+              "title": "2011 Mazda 3 1.6 CiTD TS"
+            },
+            {
+              "id": "mod_2011_mazda_3_1_6_citd_ts",
+              "title": "2011 Mazda 3 1.6 CiTD TS+"
+            },
+            {
+              "id": "mod_2011_mazda_3_1_6_cool",
+              "title": "2011 Mazda 3 1.6 Cool"
+            },
+            {
+              "id": "mod_2011_mazda_3_1_6_navigator",
+              "title": "2011 Mazda 3 1.6 Navigator"
+            },
+            {
+              "id": "mod_2011_mazda_3_1_6_s",
+              "title": "2011 Mazda 3 1.6 S"
+            },
+            {
+              "id": "mod_2011_mazda_3_1_6_ts",
+              "title": "2011 Mazda 3 1.6 TS"
+            },
+            {
+              "id": "mod_2011_mazda_3_1_6_ts",
+              "title": "2011 Mazda 3 1.6 TS+"
+            },
+            {
+              "id": "mod_2011_mazda_3_2_0_i_stop_gt_m",
+              "title": "2011 Mazda 3 2.0 I-stop GT-M"
+            },
+            {
+              "id": "mod_2011_mazda_3_2_0_i_stop_ts",
+              "title": "2011 Mazda 3 2.0 I-stop TS+"
+            },
+            {
+              "id": "mod_2011_mazda_3_2_0_navigator",
+              "title": "2011 Mazda 3 2.0 Navigator"
+            },
+            {
+              "id": "mod_2011_mazda_3_2_0_ts",
+              "title": "2011 Mazda 3 2.0 TS+"
+            },
+            {
+              "id": "mod_2011_mazda_3_2_3_disi_turbo_mps",
+              "title": "2011 Mazda 3 2.3 DISI Turbo MPS"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_3",
+          "title": "Mazda 3",
+          "children": [
+            {
+              "id": "mod_2009_mazda_3_1_6_business",
+              "title": "2009 Mazda 3 1.6 Business"
+            },
+            {
+              "id": "mod_2009_mazda_3_1_6_business",
+              "title": "2009 Mazda 3 1.6 Business+"
+            },
+            {
+              "id": "mod_2009_mazda_3_1_6_citd_business",
+              "title": "2009 Mazda 3 1.6 CiTD Business"
+            },
+            {
+              "id": "mod_2009_mazda_3_1_6_citd_business",
+              "title": "2009 Mazda 3 1.6 CiTD Business+"
+            },
+            {
+              "id": "mod_2009_mazda_3_1_6_citd_gt_l",
+              "title": "2009 Mazda 3 1.6 CiTD GT-L"
+            },
+            {
+              "id": "mod_2009_mazda_3_1_6_citd_s",
+              "title": "2009 Mazda 3 1.6 CiTD S"
+            },
+            {
+              "id": "mod_2009_mazda_3_1_6_citd_ts",
+              "title": "2009 Mazda 3 1.6 CiTD TS"
+            },
+            {
+              "id": "mod_2009_mazda_3_1_6_citd_ts",
+              "title": "2009 Mazda 3 1.6 CiTD TS+"
+            },
+            {
+              "id": "mod_2009_mazda_3_1_6_gt_l",
+              "title": "2009 Mazda 3 1.6 GT-L"
+            },
+            {
+              "id": "mod_2009_mazda_3_1_6_s",
+              "title": "2009 Mazda 3 1.6 S"
+            },
+            {
+              "id": "mod_2009_mazda_3_1_6_ts",
+              "title": "2009 Mazda 3 1.6 TS"
+            },
+            {
+              "id": "mod_2009_mazda_3_1_6_ts",
+              "title": "2009 Mazda 3 1.6 TS+"
+            },
+            {
+              "id": "mod_2009_mazda_3_2_0_gt_l",
+              "title": "2009 Mazda 3 2.0 GT-L"
+            },
+            {
+              "id": "mod_2009_mazda_3_2_0_i_stop_business",
+              "title": "2009 Mazda 3 2.0 I-stop Business+"
+            },
+            {
+              "id": "mod_2009_mazda_3_2_0_i_stop_gt_l",
+              "title": "2009 Mazda 3 2.0 I-stop GT-L"
+            },
+            {
+              "id": "mod_2009_mazda_3_2_0_i_stop_gt_m",
+              "title": "2009 Mazda 3 2.0 I-stop GT-M"
+            },
+            {
+              "id": "mod_2009_mazda_3_2_0_i_stop_ts",
+              "title": "2009 Mazda 3 2.0 I-stop TS+"
+            },
+            {
+              "id": "mod_2009_mazda_3_2_0_ts",
+              "title": "2009 Mazda 3 2.0 TS+"
+            },
+            {
+              "id": "mod_2009_mazda_3_2_2_citd_150hp_business",
+              "title": "2009 Mazda 3 2.2 CiTD 150hp Business+"
+            },
+            {
+              "id": "mod_2009_mazda_3_2_2_citd_150hp_gt_l",
+              "title": "2009 Mazda 3 2.2 CiTD 150hp GT-L"
+            },
+            {
+              "id": "mod_2009_mazda_3_2_2_citd_150hp_ts",
+              "title": "2009 Mazda 3 2.2 CiTD 150hp TS+"
+            },
+            {
+              "id": "mod_2009_mazda_3_2_2_citd_185hp_gt_m",
+              "title": "2009 Mazda 3 2.2 CiTD 185hp GT-M"
+            },
+            {
+              "id": "mod_2009_mazda_3_2_3_disi_turbo_mps",
+              "title": "2009 Mazda 3 2.3 DISI Turbo MPS"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_3",
+          "title": "Mazda 3",
+          "children": [
+            {
+              "id": "mod_2006_mazda_3_1_4_s_vt_exclusive",
+              "title": "2006 Mazda 3 1.4 S-VT Exclusive"
+            },
+            {
+              "id": "mod_2006_mazda_3_1_4_s_vt_touring",
+              "title": "2006 Mazda 3 1.4 S-VT Touring"
+            },
+            {
+              "id": "mod_2006_mazda_3_1_6_citd_exclusive",
+              "title": "2006 Mazda 3 1.6 CiTD Exclusive"
+            },
+            {
+              "id": "mod_2006_mazda_3_1_6_citd_executive",
+              "title": "2006 Mazda 3 1.6 CiTD Executive"
+            },
+            {
+              "id": "mod_2006_mazda_3_1_6_citd_gt_m",
+              "title": "2006 Mazda 3 1.6 CiTD GT-M"
+            },
+            {
+              "id": "mod_2006_mazda_3_1_6_citd_touring",
+              "title": "2006 Mazda 3 1.6 CiTD Touring"
+            },
+            {
+              "id": "mod_2006_mazda_3_1_6_s_vt_executive",
+              "title": "2006 Mazda 3 1.6 S-VT Executive"
+            },
+            {
+              "id": "mod_2006_mazda_3_1_6_s_vt_touring",
+              "title": "2006 Mazda 3 1.6 S-VT Touring"
+            },
+            {
+              "id": "mod_2006_mazda_3_2_0_s_vt_executive",
+              "title": "2006 Mazda 3 2.0 S-VT Executive"
+            },
+            {
+              "id": "mod_2006_mazda_3_2_0_s_vt_gt_m",
+              "title": "2006 Mazda 3 2.0 S-VT GT-M"
+            },
+            {
+              "id": "mod_2006_mazda_3_mps",
+              "title": "2006 Mazda 3 MPS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_3_sedan",
+      "title": "Mazda 3 Sedan",
+      "generations": [
+        {
+          "id": "gen_mazda_3_sedan",
+          "title": "Mazda 3 Sedan",
+          "children": [
+            {
+              "id": "mod_2019_mazda_3_sedan_skyactiv_d_1_8_116_comfort",
+              "title": "2019 Mazda 3 Sedan SkyActiv-D 1.8 116 Comfort"
+            },
+            {
+              "id": "mod_2019_mazda_3_sedan_skyactiv_d_1_8_116",
+              "title": "2019 Mazda 3 Sedan SkyActiv-D 1.8 116"
+            },
+            {
+              "id": "mod_2019_mazda_3_sedan_skyactiv_g_2_0_122_comfort",
+              "title": "2019 Mazda 3 Sedan SkyActiv-G 2.0 122 Comfort"
+            },
+            {
+              "id": "mod_2019_mazda_3_sedan_skyactiv_g_2_0_122_luxury",
+              "title": "2019 Mazda 3 Sedan SkyActiv-G 2.0 122 Luxury"
+            },
+            {
+              "id": "mod_2019_mazda_3_sedan_skyactiv_g_2_0_122",
+              "title": "2019 Mazda 3 Sedan SkyActiv-G 2.0 122"
+            },
+            {
+              "id": "mod_2019_mazda_3_sedan_skyactiv_x_2_0_180_comfort",
+              "title": "2019 Mazda 3 Sedan SkyActiv-X 2.0 180 Comfort"
+            },
+            {
+              "id": "mod_2019_mazda_3_sedan_skyactiv_x_2_0_180_luxury",
+              "title": "2019 Mazda 3 Sedan SkyActiv-X 2.0 180 Luxury"
+            },
+            {
+              "id": "mod_2019_mazda_3_sedan_skyactiv_x_2_0_180",
+              "title": "2019 Mazda 3 Sedan SkyActiv-X 2.0 180"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_3_sedan",
+          "title": "Mazda 3 Sedan",
+          "children": [
+            {
+              "id": "mod_2016_mazda_3_sedan_skyactiv_d_2_2_150_gt_m",
+              "title": "2016 Mazda 3 Sedan SkyActiv-D 2.2 150 GT-M"
+            },
+            {
+              "id": "mod_2016_mazda_3_sedan_skyactiv_d_2_2_150_skylease_gt",
+              "title": "2016 Mazda 3 Sedan SkyActiv-D 2.2 150 Skylease GT"
+            },
+            {
+              "id": "mod_2016_mazda_3_sedan_skyactiv_d_2_2_150_skylease",
+              "title": "2016 Mazda 3 Sedan SkyActiv-D 2.2 150 Skylease"
+            },
+            {
+              "id": "mod_2016_mazda_3_sedan_skyactiv_d_2_2_150_skylease",
+              "title": "2016 Mazda 3 Sedan SkyActiv-D 2.2 150 Skylease+"
+            },
+            {
+              "id": "mod_2016_mazda_3_sedan_skyactiv_g_1_5_100_ts",
+              "title": "2016 Mazda 3 Sedan SkyActiv-G 1.5 100 TS"
+            },
+            {
+              "id": "mod_2016_mazda_3_sedan_skyactiv_g_2_0_120_gt_m",
+              "title": "2016 Mazda 3 Sedan SkyActiv-G 2.0 120 GT-M"
+            },
+            {
+              "id": "mod_2016_mazda_3_sedan_skyactiv_g_2_0_120_skylease_gt",
+              "title": "2016 Mazda 3 Sedan SkyActiv-G 2.0 120 Skylease GT"
+            },
+            {
+              "id": "mod_2016_mazda_3_sedan_skyactiv_g_2_0_120_skylease",
+              "title": "2016 Mazda 3 Sedan SkyActiv-G 2.0 120 Skylease"
+            },
+            {
+              "id": "mod_2016_mazda_3_sedan_skyactiv_g_2_0_120_skylease",
+              "title": "2016 Mazda 3 Sedan SkyActiv-G 2.0 120 Skylease+"
+            },
+            {
+              "id": "mod_2016_mazda_3_sedan_skyactiv_g_2_0_120_ts",
+              "title": "2016 Mazda 3 Sedan SkyActiv-G 2.0 120 TS"
+            },
+            {
+              "id": "mod_2016_mazda_3_sedan_skyactiv_g_2_0_120_ts",
+              "title": "2016 Mazda 3 Sedan SkyActiv-G 2.0 120 TS+"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_3_sedan",
+          "title": "Mazda 3 Sedan",
+          "children": [
+            {
+              "id": "mod_2013_mazda_3_sedan_skyactiv_d_2_2_150_gt_m",
+              "title": "2013 Mazda 3 Sedan SkyActiv-D 2.2 150 GT-M"
+            },
+            {
+              "id": "mod_2013_mazda_3_sedan_skyactiv_d_2_2_150_skylease",
+              "title": "2013 Mazda 3 Sedan SkyActiv-D 2.2 150 Skylease"
+            },
+            {
+              "id": "mod_2013_mazda_3_sedan_skyactiv_d_2_2_150_ts",
+              "title": "2013 Mazda 3 Sedan SkyActiv-D 2.2 150 TS+"
+            },
+            {
+              "id": "mod_2013_mazda_3_sedan_skyactiv_g_2_0_120_gt_m",
+              "title": "2013 Mazda 3 Sedan SkyActiv-G 2.0 120 GT-M"
+            },
+            {
+              "id": "mod_2013_mazda_3_sedan_skyactiv_g_2_0_120_skylease",
+              "title": "2013 Mazda 3 Sedan SkyActiv-G 2.0 120 Skylease"
+            },
+            {
+              "id": "mod_2013_mazda_3_sedan_skyactiv_g_2_0_120_ts",
+              "title": "2013 Mazda 3 Sedan SkyActiv-G 2.0 120 TS"
+            },
+            {
+              "id": "mod_2013_mazda_3_sedan_skyactiv_g_2_0_120_ts",
+              "title": "2013 Mazda 3 Sedan SkyActiv-G 2.0 120 TS+"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_3_sedan",
+          "title": "Mazda 3 Sedan",
+          "children": [
+            {
+              "id": "mod_2011_mazda_3_sedan_1_6_business",
+              "title": "2011 Mazda 3 Sedan 1.6 Business"
+            },
+            {
+              "id": "mod_2011_mazda_3_sedan_1_6_citd_business",
+              "title": "2011 Mazda 3 Sedan 1.6 CiTD Business"
+            },
+            {
+              "id": "mod_2011_mazda_3_sedan_1_6_citd_navigator",
+              "title": "2011 Mazda 3 Sedan 1.6 CiTD Navigator"
+            },
+            {
+              "id": "mod_2011_mazda_3_sedan_1_6_citd_ts",
+              "title": "2011 Mazda 3 Sedan 1.6 CiTD TS"
+            },
+            {
+              "id": "mod_2011_mazda_3_sedan_1_6_citd_ts",
+              "title": "2011 Mazda 3 Sedan 1.6 CiTD TS+"
+            },
+            {
+              "id": "mod_2011_mazda_3_sedan_1_6_navigator",
+              "title": "2011 Mazda 3 Sedan 1.6 Navigator"
+            },
+            {
+              "id": "mod_2011_mazda_3_sedan_1_6_ts",
+              "title": "2011 Mazda 3 Sedan 1.6 TS"
+            },
+            {
+              "id": "mod_2011_mazda_3_sedan_1_6_ts",
+              "title": "2011 Mazda 3 Sedan 1.6 TS+"
+            },
+            {
+              "id": "mod_2011_mazda_3_sedan_2_0_i_stop_gt_m",
+              "title": "2011 Mazda 3 Sedan 2.0 I-stop GT-M"
+            },
+            {
+              "id": "mod_2011_mazda_3_sedan_2_0_i_stop_ts",
+              "title": "2011 Mazda 3 Sedan 2.0 I-stop TS+"
+            },
+            {
+              "id": "mod_2011_mazda_3_sedan_2_0_ts",
+              "title": "2011 Mazda 3 Sedan 2.0 TS+"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_3_sedan",
+          "title": "Mazda 3 Sedan",
+          "children": [
+            {
+              "id": "mod_2009_mazda_3_sedan_1_6_business",
+              "title": "2009 Mazda 3 Sedan 1.6 Business"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_1_6_citd_business",
+              "title": "2009 Mazda 3 Sedan 1.6 CiTD Business"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_1_6_citd_gt_l",
+              "title": "2009 Mazda 3 Sedan 1.6 CiTD GT-L"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_1_6_citd_s",
+              "title": "2009 Mazda 3 Sedan 1.6 CiTD S"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_1_6_citd_ts",
+              "title": "2009 Mazda 3 Sedan 1.6 CiTD TS"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_1_6_citd_ts",
+              "title": "2009 Mazda 3 Sedan 1.6 CiTD TS+"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_1_6_gt_l",
+              "title": "2009 Mazda 3 Sedan 1.6 GT-L"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_1_6_s",
+              "title": "2009 Mazda 3 Sedan 1.6 S"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_1_6_ts",
+              "title": "2009 Mazda 3 Sedan 1.6 TS"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_1_6_ts",
+              "title": "2009 Mazda 3 Sedan 1.6 TS+"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_2_0_gt_l",
+              "title": "2009 Mazda 3 Sedan 2.0 GT-L"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_2_0_i_stop_gt_l",
+              "title": "2009 Mazda 3 Sedan 2.0 I-stop GT-L"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_2_0_i_stop_gt_m",
+              "title": "2009 Mazda 3 Sedan 2.0 I-stop GT-M"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_2_0_i_stop_ts",
+              "title": "2009 Mazda 3 Sedan 2.0 I-stop TS+"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_2_0_ts",
+              "title": "2009 Mazda 3 Sedan 2.0 TS+"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_2_2_citd_150hp_gt_l",
+              "title": "2009 Mazda 3 Sedan 2.2 CiTD 150hp GT-L"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_2_2_citd_150hp_ts",
+              "title": "2009 Mazda 3 Sedan 2.2 CiTD 150hp TS+"
+            },
+            {
+              "id": "mod_2009_mazda_3_sedan_2_2_citd_185hp_gt_m",
+              "title": "2009 Mazda 3 Sedan 2.2 CiTD 185hp GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_3_sedan",
+          "title": "Mazda 3 Sedan",
+          "children": [
+            {
+              "id": "mod_2006_mazda_3_sedan_1_6_citd_executive",
+              "title": "2006 Mazda 3 Sedan 1.6 CiTD Executive"
+            },
+            {
+              "id": "mod_2006_mazda_3_sedan_1_6_citd_gt_m",
+              "title": "2006 Mazda 3 Sedan 1.6 CiTD GT-M"
+            },
+            {
+              "id": "mod_2006_mazda_3_sedan_1_6_citd_touring",
+              "title": "2006 Mazda 3 Sedan 1.6 CiTD Touring"
+            },
+            {
+              "id": "mod_2006_mazda_3_sedan_1_6_s_vt_executive",
+              "title": "2006 Mazda 3 Sedan 1.6 S-VT Executive"
+            },
+            {
+              "id": "mod_2006_mazda_3_sedan_1_6_s_vt_touring",
+              "title": "2006 Mazda 3 Sedan 1.6 S-VT Touring"
+            },
+            {
+              "id": "mod_2006_mazda_3_sedan_2_0_gt_m",
+              "title": "2006 Mazda 3 Sedan 2.0 GT-M"
+            },
+            {
+              "id": "mod_2006_mazda_3_sedan_2_0_s_vt_executive",
+              "title": "2006 Mazda 3 Sedan 2.0 S-VT Executive"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_3_sedan",
+          "title": "Mazda 3 Sedan",
+          "children": [
+            {
+              "id": "mod_2003_mazda_3_sedan_1_6_executive",
+              "title": "2003 Mazda 3 Sedan 1.6 Executive"
+            },
+            {
+              "id": "mod_2003_mazda_3_sedan_1_6_touring",
+              "title": "2003 Mazda 3 Sedan 1.6 Touring"
+            },
+            {
+              "id": "mod_2003_mazda_3_sedan_2_0_active",
+              "title": "2003 Mazda 3 Sedan 2.0 Active"
+            },
+            {
+              "id": "mod_2003_mazda_3_sedan_2_0_executive",
+              "title": "2003 Mazda 3 Sedan 2.0 Executive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_mx_5_roadster_coupe",
+      "title": "Mazda MX-5 Roadster Coupe",
+      "generations": [
+        {
+          "id": "gen_mazda_mx_5_roadster_coupe",
+          "title": "Mazda MX-5 Roadster Coupe",
+          "children": [
+            {
+              "id": "mod_2013_mazda_mx_5_roadster_coupe_1_8_hanabi",
+              "title": "2013 Mazda MX-5 Roadster Coupe 1.8 Hanabi"
+            },
+            {
+              "id": "mod_2013_mazda_mx_5_roadster_coupe_1_8_ts",
+              "title": "2013 Mazda MX-5 Roadster Coupe 1.8 TS+"
+            },
+            {
+              "id": "mod_2013_mazda_mx_5_roadster_coupe_2_0_gt_l",
+              "title": "2013 Mazda MX-5 Roadster Coupe 2.0 GT-L"
+            },
+            {
+              "id": "mod_2013_mazda_mx_5_roadster_coupe_2_0_gt_m",
+              "title": "2013 Mazda MX-5 Roadster Coupe 2.0 GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_mx_5_roadster_coupe",
+          "title": "Mazda MX-5 Roadster Coupe",
+          "children": [
+            {
+              "id": "mod_2009_mazda_mx_5_roadster_coupe_1_8_ts",
+              "title": "2009 Mazda MX-5 Roadster Coupe 1.8 TS"
+            },
+            {
+              "id": "mod_2009_mazda_mx_5_roadster_coupe_1_8_ts",
+              "title": "2009 Mazda MX-5 Roadster Coupe 1.8 TS+"
+            },
+            {
+              "id": "mod_2009_mazda_mx_5_roadster_coupe_2_0_s_vt_gt_l",
+              "title": "2009 Mazda MX-5 Roadster Coupe 2.0 S-VT GT-L"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_mx_5_roadster_coupe",
+          "title": "Mazda MX-5 Roadster Coupe",
+          "children": [
+            {
+              "id": "mod_2006_mazda_mx_5_roadster_coupe_1_8_exclusive",
+              "title": "2006 Mazda MX-5 Roadster Coupe 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2006_mazda_mx_5_roadster_coupe_1_8_executive",
+              "title": "2006 Mazda MX-5 Roadster Coupe 1.8 Executive"
+            },
+            {
+              "id": "mod_2006_mazda_mx_5_roadster_coupe_1_8_touring",
+              "title": "2006 Mazda MX-5 Roadster Coupe 1.8 Touring"
+            },
+            {
+              "id": "mod_2006_mazda_mx_5_roadster_coupe_2_0_s_vt_executive",
+              "title": "2006 Mazda MX-5 Roadster Coupe 2.0 S-VT Executive"
+            },
+            {
+              "id": "mod_2006_mazda_mx_5_roadster_coupe_2_0_s_vt_sportive",
+              "title": "2006 Mazda MX-5 Roadster Coupe 2.0 S-VT Sportive"
+            },
+            {
+              "id": "mod_2006_mazda_mx_5_roadster_coupe_2_0_s_vt_touring",
+              "title": "2006 Mazda MX-5 Roadster Coupe 2.0 S-VT Touring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_5",
+      "title": "Mazda 5",
+      "generations": [
+        {
+          "id": "gen_mazda_5",
+          "title": "Mazda 5",
+          "children": [
+            {
+              "id": "mod_2010_mazda_5_1_6_citd_business",
+              "title": "2010 Mazda 5 1.6 CiTD Business"
+            },
+            {
+              "id": "mod_2010_mazda_5_1_6_citd_gt_m",
+              "title": "2010 Mazda 5 1.6 CiTD GT-M"
+            },
+            {
+              "id": "mod_2010_mazda_5_1_6_citd_s",
+              "title": "2010 Mazda 5 1.6 CiTD S"
+            },
+            {
+              "id": "mod_2010_mazda_5_1_6_citd_ts",
+              "title": "2010 Mazda 5 1.6 CiTD TS"
+            },
+            {
+              "id": "mod_2010_mazda_5_1_6_citd_ts",
+              "title": "2010 Mazda 5 1.6 CiTD TS+"
+            },
+            {
+              "id": "mod_2010_mazda_5_1_8_business",
+              "title": "2010 Mazda 5 1.8 Business"
+            },
+            {
+              "id": "mod_2010_mazda_5_1_8_s",
+              "title": "2010 Mazda 5 1.8 S"
+            },
+            {
+              "id": "mod_2010_mazda_5_1_8_ts",
+              "title": "2010 Mazda 5 1.8 TS"
+            },
+            {
+              "id": "mod_2010_mazda_5_1_8_ts",
+              "title": "2010 Mazda 5 1.8 TS+"
+            },
+            {
+              "id": "mod_2010_mazda_5_2_0_business",
+              "title": "2010 Mazda 5 2.0 Business"
+            },
+            {
+              "id": "mod_2010_mazda_5_2_0_gt_m",
+              "title": "2010 Mazda 5 2.0 GT-M"
+            },
+            {
+              "id": "mod_2010_mazda_5_2_0_ts",
+              "title": "2010 Mazda 5 2.0 TS"
+            },
+            {
+              "id": "mod_2010_mazda_5_2_0_ts",
+              "title": "2010 Mazda 5 2.0 TS+"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_5",
+          "title": "Mazda 5",
+          "children": [
+            {
+              "id": "mod_2008_mazda_5_1_8_business",
+              "title": "2008 Mazda 5 1.8 Business"
+            },
+            {
+              "id": "mod_2008_mazda_5_1_8_exclusive",
+              "title": "2008 Mazda 5 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2008_mazda_5_1_8_executive",
+              "title": "2008 Mazda 5 1.8 Executive"
+            },
+            {
+              "id": "mod_2008_mazda_5_1_8_touring",
+              "title": "2008 Mazda 5 1.8 Touring"
+            },
+            {
+              "id": "mod_2008_mazda_5_2_0_business",
+              "title": "2008 Mazda 5 2.0 Business"
+            },
+            {
+              "id": "mod_2008_mazda_5_2_0_citd_hp_business",
+              "title": "2008 Mazda 5 2.0 CiTD Hp Business"
+            },
+            {
+              "id": "mod_2008_mazda_5_2_0_citd_hp_gt_m",
+              "title": "2008 Mazda 5 2.0 CiTD Hp GT-M"
+            },
+            {
+              "id": "mod_2008_mazda_5_2_0_citd_lp_business",
+              "title": "2008 Mazda 5 2.0 CiTD Lp Business"
+            },
+            {
+              "id": "mod_2008_mazda_5_2_0_citd_lp_executive",
+              "title": "2008 Mazda 5 2.0 CiTD Lp Executive"
+            },
+            {
+              "id": "mod_2008_mazda_5_2_0_citd_lp_touring",
+              "title": "2008 Mazda 5 2.0 CiTD Lp Touring"
+            },
+            {
+              "id": "mod_2008_mazda_5_2_0_executive",
+              "title": "2008 Mazda 5 2.0 Executive"
+            },
+            {
+              "id": "mod_2008_mazda_5_2_0_gt_m",
+              "title": "2008 Mazda 5 2.0 GT-M"
+            },
+            {
+              "id": "mod_2008_mazda_5_2_0_touring",
+              "title": "2008 Mazda 5 2.0 Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_5",
+          "title": "Mazda 5",
+          "children": [
+            {
+              "id": "mod_2005_mazda_5_1_8_exclusive",
+              "title": "2005 Mazda 5 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2005_mazda_5_1_8_executive",
+              "title": "2005 Mazda 5 1.8 Executive"
+            },
+            {
+              "id": "mod_2005_mazda_5_1_8_touring",
+              "title": "2005 Mazda 5 1.8 Touring"
+            },
+            {
+              "id": "mod_2005_mazda_5_2_0_active",
+              "title": "2005 Mazda 5 2.0 Active"
+            },
+            {
+              "id": "mod_2005_mazda_5_2_0_executive",
+              "title": "2005 Mazda 5 2.0 Executive"
+            },
+            {
+              "id": "mod_2005_mazda_5_2_0_touring",
+              "title": "2005 Mazda 5 2.0 Touring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_rx_8",
+      "title": "Mazda RX-8",
+      "generations": [
+        {
+          "id": "gen_mazda_rx_8",
+          "title": "Mazda RX-8",
+          "children": [
+            {
+              "id": "mod_2003_mazda_rx_8_renesis_hp",
+              "title": "2003 Mazda RX-8 Renesis HP"
+            },
+            {
+              "id": "mod_2003_mazda_rx_8_renesis_upgrade",
+              "title": "2003 Mazda RX-8 Renesis Upgrade"
+            },
+            {
+              "id": "mod_2003_mazda_rx_8_renesis",
+              "title": "2003 Mazda RX-8 Renesis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_2",
+      "title": "Mazda 2",
+      "generations": [
+        {
+          "id": "gen_mazda_2",
+          "title": "Mazda 2",
+          "children": [
+            {
+              "id": "mod_2020_mazda_2_skyactiv_g_75",
+              "title": "2020 Mazda 2 SkyActiv-G 75"
+            },
+            {
+              "id": "mod_2020_mazda_2_skyactiv_g_90_comfort",
+              "title": "2020 Mazda 2 SkyActiv-G 90 Comfort"
+            },
+            {
+              "id": "mod_2020_mazda_2_skyactiv_g_90_luxury",
+              "title": "2020 Mazda 2 SkyActiv-G 90 Luxury"
+            },
+            {
+              "id": "mod_2020_mazda_2_skyactiv_g_90_signature",
+              "title": "2020 Mazda 2 SkyActiv-G 90 Signature"
+            },
+            {
+              "id": "mod_2020_mazda_2_skyactiv_g_90_style_selected",
+              "title": "2020 Mazda 2 SkyActiv-G 90 Style Selected"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_2",
+          "title": "Mazda 2",
+          "children": [
+            {
+              "id": "mod_2015_mazda_2_skyactiv_d_105_gt_m",
+              "title": "2015 Mazda 2 SkyActiv-D 105 GT-M"
+            },
+            {
+              "id": "mod_2015_mazda_2_skyactiv_d_105_ts",
+              "title": "2015 Mazda 2 SkyActiv-D 105 TS"
+            },
+            {
+              "id": "mod_2015_mazda_2_skyactiv_d_105_ts",
+              "title": "2015 Mazda 2 SkyActiv-D 105 TS+"
+            },
+            {
+              "id": "mod_2015_mazda_2_skyactiv_g_115_gt_m",
+              "title": "2015 Mazda 2 SkyActiv-G 115 GT-M"
+            },
+            {
+              "id": "mod_2015_mazda_2_skyactiv_g_115_skylease_gt",
+              "title": "2015 Mazda 2 SkyActiv-G 115 Skylease GT"
+            },
+            {
+              "id": "mod_2015_mazda_2_skyactiv_g_75_s",
+              "title": "2015 Mazda 2 SkyActiv-G 75 S"
+            },
+            {
+              "id": "mod_2015_mazda_2_skyactiv_g_90_gt_m",
+              "title": "2015 Mazda 2 SkyActiv-G 90 GT-M"
+            },
+            {
+              "id": "mod_2015_mazda_2_skyactiv_g_90_intro_edition",
+              "title": "2015 Mazda 2 SkyActiv-G 90 Intro Edition"
+            },
+            {
+              "id": "mod_2015_mazda_2_skyactiv_g_90_skylease_gt",
+              "title": "2015 Mazda 2 SkyActiv-G 90 Skylease GT"
+            },
+            {
+              "id": "mod_2015_mazda_2_skyactiv_g_90_skylease",
+              "title": "2015 Mazda 2 SkyActiv-G 90 Skylease+"
+            },
+            {
+              "id": "mod_2015_mazda_2_skyactiv_g_90_ts",
+              "title": "2015 Mazda 2 SkyActiv-G 90 TS"
+            },
+            {
+              "id": "mod_2015_mazda_2_skyactiv_g_90_ts",
+              "title": "2015 Mazda 2 SkyActiv-G 90 TS+"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_2",
+          "title": "Mazda 2",
+          "children": [
+            {
+              "id": "mod_2010_mazda_2_1_3_s",
+              "title": "2010 Mazda 2 1.3 S"
+            },
+            {
+              "id": "mod_2010_mazda_2_1_3_ts",
+              "title": "2010 Mazda 2 1.3 TS"
+            },
+            {
+              "id": "mod_2010_mazda_2_1_3hp_ts",
+              "title": "2010 Mazda 2 1.3hp TS+"
+            },
+            {
+              "id": "mod_2010_mazda_2_1_5_gt_m",
+              "title": "2010 Mazda 2 1.5 GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_2",
+          "title": "Mazda 2",
+          "children": [
+            {
+              "id": "mod_2010_mazda_2_1_3_s",
+              "title": "2010 Mazda 2 1.3 S"
+            },
+            {
+              "id": "mod_2010_mazda_2_1_3_ts",
+              "title": "2010 Mazda 2 1.3 TS"
+            },
+            {
+              "id": "mod_2010_mazda_2_1_3hp_gt_l",
+              "title": "2010 Mazda 2 1.3hp GT-L"
+            },
+            {
+              "id": "mod_2010_mazda_2_1_3hp_ts",
+              "title": "2010 Mazda 2 1.3hp TS+"
+            },
+            {
+              "id": "mod_2010_mazda_2_1_5_gt_l",
+              "title": "2010 Mazda 2 1.5 GT-L"
+            },
+            {
+              "id": "mod_2010_mazda_2_1_5_gt_m",
+              "title": "2010 Mazda 2 1.5 GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_2",
+          "title": "Mazda 2",
+          "children": [
+            {
+              "id": "mod_2008_mazda_2_1_3_exclusive",
+              "title": "2008 Mazda 2 1.3 Exclusive"
+            },
+            {
+              "id": "mod_2008_mazda_2_1_3_s",
+              "title": "2008 Mazda 2 1.3 S"
+            },
+            {
+              "id": "mod_2008_mazda_2_1_3_ts",
+              "title": "2008 Mazda 2 1.3 TS"
+            },
+            {
+              "id": "mod_2008_mazda_2_1_3_touring",
+              "title": "2008 Mazda 2 1.3 Touring"
+            },
+            {
+              "id": "mod_2008_mazda_2_1_3hp_executive",
+              "title": "2008 Mazda 2 1.3hp Executive"
+            },
+            {
+              "id": "mod_2008_mazda_2_1_3hp_gt_l",
+              "title": "2008 Mazda 2 1.3hp GT-L"
+            },
+            {
+              "id": "mod_2008_mazda_2_1_3hp_ts",
+              "title": "2008 Mazda 2 1.3hp TS"
+            },
+            {
+              "id": "mod_2008_mazda_2_1_3hp_touring",
+              "title": "2008 Mazda 2 1.3hp Touring"
+            },
+            {
+              "id": "mod_2008_mazda_2_1_5_executive",
+              "title": "2008 Mazda 2 1.5 Executive"
+            },
+            {
+              "id": "mod_2008_mazda_2_1_5_gt_l",
+              "title": "2008 Mazda 2 1.5 GT-L"
+            },
+            {
+              "id": "mod_2008_mazda_2_1_5_gt_m",
+              "title": "2008 Mazda 2 1.5 GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_2",
+          "title": "Mazda 2",
+          "children": [
+            {
+              "id": "mod_2007_mazda_2_1_3_exclusive",
+              "title": "2007 Mazda 2 1.3 Exclusive"
+            },
+            {
+              "id": "mod_2007_mazda_2_1_3_touring",
+              "title": "2007 Mazda 2 1.3 Touring"
+            },
+            {
+              "id": "mod_2007_mazda_2_1_3hp_executive",
+              "title": "2007 Mazda 2 1.3hp Executive"
+            },
+            {
+              "id": "mod_2007_mazda_2_1_3hp_touring",
+              "title": "2007 Mazda 2 1.3hp Touring"
+            },
+            {
+              "id": "mod_2007_mazda_2_1_5_executive",
+              "title": "2007 Mazda 2 1.5 Executive"
+            },
+            {
+              "id": "mod_2007_mazda_2_1_5_gt_m",
+              "title": "2007 Mazda 2 1.5 GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_2",
+          "title": "Mazda 2",
+          "children": [
+            {
+              "id": "mod_2006_mazda_2_1_2_exclusive",
+              "title": "2006 Mazda 2 1.2 Exclusive"
+            },
+            {
+              "id": "mod_2006_mazda_2_1_4_citd_exclusive",
+              "title": "2006 Mazda 2 1.4 CiTD Exclusive"
+            },
+            {
+              "id": "mod_2006_mazda_2_1_4_citd_touring",
+              "title": "2006 Mazda 2 1.4 CiTD Touring"
+            },
+            {
+              "id": "mod_2006_mazda_2_1_4_exclusive",
+              "title": "2006 Mazda 2 1.4 Exclusive"
+            },
+            {
+              "id": "mod_2006_mazda_2_1_4_premiere",
+              "title": "2006 Mazda 2 1.4 Premiere"
+            },
+            {
+              "id": "mod_2006_mazda_2_1_4_touring",
+              "title": "2006 Mazda 2 1.4 Touring"
+            },
+            {
+              "id": "mod_2006_mazda_2_1_6_sportive",
+              "title": "2006 Mazda 2 1.6 Sportive"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_2",
+          "title": "Mazda 2",
+          "children": [
+            {
+              "id": "mod_2003_mazda_2_1_2_exclusive",
+              "title": "2003 Mazda 2 1.2 Exclusive"
+            },
+            {
+              "id": "mod_2003_mazda_2_1_4_citd_exclusive",
+              "title": "2003 Mazda 2 1.4 CiTD Exclusive"
+            },
+            {
+              "id": "mod_2003_mazda_2_1_4_citd_touring",
+              "title": "2003 Mazda 2 1.4 CiTD Touring"
+            },
+            {
+              "id": "mod_2003_mazda_2_1_4_exclusive",
+              "title": "2003 Mazda 2 1.4 Exclusive"
+            },
+            {
+              "id": "mod_2003_mazda_2_1_4_premiere",
+              "title": "2003 Mazda 2 1.4 Premiere"
+            },
+            {
+              "id": "mod_2003_mazda_2_1_4_touring",
+              "title": "2003 Mazda 2 1.4 Touring"
+            },
+            {
+              "id": "mod_2003_mazda_2_1_6_sportive",
+              "title": "2003 Mazda 2 1.6 Sportive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_3_sport",
+      "title": "Mazda 3 Sport",
+      "generations": [
+        {
+          "id": "gen_mazda_3_sport",
+          "title": "Mazda 3 Sport",
+          "children": [
+            {
+              "id": "mod_2003_mazda_3_sport_1_6_executive",
+              "title": "2003 Mazda 3 Sport 1.6 Executive"
+            },
+            {
+              "id": "mod_2003_mazda_3_sport_1_6_touring",
+              "title": "2003 Mazda 3 Sport 1.6 Touring"
+            },
+            {
+              "id": "mod_2003_mazda_3_sport_2_0_active",
+              "title": "2003 Mazda 3 Sport 2.0 Active"
+            },
+            {
+              "id": "mod_2003_mazda_3_sport_2_0_executive",
+              "title": "2003 Mazda 3 Sport 2.0 Executive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_6",
+      "title": "Mazda 6",
+      "generations": [
+        {
+          "id": "gen_mazda_6",
+          "title": "Mazda 6",
+          "children": [
+            {
+              "id": "mod_2018_mazda_6_skyactiv_d_2_2_150_business_comfort",
+              "title": "2018 Mazda 6 SkyActiv-D 2.2 150 Business Comfort"
+            },
+            {
+              "id": "mod_2018_mazda_6_skyactiv_d_2_2_150_comfort",
+              "title": "2018 Mazda 6 SkyActiv-D 2.2 150 Comfort"
+            },
+            {
+              "id": "mod_2018_mazda_6_skyactiv_d_2_2_150_signature",
+              "title": "2018 Mazda 6 SkyActiv-D 2.2 150 Signature"
+            },
+            {
+              "id": "mod_2018_mazda_6_skyactiv_d_2_2_184_luxury",
+              "title": "2018 Mazda 6 SkyActiv-D 2.2 184 Luxury"
+            },
+            {
+              "id": "mod_2018_mazda_6_skyactiv_d_2_2_184_signature",
+              "title": "2018 Mazda 6 SkyActiv-D 2.2 184 Signature"
+            },
+            {
+              "id": "mod_2018_mazda_6_skyactiv_g_2_0_145_business_comfort",
+              "title": "2018 Mazda 6 SkyActiv-G 2.0 145 Business Comfort"
+            },
+            {
+              "id": "mod_2018_mazda_6_skyactiv_g_2_0_145_comfort",
+              "title": "2018 Mazda 6 SkyActiv-G 2.0 145 Comfort"
+            },
+            {
+              "id": "mod_2018_mazda_6_skyactiv_g_2_0_165_business_comfort",
+              "title": "2018 Mazda 6 SkyActiv-G 2.0 165 Business Comfort"
+            },
+            {
+              "id": "mod_2018_mazda_6_skyactiv_g_2_0_165_comfort",
+              "title": "2018 Mazda 6 SkyActiv-G 2.0 165 Comfort"
+            },
+            {
+              "id": "mod_2018_mazda_6_skyactiv_g_2_0_165_luxury",
+              "title": "2018 Mazda 6 SkyActiv-G 2.0 165 Luxury"
+            },
+            {
+              "id": "mod_2018_mazda_6_skyactiv_g_2_0_165_signature",
+              "title": "2018 Mazda 6 SkyActiv-G 2.0 165 Signature"
+            },
+            {
+              "id": "mod_2018_mazda_6_skyactiv_g_2_5_194_luxury",
+              "title": "2018 Mazda 6 SkyActiv-G 2.5 194 Luxury"
+            },
+            {
+              "id": "mod_2018_mazda_6_skyactiv_g_2_5_194_signature",
+              "title": "2018 Mazda 6 SkyActiv-G 2.5 194 Signature"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6",
+          "title": "Mazda 6",
+          "children": [
+            {
+              "id": "mod_2015_mazda_6_skyactiv_d_2_2_150_skylease_gt",
+              "title": "2015 Mazda 6 SkyActiv-D 2.2 150 Skylease GT"
+            },
+            {
+              "id": "mod_2015_mazda_6_skyactiv_d_2_2_150_skylease",
+              "title": "2015 Mazda 6 SkyActiv-D 2.2 150 Skylease"
+            },
+            {
+              "id": "mod_2015_mazda_6_skyactiv_d_2_2_150_skylease",
+              "title": "2015 Mazda 6 SkyActiv-D 2.2 150 Skylease+"
+            },
+            {
+              "id": "mod_2015_mazda_6_skyactiv_d_2_2_175_gt_m",
+              "title": "2015 Mazda 6 SkyActiv-D 2.2 175 GT-M"
+            },
+            {
+              "id": "mod_2015_mazda_6_skyactiv_g_2_0_145_s",
+              "title": "2015 Mazda 6 SkyActiv-G 2.0 145 S"
+            },
+            {
+              "id": "mod_2015_mazda_6_skyactiv_g_2_0_145_ts",
+              "title": "2015 Mazda 6 SkyActiv-G 2.0 145 TS"
+            },
+            {
+              "id": "mod_2015_mazda_6_skyactiv_g_2_0_165_gt_m",
+              "title": "2015 Mazda 6 SkyActiv-G 2.0 165 GT-M"
+            },
+            {
+              "id": "mod_2015_mazda_6_skyactiv_g_2_0_165_skylease_gt",
+              "title": "2015 Mazda 6 SkyActiv-G 2.0 165 Skylease GT"
+            },
+            {
+              "id": "mod_2015_mazda_6_skyactiv_g_2_0_165_ts",
+              "title": "2015 Mazda 6 SkyActiv-G 2.0 165 TS+"
+            },
+            {
+              "id": "mod_2015_mazda_6_skyactiv_g_2_5_192_gt_m",
+              "title": "2015 Mazda 6 SkyActiv-G 2.5 192 GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6",
+          "title": "Mazda 6",
+          "children": [
+            {
+              "id": "mod_2013_mazda_6_skyactiv_d_2_2_150hp_gt_m",
+              "title": "2013 Mazda 6 SkyActiv-D 2.2 150hp GT-M"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_d_2_2_150hp_s",
+              "title": "2013 Mazda 6 SkyActiv-D 2.2 150hp S"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_d_2_2_150hp_skylease",
+              "title": "2013 Mazda 6 SkyActiv-D 2.2 150hp Skylease"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_d_2_2_150hp_skylease",
+              "title": "2013 Mazda 6 SkyActiv-D 2.2 150hp Skylease+"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_d_2_2_150hp_ts",
+              "title": "2013 Mazda 6 SkyActiv-D 2.2 150hp TS"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_d_2_2_150hp_ts_lease_pack",
+              "title": "2013 Mazda 6 SkyActiv-D 2.2 150hp TS+ Lease Pack"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_d_2_2_150hp_ts",
+              "title": "2013 Mazda 6 SkyActiv-D 2.2 150hp TS+"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_d_2_2_175hp_gt_m",
+              "title": "2013 Mazda 6 SkyActiv-D 2.2 175hp GT-M"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_g_2_0_145hp_s",
+              "title": "2013 Mazda 6 SkyActiv-G 2.0 145hp S"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_g_2_0_145hp_ts",
+              "title": "2013 Mazda 6 SkyActiv-G 2.0 145hp TS"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_g_2_0_165hp_gt_m",
+              "title": "2013 Mazda 6 SkyActiv-G 2.0 165hp GT-M"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_g_2_0_165hp_skylease",
+              "title": "2013 Mazda 6 SkyActiv-G 2.0 165hp Skylease+"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_g_2_0_165hp_ts_lease_pack",
+              "title": "2013 Mazda 6 SkyActiv-G 2.0 165hp TS+ Lease Pack"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_g_2_0_165hp_ts",
+              "title": "2013 Mazda 6 SkyActiv-G 2.0 165hp TS+"
+            },
+            {
+              "id": "mod_2013_mazda_6_skyactiv_g_2_5_192hp_gt_m",
+              "title": "2013 Mazda 6 SkyActiv-G 2.5 192hp GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6",
+          "title": "Mazda 6",
+          "children": [
+            {
+              "id": "mod_2010_mazda_6_1_8_business",
+              "title": "2010 Mazda 6 1.8 Business"
+            },
+            {
+              "id": "mod_2010_mazda_6_1_8_s",
+              "title": "2010 Mazda 6 1.8 S"
+            },
+            {
+              "id": "mod_2010_mazda_6_2_2_citd_129hp_business",
+              "title": "2010 Mazda 6 2.2 CiTD 129hp Business"
+            },
+            {
+              "id": "mod_2010_mazda_6_2_2_citd_129hp_s",
+              "title": "2010 Mazda 6 2.2 CiTD 129hp S"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6",
+          "title": "Mazda 6",
+          "children": [
+            {
+              "id": "mod_2010_mazda_6_1_8_business",
+              "title": "2010 Mazda 6 1.8 Business"
+            },
+            {
+              "id": "mod_2010_mazda_6_1_8_s",
+              "title": "2010 Mazda 6 1.8 S"
+            },
+            {
+              "id": "mod_2010_mazda_6_1_8_ts",
+              "title": "2010 Mazda 6 1.8 TS"
+            },
+            {
+              "id": "mod_2010_mazda_6_2_0_business",
+              "title": "2010 Mazda 6 2.0 Business+"
+            },
+            {
+              "id": "mod_2010_mazda_6_2_0_gt_m_line",
+              "title": "2010 Mazda 6 2.0 GT-M Line"
+            },
+            {
+              "id": "mod_2010_mazda_6_2_0_ts",
+              "title": "2010 Mazda 6 2.0 TS"
+            },
+            {
+              "id": "mod_2010_mazda_6_2_2_citd_129hp_business",
+              "title": "2010 Mazda 6 2.2 CiTD 129hp Business"
+            },
+            {
+              "id": "mod_2010_mazda_6_2_2_citd_129hp_s",
+              "title": "2010 Mazda 6 2.2 CiTD 129hp S"
+            },
+            {
+              "id": "mod_2010_mazda_6_2_2_citd_163hp_business",
+              "title": "2010 Mazda 6 2.2 CiTD 163hp Business+"
+            },
+            {
+              "id": "mod_2010_mazda_6_2_2_citd_163hp_gt_m_line",
+              "title": "2010 Mazda 6 2.2 CiTD 163hp GT-M Line"
+            },
+            {
+              "id": "mod_2010_mazda_6_2_2_citd_163hp_ts",
+              "title": "2010 Mazda 6 2.2 CiTD 163hp TS"
+            },
+            {
+              "id": "mod_2010_mazda_6_2_2_citd_180hp_gt_m",
+              "title": "2010 Mazda 6 2.2 CiTD 180hp GT-M"
+            },
+            {
+              "id": "mod_2010_mazda_6_2_5_s_vt_gt_m",
+              "title": "2010 Mazda 6 2.5 S-VT GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6",
+          "title": "Mazda 6",
+          "children": [
+            {
+              "id": "mod_2008_mazda_6_1_8_exclusive",
+              "title": "2008 Mazda 6 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2008_mazda_6_1_8_touring",
+              "title": "2008 Mazda 6 1.8 Touring"
+            },
+            {
+              "id": "mod_2008_mazda_6_2_0_citd_business",
+              "title": "2008 Mazda 6 2.0 CiTD Business+"
+            },
+            {
+              "id": "mod_2008_mazda_6_2_0_citd_exclusive",
+              "title": "2008 Mazda 6 2.0 CiTD Exclusive"
+            },
+            {
+              "id": "mod_2008_mazda_6_2_0_citd_executive",
+              "title": "2008 Mazda 6 2.0 CiTD Executive"
+            },
+            {
+              "id": "mod_2008_mazda_6_2_0_citd_gt_m",
+              "title": "2008 Mazda 6 2.0 CiTD GT-M"
+            },
+            {
+              "id": "mod_2008_mazda_6_2_0_citd_touring",
+              "title": "2008 Mazda 6 2.0 CiTD Touring"
+            },
+            {
+              "id": "mod_2008_mazda_6_2_0_s_vt_business",
+              "title": "2008 Mazda 6 2.0 S-VT Business+"
+            },
+            {
+              "id": "mod_2008_mazda_6_2_0_s_vt_touring",
+              "title": "2008 Mazda 6 2.0 S-VT Touring"
+            },
+            {
+              "id": "mod_2008_mazda_6_2_5_s_vt_executive",
+              "title": "2008 Mazda 6 2.5 S-VT Executive"
+            },
+            {
+              "id": "mod_2008_mazda_6_2_5_s_vt_gt_m",
+              "title": "2008 Mazda 6 2.5 S-VT GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6",
+          "title": "Mazda 6",
+          "children": [
+            {
+              "id": "mod_2007_mazda_6_1_8_exclusive",
+              "title": "2007 Mazda 6 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2007_mazda_6_1_8_touring",
+              "title": "2007 Mazda 6 1.8 Touring"
+            },
+            {
+              "id": "mod_2007_mazda_6_2_0_citd_executive",
+              "title": "2007 Mazda 6 2.0 CiTD Executive"
+            },
+            {
+              "id": "mod_2007_mazda_6_2_0_citd_gt_m",
+              "title": "2007 Mazda 6 2.0 CiTD GT-M"
+            },
+            {
+              "id": "mod_2007_mazda_6_2_0_citd_touring",
+              "title": "2007 Mazda 6 2.0 CiTD Touring"
+            },
+            {
+              "id": "mod_2007_mazda_6_2_0_s_vt_touring",
+              "title": "2007 Mazda 6 2.0 S-VT Touring"
+            },
+            {
+              "id": "mod_2007_mazda_6_2_5_s_vt_executive",
+              "title": "2007 Mazda 6 2.5 S-VT Executive"
+            },
+            {
+              "id": "mod_2007_mazda_6_2_5_s_vt_gt_m",
+              "title": "2007 Mazda 6 2.5 S-VT GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6",
+          "title": "Mazda 6",
+          "children": [
+            {
+              "id": "mod_2005_mazda_6_1_8_exclusive",
+              "title": "2005 Mazda 6 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2005_mazda_6_1_8_touring",
+              "title": "2005 Mazda 6 1.8 Touring"
+            },
+            {
+              "id": "mod_2005_mazda_6_2_0_citd_121hp_touring",
+              "title": "2005 Mazda 6 2.0 CiTD 121hp Touring"
+            },
+            {
+              "id": "mod_2005_mazda_6_2_0_citd_143hp_executive",
+              "title": "2005 Mazda 6 2.0 CiTD 143hp Executive"
+            },
+            {
+              "id": "mod_2005_mazda_6_2_0_s_vt_executive",
+              "title": "2005 Mazda 6 2.0 S-VT Executive"
+            },
+            {
+              "id": "mod_2005_mazda_6_2_0_s_vt_touring",
+              "title": "2005 Mazda 6 2.0 S-VT Touring"
+            },
+            {
+              "id": "mod_2005_mazda_6_2_3_s_vt_active",
+              "title": "2005 Mazda 6 2.3 S-VT Active"
+            },
+            {
+              "id": "mod_2005_mazda_6_2_3_s_vt_gt_m",
+              "title": "2005 Mazda 6 2.3 S-VT GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6",
+          "title": "Mazda 6",
+          "children": [
+            {
+              "id": "mod_2002_mazda_6_1_8_exclusive",
+              "title": "2002 Mazda 6 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2002_mazda_6_1_8_touring",
+              "title": "2002 Mazda 6 1.8 Touring"
+            },
+            {
+              "id": "mod_2002_mazda_6_2_0_citd_120hp_touring",
+              "title": "2002 Mazda 6 2.0 CiTD 120hp Touring"
+            },
+            {
+              "id": "mod_2002_mazda_6_2_0_citd_136hp_executive",
+              "title": "2002 Mazda 6 2.0 CiTD 136hp Executive"
+            },
+            {
+              "id": "mod_2002_mazda_6_2_0_executive",
+              "title": "2002 Mazda 6 2.0 Executive"
+            },
+            {
+              "id": "mod_2002_mazda_6_2_0_touring",
+              "title": "2002 Mazda 6 2.0 Touring"
+            },
+            {
+              "id": "mod_2002_mazda_6_2_3_s_vt_active",
+              "title": "2002 Mazda 6 2.3 S-VT Active"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_6_sportbreak",
+      "title": "Mazda 6 SportBreak",
+      "generations": [
+        {
+          "id": "gen_mazda_6_sportbreak",
+          "title": "Mazda 6 SportBreak",
+          "children": [
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_d_2_2_150_business_comfort",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-D 2.2 150 Business Comfort"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_d_2_2_150_comfort",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-D 2.2 150 Comfort"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_d_2_2_150_luxury",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-D 2.2 150 Luxury"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_d_2_2_150_signature",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-D 2.2 150 Signature"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_d_2_2_184_luxury",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-D 2.2 184 Luxury"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_d_2_2_184_signature",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-D 2.2 184 Signature"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_g_2_0_145_business_comfort",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-G 2.0 145 Business Comfort"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_g_2_0_145_comfort",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-G 2.0 145 Comfort"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_g_2_0_165_business_comfort",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-G 2.0 165 Business Comfort"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_g_2_0_165_comfort",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-G 2.0 165 Comfort"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_g_2_0_165_luxury",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-G 2.0 165 Luxury"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_g_2_0_165_signature",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-G 2.0 165 Signature"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_g_2_5_194_luxury",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-G 2.5 194 Luxury"
+            },
+            {
+              "id": "mod_2018_mazda_6_sportbreak_skyactiv_g_2_5_194_signature",
+              "title": "2018 Mazda 6 SportBreak SkyActiv-G 2.5 194 Signature"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6_sportbreak",
+          "title": "Mazda 6 SportBreak",
+          "children": [
+            {
+              "id": "mod_2015_mazda_6_sportbreak_skyactiv_d_2_2_150_skylease_gt",
+              "title": "2015 Mazda 6 SportBreak SkyActiv-D 2.2 150 Skylease GT"
+            },
+            {
+              "id": "mod_2015_mazda_6_sportbreak_skyactiv_d_2_2_150_skylease",
+              "title": "2015 Mazda 6 SportBreak SkyActiv-D 2.2 150 Skylease"
+            },
+            {
+              "id": "mod_2015_mazda_6_sportbreak_skyactiv_d_2_2_150_skylease",
+              "title": "2015 Mazda 6 SportBreak SkyActiv-D 2.2 150 Skylease+"
+            },
+            {
+              "id": "mod_2015_mazda_6_sportbreak_skyactiv_d_2_2_175_gt_m",
+              "title": "2015 Mazda 6 SportBreak SkyActiv-D 2.2 175 GT-M"
+            },
+            {
+              "id": "mod_2015_mazda_6_sportbreak_skyactiv_g_2_0_145_s",
+              "title": "2015 Mazda 6 SportBreak SkyActiv-G 2.0 145 S"
+            },
+            {
+              "id": "mod_2015_mazda_6_sportbreak_skyactiv_g_2_0_145_ts",
+              "title": "2015 Mazda 6 SportBreak SkyActiv-G 2.0 145 TS"
+            },
+            {
+              "id": "mod_2015_mazda_6_sportbreak_skyactiv_g_2_0_165_gt_m",
+              "title": "2015 Mazda 6 SportBreak SkyActiv-G 2.0 165 GT-M"
+            },
+            {
+              "id": "mod_2015_mazda_6_sportbreak_skyactiv_g_2_0_165_skylease_gt",
+              "title": "2015 Mazda 6 SportBreak SkyActiv-G 2.0 165 Skylease GT"
+            },
+            {
+              "id": "mod_2015_mazda_6_sportbreak_skyactiv_g_2_0_165_ts",
+              "title": "2015 Mazda 6 SportBreak SkyActiv-G 2.0 165 TS+"
+            },
+            {
+              "id": "mod_2015_mazda_6_sportbreak_skyactiv_g_2_5_192_gt_m",
+              "title": "2015 Mazda 6 SportBreak SkyActiv-G 2.5 192 GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6_sportbreak",
+          "title": "Mazda 6 SportBreak",
+          "children": [
+            {
+              "id": "mod_2012_mazda_6_sportbreak_skyactiv_g_2_0_145hp_s",
+              "title": "2012 Mazda 6 SportBreak SkyActiv-G 2.0 145hp S"
+            },
+            {
+              "id": "mod_2012_mazda_6_sportbreak_skyactiv_g_2_0_145hp_ts_lease_pack",
+              "title": "2012 Mazda 6 SportBreak SkyActiv-G 2.0 145hp TS+ Lease Pack"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6_sportbreak",
+          "title": "Mazda 6 SportBreak",
+          "children": [
+            {
+              "id": "mod_2010_mazda_6_sportbreak_1_8_business",
+              "title": "2010 Mazda 6 SportBreak 1.8 Business"
+            },
+            {
+              "id": "mod_2010_mazda_6_sportbreak_1_8_s",
+              "title": "2010 Mazda 6 SportBreak 1.8 S"
+            },
+            {
+              "id": "mod_2010_mazda_6_sportbreak_1_8_ts",
+              "title": "2010 Mazda 6 SportBreak 1.8 TS"
+            },
+            {
+              "id": "mod_2010_mazda_6_sportbreak_2_0_business",
+              "title": "2010 Mazda 6 SportBreak 2.0 Business+"
+            },
+            {
+              "id": "mod_2010_mazda_6_sportbreak_2_0_gt_m_line",
+              "title": "2010 Mazda 6 SportBreak 2.0 GT-M Line"
+            },
+            {
+              "id": "mod_2010_mazda_6_sportbreak_2_0_ts",
+              "title": "2010 Mazda 6 SportBreak 2.0 TS"
+            },
+            {
+              "id": "mod_2010_mazda_6_sportbreak_2_2_citd_129hp_business",
+              "title": "2010 Mazda 6 SportBreak 2.2 CiTD 129hp Business"
+            },
+            {
+              "id": "mod_2010_mazda_6_sportbreak_2_2_citd_129hp_s",
+              "title": "2010 Mazda 6 SportBreak 2.2 CiTD 129hp S"
+            },
+            {
+              "id": "mod_2010_mazda_6_sportbreak_2_2_citd_163hp_business",
+              "title": "2010 Mazda 6 SportBreak 2.2 CiTD 163hp Business+"
+            },
+            {
+              "id": "mod_2010_mazda_6_sportbreak_2_2_citd_163hp_gt_m_line",
+              "title": "2010 Mazda 6 SportBreak 2.2 CiTD 163hp GT-M Line"
+            },
+            {
+              "id": "mod_2010_mazda_6_sportbreak_2_2_citd_163hp_ts",
+              "title": "2010 Mazda 6 SportBreak 2.2 CiTD 163hp TS"
+            },
+            {
+              "id": "mod_2010_mazda_6_sportbreak_2_2_citd_180hp_gt_m",
+              "title": "2010 Mazda 6 SportBreak 2.2 CiTD 180hp GT-M"
+            },
+            {
+              "id": "mod_2010_mazda_6_sportbreak_2_5_s_vt_gt_m",
+              "title": "2010 Mazda 6 SportBreak 2.5 S-VT GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6_sportbreak",
+          "title": "Mazda 6 SportBreak",
+          "children": [
+            {
+              "id": "mod_2008_mazda_6_sportbreak_1_8_exclusive",
+              "title": "2008 Mazda 6 SportBreak 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2008_mazda_6_sportbreak_1_8_touring",
+              "title": "2008 Mazda 6 SportBreak 1.8 Touring"
+            },
+            {
+              "id": "mod_2008_mazda_6_sportbreak_2_0_citd_business",
+              "title": "2008 Mazda 6 SportBreak 2.0 CiTD Business+"
+            },
+            {
+              "id": "mod_2008_mazda_6_sportbreak_2_0_citd_exclusive",
+              "title": "2008 Mazda 6 SportBreak 2.0 CiTD Exclusive"
+            },
+            {
+              "id": "mod_2008_mazda_6_sportbreak_2_0_citd_executive",
+              "title": "2008 Mazda 6 SportBreak 2.0 CiTD Executive"
+            },
+            {
+              "id": "mod_2008_mazda_6_sportbreak_2_0_citd_gt_m",
+              "title": "2008 Mazda 6 SportBreak 2.0 CiTD GT-M"
+            },
+            {
+              "id": "mod_2008_mazda_6_sportbreak_2_0_citd_touring",
+              "title": "2008 Mazda 6 SportBreak 2.0 CiTD Touring"
+            },
+            {
+              "id": "mod_2008_mazda_6_sportbreak_2_0_s_vt_business",
+              "title": "2008 Mazda 6 SportBreak 2.0 S-VT Business+"
+            },
+            {
+              "id": "mod_2008_mazda_6_sportbreak_2_0_s_vt_touring",
+              "title": "2008 Mazda 6 SportBreak 2.0 S-VT Touring"
+            },
+            {
+              "id": "mod_2008_mazda_6_sportbreak_2_5_s_vt_executive",
+              "title": "2008 Mazda 6 SportBreak 2.5 S-VT Executive"
+            },
+            {
+              "id": "mod_2008_mazda_6_sportbreak_2_5_s_vt_gt_m",
+              "title": "2008 Mazda 6 SportBreak 2.5 S-VT GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6_sportbreak",
+          "title": "Mazda 6 SportBreak",
+          "children": [
+            {
+              "id": "mod_2005_mazda_6_sportbreak_1_8_exclusive",
+              "title": "2005 Mazda 6 SportBreak 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2005_mazda_6_sportbreak_1_8_touring",
+              "title": "2005 Mazda 6 SportBreak 1.8 Touring"
+            },
+            {
+              "id": "mod_2005_mazda_6_sportbreak_2_0_citd_121hp_touring",
+              "title": "2005 Mazda 6 SportBreak 2.0 CiTD 121hp Touring"
+            },
+            {
+              "id": "mod_2005_mazda_6_sportbreak_2_0_citd_143hp_executive",
+              "title": "2005 Mazda 6 SportBreak 2.0 CiTD 143hp Executive"
+            },
+            {
+              "id": "mod_2005_mazda_6_sportbreak_2_0_s_vt_executive",
+              "title": "2005 Mazda 6 SportBreak 2.0 S-VT Executive"
+            },
+            {
+              "id": "mod_2005_mazda_6_sportbreak_2_0_s_vt_touring",
+              "title": "2005 Mazda 6 SportBreak 2.0 S-VT Touring"
+            },
+            {
+              "id": "mod_2005_mazda_6_sportbreak_2_3_s_vt_active",
+              "title": "2005 Mazda 6 SportBreak 2.3 S-VT Active"
+            },
+            {
+              "id": "mod_2005_mazda_6_sportbreak_2_3_s_vt_gt_m",
+              "title": "2005 Mazda 6 SportBreak 2.3 S-VT GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6_sportbreak",
+          "title": "Mazda 6 SportBreak",
+          "children": [
+            {
+              "id": "mod_2002_mazda_6_sportbreak_1_8_exclusive",
+              "title": "2002 Mazda 6 SportBreak 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2002_mazda_6_sportbreak_1_8_touring",
+              "title": "2002 Mazda 6 SportBreak 1.8 Touring"
+            },
+            {
+              "id": "mod_2002_mazda_6_sportbreak_2_0_citd_120hp_touring",
+              "title": "2002 Mazda 6 SportBreak 2.0 CiTD 120hp Touring"
+            },
+            {
+              "id": "mod_2002_mazda_6_sportbreak_2_0_citd_136hp_executive",
+              "title": "2002 Mazda 6 SportBreak 2.0 CiTD 136hp Executive"
+            },
+            {
+              "id": "mod_2002_mazda_6_sportbreak_2_0_executive",
+              "title": "2002 Mazda 6 SportBreak 2.0 Executive"
+            },
+            {
+              "id": "mod_2002_mazda_6_sportbreak_2_0_touring",
+              "title": "2002 Mazda 6 SportBreak 2.0 Touring"
+            },
+            {
+              "id": "mod_2002_mazda_6_sportbreak_2_3_s_vt_active_awd",
+              "title": "2002 Mazda 6 SportBreak 2.3 S-VT Active AWD"
+            },
+            {
+              "id": "mod_2002_mazda_6_sportbreak_2_3_s_vt_active",
+              "title": "2002 Mazda 6 SportBreak 2.3 S-VT Active"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_6_sport",
+      "title": "Mazda 6 Sport",
+      "generations": [
+        {
+          "id": "gen_mazda_6_sport",
+          "title": "Mazda 6 Sport",
+          "children": [
+            {
+              "id": "mod_2005_mazda_6_sport_1_8_exclusive",
+              "title": "2005 Mazda 6 Sport 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2005_mazda_6_sport_1_8_touring",
+              "title": "2005 Mazda 6 Sport 1.8 Touring"
+            },
+            {
+              "id": "mod_2005_mazda_6_sport_2_0_citd_121hp_touring",
+              "title": "2005 Mazda 6 Sport 2.0 CiTD 121hp Touring"
+            },
+            {
+              "id": "mod_2005_mazda_6_sport_2_0_citd_143hp_executive",
+              "title": "2005 Mazda 6 Sport 2.0 CiTD 143hp Executive"
+            },
+            {
+              "id": "mod_2005_mazda_6_sport_2_0_s_vt_executive",
+              "title": "2005 Mazda 6 Sport 2.0 S-VT Executive"
+            },
+            {
+              "id": "mod_2005_mazda_6_sport_2_0_s_vt_touring",
+              "title": "2005 Mazda 6 Sport 2.0 S-VT Touring"
+            },
+            {
+              "id": "mod_2005_mazda_6_sport_2_3_s_vt_active",
+              "title": "2005 Mazda 6 Sport 2.3 S-VT Active"
+            },
+            {
+              "id": "mod_2005_mazda_6_sport_2_3_s_vt_gt_m",
+              "title": "2005 Mazda 6 Sport 2.3 S-VT GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_6_sport",
+          "title": "Mazda 6 Sport",
+          "children": [
+            {
+              "id": "mod_2002_mazda_6_sport_1_8_exclusive",
+              "title": "2002 Mazda 6 Sport 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2002_mazda_6_sport_1_8_touring",
+              "title": "2002 Mazda 6 Sport 1.8 Touring"
+            },
+            {
+              "id": "mod_2002_mazda_6_sport_2_0_citd_120hp_touring",
+              "title": "2002 Mazda 6 Sport 2.0 CiTD 120hp Touring"
+            },
+            {
+              "id": "mod_2002_mazda_6_sport_2_0_citd_136hp_executive",
+              "title": "2002 Mazda 6 Sport 2.0 CiTD 136hp Executive"
+            },
+            {
+              "id": "mod_2002_mazda_6_sport_2_0_executive",
+              "title": "2002 Mazda 6 Sport 2.0 Executive"
+            },
+            {
+              "id": "mod_2002_mazda_6_sport_2_0_touring",
+              "title": "2002 Mazda 6 Sport 2.0 Touring"
+            },
+            {
+              "id": "mod_2002_mazda_6_sport_2_3_s_vt_active",
+              "title": "2002 Mazda 6 Sport 2.3 S-VT Active"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_tribute",
+      "title": "Mazda Tribute",
+      "generations": [
+        {
+          "id": "gen_mazda_tribute",
+          "title": "Mazda Tribute",
+          "children": [
+            {
+              "id": "mod_2004_mazda_tribute_2_3_4wd_touring",
+              "title": "2004 Mazda Tribute 2.3 4WD Touring"
+            },
+            {
+              "id": "mod_2004_mazda_tribute_3_0_v6_4wd_touring",
+              "title": "2004 Mazda Tribute 3.0 V6 4WD Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_tribute",
+          "title": "Mazda Tribute",
+          "children": [
+            {
+              "id": "mod_2001_mazda_tribute_2_0_2wd_exclusive",
+              "title": "2001 Mazda Tribute 2.0 2WD Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_tribute_2_0_4wd_exclusive",
+              "title": "2001 Mazda Tribute 2.0 4WD Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_tribute_2_0_4wd_touring",
+              "title": "2001 Mazda Tribute 2.0 4WD Touring"
+            },
+            {
+              "id": "mod_2001_mazda_tribute_3_0_v6_4wd_touring",
+              "title": "2001 Mazda Tribute 3.0 V6 4WD Touring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_premacy",
+      "title": "Mazda Premacy",
+      "generations": [
+        {
+          "id": "gen_mazda_premacy",
+          "title": "Mazda Premacy",
+          "children": [
+            {
+              "id": "mod_2001_mazda_premacy_1_8_active",
+              "title": "2001 Mazda Premacy 1.8 Active"
+            },
+            {
+              "id": "mod_2001_mazda_premacy_1_8_comfort",
+              "title": "2001 Mazda Premacy 1.8 Comfort"
+            },
+            {
+              "id": "mod_2001_mazda_premacy_1_8_exclusive",
+              "title": "2001 Mazda Premacy 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_premacy_1_8",
+              "title": "2001 Mazda Premacy 1.8"
+            },
+            {
+              "id": "mod_2001_mazda_premacy_2_0_active",
+              "title": "2001 Mazda Premacy 2.0 Active"
+            },
+            {
+              "id": "mod_2001_mazda_premacy_2_0_ditd_active",
+              "title": "2001 Mazda Premacy 2.0 DiTD Active"
+            },
+            {
+              "id": "mod_2001_mazda_premacy_2_0_ditd_comfort",
+              "title": "2001 Mazda Premacy 2.0 DiTD Comfort"
+            },
+            {
+              "id": "mod_2001_mazda_premacy_2_0_ditd_exclusive",
+              "title": "2001 Mazda Premacy 2.0 DiTD Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_premacy_2_0_exclusive",
+              "title": "2001 Mazda Premacy 2.0 Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_premacy_2_0_touring",
+              "title": "2001 Mazda Premacy 2.0 Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_premacy",
+          "title": "Mazda Premacy",
+          "children": [
+            {
+              "id": "mod_1999_mazda_premacy_1_8_comfort",
+              "title": "1999 Mazda Premacy 1.8 Comfort"
+            },
+            {
+              "id": "mod_1999_mazda_premacy_1_8_exclusive",
+              "title": "1999 Mazda Premacy 1.8 Exclusive"
+            },
+            {
+              "id": "mod_1999_mazda_premacy_1_8hp_exclusive",
+              "title": "1999 Mazda Premacy 1.8hp Exclusive"
+            },
+            {
+              "id": "mod_1999_mazda_premacy_1_8hp_touring",
+              "title": "1999 Mazda Premacy 1.8hp Touring"
+            },
+            {
+              "id": "mod_1999_mazda_premacy_2_0_titd_comfort",
+              "title": "1999 Mazda Premacy 2.0 TiTD Comfort"
+            },
+            {
+              "id": "mod_1999_mazda_premacy_2_0_titd_exclusive",
+              "title": "1999 Mazda Premacy 2.0 TiTD Exclusive"
+            },
+            {
+              "id": "mod_1999_mazda_premacy_2_0_titd_touring",
+              "title": "1999 Mazda Premacy 2.0 TiTD Touring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_demio",
+      "title": "Mazda Demio",
+      "generations": [
+        {
+          "id": "gen_mazda_demio",
+          "title": "Mazda Demio",
+          "children": [
+            {
+              "id": "mod_2000_mazda_demio_1_3_comfort",
+              "title": "2000 Mazda Demio 1.3 Comfort"
+            },
+            {
+              "id": "mod_2000_mazda_demio_1_3_exclusive",
+              "title": "2000 Mazda Demio 1.3 Exclusive"
+            },
+            {
+              "id": "mod_2000_mazda_demio_1_5_exclusive",
+              "title": "2000 Mazda Demio 1.5 Exclusive"
+            },
+            {
+              "id": "mod_2000_mazda_demio_1_5_touring",
+              "title": "2000 Mazda Demio 1.5 Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_demio",
+          "title": "Mazda Demio",
+          "children": [
+            {
+              "id": "mod_1998_mazda_demio_1_3_glx_plus",
+              "title": "1998 Mazda Demio 1.3 GLX Plus"
+            },
+            {
+              "id": "mod_1998_mazda_demio_1_3_glx",
+              "title": "1998 Mazda Demio 1.3 GLX"
+            },
+            {
+              "id": "mod_1998_mazda_demio_1_3_lx",
+              "title": "1998 Mazda Demio 1.3 LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_323_fastbreak",
+      "title": "Mazda 323 FastBreak",
+      "generations": [
+        {
+          "id": "gen_mazda_323_fastbreak",
+          "title": "Mazda 323 FastBreak",
+          "children": [
+            {
+              "id": "mod_2001_mazda_323_fastbreak_1_3_comfort",
+              "title": "2001 Mazda 323 FastBreak 1.3 Comfort"
+            },
+            {
+              "id": "mod_2001_mazda_323_fastbreak_1_6_comfort",
+              "title": "2001 Mazda 323 FastBreak 1.6 Comfort"
+            },
+            {
+              "id": "mod_2001_mazda_323_fastbreak_1_6_exclusive",
+              "title": "2001 Mazda 323 FastBreak 1.6 Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_323_fastbreak_1_6_touring",
+              "title": "2001 Mazda 323 FastBreak 1.6 Touring"
+            },
+            {
+              "id": "mod_2001_mazda_323_fastbreak_2_0_ditd_comfort",
+              "title": "2001 Mazda 323 FastBreak 2.0 DiTD Comfort"
+            },
+            {
+              "id": "mod_2001_mazda_323_fastbreak_2_0_ditd_exclusive",
+              "title": "2001 Mazda 323 FastBreak 2.0 DiTD Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_323_fastbreak_2_0_ditd_touring",
+              "title": "2001 Mazda 323 FastBreak 2.0 DiTD Touring"
+            },
+            {
+              "id": "mod_2001_mazda_323_fastbreak_2_0_exclusive",
+              "title": "2001 Mazda 323 FastBreak 2.0 Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_323_fastbreak_2_0_sportive",
+              "title": "2001 Mazda 323 FastBreak 2.0 Sportive"
+            },
+            {
+              "id": "mod_2001_mazda_323_fastbreak_2_0_touring",
+              "title": "2001 Mazda 323 FastBreak 2.0 Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323_fastbreak",
+          "title": "Mazda 323 FastBreak",
+          "children": [
+            {
+              "id": "mod_1998_mazda_323_fastbreak_1_3i_glx",
+              "title": "1998 Mazda 323 FastBreak 1.3i GLX"
+            },
+            {
+              "id": "mod_1998_mazda_323_fastbreak_1_3i_lx",
+              "title": "1998 Mazda 323 FastBreak 1.3i LX"
+            },
+            {
+              "id": "mod_1998_mazda_323_fastbreak_1_5i_glx",
+              "title": "1998 Mazda 323 FastBreak 1.5i GLX"
+            },
+            {
+              "id": "mod_1998_mazda_323_fastbreak_1_5i_lx",
+              "title": "1998 Mazda 323 FastBreak 1.5i LX"
+            },
+            {
+              "id": "mod_1998_mazda_323_fastbreak_1_8i_glx",
+              "title": "1998 Mazda 323 FastBreak 1.8i GLX"
+            },
+            {
+              "id": "mod_1998_mazda_323_fastbreak_1_8i_gt",
+              "title": "1998 Mazda 323 FastBreak 1.8i GT"
+            },
+            {
+              "id": "mod_1998_mazda_323_fastbreak_2_0_d_lx",
+              "title": "1998 Mazda 323 FastBreak 2.0 D LX"
+            },
+            {
+              "id": "mod_1998_mazda_323_fastbreak_2_0_ditd_glx",
+              "title": "1998 Mazda 323 FastBreak 2.0 DiTD GLX"
+            },
+            {
+              "id": "mod_1998_mazda_323_fastbreak_2_0_ditd_lx",
+              "title": "1998 Mazda 323 FastBreak 2.0 DiTD LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_323_coupe",
+      "title": "Mazda 323 Coupe",
+      "generations": [
+        {
+          "id": "gen_mazda_323_coupe",
+          "title": "Mazda 323 Coupe",
+          "children": [
+            {
+              "id": "mod_1997_mazda_323_coupe_1_5i_glx",
+              "title": "1997 Mazda 323 Coupe 1.5i GLX"
+            },
+            {
+              "id": "mod_1997_mazda_323_coupe_1_5i_lx",
+              "title": "1997 Mazda 323 Coupe 1.5i LX"
+            },
+            {
+              "id": "mod_1997_mazda_323_coupe_1_8i_glx",
+              "title": "1997 Mazda 323 Coupe 1.8i GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_323_p",
+      "title": "Mazda 323 P",
+      "generations": [
+        {
+          "id": "gen_mazda_323_p",
+          "title": "Mazda 323 P",
+          "children": [
+            {
+              "id": "mod_1998_mazda_323_p_1_3i_glx",
+              "title": "1998 Mazda 323 P 1.3i GLX"
+            },
+            {
+              "id": "mod_1998_mazda_323_p_1_3i_lx",
+              "title": "1998 Mazda 323 P 1.3i LX"
+            },
+            {
+              "id": "mod_1998_mazda_323_p_1_5i_glx",
+              "title": "1998 Mazda 323 P 1.5i GLX"
+            },
+            {
+              "id": "mod_1998_mazda_323_p_1_5i_lx",
+              "title": "1998 Mazda 323 P 1.5i LX"
+            },
+            {
+              "id": "mod_1998_mazda_323_p_2_0_d_glx",
+              "title": "1998 Mazda 323 P 2.0 D GLX"
+            },
+            {
+              "id": "mod_1998_mazda_323_p_2_0_d_lx",
+              "title": "1998 Mazda 323 P 2.0 D LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323_p",
+          "title": "Mazda 323 P",
+          "children": [
+            {
+              "id": "mod_1997_mazda_323_p_1_3i_glx",
+              "title": "1997 Mazda 323 P 1.3i GLX"
+            },
+            {
+              "id": "mod_1997_mazda_323_p_1_3i_lx",
+              "title": "1997 Mazda 323 P 1.3i LX"
+            },
+            {
+              "id": "mod_1997_mazda_323_p_1_5i_glx",
+              "title": "1997 Mazda 323 P 1.5i GLX"
+            },
+            {
+              "id": "mod_1997_mazda_323_p_1_5i_lx",
+              "title": "1997 Mazda 323 P 1.5i LX"
+            },
+            {
+              "id": "mod_1997_mazda_323_p_2_0_d_glx",
+              "title": "1997 Mazda 323 P 2.0 D GLX"
+            },
+            {
+              "id": "mod_1997_mazda_323_p_2_0_d_lx",
+              "title": "1997 Mazda 323 P 2.0 D LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_323_sedan",
+      "title": "Mazda 323 Sedan",
+      "generations": [
+        {
+          "id": "gen_mazda_323_sedan",
+          "title": "Mazda 323 Sedan",
+          "children": [
+            {
+              "id": "mod_2001_mazda_323_sedan_1_3_comfort",
+              "title": "2001 Mazda 323 Sedan 1.3 Comfort"
+            },
+            {
+              "id": "mod_2001_mazda_323_sedan_1_6_comfort",
+              "title": "2001 Mazda 323 Sedan 1.6 Comfort"
+            },
+            {
+              "id": "mod_2001_mazda_323_sedan_1_6_exclusive",
+              "title": "2001 Mazda 323 Sedan 1.6 Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_323_sedan_1_6_touring",
+              "title": "2001 Mazda 323 Sedan 1.6 Touring"
+            },
+            {
+              "id": "mod_2001_mazda_323_sedan_2_0_ditd_comfort",
+              "title": "2001 Mazda 323 Sedan 2.0 DiTD Comfort"
+            },
+            {
+              "id": "mod_2001_mazda_323_sedan_2_0_ditd_exclusive",
+              "title": "2001 Mazda 323 Sedan 2.0 DiTD Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_323_sedan_2_0_ditd_touring",
+              "title": "2001 Mazda 323 Sedan 2.0 DiTD Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323_sedan",
+          "title": "Mazda 323 Sedan",
+          "children": [
+            {
+              "id": "mod_1998_mazda_323_sedan_1_3i_glx",
+              "title": "1998 Mazda 323 Sedan 1.3i GLX"
+            },
+            {
+              "id": "mod_1998_mazda_323_sedan_1_3i_lx",
+              "title": "1998 Mazda 323 Sedan 1.3i LX"
+            },
+            {
+              "id": "mod_1998_mazda_323_sedan_1_5i_glx",
+              "title": "1998 Mazda 323 Sedan 1.5i GLX"
+            },
+            {
+              "id": "mod_1998_mazda_323_sedan_1_5i_lx",
+              "title": "1998 Mazda 323 Sedan 1.5i LX"
+            },
+            {
+              "id": "mod_1998_mazda_323_sedan_1_8i_glx",
+              "title": "1998 Mazda 323 Sedan 1.8i GLX"
+            },
+            {
+              "id": "mod_1998_mazda_323_sedan_2_0_d_lx",
+              "title": "1998 Mazda 323 Sedan 2.0 D LX"
+            },
+            {
+              "id": "mod_1998_mazda_323_sedan_2_0_ditd_glx",
+              "title": "1998 Mazda 323 Sedan 2.0 DiTD GLX"
+            },
+            {
+              "id": "mod_1998_mazda_323_sedan_2_0_ditd_lx",
+              "title": "1998 Mazda 323 Sedan 2.0 DiTD LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323_sedan",
+          "title": "Mazda 323 Sedan",
+          "children": [
+            {
+              "id": "mod_1997_mazda_323_sedan_1_3i_glx",
+              "title": "1997 Mazda 323 Sedan 1.3i GLX"
+            },
+            {
+              "id": "mod_1997_mazda_323_sedan_1_3i_lx",
+              "title": "1997 Mazda 323 Sedan 1.3i LX"
+            },
+            {
+              "id": "mod_1997_mazda_323_sedan_1_5i_glx",
+              "title": "1997 Mazda 323 Sedan 1.5i GLX"
+            },
+            {
+              "id": "mod_1997_mazda_323_sedan_1_5i_lx",
+              "title": "1997 Mazda 323 Sedan 1.5i LX"
+            },
+            {
+              "id": "mod_1997_mazda_323_sedan_1_8i_glx",
+              "title": "1997 Mazda 323 Sedan 1.8i GLX"
+            },
+            {
+              "id": "mod_1997_mazda_323_sedan_2_0_d_glx",
+              "title": "1997 Mazda 323 Sedan 2.0 D GLX"
+            },
+            {
+              "id": "mod_1997_mazda_323_sedan_2_0_d_lx",
+              "title": "1997 Mazda 323 Sedan 2.0 D LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_mpv",
+      "title": "Mazda MPV",
+      "generations": [
+        {
+          "id": "gen_mazda_mpv",
+          "title": "Mazda MPV",
+          "children": [
+            {
+              "id": "mod_2003_mazda_mpv_2_0_citd_active",
+              "title": "2003 Mazda MPV 2.0 CiTD Active"
+            },
+            {
+              "id": "mod_2003_mazda_mpv_2_0_citd_exclusive",
+              "title": "2003 Mazda MPV 2.0 CiTD Exclusive"
+            },
+            {
+              "id": "mod_2003_mazda_mpv_2_0_citd_touring",
+              "title": "2003 Mazda MPV 2.0 CiTD Touring"
+            },
+            {
+              "id": "mod_2003_mazda_mpv_2_3_active",
+              "title": "2003 Mazda MPV 2.3 Active"
+            },
+            {
+              "id": "mod_2003_mazda_mpv_2_3_exclusive",
+              "title": "2003 Mazda MPV 2.3 Exclusive"
+            },
+            {
+              "id": "mod_2003_mazda_mpv_2_3_touring",
+              "title": "2003 Mazda MPV 2.3 Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_mpv",
+          "title": "Mazda MPV",
+          "children": [
+            {
+              "id": "mod_2002_mazda_mpv_2_0_citd_comfort",
+              "title": "2002 Mazda MPV 2.0 CiTD Comfort"
+            },
+            {
+              "id": "mod_2002_mazda_mpv_2_0_citd_exclusive",
+              "title": "2002 Mazda MPV 2.0 CiTD Exclusive"
+            },
+            {
+              "id": "mod_2002_mazda_mpv_2_3_comfort",
+              "title": "2002 Mazda MPV 2.3 Comfort"
+            },
+            {
+              "id": "mod_2002_mazda_mpv_2_3_exclusive",
+              "title": "2002 Mazda MPV 2.3 Exclusive"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_mpv",
+          "title": "Mazda MPV",
+          "children": [
+            {
+              "id": "mod_1999_mazda_mpv_2_0_comfort",
+              "title": "1999 Mazda MPV 2.0 Comfort"
+            },
+            {
+              "id": "mod_1999_mazda_mpv_2_0_exclusive",
+              "title": "1999 Mazda MPV 2.0 Exclusive"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_mpv",
+          "title": "Mazda MPV",
+          "children": [
+            {
+              "id": "mod_1996_mazda_mpv_2_5_td_glx",
+              "title": "1996 Mazda MPV 2.5 TD GLX"
+            },
+            {
+              "id": "mod_1996_mazda_mpv_2_5_td_lx",
+              "title": "1996 Mazda MPV 2.5 TD LX"
+            },
+            {
+              "id": "mod_1996_mazda_mpv_3_0i_v6_glx",
+              "title": "1996 Mazda MPV 3.0i V6 GLX"
+            },
+            {
+              "id": "mod_1996_mazda_mpv_3_0i_v6_lx",
+              "title": "1996 Mazda MPV 3.0i V6 LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_xedos_9",
+      "title": "Mazda Xedos 9",
+      "generations": [
+        {
+          "id": "gen_mazda_xedos_9",
+          "title": "Mazda Xedos 9",
+          "children": [
+            {
+              "id": "mod_2001_mazda_xedos_9_2_5_v6",
+              "title": "2001 Mazda Xedos 9 2.5 V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_xedos_9",
+          "title": "Mazda Xedos 9",
+          "children": [
+            {
+              "id": "mod_1998_mazda_xedos_9_2_0i_v6",
+              "title": "1998 Mazda Xedos 9 2.0i V6"
+            },
+            {
+              "id": "mod_1998_mazda_xedos_9_2_3i_v6_miller",
+              "title": "1998 Mazda Xedos 9 2.3i V6 Miller"
+            },
+            {
+              "id": "mod_1998_mazda_xedos_9_2_5i_v6",
+              "title": "1998 Mazda Xedos 9 2.5i V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_xedos_9",
+          "title": "Mazda Xedos 9",
+          "children": [
+            {
+              "id": "mod_1993_mazda_xedos_9_2_0i_v6",
+              "title": "1993 Mazda Xedos 9 2.0i V6"
+            },
+            {
+              "id": "mod_1993_mazda_xedos_9_2_5i_v6_4ws",
+              "title": "1993 Mazda Xedos 9 2.5i V6 4WS"
+            },
+            {
+              "id": "mod_1993_mazda_xedos_9_2_5i_v6",
+              "title": "1993 Mazda Xedos 9 2.5i V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_xedos_6",
+      "title": "Mazda Xedos 6",
+      "generations": [
+        {
+          "id": "gen_mazda_xedos_6",
+          "title": "Mazda Xedos 6",
+          "children": [
+            {
+              "id": "mod_1992_mazda_xedos_6_1_6i",
+              "title": "1992 Mazda Xedos 6 1.6i"
+            },
+            {
+              "id": "mod_1992_mazda_xedos_6_2_0i_v6",
+              "title": "1992 Mazda Xedos 6 2.0i V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_mx_6",
+      "title": "Mazda MX-6",
+      "generations": [
+        {
+          "id": "gen_mazda_mx_6",
+          "title": "Mazda MX-6",
+          "children": [
+            {
+              "id": "mod_1991_mazda_mx_6_2_0i",
+              "title": "1991 Mazda MX-6 2.0i"
+            },
+            {
+              "id": "mod_1991_mazda_mx_6_2_5iv6",
+              "title": "1991 Mazda MX-6 2.5iV6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_mx_3",
+      "title": "Mazda MX-3",
+      "generations": [
+        {
+          "id": "gen_mazda_mx_3",
+          "title": "Mazda MX-3",
+          "children": [
+            {
+              "id": "mod_1991_mazda_mx_3_1_6i",
+              "title": "1991 Mazda MX-3 1.6i"
+            },
+            {
+              "id": "mod_1991_mazda_mx_3_1_8iv6",
+              "title": "1991 Mazda MX-3 1.8iV6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_rx_7_cabriolet",
+      "title": "Mazda RX-7 Cabriolet",
+      "generations": [
+        {
+          "id": "gen_mazda_rx_7_cabriolet",
+          "title": "Mazda RX-7 Cabriolet",
+          "children": [
+            {
+              "id": "mod_1990_mazda_rx_7_cabriolet_turbo_ii",
+              "title": "1990 Mazda RX-7 Cabriolet Turbo II"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_mx_5",
+      "title": "Mazda MX-5",
+      "generations": [
+        {
+          "id": "gen_mazda_mx_5",
+          "title": "Mazda MX-5",
+          "children": [
+            {
+              "id": "mod_2015_mazda_mx_5_skyactiv_g_131_gt_m",
+              "title": "2015 Mazda MX-5 SkyActiv-G 131 GT-M"
+            },
+            {
+              "id": "mod_2015_mazda_mx_5_skyactiv_g_131_s",
+              "title": "2015 Mazda MX-5 SkyActiv-G 131 S"
+            },
+            {
+              "id": "mod_2015_mazda_mx_5_skyactiv_g_131_ts",
+              "title": "2015 Mazda MX-5 SkyActiv-G 131 TS"
+            },
+            {
+              "id": "mod_2015_mazda_mx_5_skyactiv_g_131_ts",
+              "title": "2015 Mazda MX-5 SkyActiv-G 131 TS+"
+            },
+            {
+              "id": "mod_2015_mazda_mx_5_skyactiv_g_160_gt_m",
+              "title": "2015 Mazda MX-5 SkyActiv-G 160 GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_mx_5",
+          "title": "Mazda MX-5",
+          "children": [
+            {
+              "id": "mod_2013_mazda_mx_5_1_8_hanabi",
+              "title": "2013 Mazda MX-5 1.8 Hanabi"
+            },
+            {
+              "id": "mod_2013_mazda_mx_5_1_8_ts",
+              "title": "2013 Mazda MX-5 1.8 TS"
+            },
+            {
+              "id": "mod_2013_mazda_mx_5_1_8_ts",
+              "title": "2013 Mazda MX-5 1.8 TS+"
+            },
+            {
+              "id": "mod_2013_mazda_mx_5_2_0_gt_m",
+              "title": "2013 Mazda MX-5 2.0 GT-M"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_mx_5",
+          "title": "Mazda MX-5",
+          "children": [
+            {
+              "id": "mod_2009_mazda_mx_5_1_8_ts",
+              "title": "2009 Mazda MX-5 1.8 TS"
+            },
+            {
+              "id": "mod_2009_mazda_mx_5_1_8_ts",
+              "title": "2009 Mazda MX-5 1.8 TS+"
+            },
+            {
+              "id": "mod_2009_mazda_mx_5_2_0_s_vt_gt_l",
+              "title": "2009 Mazda MX-5 2.0 S-VT GT-L"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_mx_5",
+          "title": "Mazda MX-5",
+          "children": [
+            {
+              "id": "mod_2005_mazda_mx_5_1_8_exclusive",
+              "title": "2005 Mazda MX-5 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2005_mazda_mx_5_1_8_executive",
+              "title": "2005 Mazda MX-5 1.8 Executive"
+            },
+            {
+              "id": "mod_2005_mazda_mx_5_1_8_touring",
+              "title": "2005 Mazda MX-5 1.8 Touring"
+            },
+            {
+              "id": "mod_2005_mazda_mx_5_2_0_s_vt_3rd_generation_limited",
+              "title": "2005 Mazda MX-5 2.0 S-VT 3rd Generation Limited"
+            },
+            {
+              "id": "mod_2005_mazda_mx_5_2_0_s_vt_executive",
+              "title": "2005 Mazda MX-5 2.0 S-VT Executive"
+            },
+            {
+              "id": "mod_2005_mazda_mx_5_2_0_s_vt_sportive",
+              "title": "2005 Mazda MX-5 2.0 S-VT Sportive"
+            },
+            {
+              "id": "mod_2005_mazda_mx_5_2_0_s_vt_touring",
+              "title": "2005 Mazda MX-5 2.0 S-VT Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_mx_5",
+          "title": "Mazda MX-5",
+          "children": [
+            {
+              "id": "mod_2004_mazda_mx_5_1_6_dynamic",
+              "title": "2004 Mazda MX-5 1.6 Dynamic"
+            },
+            {
+              "id": "mod_2004_mazda_mx_5_1_6_exclusive",
+              "title": "2004 Mazda MX-5 1.6 Exclusive"
+            },
+            {
+              "id": "mod_2004_mazda_mx_5_1_6_twins",
+              "title": "2004 Mazda MX-5 1.6 Twins"
+            },
+            {
+              "id": "mod_2004_mazda_mx_5_1_8_s_vt_dynamic",
+              "title": "2004 Mazda MX-5 1.8 S-VT Dynamic"
+            },
+            {
+              "id": "mod_2004_mazda_mx_5_1_8_s_vt_sportive",
+              "title": "2004 Mazda MX-5 1.8 S-VT Sportive"
+            },
+            {
+              "id": "mod_2004_mazda_mx_5_1_8_s_vt_touring",
+              "title": "2004 Mazda MX-5 1.8 S-VT Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_mx_5",
+          "title": "Mazda MX-5",
+          "children": [
+            {
+              "id": "mod_2001_mazda_mx_5_1_6_exclusive",
+              "title": "2001 Mazda MX-5 1.6 Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_mx_5_1_6_touring",
+              "title": "2001 Mazda MX-5 1.6 Touring"
+            },
+            {
+              "id": "mod_2001_mazda_mx_5_1_8_exclusive",
+              "title": "2001 Mazda MX-5 1.8 Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_mx_5_1_8_s_vt_exclusive",
+              "title": "2001 Mazda MX-5 1.8 S-VT Exclusive"
+            },
+            {
+              "id": "mod_2001_mazda_mx_5_1_8_s_vt_sportive",
+              "title": "2001 Mazda MX-5 1.8 S-VT Sportive"
+            },
+            {
+              "id": "mod_2001_mazda_mx_5_1_8_s_vt_touring",
+              "title": "2001 Mazda MX-5 1.8 S-VT Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_mx_5",
+          "title": "Mazda MX-5",
+          "children": [
+            {
+              "id": "mod_1998_mazda_mx_5_1_6",
+              "title": "1998 Mazda MX-5 1.6"
+            },
+            {
+              "id": "mod_1998_mazda_mx_5_1_8",
+              "title": "1998 Mazda MX-5 1.8"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_mx_5",
+          "title": "Mazda MX-5",
+          "children": [
+            {
+              "id": "mod_1990_mazda_mx_5_1_6i",
+              "title": "1990 Mazda MX-5 1.6i"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_323_f",
+      "title": "Mazda 323 F",
+      "generations": [
+        {
+          "id": "gen_mazda_323_f",
+          "title": "Mazda 323 F",
+          "children": [
+            {
+              "id": "mod_1997_mazda_323_f_1_5i_glx",
+              "title": "1997 Mazda 323 F 1.5i GLX"
+            },
+            {
+              "id": "mod_1997_mazda_323_f_1_5i_gx",
+              "title": "1997 Mazda 323 F 1.5i GX"
+            },
+            {
+              "id": "mod_1997_mazda_323_f_1_8i_glx",
+              "title": "1997 Mazda 323 F 1.8i GLX"
+            },
+            {
+              "id": "mod_1997_mazda_323_f_2_0i_v6_glx",
+              "title": "1997 Mazda 323 F 2.0i V6 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323_f",
+          "title": "Mazda 323 F",
+          "children": [
+            {
+              "id": "mod_1994_mazda_323_f_1_5i_glx",
+              "title": "1994 Mazda 323 F 1.5i GLX"
+            },
+            {
+              "id": "mod_1994_mazda_323_f_1_8i_glx",
+              "title": "1994 Mazda 323 F 1.8i GLX"
+            },
+            {
+              "id": "mod_1994_mazda_323_f_2_0i_v6_glx",
+              "title": "1994 Mazda 323 F 2.0i V6 GLX"
+            },
+            {
+              "id": "mod_1994_mazda_323_f_2_0i_v6_gt",
+              "title": "1994 Mazda 323 F 2.0i V6 GT"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323_f",
+          "title": "Mazda 323 F",
+          "children": [
+            {
+              "id": "mod_1991_mazda_323_f_1_6i_glx",
+              "title": "1991 Mazda 323 F 1.6i GLX"
+            },
+            {
+              "id": "mod_1991_mazda_323_f_1_8i_glx",
+              "title": "1991 Mazda 323 F 1.8i GLX"
+            },
+            {
+              "id": "mod_1991_mazda_323_f_1_8i_gt",
+              "title": "1991 Mazda 323 F 1.8i GT"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323_f",
+          "title": "Mazda 323 F",
+          "children": [
+            {
+              "id": "mod_1989_mazda_323_f_1_6i_glx",
+              "title": "1989 Mazda 323 F 1.6i GLX"
+            },
+            {
+              "id": "mod_1989_mazda_323_f_1_6i_lx",
+              "title": "1989 Mazda 323 F 1.6i LX"
+            },
+            {
+              "id": "mod_1989_mazda_323_f_1_8i_gt",
+              "title": "1989 Mazda 323 F 1.8i GT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_626_wagon",
+      "title": "Mazda 626 Wagon",
+      "generations": [
+        {
+          "id": "gen_mazda_626_wagon",
+          "title": "Mazda 626 Wagon",
+          "children": [
+            {
+              "id": "mod_1999_mazda_626_wagon_1_8_comfort",
+              "title": "1999 Mazda 626 Wagon 1.8 Comfort"
+            },
+            {
+              "id": "mod_1999_mazda_626_wagon_1_8_exclusive",
+              "title": "1999 Mazda 626 Wagon 1.8 Exclusive"
+            },
+            {
+              "id": "mod_1999_mazda_626_wagon_1_8",
+              "title": "1999 Mazda 626 Wagon 1.8"
+            },
+            {
+              "id": "mod_1999_mazda_626_wagon_2_0_ditd_comfort",
+              "title": "1999 Mazda 626 Wagon 2.0 DiTD Comfort"
+            },
+            {
+              "id": "mod_1999_mazda_626_wagon_2_0_ditd_exclusive",
+              "title": "1999 Mazda 626 Wagon 2.0 DiTD Exclusive"
+            },
+            {
+              "id": "mod_1999_mazda_626_wagon_2_0_ditd_touring",
+              "title": "1999 Mazda 626 Wagon 2.0 DiTD Touring"
+            },
+            {
+              "id": "mod_1999_mazda_626_wagon_2_0_exclusive",
+              "title": "1999 Mazda 626 Wagon 2.0 Exclusive"
+            },
+            {
+              "id": "mod_1999_mazda_626_wagon_2_0_touring",
+              "title": "1999 Mazda 626 Wagon 2.0 Touring"
+            },
+            {
+              "id": "mod_1999_mazda_626_wagon_2_0hp_sportive",
+              "title": "1999 Mazda 626 Wagon 2.0hp Sportive"
+            },
+            {
+              "id": "mod_1999_mazda_626_wagon_2_0hp_touring",
+              "title": "1999 Mazda 626 Wagon 2.0hp Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626_wagon",
+          "title": "Mazda 626 Wagon",
+          "children": [
+            {
+              "id": "mod_1998_mazda_626_wagon_1_8i_glx",
+              "title": "1998 Mazda 626 Wagon 1.8i GLX"
+            },
+            {
+              "id": "mod_1998_mazda_626_wagon_1_8i_lx",
+              "title": "1998 Mazda 626 Wagon 1.8i LX"
+            },
+            {
+              "id": "mod_1998_mazda_626_wagon_2_0_ditd_glx",
+              "title": "1998 Mazda 626 Wagon 2.0 DiTD GLX"
+            },
+            {
+              "id": "mod_1998_mazda_626_wagon_2_0_ditd_lx",
+              "title": "1998 Mazda 626 Wagon 2.0 DiTD LX"
+            },
+            {
+              "id": "mod_1998_mazda_626_wagon_2_0i_glx",
+              "title": "1998 Mazda 626 Wagon 2.0i GLX"
+            },
+            {
+              "id": "mod_1998_mazda_626_wagon_2_0ihp_glx",
+              "title": "1998 Mazda 626 Wagon 2.0iHP GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626_wagon",
+          "title": "Mazda 626 Wagon",
+          "children": [
+            {
+              "id": "mod_1992_mazda_626_wagon_2_0_d_comprex_glx",
+              "title": "1992 Mazda 626 Wagon 2.0 D Comprex GLX"
+            },
+            {
+              "id": "mod_1992_mazda_626_wagon_2_0_d_comprex_lx",
+              "title": "1992 Mazda 626 Wagon 2.0 D Comprex LX"
+            },
+            {
+              "id": "mod_1992_mazda_626_wagon_2_0i_glx",
+              "title": "1992 Mazda 626 Wagon 2.0i GLX"
+            },
+            {
+              "id": "mod_1992_mazda_626_wagon_2_0i_lx",
+              "title": "1992 Mazda 626 Wagon 2.0i LX"
+            },
+            {
+              "id": "mod_1992_mazda_626_wagon_2_2i_glx",
+              "title": "1992 Mazda 626 Wagon 2.2i GLX"
+            },
+            {
+              "id": "mod_1992_mazda_626_wagon_2_2i_lx",
+              "title": "1992 Mazda 626 Wagon 2.2i LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626_wagon",
+          "title": "Mazda 626 Wagon",
+          "children": [
+            {
+              "id": "mod_1988_mazda_626_wagon_1_8_glx",
+              "title": "1988 Mazda 626 Wagon 1.8 GLX"
+            },
+            {
+              "id": "mod_1988_mazda_626_wagon_1_8_lx",
+              "title": "1988 Mazda 626 Wagon 1.8 LX"
+            },
+            {
+              "id": "mod_1988_mazda_626_wagon_2_0_d_glx",
+              "title": "1988 Mazda 626 Wagon 2.0 D GLX"
+            },
+            {
+              "id": "mod_1988_mazda_626_wagon_2_0_d_lx",
+              "title": "1988 Mazda 626 Wagon 2.0 D LX"
+            },
+            {
+              "id": "mod_1988_mazda_626_wagon_2_0_12v_glx",
+              "title": "1988 Mazda 626 Wagon 2.0-12V GLX"
+            },
+            {
+              "id": "mod_1988_mazda_626_wagon_2_0_12v_lx",
+              "title": "1988 Mazda 626 Wagon 2.0-12V LX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_626_coupe",
+      "title": "Mazda 626 Coupe",
+      "generations": [
+        {
+          "id": "gen_mazda_626_coupe",
+          "title": "Mazda 626 Coupe",
+          "children": [
+            {
+              "id": "mod_1987_mazda_626_coupe_2_0_12v_glx",
+              "title": "1987 Mazda 626 Coupe 2.0-12V GLX"
+            },
+            {
+              "id": "mod_1987_mazda_626_coupe_2_0_12v_lx",
+              "title": "1987 Mazda 626 Coupe 2.0-12V LX"
+            },
+            {
+              "id": "mod_1987_mazda_626_coupe_2_0i_16v_gt",
+              "title": "1987 Mazda 626 Coupe 2.0i-16V GT"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626_coupe",
+          "title": "Mazda 626 Coupe",
+          "children": [
+            {
+              "id": "mod_1985_mazda_626_coupe_1_6_glx",
+              "title": "1985 Mazda 626 Coupe 1.6 GLX"
+            },
+            {
+              "id": "mod_1985_mazda_626_coupe_1_6_lx",
+              "title": "1985 Mazda 626 Coupe 1.6 LX"
+            },
+            {
+              "id": "mod_1985_mazda_626_coupe_2_0_glx",
+              "title": "1985 Mazda 626 Coupe 2.0 GLX"
+            },
+            {
+              "id": "mod_1985_mazda_626_coupe_2_0i_gt",
+              "title": "1985 Mazda 626 Coupe 2.0i GT"
+            },
+            {
+              "id": "mod_1985_mazda_626_coupe_2_0i_gt_s",
+              "title": "1985 Mazda 626 Coupe 2.0i GT-S"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626_coupe",
+          "title": "Mazda 626 Coupe",
+          "children": [
+            {
+              "id": "mod_1983_mazda_626_coupe_1_6_glx",
+              "title": "1983 Mazda 626 Coupe 1.6 GLX"
+            },
+            {
+              "id": "mod_1983_mazda_626_coupe_1_6_lx",
+              "title": "1983 Mazda 626 Coupe 1.6 LX"
+            },
+            {
+              "id": "mod_1983_mazda_626_coupe_2_0_glx",
+              "title": "1983 Mazda 626 Coupe 2.0 GLX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_929_estate",
+      "title": "Mazda 929 Estate",
+      "generations": [
+        {
+          "id": "gen_mazda_929_estate",
+          "title": "Mazda 929 Estate",
+          "children": [
+            {
+              "id": "mod_1984_mazda_929_estate_2_0_dx",
+              "title": "1984 Mazda 929 Estate 2.0 DX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_929_estate",
+          "title": "Mazda 929 Estate",
+          "children": [
+            {
+              "id": "mod_1982_mazda_929_estate_2_0_dx",
+              "title": "1982 Mazda 929 Estate 2.0 DX"
+            },
+            {
+              "id": "mod_1982_mazda_929_estate_2_0_ltd",
+              "title": "1982 Mazda 929 Estate 2.0 LTD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_929",
+      "title": "Mazda 929",
+      "generations": [
+        {
+          "id": "gen_mazda_929",
+          "title": "Mazda 929",
+          "children": [
+            {
+              "id": "mod_1987_mazda_929_2_2_glx",
+              "title": "1987 Mazda 929 2.2 GLX"
+            },
+            {
+              "id": "mod_1987_mazda_929_2_2_lx",
+              "title": "1987 Mazda 929 2.2 LX"
+            },
+            {
+              "id": "mod_1987_mazda_929_2_2i_glx",
+              "title": "1987 Mazda 929 2.2i GLX"
+            },
+            {
+              "id": "mod_1987_mazda_929_2_2i_lx",
+              "title": "1987 Mazda 929 2.2i LX"
+            },
+            {
+              "id": "mod_1987_mazda_929_3_0i_glx",
+              "title": "1987 Mazda 929 3.0i GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_929",
+          "title": "Mazda 929",
+          "children": [
+            {
+              "id": "mod_1984_mazda_929_2_0_dx",
+              "title": "1984 Mazda 929 2.0 DX"
+            },
+            {
+              "id": "mod_1984_mazda_929_2_0_ltd",
+              "title": "1984 Mazda 929 2.0 LTD"
+            },
+            {
+              "id": "mod_1984_mazda_929_2_0i_ltd",
+              "title": "1984 Mazda 929 2.0i LTD"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_929",
+          "title": "Mazda 929",
+          "children": [
+            {
+              "id": "mod_1982_mazda_929_2_0_dx",
+              "title": "1982 Mazda 929 2.0 DX"
+            },
+            {
+              "id": "mod_1982_mazda_929_2_0_ltd",
+              "title": "1982 Mazda 929 2.0 LTD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_929_coupe",
+      "title": "Mazda 929 Coupe",
+      "generations": [
+        {
+          "id": "gen_mazda_929_coupe",
+          "title": "Mazda 929 Coupe",
+          "children": [
+            {
+              "id": "mod_1984_mazda_929_coupe_2_0i",
+              "title": "1984 Mazda 929 Coupe 2.0i"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_929_coupe",
+          "title": "Mazda 929 Coupe",
+          "children": [
+            {
+              "id": "mod_1982_mazda_929_coupe_2_0_ltd",
+              "title": "1982 Mazda 929 Coupe 2.0 LTD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_rx_7",
+      "title": "Mazda RX-7",
+      "generations": [
+        {
+          "id": "gen_mazda_rx_7",
+          "title": "Mazda RX-7",
+          "children": [
+            {
+              "id": "mod_1992_mazda_rx_7_twin_turbo",
+              "title": "1992 Mazda RX-7 Twin Turbo"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_rx_7",
+          "title": "Mazda RX-7",
+          "children": [
+            {
+              "id": "mod_1986_mazda_rx_7_gls",
+              "title": "1986 Mazda RX-7 GLS"
+            },
+            {
+              "id": "mod_1986_mazda_rx_7",
+              "title": "1986 Mazda RX-7"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_rx_7",
+          "title": "Mazda RX-7",
+          "children": [
+            {
+              "id": "mod_1981_mazda_rx_7_dx",
+              "title": "1981 Mazda RX-7 DX"
+            },
+            {
+              "id": "mod_1981_mazda_rx_7_sdx",
+              "title": "1981 Mazda RX-7 SDX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_626",
+      "title": "Mazda 626",
+      "generations": [
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1999_mazda_626_1_8_comfort",
+              "title": "1999 Mazda 626 1.8 Comfort"
+            },
+            {
+              "id": "mod_1999_mazda_626_1_8_exclusive",
+              "title": "1999 Mazda 626 1.8 Exclusive"
+            },
+            {
+              "id": "mod_1999_mazda_626_1_8",
+              "title": "1999 Mazda 626 1.8"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0_ditd_comfort",
+              "title": "1999 Mazda 626 2.0 DiTD Comfort"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0_ditd_exclusive",
+              "title": "1999 Mazda 626 2.0 DiTD Exclusive"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0_ditd_touring",
+              "title": "1999 Mazda 626 2.0 DiTD Touring"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0_exclusive",
+              "title": "1999 Mazda 626 2.0 Exclusive"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0_touring",
+              "title": "1999 Mazda 626 2.0 Touring"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0hp_touring",
+              "title": "1999 Mazda 626 2.0hp Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1999_mazda_626_1_8_comfort",
+              "title": "1999 Mazda 626 1.8 Comfort"
+            },
+            {
+              "id": "mod_1999_mazda_626_1_8_exclusive",
+              "title": "1999 Mazda 626 1.8 Exclusive"
+            },
+            {
+              "id": "mod_1999_mazda_626_1_8",
+              "title": "1999 Mazda 626 1.8"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0_ditd_comfort",
+              "title": "1999 Mazda 626 2.0 DiTD Comfort"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0_ditd_exclusive",
+              "title": "1999 Mazda 626 2.0 DiTD Exclusive"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0_ditd_touring",
+              "title": "1999 Mazda 626 2.0 DiTD Touring"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0_exclusive",
+              "title": "1999 Mazda 626 2.0 Exclusive"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0_touring",
+              "title": "1999 Mazda 626 2.0 Touring"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0hp_sportive",
+              "title": "1999 Mazda 626 2.0hp Sportive"
+            },
+            {
+              "id": "mod_1999_mazda_626_2_0hp_touring",
+              "title": "1999 Mazda 626 2.0hp Touring"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1997_mazda_626_1_8i_glx",
+              "title": "1997 Mazda 626 1.8i GLX"
+            },
+            {
+              "id": "mod_1997_mazda_626_1_8i_gx",
+              "title": "1997 Mazda 626 1.8i GX"
+            },
+            {
+              "id": "mod_1997_mazda_626_1_8i_lx",
+              "title": "1997 Mazda 626 1.8i LX"
+            },
+            {
+              "id": "mod_1997_mazda_626_2_0i_glx",
+              "title": "1997 Mazda 626 2.0i GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1997_mazda_626_1_8i_glx",
+              "title": "1997 Mazda 626 1.8i GLX"
+            },
+            {
+              "id": "mod_1997_mazda_626_1_8i_gx",
+              "title": "1997 Mazda 626 1.8i GX"
+            },
+            {
+              "id": "mod_1997_mazda_626_1_8i_lx",
+              "title": "1997 Mazda 626 1.8i LX"
+            },
+            {
+              "id": "mod_1997_mazda_626_2_0i_glx",
+              "title": "1997 Mazda 626 2.0i GLX"
+            },
+            {
+              "id": "mod_1997_mazda_626_2_0ihp_glx",
+              "title": "1997 Mazda 626 2.0iHP GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1995_mazda_626_1_8i_glx",
+              "title": "1995 Mazda 626 1.8i GLX"
+            },
+            {
+              "id": "mod_1995_mazda_626_1_8i_lx",
+              "title": "1995 Mazda 626 1.8i LX"
+            },
+            {
+              "id": "mod_1995_mazda_626_2_0_d_comprex",
+              "title": "1995 Mazda 626 2.0 D Comprex"
+            },
+            {
+              "id": "mod_1995_mazda_626_2_0_d_comprex_s",
+              "title": "1995 Mazda 626 2.0 D Comprex-S"
+            },
+            {
+              "id": "mod_1995_mazda_626_2_0i_glx",
+              "title": "1995 Mazda 626 2.0i GLX"
+            },
+            {
+              "id": "mod_1995_mazda_626_2_0i_lx",
+              "title": "1995 Mazda 626 2.0i LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1995_mazda_626_1_8i_glx",
+              "title": "1995 Mazda 626 1.8i GLX"
+            },
+            {
+              "id": "mod_1995_mazda_626_1_8i_lx",
+              "title": "1995 Mazda 626 1.8i LX"
+            },
+            {
+              "id": "mod_1995_mazda_626_2_0_d_comprex",
+              "title": "1995 Mazda 626 2.0 D Comprex"
+            },
+            {
+              "id": "mod_1995_mazda_626_2_0_d_comprex_s",
+              "title": "1995 Mazda 626 2.0 D Comprex-S"
+            },
+            {
+              "id": "mod_1995_mazda_626_2_0i_glx",
+              "title": "1995 Mazda 626 2.0i GLX"
+            },
+            {
+              "id": "mod_1995_mazda_626_2_0i_lx",
+              "title": "1995 Mazda 626 2.0i LX"
+            },
+            {
+              "id": "mod_1995_mazda_626_2_5iv6_xerxes",
+              "title": "1995 Mazda 626 2.5iV6 Xerxes"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1991_mazda_626_1_8i_glx",
+              "title": "1991 Mazda 626 1.8i GLX"
+            },
+            {
+              "id": "mod_1991_mazda_626_1_8i_lx",
+              "title": "1991 Mazda 626 1.8i LX"
+            },
+            {
+              "id": "mod_1991_mazda_626_2_0i_glx",
+              "title": "1991 Mazda 626 2.0i GLX"
+            },
+            {
+              "id": "mod_1991_mazda_626_2_0i_lx",
+              "title": "1991 Mazda 626 2.0i LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1991_mazda_626_1_8i_glx",
+              "title": "1991 Mazda 626 1.8i GLX"
+            },
+            {
+              "id": "mod_1991_mazda_626_1_8i_lx",
+              "title": "1991 Mazda 626 1.8i LX"
+            },
+            {
+              "id": "mod_1991_mazda_626_2_0i_glx",
+              "title": "1991 Mazda 626 2.0i GLX"
+            },
+            {
+              "id": "mod_1991_mazda_626_2_0i_lx",
+              "title": "1991 Mazda 626 2.0i LX"
+            },
+            {
+              "id": "mod_1991_mazda_626_2_5i_24v_xerxes",
+              "title": "1991 Mazda 626 2.5i-24V Xerxes"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1987_mazda_626_1_8_dx",
+              "title": "1987 Mazda 626 1.8 DX"
+            },
+            {
+              "id": "mod_1987_mazda_626_1_8_glx",
+              "title": "1987 Mazda 626 1.8 GLX"
+            },
+            {
+              "id": "mod_1987_mazda_626_1_8_lx",
+              "title": "1987 Mazda 626 1.8 LX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0_d_glx",
+              "title": "1987 Mazda 626 2.0 D GLX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0_d_lx",
+              "title": "1987 Mazda 626 2.0 D LX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0_glx",
+              "title": "1987 Mazda 626 2.0 GLX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0_lx",
+              "title": "1987 Mazda 626 2.0 LX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0_12v_glx",
+              "title": "1987 Mazda 626 2.0-12V GLX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0_12v_lx",
+              "title": "1987 Mazda 626 2.0-12V LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1987_mazda_626_1_8_glx",
+              "title": "1987 Mazda 626 1.8 GLX"
+            },
+            {
+              "id": "mod_1987_mazda_626_1_8_lx",
+              "title": "1987 Mazda 626 1.8 LX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0_d_glx",
+              "title": "1987 Mazda 626 2.0 D GLX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0_d_lx",
+              "title": "1987 Mazda 626 2.0 D LX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0_glx",
+              "title": "1987 Mazda 626 2.0 GLX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0_lx",
+              "title": "1987 Mazda 626 2.0 LX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0_12v_glx",
+              "title": "1987 Mazda 626 2.0-12V GLX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0_12v_lx",
+              "title": "1987 Mazda 626 2.0-12V LX"
+            },
+            {
+              "id": "mod_1987_mazda_626_2_0i_16v_gt_4ws",
+              "title": "1987 Mazda 626 2.0i-16V GT 4WS"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1985_mazda_626_1_6_dx",
+              "title": "1985 Mazda 626 1.6 DX"
+            },
+            {
+              "id": "mod_1985_mazda_626_1_6_glx",
+              "title": "1985 Mazda 626 1.6 GLX"
+            },
+            {
+              "id": "mod_1985_mazda_626_1_6_lx",
+              "title": "1985 Mazda 626 1.6 LX"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0_d_dx",
+              "title": "1985 Mazda 626 2.0 D DX"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0_d_glx",
+              "title": "1985 Mazda 626 2.0 D GLX"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0_d_lx",
+              "title": "1985 Mazda 626 2.0 D LX"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0_glx",
+              "title": "1985 Mazda 626 2.0 GLX"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0_lx",
+              "title": "1985 Mazda 626 2.0 LX"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0i_gt",
+              "title": "1985 Mazda 626 2.0i GT"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0i_gt_s",
+              "title": "1985 Mazda 626 2.0i GT-S"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1985_mazda_626_1_6_glx",
+              "title": "1985 Mazda 626 1.6 GLX"
+            },
+            {
+              "id": "mod_1985_mazda_626_1_6_lx",
+              "title": "1985 Mazda 626 1.6 LX"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0_d_glx",
+              "title": "1985 Mazda 626 2.0 D GLX"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0_d_lx",
+              "title": "1985 Mazda 626 2.0 D LX"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0_glx",
+              "title": "1985 Mazda 626 2.0 GLX"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0_lx",
+              "title": "1985 Mazda 626 2.0 LX"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0i_gt",
+              "title": "1985 Mazda 626 2.0i GT"
+            },
+            {
+              "id": "mod_1985_mazda_626_2_0i_gt_s",
+              "title": "1985 Mazda 626 2.0i GT-S"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1983_mazda_626_1_6_dx",
+              "title": "1983 Mazda 626 1.6 DX"
+            },
+            {
+              "id": "mod_1983_mazda_626_1_6_glx",
+              "title": "1983 Mazda 626 1.6 GLX"
+            },
+            {
+              "id": "mod_1983_mazda_626_1_6_lx",
+              "title": "1983 Mazda 626 1.6 LX"
+            },
+            {
+              "id": "mod_1983_mazda_626_2_0_d_dx",
+              "title": "1983 Mazda 626 2.0 D DX"
+            },
+            {
+              "id": "mod_1983_mazda_626_2_0_d_glx",
+              "title": "1983 Mazda 626 2.0 D GLX"
+            },
+            {
+              "id": "mod_1983_mazda_626_2_0_d_lx",
+              "title": "1983 Mazda 626 2.0 D LX"
+            },
+            {
+              "id": "mod_1983_mazda_626_2_0_glx",
+              "title": "1983 Mazda 626 2.0 GLX"
+            },
+            {
+              "id": "mod_1983_mazda_626_2_0_lx",
+              "title": "1983 Mazda 626 2.0 LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1983_mazda_626_1_6_glx",
+              "title": "1983 Mazda 626 1.6 GLX"
+            },
+            {
+              "id": "mod_1983_mazda_626_1_6_lx",
+              "title": "1983 Mazda 626 1.6 LX"
+            },
+            {
+              "id": "mod_1983_mazda_626_2_0_d_glx",
+              "title": "1983 Mazda 626 2.0 D GLX"
+            },
+            {
+              "id": "mod_1983_mazda_626_2_0_d_lx",
+              "title": "1983 Mazda 626 2.0 D LX"
+            },
+            {
+              "id": "mod_1983_mazda_626_2_0_glx",
+              "title": "1983 Mazda 626 2.0 GLX"
+            },
+            {
+              "id": "mod_1983_mazda_626_2_0_lx",
+              "title": "1983 Mazda 626 2.0 LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_626",
+          "title": "Mazda 626",
+          "children": [
+            {
+              "id": "mod_1980_mazda_626_1_6_dx",
+              "title": "1980 Mazda 626 1.6 DX"
+            },
+            {
+              "id": "mod_1980_mazda_626_2_0_sdx",
+              "title": "1980 Mazda 626 2.0 SDX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_626_hardtop",
+      "title": "Mazda 626 Hardtop",
+      "generations": [
+        {
+          "id": "gen_mazda_626_hardtop",
+          "title": "Mazda 626 Hardtop",
+          "children": [
+            {
+              "id": "mod_1980_mazda_626_hardtop_1_6_dx",
+              "title": "1980 Mazda 626 Hardtop 1.6 DX"
+            },
+            {
+              "id": "mod_1980_mazda_626_hardtop_2_0_sdx",
+              "title": "1980 Mazda 626 Hardtop 2.0 SDX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_929_legato_combi",
+      "title": "Mazda 929 Legato Combi",
+      "generations": [
+        {
+          "id": "gen_mazda_929_legato_combi",
+          "title": "Mazda 929 Legato Combi",
+          "children": [
+            {
+              "id": "mod_1980_mazda_929_legato_combi",
+              "title": "1980 Mazda 929 Legato Combi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_929_legato",
+      "title": "Mazda 929 Legato",
+      "generations": [
+        {
+          "id": "gen_mazda_929_legato",
+          "title": "Mazda 929 Legato",
+          "children": [
+            {
+              "id": "mod_1980_mazda_929_legato_hardtop",
+              "title": "1980 Mazda 929 Legato Hardtop"
+            },
+            {
+              "id": "mod_1980_mazda_929_legato_sedan",
+              "title": "1980 Mazda 929 Legato Sedan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_323",
+      "title": "Mazda 323",
+      "generations": [
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1994_mazda_323_1_3i_lx",
+              "title": "1994 Mazda 323 1.3i LX"
+            },
+            {
+              "id": "mod_1994_mazda_323_1_5i_glx",
+              "title": "1994 Mazda 323 1.5i GLX"
+            },
+            {
+              "id": "mod_1994_mazda_323_1_5i_lx",
+              "title": "1994 Mazda 323 1.5i LX"
+            },
+            {
+              "id": "mod_1994_mazda_323_1_8i_glx",
+              "title": "1994 Mazda 323 1.8i GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1994_mazda_323_1_3i_lx",
+              "title": "1994 Mazda 323 1.3i LX"
+            },
+            {
+              "id": "mod_1994_mazda_323_1_5i_glx",
+              "title": "1994 Mazda 323 1.5i GLX"
+            },
+            {
+              "id": "mod_1994_mazda_323_1_5i_lx",
+              "title": "1994 Mazda 323 1.5i LX"
+            },
+            {
+              "id": "mod_1994_mazda_323_1_8i_glx",
+              "title": "1994 Mazda 323 1.8i GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1991_mazda_323_1_3i_glx",
+              "title": "1991 Mazda 323 1.3i GLX"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_3i_lx",
+              "title": "1991 Mazda 323 1.3i LX"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_6i_glx",
+              "title": "1991 Mazda 323 1.6i GLX"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_6i_lx",
+              "title": "1991 Mazda 323 1.6i LX"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_7_d_glx",
+              "title": "1991 Mazda 323 1.7 D GLX"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_7_d_lx",
+              "title": "1991 Mazda 323 1.7 D LX"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_8i_gt",
+              "title": "1991 Mazda 323 1.8i GT"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_8i_gtx_turbo",
+              "title": "1991 Mazda 323 1.8i GTX Turbo"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1991_mazda_323_1_3i_glx",
+              "title": "1991 Mazda 323 1.3i GLX"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_3i_lx",
+              "title": "1991 Mazda 323 1.3i LX"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_6i_glx",
+              "title": "1991 Mazda 323 1.6i GLX"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_6i_lx",
+              "title": "1991 Mazda 323 1.6i LX"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_7_d_glx",
+              "title": "1991 Mazda 323 1.7 D GLX"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_7_d_lx",
+              "title": "1991 Mazda 323 1.7 D LX"
+            },
+            {
+              "id": "mod_1991_mazda_323_1_8i_glx",
+              "title": "1991 Mazda 323 1.8i GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1989_mazda_323_1_3_glx",
+              "title": "1989 Mazda 323 1.3 GLX"
+            },
+            {
+              "id": "mod_1989_mazda_323_1_3_lx",
+              "title": "1989 Mazda 323 1.3 LX"
+            },
+            {
+              "id": "mod_1989_mazda_323_1_6i_glx",
+              "title": "1989 Mazda 323 1.6i GLX"
+            },
+            {
+              "id": "mod_1989_mazda_323_1_6i_lx",
+              "title": "1989 Mazda 323 1.6i LX"
+            },
+            {
+              "id": "mod_1989_mazda_323_1_7_d_glx",
+              "title": "1989 Mazda 323 1.7 D GLX"
+            },
+            {
+              "id": "mod_1989_mazda_323_1_7_d_lx",
+              "title": "1989 Mazda 323 1.7 D LX"
+            },
+            {
+              "id": "mod_1989_mazda_323_1_8i_gt",
+              "title": "1989 Mazda 323 1.8i GT"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1989_mazda_323_1_3_glx",
+              "title": "1989 Mazda 323 1.3 GLX"
+            },
+            {
+              "id": "mod_1989_mazda_323_1_3_lx",
+              "title": "1989 Mazda 323 1.3 LX"
+            },
+            {
+              "id": "mod_1989_mazda_323_1_6i_glx",
+              "title": "1989 Mazda 323 1.6i GLX"
+            },
+            {
+              "id": "mod_1989_mazda_323_1_6i_lx",
+              "title": "1989 Mazda 323 1.6i LX"
+            },
+            {
+              "id": "mod_1989_mazda_323_1_7_d_glx",
+              "title": "1989 Mazda 323 1.7 D GLX"
+            },
+            {
+              "id": "mod_1989_mazda_323_1_7_d_lx",
+              "title": "1989 Mazda 323 1.7 D LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1987_mazda_323_1_3_glx",
+              "title": "1987 Mazda 323 1.3 GLX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_3_l",
+              "title": "1987 Mazda 323 1.3 L"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_3_lx",
+              "title": "1987 Mazda 323 1.3 LX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_5_glx",
+              "title": "1987 Mazda 323 1.5 GLX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_5_lx",
+              "title": "1987 Mazda 323 1.5 LX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_6i_gt_turbo_4x4",
+              "title": "1987 Mazda 323 1.6i GT Turbo 4x4"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_6i_gt",
+              "title": "1987 Mazda 323 1.6i GT"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_6i_gts_turbo_4x4",
+              "title": "1987 Mazda 323 1.6i GTS Turbo 4x4"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_6i_gts_turbo",
+              "title": "1987 Mazda 323 1.6i GTS Turbo"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_7_d_glx",
+              "title": "1987 Mazda 323 1.7 D GLX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_7_d_lx",
+              "title": "1987 Mazda 323 1.7 D LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1987_mazda_323_1_3_glx",
+              "title": "1987 Mazda 323 1.3 GLX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_3_lx",
+              "title": "1987 Mazda 323 1.3 LX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_5_glx",
+              "title": "1987 Mazda 323 1.5 GLX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_5_lx",
+              "title": "1987 Mazda 323 1.5 LX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_7_d_glx",
+              "title": "1987 Mazda 323 1.7 D GLX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_7_d_lx",
+              "title": "1987 Mazda 323 1.7 D LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1987_mazda_323_1_3_glx",
+              "title": "1987 Mazda 323 1.3 GLX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_3_lx",
+              "title": "1987 Mazda 323 1.3 LX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_5_glx",
+              "title": "1987 Mazda 323 1.5 GLX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_5_lx",
+              "title": "1987 Mazda 323 1.5 LX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_7_d_glx",
+              "title": "1987 Mazda 323 1.7 D GLX"
+            },
+            {
+              "id": "mod_1987_mazda_323_1_7_d_lx",
+              "title": "1987 Mazda 323 1.7 D LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1985_mazda_323_1_6i_gtx",
+              "title": "1985 Mazda 323 1.6i GTX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1985_mazda_323_1_3_glx",
+              "title": "1985 Mazda 323 1.3 GLX"
+            },
+            {
+              "id": "mod_1985_mazda_323_1_3_lx",
+              "title": "1985 Mazda 323 1.3 LX"
+            },
+            {
+              "id": "mod_1985_mazda_323_1_5_glx",
+              "title": "1985 Mazda 323 1.5 GLX"
+            },
+            {
+              "id": "mod_1985_mazda_323_1_5_lx",
+              "title": "1985 Mazda 323 1.5 LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1985_mazda_323_1_3_lx",
+              "title": "1985 Mazda 323 1.3 LX"
+            },
+            {
+              "id": "mod_1985_mazda_323_1_5_glx",
+              "title": "1985 Mazda 323 1.5 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1985_mazda_323_1_1_l",
+              "title": "1985 Mazda 323 1.1 L"
+            },
+            {
+              "id": "mod_1985_mazda_323_1_1_lx",
+              "title": "1985 Mazda 323 1.1 LX"
+            },
+            {
+              "id": "mod_1985_mazda_323_1_3_glx",
+              "title": "1985 Mazda 323 1.3 GLX"
+            },
+            {
+              "id": "mod_1985_mazda_323_1_3_lx",
+              "title": "1985 Mazda 323 1.3 LX"
+            },
+            {
+              "id": "mod_1985_mazda_323_1_5_glx",
+              "title": "1985 Mazda 323 1.5 GLX"
+            },
+            {
+              "id": "mod_1985_mazda_323_1_5_lx",
+              "title": "1985 Mazda 323 1.5 LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1982_mazda_323_1_3_dx",
+              "title": "1982 Mazda 323 1.3 DX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1982_mazda_323_1_1_dx",
+              "title": "1982 Mazda 323 1.1 DX"
+            },
+            {
+              "id": "mod_1982_mazda_323_1_1_l",
+              "title": "1982 Mazda 323 1.1 L"
+            },
+            {
+              "id": "mod_1982_mazda_323_1_1",
+              "title": "1982 Mazda 323 1.1"
+            },
+            {
+              "id": "mod_1982_mazda_323_1_3_dx",
+              "title": "1982 Mazda 323 1.3 DX"
+            },
+            {
+              "id": "mod_1982_mazda_323_1_5_dx",
+              "title": "1982 Mazda 323 1.5 DX"
+            },
+            {
+              "id": "mod_1982_mazda_323_1_5_gt",
+              "title": "1982 Mazda 323 1.5 GT"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1982_mazda_323_1_3_dx",
+              "title": "1982 Mazda 323 1.3 DX"
+            },
+            {
+              "id": "mod_1982_mazda_323_1_3_l",
+              "title": "1982 Mazda 323 1.3 L"
+            },
+            {
+              "id": "mod_1982_mazda_323_1_5_dx",
+              "title": "1982 Mazda 323 1.5 DX"
+            },
+            {
+              "id": "mod_1982_mazda_323_1_5_gt",
+              "title": "1982 Mazda 323 1.5 GT"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1981_mazda_323_1_3_dx",
+              "title": "1981 Mazda 323 1.3 DX"
+            },
+            {
+              "id": "mod_1981_mazda_323_1_5_dx",
+              "title": "1981 Mazda 323 1.5 DX"
+            },
+            {
+              "id": "mod_1981_mazda_323_1_5_sdx",
+              "title": "1981 Mazda 323 1.5 SDX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1980_mazda_323_1_3_dx",
+              "title": "1980 Mazda 323 1.3 DX"
+            },
+            {
+              "id": "mod_1980_mazda_323_1_5_dx",
+              "title": "1980 Mazda 323 1.5 DX"
+            },
+            {
+              "id": "mod_1980_mazda_323_1_5_gt",
+              "title": "1980 Mazda 323 1.5 GT"
+            },
+            {
+              "id": "mod_1980_mazda_323_1_5_sdx",
+              "title": "1980 Mazda 323 1.5 SDX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1980_mazda_323_1_1_c",
+              "title": "1980 Mazda 323 1.1 C"
+            },
+            {
+              "id": "mod_1980_mazda_323_1_1_dx",
+              "title": "1980 Mazda 323 1.1 DX"
+            },
+            {
+              "id": "mod_1980_mazda_323_1_3_dx",
+              "title": "1980 Mazda 323 1.3 DX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1979_mazda_323_1_3_sec",
+              "title": "1979 Mazda 323 1.3 SEC"
+            },
+            {
+              "id": "mod_1979_mazda_323_1_3_sn",
+              "title": "1979 Mazda 323 1.3 SN"
+            },
+            {
+              "id": "mod_1979_mazda_323_1_4_sn",
+              "title": "1979 Mazda 323 1.4 SN"
+            },
+            {
+              "id": "mod_1979_mazda_323_1_4_ssp",
+              "title": "1979 Mazda 323 1.4 SSP"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323",
+          "title": "Mazda 323",
+          "children": [
+            {
+              "id": "mod_1979_mazda_323_1_3_sn",
+              "title": "1979 Mazda 323 1.3 SN"
+            },
+            {
+              "id": "mod_1979_mazda_323_1_4_sn",
+              "title": "1979 Mazda 323 1.4 SN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_323_estate",
+      "title": "Mazda 323 Estate",
+      "generations": [
+        {
+          "id": "gen_mazda_323_estate",
+          "title": "Mazda 323 Estate",
+          "children": [
+            {
+              "id": "mod_1990_mazda_323_estate_1_6i_glx",
+              "title": "1990 Mazda 323 Estate 1.6i GLX"
+            },
+            {
+              "id": "mod_1990_mazda_323_estate_1_6i_lx",
+              "title": "1990 Mazda 323 Estate 1.6i LX"
+            },
+            {
+              "id": "mod_1990_mazda_323_estate_1_7_d_glx",
+              "title": "1990 Mazda 323 Estate 1.7 D GLX"
+            },
+            {
+              "id": "mod_1990_mazda_323_estate_1_7_d_lx",
+              "title": "1990 Mazda 323 Estate 1.7 D LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323_estate",
+          "title": "Mazda 323 Estate",
+          "children": [
+            {
+              "id": "mod_1987_mazda_323_estate_1_5_glx",
+              "title": "1987 Mazda 323 Estate 1.5 GLX"
+            },
+            {
+              "id": "mod_1987_mazda_323_estate_1_5_lx",
+              "title": "1987 Mazda 323 Estate 1.5 LX"
+            },
+            {
+              "id": "mod_1987_mazda_323_estate_1_7_d_glx",
+              "title": "1987 Mazda 323 Estate 1.7 D GLX"
+            },
+            {
+              "id": "mod_1987_mazda_323_estate_1_7_d_l",
+              "title": "1987 Mazda 323 Estate 1.7 D L"
+            },
+            {
+              "id": "mod_1987_mazda_323_estate_1_7_d_lx",
+              "title": "1987 Mazda 323 Estate 1.7 D LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323_estate",
+          "title": "Mazda 323 Estate",
+          "children": [
+            {
+              "id": "mod_1986_mazda_323_estate_1_3_l",
+              "title": "1986 Mazda 323 Estate 1.3 L"
+            },
+            {
+              "id": "mod_1986_mazda_323_estate_1_3_lx",
+              "title": "1986 Mazda 323 Estate 1.3 LX"
+            },
+            {
+              "id": "mod_1986_mazda_323_estate_1_5_glx",
+              "title": "1986 Mazda 323 Estate 1.5 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323_estate",
+          "title": "Mazda 323 Estate",
+          "children": [
+            {
+              "id": "mod_1986_mazda_323_estate_1_7_d_glx",
+              "title": "1986 Mazda 323 Estate 1.7 D GLX"
+            },
+            {
+              "id": "mod_1986_mazda_323_estate_1_7_d_l",
+              "title": "1986 Mazda 323 Estate 1.7 D L"
+            },
+            {
+              "id": "mod_1986_mazda_323_estate_1_7_d_lx",
+              "title": "1986 Mazda 323 Estate 1.7 D LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323_estate",
+          "title": "Mazda 323 Estate",
+          "children": [
+            {
+              "id": "mod_1982_mazda_323_estate_1_3",
+              "title": "1982 Mazda 323 Estate 1.3"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_323_estate",
+          "title": "Mazda 323 Estate",
+          "children": [
+            {
+              "id": "mod_1979_mazda_323_estate_1_4_sn",
+              "title": "1979 Mazda 323 Estate 1.4 SN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_mazda_121",
+      "title": "Mazda 121",
+      "generations": [
+        {
+          "id": "gen_mazda_121",
+          "title": "Mazda 121",
+          "children": [
+            {
+              "id": "mod_2000_mazda_121_1_25i_glx",
+              "title": "2000 Mazda 121 1.25i GLX"
+            },
+            {
+              "id": "mod_2000_mazda_121_1_3i_glx",
+              "title": "2000 Mazda 121 1.3i GLX"
+            },
+            {
+              "id": "mod_2000_mazda_121_1_8_td_lx",
+              "title": "2000 Mazda 121 1.8 TD LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_121",
+          "title": "Mazda 121",
+          "children": [
+            {
+              "id": "mod_2000_mazda_121_1_25i_glx",
+              "title": "2000 Mazda 121 1.25i GLX"
+            },
+            {
+              "id": "mod_2000_mazda_121_1_3i_glx",
+              "title": "2000 Mazda 121 1.3i GLX"
+            },
+            {
+              "id": "mod_2000_mazda_121_1_8_td_lx",
+              "title": "2000 Mazda 121 1.8 TD LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_121",
+          "title": "Mazda 121",
+          "children": [
+            {
+              "id": "mod_1996_mazda_121_1_25i_glx_cabrio_top",
+              "title": "1996 Mazda 121 1.25i GLX Cabrio Top"
+            },
+            {
+              "id": "mod_1996_mazda_121_1_25i_glx",
+              "title": "1996 Mazda 121 1.25i GLX"
+            },
+            {
+              "id": "mod_1996_mazda_121_1_3i_glx",
+              "title": "1996 Mazda 121 1.3i GLX"
+            },
+            {
+              "id": "mod_1996_mazda_121_1_3i_lx",
+              "title": "1996 Mazda 121 1.3i LX"
+            },
+            {
+              "id": "mod_1996_mazda_121_1_8_d_glx",
+              "title": "1996 Mazda 121 1.8 D GLX"
+            },
+            {
+              "id": "mod_1996_mazda_121_1_8_d_lx",
+              "title": "1996 Mazda 121 1.8 D LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_121",
+          "title": "Mazda 121",
+          "children": [
+            {
+              "id": "mod_1996_mazda_121_1_25i_glx",
+              "title": "1996 Mazda 121 1.25i GLX"
+            },
+            {
+              "id": "mod_1996_mazda_121_1_3i_glx",
+              "title": "1996 Mazda 121 1.3i GLX"
+            },
+            {
+              "id": "mod_1996_mazda_121_1_8_d_glx",
+              "title": "1996 Mazda 121 1.8 D GLX"
+            },
+            {
+              "id": "mod_1996_mazda_121_1_8_d_lx",
+              "title": "1996 Mazda 121 1.8 D LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_121",
+          "title": "Mazda 121",
+          "children": [
+            {
+              "id": "mod_1991_mazda_121_1_3i_glx_cabrio_top",
+              "title": "1991 Mazda 121 1.3i GLX Cabrio Top"
+            },
+            {
+              "id": "mod_1991_mazda_121_1_3i_glx",
+              "title": "1991 Mazda 121 1.3i GLX"
+            },
+            {
+              "id": "mod_1991_mazda_121_1_3i_lx",
+              "title": "1991 Mazda 121 1.3i LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_121",
+          "title": "Mazda 121",
+          "children": [
+            {
+              "id": "mod_1988_mazda_121_1_1_dx",
+              "title": "1988 Mazda 121 1.1 DX"
+            },
+            {
+              "id": "mod_1988_mazda_121_1_1_l",
+              "title": "1988 Mazda 121 1.1 L"
+            },
+            {
+              "id": "mod_1988_mazda_121_1_3_cabrio_top",
+              "title": "1988 Mazda 121 1.3 Cabrio Top"
+            },
+            {
+              "id": "mod_1988_mazda_121_1_3_lx",
+              "title": "1988 Mazda 121 1.3 LX"
+            }
+          ]
+        },
+        {
+          "id": "gen_mazda_121",
+          "title": "Mazda 121",
+          "children": [
+            {
+              "id": "mod_1979_mazda_121_coupe",
+              "title": "1979 Mazda 121 Coupe"
+            },
+            {
+              "id": "mod_1979_mazda_121_landau_coupe",
+              "title": "1979 Mazda 121 Landau Coupe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

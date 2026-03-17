@@ -1,0 +1,544 @@
+{
+  "id": "brand_daewoo",
+  "title": "Daewoo",
+  "models": [
+    {
+      "id": "model_daewoo_lacetti",
+      "title": "Daewoo Lacetti",
+      "generations": [
+        {
+          "id": "gen_daewoo_lacetti",
+          "title": "Daewoo Lacetti",
+          "children": [
+            {
+              "id": "mod_2004_daewoo_lacetti_1_4_spirit",
+              "title": "2004 Daewoo Lacetti 1.4 Spirit"
+            },
+            {
+              "id": "mod_2004_daewoo_lacetti_1_4_style",
+              "title": "2004 Daewoo Lacetti 1.4 Style"
+            },
+            {
+              "id": "mod_2004_daewoo_lacetti_1_6_style",
+              "title": "2004 Daewoo Lacetti 1.6 Style"
+            },
+            {
+              "id": "mod_2004_daewoo_lacetti_1_8_class",
+              "title": "2004 Daewoo Lacetti 1.8 Class"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daewoo_evanda",
+      "title": "Daewoo Evanda",
+      "generations": [
+        {
+          "id": "gen_daewoo_evanda",
+          "title": "Daewoo Evanda",
+          "children": [
+            {
+              "id": "mod_2003_daewoo_evanda_2_0_cdx",
+              "title": "2003 Daewoo Evanda 2.0 CDX"
+            },
+            {
+              "id": "mod_2003_daewoo_evanda_2_0_sx",
+              "title": "2003 Daewoo Evanda 2.0 SX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daewoo_kalos",
+      "title": "Daewoo Kalos",
+      "generations": [
+        {
+          "id": "gen_daewoo_kalos",
+          "title": "Daewoo Kalos",
+          "children": [
+            {
+              "id": "mod_2004_daewoo_kalos_1_4_16v_class",
+              "title": "2004 Daewoo Kalos 1.4 16V Class"
+            },
+            {
+              "id": "mod_2004_daewoo_kalos_1_4_spirit",
+              "title": "2004 Daewoo Kalos 1.4 Spirit"
+            },
+            {
+              "id": "mod_2004_daewoo_kalos_1_4_style",
+              "title": "2004 Daewoo Kalos 1.4 Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_kalos",
+          "title": "Daewoo Kalos",
+          "children": [
+            {
+              "id": "mod_2002_daewoo_kalos_1_4_class",
+              "title": "2002 Daewoo Kalos 1.4 Class"
+            },
+            {
+              "id": "mod_2002_daewoo_kalos_1_4_spirit",
+              "title": "2002 Daewoo Kalos 1.4 Spirit"
+            },
+            {
+              "id": "mod_2002_daewoo_kalos_1_4_style",
+              "title": "2002 Daewoo Kalos 1.4 Style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daewoo_tacuma",
+      "title": "Daewoo Tacuma",
+      "generations": [
+        {
+          "id": "gen_daewoo_tacuma",
+          "title": "Daewoo Tacuma",
+          "children": [
+            {
+              "id": "mod_2004_daewoo_tacuma_1_6_spirit",
+              "title": "2004 Daewoo Tacuma 1.6 Spirit"
+            },
+            {
+              "id": "mod_2004_daewoo_tacuma_1_6_style",
+              "title": "2004 Daewoo Tacuma 1.6 Style"
+            },
+            {
+              "id": "mod_2004_daewoo_tacuma_2_0_class",
+              "title": "2004 Daewoo Tacuma 2.0 Class"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_tacuma",
+          "title": "Daewoo Tacuma",
+          "children": [
+            {
+              "id": "mod_2000_daewoo_tacuma_1_8_se",
+              "title": "2000 Daewoo Tacuma 1.8 SE"
+            },
+            {
+              "id": "mod_2000_daewoo_tacuma_1_8_sx",
+              "title": "2000 Daewoo Tacuma 1.8 SX"
+            },
+            {
+              "id": "mod_2000_daewoo_tacuma_2_0_cdx",
+              "title": "2000 Daewoo Tacuma 2.0 CDX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daewoo_matiz",
+      "title": "Daewoo Matiz",
+      "generations": [
+        {
+          "id": "gen_daewoo_matiz",
+          "title": "Daewoo Matiz",
+          "children": [
+            {
+              "id": "mod_2001_daewoo_matiz_0_8_class",
+              "title": "2001 Daewoo Matiz 0.8 Class"
+            },
+            {
+              "id": "mod_2001_daewoo_matiz_0_8_pure",
+              "title": "2001 Daewoo Matiz 0.8 Pure"
+            },
+            {
+              "id": "mod_2001_daewoo_matiz_0_8_spirit",
+              "title": "2001 Daewoo Matiz 0.8 Spirit"
+            },
+            {
+              "id": "mod_2001_daewoo_matiz_0_8_style",
+              "title": "2001 Daewoo Matiz 0.8 Style"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_matiz",
+          "title": "Daewoo Matiz",
+          "children": [
+            {
+              "id": "mod_1998_daewoo_matiz_s",
+              "title": "1998 Daewoo Matiz S"
+            },
+            {
+              "id": "mod_1998_daewoo_matiz_se",
+              "title": "1998 Daewoo Matiz SE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daewoo_nubira",
+      "title": "Daewoo Nubira",
+      "generations": [
+        {
+          "id": "gen_daewoo_nubira",
+          "title": "Daewoo Nubira",
+          "children": [
+            {
+              "id": "mod_2003_daewoo_nubira_1_6_spirit",
+              "title": "2003 Daewoo Nubira 1.6 Spirit"
+            },
+            {
+              "id": "mod_2003_daewoo_nubira_1_6_style",
+              "title": "2003 Daewoo Nubira 1.6 Style"
+            },
+            {
+              "id": "mod_2003_daewoo_nubira_1_8_class",
+              "title": "2003 Daewoo Nubira 1.8 Class"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_nubira",
+          "title": "Daewoo Nubira",
+          "children": [
+            {
+              "id": "mod_1999_daewoo_nubira_1_6_se",
+              "title": "1999 Daewoo Nubira 1.6 SE"
+            },
+            {
+              "id": "mod_1999_daewoo_nubira_1_6_sx",
+              "title": "1999 Daewoo Nubira 1.6 SX"
+            },
+            {
+              "id": "mod_1999_daewoo_nubira_2_0_cdx",
+              "title": "1999 Daewoo Nubira 2.0 CDX"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_nubira",
+          "title": "Daewoo Nubira",
+          "children": [
+            {
+              "id": "mod_1999_daewoo_nubira_1_6_se",
+              "title": "1999 Daewoo Nubira 1.6 SE"
+            },
+            {
+              "id": "mod_1999_daewoo_nubira_1_6_sx",
+              "title": "1999 Daewoo Nubira 1.6 SX"
+            },
+            {
+              "id": "mod_1999_daewoo_nubira_2_0_cdx",
+              "title": "1999 Daewoo Nubira 2.0 CDX"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_nubira",
+          "title": "Daewoo Nubira",
+          "children": [
+            {
+              "id": "mod_1997_daewoo_nubira_1_6_se",
+              "title": "1997 Daewoo Nubira 1.6 SE"
+            },
+            {
+              "id": "mod_1997_daewoo_nubira_1_6_sx",
+              "title": "1997 Daewoo Nubira 1.6 SX"
+            },
+            {
+              "id": "mod_1997_daewoo_nubira_2_0_cdx",
+              "title": "1997 Daewoo Nubira 2.0 CDX"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_nubira",
+          "title": "Daewoo Nubira",
+          "children": [
+            {
+              "id": "mod_1997_daewoo_nubira_1_6_se",
+              "title": "1997 Daewoo Nubira 1.6 SE"
+            },
+            {
+              "id": "mod_1997_daewoo_nubira_2_0_cdx",
+              "title": "1997 Daewoo Nubira 2.0 CDX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daewoo_nubira_wagon",
+      "title": "Daewoo Nubira Wagon",
+      "generations": [
+        {
+          "id": "gen_daewoo_nubira_wagon",
+          "title": "Daewoo Nubira Wagon",
+          "children": [
+            {
+              "id": "mod_1999_daewoo_nubira_wagon_1_6_se",
+              "title": "1999 Daewoo Nubira Wagon 1.6 SE"
+            },
+            {
+              "id": "mod_1999_daewoo_nubira_wagon_1_6_sx",
+              "title": "1999 Daewoo Nubira Wagon 1.6 SX"
+            },
+            {
+              "id": "mod_1999_daewoo_nubira_wagon_2_0_cdx",
+              "title": "1999 Daewoo Nubira Wagon 2.0 CDX"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_nubira_wagon",
+          "title": "Daewoo Nubira Wagon",
+          "children": [
+            {
+              "id": "mod_1997_daewoo_nubira_wagon_1_6_se",
+              "title": "1997 Daewoo Nubira Wagon 1.6 SE"
+            },
+            {
+              "id": "mod_1997_daewoo_nubira_wagon_1_6_sx",
+              "title": "1997 Daewoo Nubira Wagon 1.6 SX"
+            },
+            {
+              "id": "mod_1997_daewoo_nubira_wagon_2_0_cdx",
+              "title": "1997 Daewoo Nubira Wagon 2.0 CDX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daewoo_lanos",
+      "title": "Daewoo Lanos",
+      "generations": [
+        {
+          "id": "gen_daewoo_lanos",
+          "title": "Daewoo Lanos",
+          "children": [
+            {
+              "id": "mod_2001_daewoo_lanos_1_3_pure",
+              "title": "2001 Daewoo Lanos 1.3 Pure"
+            },
+            {
+              "id": "mod_2001_daewoo_lanos_1_5_pure",
+              "title": "2001 Daewoo Lanos 1.5 Pure"
+            },
+            {
+              "id": "mod_2001_daewoo_lanos_1_5_spirit",
+              "title": "2001 Daewoo Lanos 1.5 Spirit"
+            },
+            {
+              "id": "mod_2001_daewoo_lanos_1_5_style",
+              "title": "2001 Daewoo Lanos 1.5 Style"
+            },
+            {
+              "id": "mod_2001_daewoo_lanos_1_6_sport",
+              "title": "2001 Daewoo Lanos 1.6 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_lanos",
+          "title": "Daewoo Lanos",
+          "children": [
+            {
+              "id": "mod_2001_daewoo_lanos_1_3_pure",
+              "title": "2001 Daewoo Lanos 1.3 Pure"
+            },
+            {
+              "id": "mod_2001_daewoo_lanos_1_5_spirit",
+              "title": "2001 Daewoo Lanos 1.5 Spirit"
+            },
+            {
+              "id": "mod_2001_daewoo_lanos_1_6_sport",
+              "title": "2001 Daewoo Lanos 1.6 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_lanos",
+          "title": "Daewoo Lanos",
+          "children": [
+            {
+              "id": "mod_2001_daewoo_lanos_1_3_pure",
+              "title": "2001 Daewoo Lanos 1.3 Pure"
+            },
+            {
+              "id": "mod_2001_daewoo_lanos_1_5_pure",
+              "title": "2001 Daewoo Lanos 1.5 Pure"
+            },
+            {
+              "id": "mod_2001_daewoo_lanos_1_5_spirit",
+              "title": "2001 Daewoo Lanos 1.5 Spirit"
+            },
+            {
+              "id": "mod_2001_daewoo_lanos_1_5_style",
+              "title": "2001 Daewoo Lanos 1.5 Style"
+            },
+            {
+              "id": "mod_2001_daewoo_lanos_1_6_sport",
+              "title": "2001 Daewoo Lanos 1.6 Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_lanos",
+          "title": "Daewoo Lanos",
+          "children": [
+            {
+              "id": "mod_1997_daewoo_lanos_1_3_se",
+              "title": "1997 Daewoo Lanos 1.3 SE"
+            },
+            {
+              "id": "mod_1997_daewoo_lanos_1_5_se",
+              "title": "1997 Daewoo Lanos 1.5 SE"
+            },
+            {
+              "id": "mod_1997_daewoo_lanos_1_5_sx",
+              "title": "1997 Daewoo Lanos 1.5 SX"
+            },
+            {
+              "id": "mod_1997_daewoo_lanos_1_6_sxi",
+              "title": "1997 Daewoo Lanos 1.6 SXi"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_lanos",
+          "title": "Daewoo Lanos",
+          "children": [
+            {
+              "id": "mod_1997_daewoo_lanos_1_3_se",
+              "title": "1997 Daewoo Lanos 1.3 SE"
+            },
+            {
+              "id": "mod_1997_daewoo_lanos_1_5_se",
+              "title": "1997 Daewoo Lanos 1.5 SE"
+            },
+            {
+              "id": "mod_1997_daewoo_lanos_1_5_sx",
+              "title": "1997 Daewoo Lanos 1.5 SX"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_lanos",
+          "title": "Daewoo Lanos",
+          "children": [
+            {
+              "id": "mod_1997_daewoo_lanos_1_3_se",
+              "title": "1997 Daewoo Lanos 1.3 SE"
+            },
+            {
+              "id": "mod_1997_daewoo_lanos_1_5_se",
+              "title": "1997 Daewoo Lanos 1.5 SE"
+            },
+            {
+              "id": "mod_1997_daewoo_lanos_1_5_sx",
+              "title": "1997 Daewoo Lanos 1.5 SX"
+            },
+            {
+              "id": "mod_1997_daewoo_lanos_1_6_sxi",
+              "title": "1997 Daewoo Lanos 1.6 SXi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daewoo_leganza",
+      "title": "Daewoo Leganza",
+      "generations": [
+        {
+          "id": "gen_daewoo_leganza",
+          "title": "Daewoo Leganza",
+          "children": [
+            {
+              "id": "mod_1997_daewoo_leganza_2_0_cdx",
+              "title": "1997 Daewoo Leganza 2.0 CDX"
+            },
+            {
+              "id": "mod_1997_daewoo_leganza_2_0_sx",
+              "title": "1997 Daewoo Leganza 2.0 SX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daewoo_nexia",
+      "title": "Daewoo Nexia",
+      "generations": [
+        {
+          "id": "gen_daewoo_nexia",
+          "title": "Daewoo Nexia",
+          "children": [
+            {
+              "id": "mod_1995_daewoo_nexia_1_5_gl",
+              "title": "1995 Daewoo Nexia 1.5 GL"
+            },
+            {
+              "id": "mod_1995_daewoo_nexia_1_5_gtx",
+              "title": "1995 Daewoo Nexia 1.5 GTX"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_nexia",
+          "title": "Daewoo Nexia",
+          "children": [
+            {
+              "id": "mod_1995_daewoo_nexia_1_5_gl",
+              "title": "1995 Daewoo Nexia 1.5 GL"
+            },
+            {
+              "id": "mod_1995_daewoo_nexia_1_5_glx",
+              "title": "1995 Daewoo Nexia 1.5 GLX"
+            }
+          ]
+        },
+        {
+          "id": "gen_daewoo_nexia",
+          "title": "Daewoo Nexia",
+          "children": [
+            {
+              "id": "mod_1995_daewoo_nexia_1_5_gl",
+              "title": "1995 Daewoo Nexia 1.5 GL"
+            },
+            {
+              "id": "mod_1995_daewoo_nexia_1_5_gtx",
+              "title": "1995 Daewoo Nexia 1.5 GTX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_daewoo_espero",
+      "title": "Daewoo Espero",
+      "generations": [
+        {
+          "id": "gen_daewoo_espero",
+          "title": "Daewoo Espero",
+          "children": [
+            {
+              "id": "mod_1995_daewoo_espero_1_5_glx",
+              "title": "1995 Daewoo Espero 1.5 GLX"
+            },
+            {
+              "id": "mod_1995_daewoo_espero_1_8_cd",
+              "title": "1995 Daewoo Espero 1.8 CD"
+            },
+            {
+              "id": "mod_1995_daewoo_espero_2_0_cd",
+              "title": "1995 Daewoo Espero 2.0 CD"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

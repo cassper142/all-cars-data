@@ -1,0 +1,630 @@
+{
+  "id": "brand_ssangyong",
+  "title": "Ssangyong",
+  "models": [
+    {
+      "id": "model_ssangyong_actyon_sports",
+      "title": "Ssangyong Actyon Sports",
+      "generations": [
+        {
+          "id": "gen_ssangyong_actyon_sports",
+          "title": "Ssangyong Actyon Sports",
+          "children": [
+            {
+              "id": "mod_2016_ssangyong_actyon_sports_2_0_crystal_2wd",
+              "title": "2016 Ssangyong Actyon Sports 2.0 Crystal 2WD"
+            },
+            {
+              "id": "mod_2016_ssangyong_actyon_sports_2_0_crystal_4wd",
+              "title": "2016 Ssangyong Actyon Sports 2.0 Crystal 4WD"
+            },
+            {
+              "id": "mod_2016_ssangyong_actyon_sports_2_0_quartz_4wd",
+              "title": "2016 Ssangyong Actyon Sports 2.0 Quartz 4WD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ssangyong_xlv",
+      "title": "Ssangyong XLV",
+      "generations": [
+        {
+          "id": "gen_ssangyong_xlv",
+          "title": "Ssangyong XLV",
+          "children": [
+            {
+              "id": "mod_2016_ssangyong_xlv_1_6_crystal_2wd",
+              "title": "2016 Ssangyong XLV 1.6 Crystal 2WD"
+            },
+            {
+              "id": "mod_2016_ssangyong_xlv_1_6_e_xdi_crystal_2wd",
+              "title": "2016 Ssangyong XLV 1.6 E-XDi Crystal 2WD"
+            },
+            {
+              "id": "mod_2016_ssangyong_xlv_1_6_e_xdi_quartz_2wd",
+              "title": "2016 Ssangyong XLV 1.6 E-XDi Quartz 2WD"
+            },
+            {
+              "id": "mod_2016_ssangyong_xlv_1_6_e_xdi_sapphire_2wd",
+              "title": "2016 Ssangyong XLV 1.6 E-XDi Sapphire 2WD"
+            },
+            {
+              "id": "mod_2016_ssangyong_xlv_1_6_quartz_2wd",
+              "title": "2016 Ssangyong XLV 1.6 Quartz 2WD"
+            },
+            {
+              "id": "mod_2016_ssangyong_xlv_1_6_sapphire_2wd",
+              "title": "2016 Ssangyong XLV 1.6 Sapphire 2WD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ssangyong_tivoli",
+      "title": "Ssangyong Tivoli",
+      "generations": [
+        {
+          "id": "gen_ssangyong_tivoli",
+          "title": "Ssangyong Tivoli",
+          "children": [
+            {
+              "id": "mod_2015_ssangyong_tivoli_1_6_crystal_2wd",
+              "title": "2015 Ssangyong Tivoli 1.6 Crystal 2WD"
+            },
+            {
+              "id": "mod_2015_ssangyong_tivoli_1_6_quartz_2wd",
+              "title": "2015 Ssangyong Tivoli 1.6 Quartz 2WD"
+            },
+            {
+              "id": "mod_2015_ssangyong_tivoli_1_6_sapphire_2wd",
+              "title": "2015 Ssangyong Tivoli 1.6 Sapphire 2WD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ssangyong_rexton",
+      "title": "Ssangyong Rexton",
+      "generations": [
+        {
+          "id": "gen_ssangyong_rexton",
+          "title": "Ssangyong Rexton",
+          "children": [
+            {
+              "id": "mod_2013_ssangyong_rexton_w_xdi_2wd_crystal",
+              "title": "2013 Ssangyong Rexton W XDI 2WD Crystal"
+            },
+            {
+              "id": "mod_2013_ssangyong_rexton_w_xdi_4wd_crystal",
+              "title": "2013 Ssangyong Rexton W XDI 4WD Crystal"
+            },
+            {
+              "id": "mod_2013_ssangyong_rexton_w_xdi_4wd_quartz",
+              "title": "2013 Ssangyong Rexton W XDI 4WD Quartz"
+            },
+            {
+              "id": "mod_2013_ssangyong_rexton_w_xdi_4wd_sapphire",
+              "title": "2013 Ssangyong Rexton W XDI 4WD Sapphire"
+            }
+          ]
+        },
+        {
+          "id": "gen_ssangyong_rexton",
+          "title": "Ssangyong Rexton",
+          "children": [
+            {
+              "id": "mod_2011_ssangyong_rexton_xdi_crystal",
+              "title": "2011 Ssangyong Rexton XDI Crystal"
+            },
+            {
+              "id": "mod_2011_ssangyong_rexton_xvt_quartz",
+              "title": "2011 Ssangyong Rexton XVT Quartz"
+            },
+            {
+              "id": "mod_2011_ssangyong_rexton_xvt_sapphire",
+              "title": "2011 Ssangyong Rexton XVT Sapphire"
+            }
+          ]
+        },
+        {
+          "id": "gen_ssangyong_rexton",
+          "title": "Ssangyong Rexton",
+          "children": [
+            {
+              "id": "mod_2006_ssangyong_rexton_rj_270_xdi",
+              "title": "2006 Ssangyong Rexton RJ 270 Xdi"
+            },
+            {
+              "id": "mod_2006_ssangyong_rexton_rx_270_xdi_dynamic",
+              "title": "2006 Ssangyong Rexton RX 270 Xdi Dynamic"
+            },
+            {
+              "id": "mod_2006_ssangyong_rexton_rx_270_xdi_sport",
+              "title": "2006 Ssangyong Rexton RX 270 Xdi Sport"
+            }
+          ]
+        },
+        {
+          "id": "gen_ssangyong_rexton",
+          "title": "Ssangyong Rexton",
+          "children": [
+            {
+              "id": "mod_2002_ssangyong_rexton_rx_290",
+              "title": "2002 Ssangyong Rexton RX 290"
+            },
+            {
+              "id": "mod_2002_ssangyong_rexton_rx_320_s",
+              "title": "2002 Ssangyong Rexton RX 320 S"
+            },
+            {
+              "id": "mod_2002_ssangyong_rexton_rx_320",
+              "title": "2002 Ssangyong Rexton RX 320"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ssangyong_korando",
+      "title": "Ssangyong Korando",
+      "generations": [
+        {
+          "id": "gen_ssangyong_korando",
+          "title": "Ssangyong Korando",
+          "children": [
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_xdi_crystal_2wd",
+              "title": "2014 Ssangyong Korando 2.0 XDi Crystal 2WD"
+            },
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_xdi_quartz_2wd",
+              "title": "2014 Ssangyong Korando 2.0 XDi Quartz 2WD"
+            },
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_xdi_quartz_4wd",
+              "title": "2014 Ssangyong Korando 2.0 XDi Quartz 4WD"
+            },
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_xdi_sapphire_2wd",
+              "title": "2014 Ssangyong Korando 2.0 XDi Sapphire 2WD"
+            },
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_xdi_sapphire_4wd",
+              "title": "2014 Ssangyong Korando 2.0 XDi Sapphire 4WD"
+            }
+          ]
+        },
+        {
+          "id": "gen_ssangyong_korando",
+          "title": "Ssangyong Korando",
+          "children": [
+            {
+              "id": "mod_2011_ssangyong_korando_2_0_xdi_crystal_2wd",
+              "title": "2011 Ssangyong Korando 2.0 XDi Crystal 2WD"
+            },
+            {
+              "id": "mod_2011_ssangyong_korando_2_0_xdi_quartz_2wd",
+              "title": "2011 Ssangyong Korando 2.0 XDi Quartz 2WD"
+            },
+            {
+              "id": "mod_2011_ssangyong_korando_2_0_xdi_quartz_4wd",
+              "title": "2011 Ssangyong Korando 2.0 XDi Quartz 4WD"
+            },
+            {
+              "id": "mod_2011_ssangyong_korando_2_0_xdi_sapphire_2wd",
+              "title": "2011 Ssangyong Korando 2.0 XDi Sapphire 2WD"
+            },
+            {
+              "id": "mod_2011_ssangyong_korando_2_0_xdi_sapphire_4wd",
+              "title": "2011 Ssangyong Korando 2.0 XDi Sapphire 4WD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ssangyong_rexton",
+      "title": "Ssangyong Rexton",
+      "generations": [
+        {
+          "id": "gen_ssangyong_rexton",
+          "title": "Ssangyong Rexton",
+          "children": [
+            {
+              "id": "mod_2013_ssangyong_rexton_w_xdi_2wd_crystal",
+              "title": "2013 Ssangyong Rexton W XDI 2WD Crystal"
+            },
+            {
+              "id": "mod_2013_ssangyong_rexton_w_xdi_4wd_crystal",
+              "title": "2013 Ssangyong Rexton W XDI 4WD Crystal"
+            },
+            {
+              "id": "mod_2013_ssangyong_rexton_w_xdi_4wd_quartz",
+              "title": "2013 Ssangyong Rexton W XDI 4WD Quartz"
+            },
+            {
+              "id": "mod_2013_ssangyong_rexton_w_xdi_4wd_sapphire",
+              "title": "2013 Ssangyong Rexton W XDI 4WD Sapphire"
+            }
+          ]
+        },
+        {
+          "id": "gen_ssangyong_rexton",
+          "title": "Ssangyong Rexton",
+          "children": [
+            {
+              "id": "mod_2011_ssangyong_rexton_xvt_quartz",
+              "title": "2011 Ssangyong Rexton XVT Quartz"
+            },
+            {
+              "id": "mod_2011_ssangyong_rexton_xvt_sapphire",
+              "title": "2011 Ssangyong Rexton XVT Sapphire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ssangyong_actyon_sports",
+      "title": "Ssangyong Actyon Sports",
+      "generations": [
+        {
+          "id": "gen_ssangyong_actyon_sports",
+          "title": "Ssangyong Actyon Sports",
+          "children": [
+            {
+              "id": "mod_2012_ssangyong_actyon_sports_2_0_crystal_2wd",
+              "title": "2012 Ssangyong Actyon Sports 2.0 Crystal 2WD"
+            },
+            {
+              "id": "mod_2012_ssangyong_actyon_sports_2_0_crystal_4wd",
+              "title": "2012 Ssangyong Actyon Sports 2.0 Crystal 4WD"
+            },
+            {
+              "id": "mod_2012_ssangyong_actyon_sports_2_0_quartz_4wd",
+              "title": "2012 Ssangyong Actyon Sports 2.0 Quartz 4WD"
+            },
+            {
+              "id": "mod_2012_ssangyong_actyon_sports_2_0_sapphire_4wd",
+              "title": "2012 Ssangyong Actyon Sports 2.0 Sapphire 4WD"
+            }
+          ]
+        },
+        {
+          "id": "gen_ssangyong_actyon_sports",
+          "title": "Ssangyong Actyon Sports",
+          "children": [
+            {
+              "id": "mod_2007_ssangyong_actyon_sports_a200_xdi_2wd_direct",
+              "title": "2007 Ssangyong Actyon Sports A200 Xdi 2WD Direct"
+            },
+            {
+              "id": "mod_2007_ssangyong_actyon_sports_a200_xdi_2wd_dynamic",
+              "title": "2007 Ssangyong Actyon Sports A200 Xdi 2WD Dynamic"
+            },
+            {
+              "id": "mod_2007_ssangyong_actyon_sports_a200_xdi_2wd_sport",
+              "title": "2007 Ssangyong Actyon Sports A200 Xdi 2WD Sport"
+            },
+            {
+              "id": "mod_2007_ssangyong_actyon_sports_a200_xdi_4wd_dynamic",
+              "title": "2007 Ssangyong Actyon Sports A200 Xdi 4WD Dynamic"
+            },
+            {
+              "id": "mod_2007_ssangyong_actyon_sports_a200_xdi_4wd_sport",
+              "title": "2007 Ssangyong Actyon Sports A200 Xdi 4WD Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ssangyong_actyon",
+      "title": "Ssangyong Actyon",
+      "generations": [
+        {
+          "id": "gen_ssangyong_actyon",
+          "title": "Ssangyong Actyon",
+          "children": [
+            {
+              "id": "mod_2006_ssangyong_actyon_a200_xdi_2wd_dynamic",
+              "title": "2006 Ssangyong Actyon A200 Xdi 2WD Dynamic"
+            },
+            {
+              "id": "mod_2006_ssangyong_actyon_a200_xdi_2wd_sport",
+              "title": "2006 Ssangyong Actyon A200 Xdi 2WD Sport"
+            },
+            {
+              "id": "mod_2006_ssangyong_actyon_a200_xdi_4wd_dynamic",
+              "title": "2006 Ssangyong Actyon A200 Xdi 4WD Dynamic"
+            },
+            {
+              "id": "mod_2006_ssangyong_actyon_a200_xdi_4wd_sport",
+              "title": "2006 Ssangyong Actyon A200 Xdi 4WD Sport"
+            },
+            {
+              "id": "mod_2006_ssangyong_actyon_a200_xdi_4wd_sx",
+              "title": "2006 Ssangyong Actyon A200 Xdi 4WD Sx"
+            },
+            {
+              "id": "mod_2006_ssangyong_actyon_a230_2wd_dynamic",
+              "title": "2006 Ssangyong Actyon A230 2WD Dynamic"
+            },
+            {
+              "id": "mod_2006_ssangyong_actyon_a230_2wd_sport",
+              "title": "2006 Ssangyong Actyon A230 2WD Sport"
+            },
+            {
+              "id": "mod_2006_ssangyong_actyon_a230_4wd_dynamic",
+              "title": "2006 Ssangyong Actyon A230 4WD Dynamic"
+            },
+            {
+              "id": "mod_2006_ssangyong_actyon_a230_4wd_sport",
+              "title": "2006 Ssangyong Actyon A230 4WD Sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ssangyong_kyron",
+      "title": "Ssangyong Kyron",
+      "generations": [
+        {
+          "id": "gen_ssangyong_kyron",
+          "title": "Ssangyong Kyron",
+          "children": [
+            {
+              "id": "mod_2007_ssangyong_kyron_m_200_xdi_2wd_direct",
+              "title": "2007 Ssangyong Kyron M 200 Xdi 2WD Direct"
+            },
+            {
+              "id": "mod_2007_ssangyong_kyron_m_200_xdi_2wd_dynamic",
+              "title": "2007 Ssangyong Kyron M 200 Xdi 2WD Dynamic"
+            },
+            {
+              "id": "mod_2007_ssangyong_kyron_m_200_xdi_2wd_sport",
+              "title": "2007 Ssangyong Kyron M 200 Xdi 2WD Sport"
+            },
+            {
+              "id": "mod_2007_ssangyong_kyron_m_200_xdi_4wd_dynamic",
+              "title": "2007 Ssangyong Kyron M 200 Xdi 4WD Dynamic"
+            },
+            {
+              "id": "mod_2007_ssangyong_kyron_m_200_xdi_4wd_sport",
+              "title": "2007 Ssangyong Kyron M 200 Xdi 4WD Sport"
+            },
+            {
+              "id": "mod_2007_ssangyong_kyron_m_270_xdi_4wd",
+              "title": "2007 Ssangyong Kyron M 270 Xdi 4WD"
+            }
+          ]
+        },
+        {
+          "id": "gen_ssangyong_kyron",
+          "title": "Ssangyong Kyron",
+          "children": [
+            {
+              "id": "mod_2005_ssangyong_kyron_m_200_xdi_2wd_s",
+              "title": "2005 Ssangyong Kyron M 200 Xdi 2WD S"
+            },
+            {
+              "id": "mod_2005_ssangyong_kyron_m_200_xdi_2wd",
+              "title": "2005 Ssangyong Kyron M 200 Xdi 2WD"
+            },
+            {
+              "id": "mod_2005_ssangyong_kyron_m_200_xdi_4wd_s",
+              "title": "2005 Ssangyong Kyron M 200 Xdi 4WD S"
+            },
+            {
+              "id": "mod_2005_ssangyong_kyron_m_200_xdi_4wd",
+              "title": "2005 Ssangyong Kyron M 200 Xdi 4WD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ssangyong_rodius",
+      "title": "Ssangyong Rodius",
+      "generations": [
+        {
+          "id": "gen_ssangyong_rodius",
+          "title": "Ssangyong Rodius",
+          "children": [
+            {
+              "id": "mod_2014_ssangyong_rodius_2_0d_2wd_crystal",
+              "title": "2014 Ssangyong Rodius 2.0D 2WD Crystal"
+            },
+            {
+              "id": "mod_2014_ssangyong_rodius_2_0d_2wd_quartz",
+              "title": "2014 Ssangyong Rodius 2.0D 2WD Quartz"
+            },
+            {
+              "id": "mod_2014_ssangyong_rodius_2_0d_2wd_sapphire",
+              "title": "2014 Ssangyong Rodius 2.0D 2WD Sapphire"
+            },
+            {
+              "id": "mod_2014_ssangyong_rodius_2_0d_4wd_quartz",
+              "title": "2014 Ssangyong Rodius 2.0D 4WD Quartz"
+            },
+            {
+              "id": "mod_2014_ssangyong_rodius_2_0d_4wd_sapphire",
+              "title": "2014 Ssangyong Rodius 2.0D 4WD Sapphire"
+            }
+          ]
+        },
+        {
+          "id": "gen_ssangyong_rodius",
+          "title": "Ssangyong Rodius",
+          "children": [
+            {
+              "id": "mod_2005_ssangyong_rodius_sv_270j",
+              "title": "2005 Ssangyong Rodius SV 270J"
+            },
+            {
+              "id": "mod_2005_ssangyong_rodius_sv_270x",
+              "title": "2005 Ssangyong Rodius SV 270X"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ssangyong_korando",
+      "title": "Ssangyong Korando",
+      "generations": [
+        {
+          "id": "gen_ssangyong_korando",
+          "title": "Ssangyong Korando",
+          "children": [
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_quartz_2wd",
+              "title": "2014 Ssangyong Korando 2.0 Quartz 2WD"
+            },
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_quartz_4wd",
+              "title": "2014 Ssangyong Korando 2.0 Quartz 4WD"
+            },
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_sapphire_2wd",
+              "title": "2014 Ssangyong Korando 2.0 Sapphire 2WD"
+            },
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_sapphire_4wd",
+              "title": "2014 Ssangyong Korando 2.0 Sapphire 4WD"
+            },
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_xdi_quartz_2wd",
+              "title": "2014 Ssangyong Korando 2.0 XDi Quartz 2WD"
+            },
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_xdi_quartz_4wd",
+              "title": "2014 Ssangyong Korando 2.0 XDi Quartz 4WD"
+            },
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_xdi_sapphire_2wd",
+              "title": "2014 Ssangyong Korando 2.0 XDi Sapphire 2WD"
+            },
+            {
+              "id": "mod_2014_ssangyong_korando_2_0_xdi_sapphire_4wd",
+              "title": "2014 Ssangyong Korando 2.0 XDi Sapphire 4WD"
+            }
+          ]
+        },
+        {
+          "id": "gen_ssangyong_korando",
+          "title": "Ssangyong Korando",
+          "children": [
+            {
+              "id": "mod_2011_ssangyong_korando_2_0_xdi_crystal_2wd",
+              "title": "2011 Ssangyong Korando 2.0 XDi Crystal 2WD"
+            },
+            {
+              "id": "mod_2011_ssangyong_korando_2_0_xdi_quartz_2wd",
+              "title": "2011 Ssangyong Korando 2.0 XDi Quartz 2WD"
+            },
+            {
+              "id": "mod_2011_ssangyong_korando_2_0_xdi_quartz_4wd",
+              "title": "2011 Ssangyong Korando 2.0 XDi Quartz 4WD"
+            },
+            {
+              "id": "mod_2011_ssangyong_korando_2_0_xdi_sapphire_2wd",
+              "title": "2011 Ssangyong Korando 2.0 XDi Sapphire 2WD"
+            },
+            {
+              "id": "mod_2011_ssangyong_korando_2_0_xdi_sapphire_4wd",
+              "title": "2011 Ssangyong Korando 2.0 XDi Sapphire 4WD"
+            }
+          ]
+        },
+        {
+          "id": "gen_ssangyong_korando",
+          "title": "Ssangyong Korando",
+          "children": [
+            {
+              "id": "mod_1997_ssangyong_korando_d_2_3",
+              "title": "1997 Ssangyong Korando D 2.3"
+            },
+            {
+              "id": "mod_1997_ssangyong_korando_dl_2_9",
+              "title": "1997 Ssangyong Korando DL 2.9"
+            },
+            {
+              "id": "mod_1997_ssangyong_korando_dx_2_9",
+              "title": "1997 Ssangyong Korando DX 2.9"
+            }
+          ]
+        },
+        {
+          "id": "gen_ssangyong_korando",
+          "title": "Ssangyong Korando",
+          "children": [
+            {
+              "id": "mod_1995_ssangyong_korando_k4",
+              "title": "1995 Ssangyong Korando K4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_ssangyong_musso",
+      "title": "Ssangyong Musso",
+      "generations": [
+        {
+          "id": "gen_ssangyong_musso",
+          "title": "Ssangyong Musso",
+          "children": [
+            {
+              "id": "mod_1998_ssangyong_musso_e_2_3",
+              "title": "1998 Ssangyong Musso E 2.3"
+            },
+            {
+              "id": "mod_1998_ssangyong_musso_ex_3_2",
+              "title": "1998 Ssangyong Musso EX 3.2"
+            },
+            {
+              "id": "mod_1998_ssangyong_musso_td_2_3",
+              "title": "1998 Ssangyong Musso TD 2.3"
+            },
+            {
+              "id": "mod_1998_ssangyong_musso_tdl_2_9",
+              "title": "1998 Ssangyong Musso TDL 2.9"
+            },
+            {
+              "id": "mod_1998_ssangyong_musso_tdx_2_9",
+              "title": "1998 Ssangyong Musso TDX 2.9"
+            }
+          ]
+        },
+        {
+          "id": "gen_ssangyong_musso",
+          "title": "Ssangyong Musso",
+          "children": [
+            {
+              "id": "mod_1995_ssangyong_musso_602_el",
+              "title": "1995 Ssangyong Musso 602 EL"
+            },
+            {
+              "id": "mod_1995_ssangyong_musso_602_elx",
+              "title": "1995 Ssangyong Musso 602 ELX"
+            },
+            {
+              "id": "mod_1995_ssangyong_musso_602",
+              "title": "1995 Ssangyong Musso 602"
+            },
+            {
+              "id": "mod_1995_ssangyong_musso_d_2_9_602_l",
+              "title": "1995 Ssangyong Musso D 2.9 (602 L)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

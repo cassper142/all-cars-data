@@ -1,0 +1,3134 @@
+{
+  "id": "brand_alfa_romeo",
+  "title": "Alfa Romeo",
+  "models": [
+    {
+      "id": "model_alfa_romeo_stelvio",
+      "title": "Alfa Romeo Stelvio",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_stelvio",
+          "title": "Alfa Romeo Stelvio",
+          "children": [
+            {
+              "id": "mod_2020_alfa_romeo_stelvio_2_0t_200hp_awd_sprint",
+              "title": "2020 Alfa Romeo Stelvio 2.0T 200hp AWD Sprint"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_stelvio_2_0t_200hp_awd_super",
+              "title": "2020 Alfa Romeo Stelvio 2.0T 200hp AWD Super"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_stelvio_2_0t_200hp_awd_ti",
+              "title": "2020 Alfa Romeo Stelvio 2.0T 200hp AWD TI"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_stelvio_2_0t_200hp_awd",
+              "title": "2020 Alfa Romeo Stelvio 2.0T 200hp AWD"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_stelvio_2_0t_280hp_awd_veloce",
+              "title": "2020 Alfa Romeo Stelvio 2.0T 280hp AWD Veloce"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_stelvio_2_2_jtd_190hp_sprint",
+              "title": "2020 Alfa Romeo Stelvio 2.2 JTD 190hp Sprint"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_stelvio_2_2_jtd_190hp_super",
+              "title": "2020 Alfa Romeo Stelvio 2.2 JTD 190hp Super"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_stelvio_2_2_jtd_190hp_ti",
+              "title": "2020 Alfa Romeo Stelvio 2.2 JTD 190hp TI"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_stelvio_2_2_jtd_210hp_awd_veloce",
+              "title": "2020 Alfa Romeo Stelvio 2.2 JTD 210hp AWD Veloce"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_stelvio_2_9_v6_awd_quadrifoglio",
+              "title": "2020 Alfa Romeo Stelvio 2.9 V6 AWD Quadrifoglio"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_stelvio",
+          "title": "Alfa Romeo Stelvio",
+          "children": [
+            {
+              "id": "mod_2017_alfa_romeo_stelvio_2_0t_200hp_awd_super",
+              "title": "2017 Alfa Romeo Stelvio 2.0T 200hp AWD Super"
+            },
+            {
+              "id": "mod_2017_alfa_romeo_stelvio_2_0t_200hp_awd",
+              "title": "2017 Alfa Romeo Stelvio 2.0T 200hp AWD"
+            },
+            {
+              "id": "mod_2017_alfa_romeo_stelvio_2_0t_280hp_awd_first_edition",
+              "title": "2017 Alfa Romeo Stelvio 2.0T 280hp AWD First Edition"
+            },
+            {
+              "id": "mod_2017_alfa_romeo_stelvio_2_0t_280hp_awd_super",
+              "title": "2017 Alfa Romeo Stelvio 2.0T 280hp AWD Super"
+            },
+            {
+              "id": "mod_2017_alfa_romeo_stelvio_2_2_jtd_150hp_super",
+              "title": "2017 Alfa Romeo Stelvio 2.2 JTD 150hp Super"
+            },
+            {
+              "id": "mod_2017_alfa_romeo_stelvio_2_2_jtd_150hp",
+              "title": "2017 Alfa Romeo Stelvio 2.2 JTD 150hp"
+            },
+            {
+              "id": "mod_2017_alfa_romeo_stelvio_2_2_jtd_180hp_super",
+              "title": "2017 Alfa Romeo Stelvio 2.2 JTD 180hp Super"
+            },
+            {
+              "id": "mod_2017_alfa_romeo_stelvio_2_2_jtd_180hp",
+              "title": "2017 Alfa Romeo Stelvio 2.2 JTD 180hp"
+            },
+            {
+              "id": "mod_2017_alfa_romeo_stelvio_2_2_jtd_210hp_awd_super",
+              "title": "2017 Alfa Romeo Stelvio 2.2 JTD 210hp AWD Super"
+            },
+            {
+              "id": "mod_2017_alfa_romeo_stelvio_2_9_v6_awd_quadrifoglio",
+              "title": "2017 Alfa Romeo Stelvio 2.9 V6 AWD Quadrifoglio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_giulia",
+      "title": "Alfa Romeo Giulia",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_giulia",
+          "title": "Alfa Romeo Giulia",
+          "children": [
+            {
+              "id": "mod_2020_alfa_romeo_giulia_2_0t_200hp_sprint",
+              "title": "2020 Alfa Romeo Giulia 2.0T 200hp Sprint"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_giulia_2_0t_200hp_super",
+              "title": "2020 Alfa Romeo Giulia 2.0T 200hp Super"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_giulia_2_0t_200hp_ti",
+              "title": "2020 Alfa Romeo Giulia 2.0T 200hp TI"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_giulia_2_0t_200hp",
+              "title": "2020 Alfa Romeo Giulia 2.0T 200hp"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_giulia_2_0t_280hp_awd_veloce",
+              "title": "2020 Alfa Romeo Giulia 2.0T 280hp AWD Veloce"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_giulia_2_0t_280hp_veloce",
+              "title": "2020 Alfa Romeo Giulia 2.0T 280hp Veloce"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_giulia_2_2_jtd_160hp_super",
+              "title": "2020 Alfa Romeo Giulia 2.2 JTD 160hp Super"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_giulia_2_2_jtd_190hp_sprint",
+              "title": "2020 Alfa Romeo Giulia 2.2 JTD 190hp Sprint"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_giulia_2_2_jtd_190hp_ti",
+              "title": "2020 Alfa Romeo Giulia 2.2 JTD 190hp TI"
+            },
+            {
+              "id": "mod_2020_alfa_romeo_giulia_2_9_v6_quadrifoglio",
+              "title": "2020 Alfa Romeo Giulia 2.9 V6 Quadrifoglio"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_giulia",
+          "title": "Alfa Romeo Giulia",
+          "children": [
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_0t_200hp_super",
+              "title": "2016 Alfa Romeo Giulia 2.0T 200hp Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_0t_200hp",
+              "title": "2016 Alfa Romeo Giulia 2.0T 200hp"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_0t_280hp_veloce",
+              "title": "2016 Alfa Romeo Giulia 2.0T 280hp Veloce"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_2_jtd_136hp_eco_business_super",
+              "title": "2016 Alfa Romeo Giulia 2.2 JTD 136hp Eco Business Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_2_jtd_136hp_eco_business",
+              "title": "2016 Alfa Romeo Giulia 2.2 JTD 136hp Eco Business"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_2_jtd_150hp_eco_business_super",
+              "title": "2016 Alfa Romeo Giulia 2.2 JTD 150hp Eco Business Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_2_jtd_150hp_eco_business",
+              "title": "2016 Alfa Romeo Giulia 2.2 JTD 150hp Eco Business"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_2_jtd_150hp_super",
+              "title": "2016 Alfa Romeo Giulia 2.2 JTD 150hp Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_2_jtd_150hp",
+              "title": "2016 Alfa Romeo Giulia 2.2 JTD 150hp"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_2_jtd_180hp_business_super",
+              "title": "2016 Alfa Romeo Giulia 2.2 JTD 180hp Business Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_2_jtd_180hp_eco_business_super",
+              "title": "2016 Alfa Romeo Giulia 2.2 JTD 180hp Eco Business Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_2_jtd_180hp_eco_business",
+              "title": "2016 Alfa Romeo Giulia 2.2 JTD 180hp Eco Business"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_2_jtd_180hp_super",
+              "title": "2016 Alfa Romeo Giulia 2.2 JTD 180hp Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_2_jtd_210hp_veloce",
+              "title": "2016 Alfa Romeo Giulia 2.2 JTD 210hp Veloce"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulia_2_9_v6_quadrifoglio",
+              "title": "2016 Alfa Romeo Giulia 2.9 V6 Quadrifoglio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_4c_spider",
+      "title": "Alfa Romeo 4C Spider",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_4c_spider",
+          "title": "Alfa Romeo 4C Spider",
+          "children": [
+            {
+              "id": "mod_2015_alfa_romeo_4c_spider_1_750_tbi",
+              "title": "2015 Alfa Romeo 4C Spider 1.750 Tbi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_4c",
+      "title": "Alfa Romeo 4C",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_4c",
+          "title": "Alfa Romeo 4C",
+          "children": [
+            {
+              "id": "mod_2013_alfa_romeo_4c_1_750_tbi_launch_edition",
+              "title": "2013 Alfa Romeo 4C 1.750 Tbi Launch Edition"
+            },
+            {
+              "id": "mod_2013_alfa_romeo_4c_1_750_tbi",
+              "title": "2013 Alfa Romeo 4C 1.750 Tbi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_8c_spider",
+      "title": "Alfa Romeo 8C Spider",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_8c_spider",
+          "title": "Alfa Romeo 8C Spider",
+          "children": [
+            {
+              "id": "mod_2010_alfa_romeo_8c_spider",
+              "title": "2010 Alfa Romeo 8C Spider"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_8c_competizione",
+      "title": "Alfa Romeo 8C Competizione",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_8c_competizione",
+          "title": "Alfa Romeo 8C Competizione",
+          "children": [
+            {
+              "id": "mod_2008_alfa_romeo_8c_competizione",
+              "title": "2008 Alfa Romeo 8C Competizione"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_mito",
+      "title": "Alfa Romeo MiTo",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_mito",
+          "title": "Alfa Romeo MiTo",
+          "children": [
+            {
+              "id": "mod_2016_alfa_romeo_mito_1_3_jtdm_eco_super",
+              "title": "2016 Alfa Romeo Mito 1.3 JTDm ECO Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_mito_1_3_jtdm_eco",
+              "title": "2016 Alfa Romeo Mito 1.3 JTDm ECO"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_mito_1_4_super",
+              "title": "2016 Alfa Romeo Mito 1.4 Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_mito_1_4_turbo_multiair_super",
+              "title": "2016 Alfa Romeo Mito 1.4 Turbo MultiAir Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_mito_1_4_turbo_multiair_veloce",
+              "title": "2016 Alfa Romeo Mito 1.4 Turbo MultiAir Veloce"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_mito_1_4",
+              "title": "2016 Alfa Romeo Mito 1.4"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_mito_turbo_twinair_eco_super",
+              "title": "2016 Alfa Romeo Mito Turbo TwinAir ECO Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_mito_turbo_twinair_eco",
+              "title": "2016 Alfa Romeo Mito Turbo TwinAir ECO"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_mito",
+          "title": "Alfa Romeo MiTo",
+          "children": [
+            {
+              "id": "mod_2013_alfa_romeo_mito_1_3_jtdm_distinctive",
+              "title": "2013 Alfa Romeo MiTo 1.3 JTDm Distinctive"
+            },
+            {
+              "id": "mod_2013_alfa_romeo_mito_1_3_jtdm_progression",
+              "title": "2013 Alfa Romeo MiTo 1.3 JTDm Progression"
+            },
+            {
+              "id": "mod_2013_alfa_romeo_mito_1_4_8v_impression",
+              "title": "2013 Alfa Romeo MiTo 1.4 8V Impression"
+            },
+            {
+              "id": "mod_2013_alfa_romeo_mito_1_4_turbo_multiair_distinctive",
+              "title": "2013 Alfa Romeo MiTo 1.4 Turbo MultiAir Distinctive"
+            },
+            {
+              "id": "mod_2013_alfa_romeo_mito_1_4_turbo_multiair_quadrifoglio_verde",
+              "title": "2013 Alfa Romeo MiTo 1.4 Turbo MultiAir Quadrifoglio Verde"
+            },
+            {
+              "id": "mod_2013_alfa_romeo_mito_turbo_twinair_distinctive",
+              "title": "2013 Alfa Romeo MiTo Turbo TwinAir Distinctive"
+            },
+            {
+              "id": "mod_2013_alfa_romeo_mito_turbo_twinair_progression",
+              "title": "2013 Alfa Romeo MiTo Turbo TwinAir Progression"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_mito",
+          "title": "Alfa Romeo MiTo",
+          "children": [
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_3_jtdm_distinctive",
+              "title": "2008 Alfa Romeo MiTo 1.3 JTDm Distinctive"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_3_jtdm_progression",
+              "title": "2008 Alfa Romeo MiTo 1.3 JTDm Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_3_jtdm_sport",
+              "title": "2008 Alfa Romeo MiTo 1.3 JTDm Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_3_jtdm",
+              "title": "2008 Alfa Romeo MiTo 1.3 JTDm"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_4_progression",
+              "title": "2008 Alfa Romeo MiTo 1.4 Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_4_turbo_120hp_distinctive",
+              "title": "2008 Alfa Romeo MiTo 1.4 Turbo 120hp Distinctive"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_4_turbo_120hp_progression",
+              "title": "2008 Alfa Romeo MiTo 1.4 Turbo 120hp Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_4_turbo_120hp_sport",
+              "title": "2008 Alfa Romeo MiTo 1.4 Turbo 120hp Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_4_turbo_120hp",
+              "title": "2008 Alfa Romeo MiTo 1.4 Turbo 120hp"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_4_turbo_155hp_distinctive",
+              "title": "2008 Alfa Romeo MiTo 1.4 Turbo 155hp Distinctive"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_4_turbo_155hp_progression",
+              "title": "2008 Alfa Romeo MiTo 1.4 Turbo 155hp Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_4_turbo_155hp_sport",
+              "title": "2008 Alfa Romeo MiTo 1.4 Turbo 155hp Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_4_turbo_155hp",
+              "title": "2008 Alfa Romeo MiTo 1.4 Turbo 155hp"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_4",
+              "title": "2008 Alfa Romeo MiTo 1.4"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_6_jtdm_distinctive",
+              "title": "2008 Alfa Romeo MiTo 1.6 JTDm Distinctive"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_6_jtdm_progression",
+              "title": "2008 Alfa Romeo MiTo 1.6 JTDm Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_6_jtdm_sport",
+              "title": "2008 Alfa Romeo MiTo 1.6 JTDm Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_mito_1_6_jtdm",
+              "title": "2008 Alfa Romeo MiTo 1.6 JTDm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_159_sportwagon",
+      "title": "Alfa Romeo 159 Sportwagon",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_159_sportwagon",
+          "title": "Alfa Romeo 159 Sportwagon",
+          "children": [
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_8_mpi_business",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.8 Mpi Business"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_8_mpi_elegante",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.8 Mpi Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_8_mpi_progression",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.8 Mpi Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_8_mpi_sport",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.8 Mpi Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_8_mpi",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.8 Mpi"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jtdm_16v_business",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Business"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jtdm_16v_elegante",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jtdm_16v_progression",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jtdm_16v_sport",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jtdm_16v_ti",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTDm 16v TI"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jtdm_16v",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTDm 16v"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jtdm_8v_business",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Business"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jtdm_8v_elegante",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jtdm_8v_progression",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jtdm_8v_sport",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jtdm_8v",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTDm 8v"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jts_elegante",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTS Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_1_9_jts_progression",
+              "title": "2008 Alfa Romeo 159 Sportwagon 1.9 JTS Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_2_jts_business",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.2 JTS Business"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_2_jts_elegante",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.2 JTS Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_2_jts_progression",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.2 JTS Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_2_jts_sport",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.2 JTS Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_2_jts_ti",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.2 JTS TI"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_4_jtdm_20v_business",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Business"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_4_jtdm_20v_elegante",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_4_jtdm_20v_progression",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_4_jtdm_20v_q4_elegante",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Q4 Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_4_jtdm_20v_q4_progression",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Q4 Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_4_jtdm_20v_q4_ti",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Q4 TI"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_4_jtdm_20v_sport",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_2_4_jtdm_20v_ti",
+              "title": "2008 Alfa Romeo 159 Sportwagon 2.4 JTDm 20v TI"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_3_2_jts_v6_elegante",
+              "title": "2008 Alfa Romeo 159 Sportwagon 3.2 JTS V6 Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_3_2_jts_v6_progression",
+              "title": "2008 Alfa Romeo 159 Sportwagon 3.2 JTS V6 Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_3_2_jts_v6_q4_elegante",
+              "title": "2008 Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_3_2_jts_v6_q4_progression",
+              "title": "2008 Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_3_2_jts_v6_q4_ti",
+              "title": "2008 Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 TI"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_sportwagon_3_2_jts_v6_ti",
+              "title": "2008 Alfa Romeo 159 Sportwagon 3.2 JTS V6 TI"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_159_sportwagon",
+          "title": "Alfa Romeo 159 Sportwagon",
+          "children": [
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_8_mpi_business",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.8 Mpi Business"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_8_mpi_distinctive",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.8 Mpi Distinctive"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_8_mpi_impression",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.8 Mpi Impression"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_8_mpi_progression",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.8 Mpi Progression"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_9_jtdm_16v_business",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Business"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_9_jtdm_16v_distinctive",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Distinctive"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_9_jtdm_16v_impression",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Impression"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_9_jtdm_16v_progression",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Progression"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_9_jtdm_8v_business",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Business"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_9_jtdm_8v_distinctive",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Distinctive"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_9_jtdm_8v_impression",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Impression"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_9_jtdm_8v_progression",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Progression"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_9_jts_distinctive",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.9 JTS Distinctive"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_9_jts_impression",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.9 JTS Impression"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_1_9_jts_progression",
+              "title": "2006 Alfa Romeo 159 Sportwagon 1.9 JTS Progression"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_2_2_jts_business",
+              "title": "2006 Alfa Romeo 159 Sportwagon 2.2 JTS Business"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_2_2_jts_distinctive",
+              "title": "2006 Alfa Romeo 159 Sportwagon 2.2 JTS Distinctive"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_2_2_jts_progression",
+              "title": "2006 Alfa Romeo 159 Sportwagon 2.2 JTS Progression"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_2_4_jtdm_20v_business",
+              "title": "2006 Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Business"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_2_4_jtdm_20v_distinctive",
+              "title": "2006 Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Distinctive"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_2_4_jtdm_20v_progression",
+              "title": "2006 Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Progression"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_3_2_jts_v6_q4_distinctive",
+              "title": "2006 Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Distinctive"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_159_sportwagon_3_2_jts_v6_q4_progression",
+              "title": "2006 Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Progression"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_brera",
+      "title": "Alfa Romeo Brera",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_brera",
+          "title": "Alfa Romeo Brera",
+          "children": [
+            {
+              "id": "mod_2008_alfa_romeo_brera_2_2_jts",
+              "title": "2008 Alfa Romeo Brera 2.2 JTS"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_brera_2_4_jtdm_20v",
+              "title": "2008 Alfa Romeo Brera 2.4 JTDm 20v"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_brera_3_2_jts_v6_q4",
+              "title": "2008 Alfa Romeo Brera 3.2 JTS V6 Q4"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_brera_3_2_jts_v6",
+              "title": "2008 Alfa Romeo Brera 3.2 JTS V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_brera",
+          "title": "Alfa Romeo Brera",
+          "children": [
+            {
+              "id": "mod_2006_alfa_romeo_brera_2_2_jts_sky_window",
+              "title": "2006 Alfa Romeo Brera 2.2 JTS Sky Window"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_brera_2_2_jts",
+              "title": "2006 Alfa Romeo Brera 2.2 JTS"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_brera_2_4_jtdm_20v_sky_window",
+              "title": "2006 Alfa Romeo Brera 2.4 JTDm 20v Sky Window"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_brera_2_4_jtdm_20v",
+              "title": "2006 Alfa Romeo Brera 2.4 JTDm 20v"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_brera_3_2_jts_v6_q4_sky_window",
+              "title": "2006 Alfa Romeo Brera 3.2 JTS V6 Q4 Sky Window"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_brera_3_2_jts_v6_q4",
+              "title": "2006 Alfa Romeo Brera 3.2 JTS V6 Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_159",
+      "title": "Alfa Romeo 159",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_159",
+          "title": "Alfa Romeo 159",
+          "children": [
+            {
+              "id": "mod_2008_alfa_romeo_159_1_8_mpi_business",
+              "title": "2008 Alfa Romeo 159 1.8 Mpi Business"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_8_mpi_elegante",
+              "title": "2008 Alfa Romeo 159 1.8 Mpi Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_8_mpi_progression",
+              "title": "2008 Alfa Romeo 159 1.8 Mpi Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_8_mpi_sport",
+              "title": "2008 Alfa Romeo 159 1.8 Mpi Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_8_mpi",
+              "title": "2008 Alfa Romeo 159 1.8 Mpi"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jtdm_16v_business",
+              "title": "2008 Alfa Romeo 159 1.9 JTDm 16v Business"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jtdm_16v_elegante",
+              "title": "2008 Alfa Romeo 159 1.9 JTDm 16v Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jtdm_16v_progression",
+              "title": "2008 Alfa Romeo 159 1.9 JTDm 16v Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jtdm_16v_sport",
+              "title": "2008 Alfa Romeo 159 1.9 JTDm 16v Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jtdm_16v_ti",
+              "title": "2008 Alfa Romeo 159 1.9 JTDm 16v TI"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jtdm_16v",
+              "title": "2008 Alfa Romeo 159 1.9 JTDm 16v"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jtdm_8v_business",
+              "title": "2008 Alfa Romeo 159 1.9 JTDm 8v Business"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jtdm_8v_elegante",
+              "title": "2008 Alfa Romeo 159 1.9 JTDm 8v Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jtdm_8v_progression",
+              "title": "2008 Alfa Romeo 159 1.9 JTDm 8v Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jtdm_8v_sport",
+              "title": "2008 Alfa Romeo 159 1.9 JTDm 8v Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jtdm_8v",
+              "title": "2008 Alfa Romeo 159 1.9 JTDm 8v"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jts_elegante",
+              "title": "2008 Alfa Romeo 159 1.9 JTS Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_1_9_jts_progression",
+              "title": "2008 Alfa Romeo 159 1.9 JTS Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_2_jts_business",
+              "title": "2008 Alfa Romeo 159 2.2 JTS Business"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_2_jts_elegante",
+              "title": "2008 Alfa Romeo 159 2.2 JTS Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_2_jts_progression",
+              "title": "2008 Alfa Romeo 159 2.2 JTS Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_2_jts_sport",
+              "title": "2008 Alfa Romeo 159 2.2 JTS Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_2_jts_ti",
+              "title": "2008 Alfa Romeo 159 2.2 JTS TI"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_4_jtdm_20v_business",
+              "title": "2008 Alfa Romeo 159 2.4 JTDm 20v Business"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_4_jtdm_20v_elegante",
+              "title": "2008 Alfa Romeo 159 2.4 JTDm 20v Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_4_jtdm_20v_progression",
+              "title": "2008 Alfa Romeo 159 2.4 JTDm 20v Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_4_jtdm_20v_q4_elegante",
+              "title": "2008 Alfa Romeo 159 2.4 JTDm 20v Q4 Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_4_jtdm_20v_q4_progression",
+              "title": "2008 Alfa Romeo 159 2.4 JTDm 20v Q4 Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_4_jtdm_20v_q4_ti",
+              "title": "2008 Alfa Romeo 159 2.4 JTDm 20v Q4 TI"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_4_jtdm_20v_sport",
+              "title": "2008 Alfa Romeo 159 2.4 JTDm 20v Sport"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_2_4_jtdm_20v_ti",
+              "title": "2008 Alfa Romeo 159 2.4 JTDm 20v TI"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_3_2_jts_v6_elegante",
+              "title": "2008 Alfa Romeo 159 3.2 JTS V6 Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_3_2_jts_v6_progression",
+              "title": "2008 Alfa Romeo 159 3.2 JTS V6 Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_3_2_jts_v6_q4_elegante",
+              "title": "2008 Alfa Romeo 159 3.2 JTS V6 Q4 Elegante"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_3_2_jts_v6_q4_progression",
+              "title": "2008 Alfa Romeo 159 3.2 JTS V6 Q4 Progression"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_3_2_jts_v6_q4_ti",
+              "title": "2008 Alfa Romeo 159 3.2 JTS V6 Q4 TI"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_159_3_2_jts_v6_ti",
+              "title": "2008 Alfa Romeo 159 3.2 JTS V6 TI"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_159",
+          "title": "Alfa Romeo 159",
+          "children": [
+            {
+              "id": "mod_2005_alfa_romeo_159_1_9_jtdm_16v_distinctive",
+              "title": "2005 Alfa Romeo 159 1.9 JTDm 16v Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_1_9_jtdm_16v_impression",
+              "title": "2005 Alfa Romeo 159 1.9 JTDm 16v Impression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_1_9_jtdm_16v_progression",
+              "title": "2005 Alfa Romeo 159 1.9 JTDm 16v Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_1_9_jtdm_8v_distinctive",
+              "title": "2005 Alfa Romeo 159 1.9 JTDm 8v Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_1_9_jtdm_8v_impression",
+              "title": "2005 Alfa Romeo 159 1.9 JTDm 8v Impression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_1_9_jtdm_8v_progression",
+              "title": "2005 Alfa Romeo 159 1.9 JTDm 8v Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_1_9_jts_distinctive",
+              "title": "2005 Alfa Romeo 159 1.9 JTS Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_1_9_jts_impression",
+              "title": "2005 Alfa Romeo 159 1.9 JTS Impression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_1_9_jts_progression",
+              "title": "2005 Alfa Romeo 159 1.9 JTS Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_2_2_jts_distinctive",
+              "title": "2005 Alfa Romeo 159 2.2 JTS Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_2_2_jts_progression",
+              "title": "2005 Alfa Romeo 159 2.2 JTS Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_2_4_jtdm_20v_distinctive",
+              "title": "2005 Alfa Romeo 159 2.4 JTDm 20v Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_2_4_jtdm_20v_progression",
+              "title": "2005 Alfa Romeo 159 2.4 JTDm 20v Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_3_2_jts_v6_q4_distinctive",
+              "title": "2005 Alfa Romeo 159 3.2 JTS V6 Q4 Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_159_3_2_jts_v6_q4_progression",
+              "title": "2005 Alfa Romeo 159 3.2 JTS V6 Q4 Progression"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_crosswagon",
+      "title": "Alfa Romeo Crosswagon",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_crosswagon",
+          "title": "Alfa Romeo Crosswagon",
+          "children": [
+            {
+              "id": "mod_2005_alfa_romeo_crosswagon_1_9_jtd_16v_q4_distinctive",
+              "title": "2005 Alfa Romeo Crosswagon 1.9 JTD 16V Q4 Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_crosswagon_1_9_jtd_16v_q4_progression",
+              "title": "2005 Alfa Romeo Crosswagon 1.9 JTD 16V Q4 Progression"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_gt",
+      "title": "Alfa Romeo GT",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_gt",
+          "title": "Alfa Romeo GT",
+          "children": [
+            {
+              "id": "mod_2007_alfa_romeo_gt_1_8_t_spark_16v_distinctive",
+              "title": "2007 Alfa Romeo GT 1.8 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_1_8_t_spark_16v_imola",
+              "title": "2007 Alfa Romeo GT 1.8 T.Spark 16V Imola"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_1_8_t_spark_16v_impression",
+              "title": "2007 Alfa Romeo GT 1.8 T.Spark 16V Impression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_1_8_t_spark_16v_progression",
+              "title": "2007 Alfa Romeo GT 1.8 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_1_9_jtdm_16v_distinctive",
+              "title": "2007 Alfa Romeo GT 1.9 JTDm 16V Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_1_9_jtdm_16v_imola",
+              "title": "2007 Alfa Romeo GT 1.9 JTDm 16V Imola"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_1_9_jtdm_16v_impression",
+              "title": "2007 Alfa Romeo GT 1.9 JTDm 16V Impression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_1_9_jtdm_16v_progression",
+              "title": "2007 Alfa Romeo GT 1.9 JTDm 16V Progression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_1_9_jtdm_16v_q2",
+              "title": "2007 Alfa Romeo GT 1.9 JTDm 16V Q2"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_2_0_jts_16v_distinctive",
+              "title": "2007 Alfa Romeo GT 2.0 JTS 16V Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_2_0_jts_16v_imola",
+              "title": "2007 Alfa Romeo GT 2.0 JTS 16V Imola"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_2_0_jts_16v_progression",
+              "title": "2007 Alfa Romeo GT 2.0 JTS 16V Progression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_2_0_jts_16v_selespeed_distinctive",
+              "title": "2007 Alfa Romeo GT 2.0 JTS 16V Selespeed Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_2_0_jts_16v_selespeed_imola",
+              "title": "2007 Alfa Romeo GT 2.0 JTS 16V Selespeed Imola"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_gt_3_2_v6_24v_distinctive",
+              "title": "2007 Alfa Romeo GT 3.2 V6 24V Distinctive"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_gt",
+          "title": "Alfa Romeo GT",
+          "children": [
+            {
+              "id": "mod_2004_alfa_romeo_gt_1_9_jtdm_16v_distinctive",
+              "title": "2004 Alfa Romeo GT 1.9 JTDm 16V Distinctive"
+            },
+            {
+              "id": "mod_2004_alfa_romeo_gt_1_9_jtdm_16v_progression",
+              "title": "2004 Alfa Romeo GT 1.9 JTDm 16V Progression"
+            },
+            {
+              "id": "mod_2004_alfa_romeo_gt_2_0_jts_16v_distinctive",
+              "title": "2004 Alfa Romeo GT 2.0 JTS 16V Distinctive"
+            },
+            {
+              "id": "mod_2004_alfa_romeo_gt_2_0_jts_16v_progression",
+              "title": "2004 Alfa Romeo GT 2.0 JTS 16V Progression"
+            },
+            {
+              "id": "mod_2004_alfa_romeo_gt_2_0_jts_16v_selespeed_distinctive",
+              "title": "2004 Alfa Romeo GT 2.0 JTS 16V Selespeed Distinctive"
+            },
+            {
+              "id": "mod_2004_alfa_romeo_gt_3_2_v6_24v_distinctive",
+              "title": "2004 Alfa Romeo GT 3.2 V6 24V Distinctive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_156_sportwagon",
+      "title": "Alfa Romeo 156 Sportwagon",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_156_sportwagon",
+          "title": "Alfa Romeo 156 Sportwagon",
+          "children": [
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_1_6_t_spark_16v_distinctive",
+              "title": "2003 Alfa Romeo 156 Sportwagon 1.6 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_1_6_t_spark_16v_impression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 1.6 T.Spark 16V Impression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_1_6_t_spark_16v_progression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 1.6 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_1_8_t_spark_16v_distinctive",
+              "title": "2003 Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_1_8_t_spark_16v_impression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V Impression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_1_8_t_spark_16v_progression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_1_9_jtd_16v_distinctive",
+              "title": "2003 Alfa Romeo 156 Sportwagon 1.9 JTD 16V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_1_9_jtd_16v_impression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 1.9 JTD 16V Impression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_1_9_jtd_16v_progression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 1.9 JTD 16V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_1_9_jtd_distinctive",
+              "title": "2003 Alfa Romeo 156 Sportwagon 1.9 JTD Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_1_9_jtd_impression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 1.9 JTD Impression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_1_9_jtd_progression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 1.9 JTD Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_2_0_jts_16v_distinctive",
+              "title": "2003 Alfa Romeo 156 Sportwagon 2.0 JTS 16V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_2_0_jts_16v_impression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 2.0 JTS 16V Impression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_2_0_jts_16v_progression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 2.0 JTS 16V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_2_0_jts_16v_selespeed_distinctive",
+              "title": "2003 Alfa Romeo 156 Sportwagon 2.0 JTS 16V Selespeed Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_2_0_jts_16v_selespeed_progression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 2.0 JTS 16V Selespeed Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_2_4_jtd_20v_distinctive",
+              "title": "2003 Alfa Romeo 156 Sportwagon 2.4 JTD 20V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_2_4_jtd_20v_progression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 2.4 JTD 20V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_2_5_v6_24v_distinctive",
+              "title": "2003 Alfa Romeo 156 Sportwagon 2.5 V6 24V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_2_5_v6_24v_progression",
+              "title": "2003 Alfa Romeo 156 Sportwagon 2.5 V6 24V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_2_5_v6_24v_q_system_distinctive",
+              "title": "2003 Alfa Romeo 156 Sportwagon 2.5 V6 24V Q-System Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_gta_3_2_v6_24v_selespeed",
+              "title": "2003 Alfa Romeo 156 Sportwagon GTA 3.2 V6 24V Selespeed"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_sportwagon_gta_3_2_v6_24v",
+              "title": "2003 Alfa Romeo 156 Sportwagon GTA 3.2 V6 24V"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_156_sportwagon",
+          "title": "Alfa Romeo 156 Sportwagon",
+          "children": [
+            {
+              "id": "mod_2002_alfa_romeo_156_sportwagon_1_6_t_spark_16v_progression",
+              "title": "2002 Alfa Romeo 156 Sportwagon 1.6 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_sportwagon_1_8_t_spark_16v_progression",
+              "title": "2002 Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_sportwagon_1_9_jtd_progression",
+              "title": "2002 Alfa Romeo 156 Sportwagon 1.9 JTD Progression"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_sportwagon_2_0_jts_16v_distinctive",
+              "title": "2002 Alfa Romeo 156 Sportwagon 2.0 JTS 16V Distinctive"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_sportwagon_2_0_jts_16v_progression",
+              "title": "2002 Alfa Romeo 156 Sportwagon 2.0 JTS 16V Progression"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_sportwagon_2_0_jts_16v_selespeed_distinctive",
+              "title": "2002 Alfa Romeo 156 Sportwagon 2.0 JTS 16V Selespeed Distinctive"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_sportwagon_2_4_jtd_distinctive",
+              "title": "2002 Alfa Romeo 156 Sportwagon 2.4 JTD Distinctive"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_sportwagon_2_4_jtd_progression",
+              "title": "2002 Alfa Romeo 156 Sportwagon 2.4 JTD Progression"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_sportwagon_2_5_v6_24v_distinctive",
+              "title": "2002 Alfa Romeo 156 Sportwagon 2.5 V6 24V Distinctive"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_sportwagon_2_5_v6_24v_q_system_distinctive",
+              "title": "2002 Alfa Romeo 156 Sportwagon 2.5 V6 24V Q-System Distinctive"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_sportwagon_gta_3_2_v6_24v",
+              "title": "2002 Alfa Romeo 156 Sportwagon GTA 3.2 V6 24V"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_156_sportwagon",
+          "title": "Alfa Romeo 156 Sportwagon",
+          "children": [
+            {
+              "id": "mod_2000_alfa_romeo_156_sportwagon_1_6_t_spark_16v",
+              "title": "2000 Alfa Romeo 156 Sportwagon 1.6 T.Spark 16V"
+            },
+            {
+              "id": "mod_2000_alfa_romeo_156_sportwagon_1_8_t_spark_16v",
+              "title": "2000 Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V"
+            },
+            {
+              "id": "mod_2000_alfa_romeo_156_sportwagon_1_9_jtd",
+              "title": "2000 Alfa Romeo 156 Sportwagon 1.9 JTD"
+            },
+            {
+              "id": "mod_2000_alfa_romeo_156_sportwagon_2_0_t_spark_16v_selespeed",
+              "title": "2000 Alfa Romeo 156 Sportwagon 2.0 T.Spark 16V Selespeed"
+            },
+            {
+              "id": "mod_2000_alfa_romeo_156_sportwagon_2_0_t_spark_16v",
+              "title": "2000 Alfa Romeo 156 Sportwagon 2.0 T.Spark 16V"
+            },
+            {
+              "id": "mod_2000_alfa_romeo_156_sportwagon_2_4_jtd",
+              "title": "2000 Alfa Romeo 156 Sportwagon 2.4 JTD"
+            },
+            {
+              "id": "mod_2000_alfa_romeo_156_sportwagon_2_5_v6_24v_q_system",
+              "title": "2000 Alfa Romeo 156 Sportwagon 2.5 V6 24V Q-System"
+            },
+            {
+              "id": "mod_2000_alfa_romeo_156_sportwagon_2_5_v6_24v",
+              "title": "2000 Alfa Romeo 156 Sportwagon 2.5 V6 24V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_147",
+      "title": "Alfa Romeo 147",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_147",
+          "title": "Alfa Romeo 147",
+          "children": [
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_blackline",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Blackline"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_business",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Business"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_collezione",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Collezione"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_distinctive",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_impression",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Impression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_progression",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_veloce_blackline",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Veloce Blackline"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_veloce_business",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Veloce Business"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_veloce_collezione",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Veloce Collezione"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_veloce_distinctive",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Veloce Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_veloce_impression",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Veloce Impression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_veloce_progression",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Veloce Progression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_16v_blackline",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm 16V Blackline"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_16v_business",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm 16V Business"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_16v_collezione",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm 16V Collezione"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_16v_distinctive",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm 16V Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_16v_progression",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm 16V Progression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_16v_q2",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm 16V Q2"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_blackline",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm Blackline"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_business",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm Business"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_collezione",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm Collezione"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_distinctive",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_impression",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm Impression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_progression",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm Progression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_blackline",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Blackline"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_business",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Business"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_collezione",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Collezione"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_distinctive",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_selespeed_blackline",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Selespeed Blackline"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_selespeed_collezione",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Selespeed Collezione"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_selespeed_distinctive",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Selespeed Distinctive"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_147",
+          "title": "Alfa Romeo 147",
+          "children": [
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_blackline",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Blackline"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_business",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Business"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_collezione",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Collezione"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_distinctive",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_impression",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Impression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_progression",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_veloce_blackline",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Veloce Blackline"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_veloce_business",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Veloce Business"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_veloce_collezione",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Veloce Collezione"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_veloce_distinctive",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Veloce Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_veloce_impression",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Veloce Impression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_6_t_spark_16v_veloce_progression",
+              "title": "2007 Alfa Romeo 147 1.6 T.Spark 16V Veloce Progression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_16v_blackline",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm 16V Blackline"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_16v_business",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm 16V Business"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_16v_collezione",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm 16V Collezione"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_16v_distinctive",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm 16V Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_16v_progression",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm 16V Progression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_16v_q2",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm 16V Q2"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_blackline",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm Blackline"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_business",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm Business"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_collezione",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm Collezione"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_distinctive",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_impression",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm Impression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_1_9_jtdm_progression",
+              "title": "2007 Alfa Romeo 147 1.9 JTDm Progression"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_blackline",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Blackline"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_business",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Business"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_collezione",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Collezione"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_distinctive",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_selespeed_blackline",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Selespeed Blackline"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_selespeed_collezione",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Selespeed Collezione"
+            },
+            {
+              "id": "mod_2007_alfa_romeo_147_2_0_t_spark_16v_selespeed_distinctive",
+              "title": "2007 Alfa Romeo 147 2.0 T.Spark 16V Selespeed Distinctive"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_147",
+          "title": "Alfa Romeo 147",
+          "children": [
+            {
+              "id": "mod_2005_alfa_romeo_147_1_6_t_spark_16v_distinctive",
+              "title": "2005 Alfa Romeo 147 1.6 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_6_t_spark_16v_impression",
+              "title": "2005 Alfa Romeo 147 1.6 T.Spark 16V Impression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_6_t_spark_16v_progression",
+              "title": "2005 Alfa Romeo 147 1.6 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_6_t_spark_16v_veloce_distinctive",
+              "title": "2005 Alfa Romeo 147 1.6 T.Spark 16V Veloce Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_6_t_spark_16v_veloce_impression",
+              "title": "2005 Alfa Romeo 147 1.6 T.Spark 16V Veloce Impression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_6_t_spark_16v_veloce_progression",
+              "title": "2005 Alfa Romeo 147 1.6 T.Spark 16V Veloce Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_9_jtd_100hp_impression",
+              "title": "2005 Alfa Romeo 147 1.9 JTD 100hp Impression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_9_jtd_115hp_distinctive",
+              "title": "2005 Alfa Romeo 147 1.9 JTD 115hp Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_9_jtd_115hp_impression",
+              "title": "2005 Alfa Romeo 147 1.9 JTD 115hp Impression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_9_jtd_115hp_progression",
+              "title": "2005 Alfa Romeo 147 1.9 JTD 115hp Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_9_jtd_16v_distinctive",
+              "title": "2005 Alfa Romeo 147 1.9 JTD 16V Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_9_jtd_16v_progression",
+              "title": "2005 Alfa Romeo 147 1.9 JTD 16V Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_2_0_t_spark_16v_distinctive",
+              "title": "2005 Alfa Romeo 147 2.0 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_2_0_t_spark_16v_selespeed_distinctive",
+              "title": "2005 Alfa Romeo 147 2.0 T.Spark 16V Selespeed Distinctive"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_147",
+          "title": "Alfa Romeo 147",
+          "children": [
+            {
+              "id": "mod_2005_alfa_romeo_147_1_6_t_spark_16v_distinctive",
+              "title": "2005 Alfa Romeo 147 1.6 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_6_t_spark_16v_impression",
+              "title": "2005 Alfa Romeo 147 1.6 T.Spark 16V Impression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_6_t_spark_16v_progression",
+              "title": "2005 Alfa Romeo 147 1.6 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_6_t_spark_16v_veloce_distinctive",
+              "title": "2005 Alfa Romeo 147 1.6 T.Spark 16V Veloce Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_6_t_spark_16v_veloce_impression",
+              "title": "2005 Alfa Romeo 147 1.6 T.Spark 16V Veloce Impression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_6_t_spark_16v_veloce_progression",
+              "title": "2005 Alfa Romeo 147 1.6 T.Spark 16V Veloce Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_9_jtd_100hp_impression",
+              "title": "2005 Alfa Romeo 147 1.9 JTD 100hp Impression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_9_jtd_115hp_distinctive",
+              "title": "2005 Alfa Romeo 147 1.9 JTD 115hp Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_9_jtd_115hp_impression",
+              "title": "2005 Alfa Romeo 147 1.9 JTD 115hp Impression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_9_jtd_115hp_progression",
+              "title": "2005 Alfa Romeo 147 1.9 JTD 115hp Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_9_jtd_16v_distinctive",
+              "title": "2005 Alfa Romeo 147 1.9 JTD 16V Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_1_9_jtd_16v_progression",
+              "title": "2005 Alfa Romeo 147 1.9 JTD 16V Progression"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_2_0_t_spark_16v_distinctive",
+              "title": "2005 Alfa Romeo 147 2.0 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2005_alfa_romeo_147_2_0_t_spark_16v_selespeed_distinctive",
+              "title": "2005 Alfa Romeo 147 2.0 T.Spark 16V Selespeed Distinctive"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_147",
+          "title": "Alfa Romeo 147",
+          "children": [
+            {
+              "id": "mod_2001_alfa_romeo_147_1_6_t_spark_16v_distinctive",
+              "title": "2001 Alfa Romeo 147 1.6 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2001_alfa_romeo_147_1_6_t_spark_16v_progression",
+              "title": "2001 Alfa Romeo 147 1.6 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2001_alfa_romeo_147_1_6_t_spark_16v_veloce_distinctive",
+              "title": "2001 Alfa Romeo 147 1.6 T.Spark 16V Veloce Distinctive"
+            },
+            {
+              "id": "mod_2001_alfa_romeo_147_1_6_t_spark_16v_veloce_progression",
+              "title": "2001 Alfa Romeo 147 1.6 T.Spark 16V Veloce Progression"
+            },
+            {
+              "id": "mod_2001_alfa_romeo_147_1_9_jtd_115hp_distinctive",
+              "title": "2001 Alfa Romeo 147 1.9 JTD 115hp Distinctive"
+            },
+            {
+              "id": "mod_2001_alfa_romeo_147_1_9_jtd_115hp_progression",
+              "title": "2001 Alfa Romeo 147 1.9 JTD 115hp Progression"
+            },
+            {
+              "id": "mod_2001_alfa_romeo_147_2_0_t_spark_16v_distinctive",
+              "title": "2001 Alfa Romeo 147 2.0 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2001_alfa_romeo_147_2_0_t_spark_16v_selespeed_distinctive",
+              "title": "2001 Alfa Romeo 147 2.0 T.Spark 16V Selespeed Distinctive"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_147",
+          "title": "Alfa Romeo 147",
+          "children": [
+            {
+              "id": "mod_2000_alfa_romeo_147_1_6_t_spark_16v_distinctive",
+              "title": "2000 Alfa Romeo 147 1.6 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2000_alfa_romeo_147_1_6_t_spark_16v_progression",
+              "title": "2000 Alfa Romeo 147 1.6 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2000_alfa_romeo_147_1_6_t_spark_16v_veloce_distinctive",
+              "title": "2000 Alfa Romeo 147 1.6 T.Spark 16V Veloce Distinctive"
+            },
+            {
+              "id": "mod_2000_alfa_romeo_147_1_6_t_spark_16v_veloce_progression",
+              "title": "2000 Alfa Romeo 147 1.6 T.Spark 16V Veloce Progression"
+            },
+            {
+              "id": "mod_2000_alfa_romeo_147_2_0_t_spark_16v_selespeed_distinctive",
+              "title": "2000 Alfa Romeo 147 2.0 T.Spark 16V Selespeed Distinctive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_166",
+      "title": "Alfa Romeo 166",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_166",
+          "title": "Alfa Romeo 166",
+          "children": [
+            {
+              "id": "mod_2003_alfa_romeo_166_2_0_t_spark_business_edition",
+              "title": "2003 Alfa Romeo 166 2.0 T.Spark Business Edition"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_2_0_t_spark_distinctive",
+              "title": "2003 Alfa Romeo 166 2.0 T.Spark Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_2_0_t_spark_impression",
+              "title": "2003 Alfa Romeo 166 2.0 T.Spark Impression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_2_0_t_spark_progression",
+              "title": "2003 Alfa Romeo 166 2.0 T.Spark Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_2_4_jtd_10v_business_edition",
+              "title": "2003 Alfa Romeo 166 2.4 JTD 10v Business Edition"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_2_4_jtd_10v_distinctive",
+              "title": "2003 Alfa Romeo 166 2.4 JTD 10v Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_2_4_jtd_10v_impression",
+              "title": "2003 Alfa Romeo 166 2.4 JTD 10v Impression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_2_4_jtd_10v_progression",
+              "title": "2003 Alfa Romeo 166 2.4 JTD 10v Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_2_4_jtdm_20v_distinctive",
+              "title": "2003 Alfa Romeo 166 2.4 JTDm 20v Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_2_4_jtdm_20v_progression",
+              "title": "2003 Alfa Romeo 166 2.4 JTDm 20v Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_2_5_v6_24v_distinctive",
+              "title": "2003 Alfa Romeo 166 2.5 V6 24V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_2_5_v6_24v_progression",
+              "title": "2003 Alfa Romeo 166 2.5 V6 24V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_3_0_v6_24v_distinctive",
+              "title": "2003 Alfa Romeo 166 3.0 V6 24V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_3_0_v6_24v_progression",
+              "title": "2003 Alfa Romeo 166 3.0 V6 24V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_3_2_v6_24v_distinctive",
+              "title": "2003 Alfa Romeo 166 3.2 V6 24V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_166_3_2_v6_24v_progression",
+              "title": "2003 Alfa Romeo 166 3.2 V6 24V Progression"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_166",
+          "title": "Alfa Romeo 166",
+          "children": [
+            {
+              "id": "mod_1998_alfa_romeo_166_2_0_t_spark_l",
+              "title": "1998 Alfa Romeo 166 2.0 T.Spark L"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_166_2_4_jtd_l",
+              "title": "1998 Alfa Romeo 166 2.4 JTD L"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_166_2_5_v6_24v_sporttronic",
+              "title": "1998 Alfa Romeo 166 2.5 V6 24V Sporttronic"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_166_2_5_v6_24v",
+              "title": "1998 Alfa Romeo 166 2.5 V6 24V"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_166_3_0_v6_24v_sporttronic",
+              "title": "1998 Alfa Romeo 166 3.0 V6 24V Sporttronic"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_166_3_0_v6_24v_super",
+              "title": "1998 Alfa Romeo 166 3.0 V6 24V Super"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_156",
+      "title": "Alfa Romeo 156",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_156",
+          "title": "Alfa Romeo 156",
+          "children": [
+            {
+              "id": "mod_2003_alfa_romeo_156_1_6_t_spark_16v_distinctive",
+              "title": "2003 Alfa Romeo 156 1.6 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_1_6_t_spark_16v_impression",
+              "title": "2003 Alfa Romeo 156 1.6 T.Spark 16V Impression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_1_6_t_spark_16v_progression",
+              "title": "2003 Alfa Romeo 156 1.6 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_1_8_t_spark_16v_distinctive",
+              "title": "2003 Alfa Romeo 156 1.8 T.Spark 16V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_1_8_t_spark_16v_impression",
+              "title": "2003 Alfa Romeo 156 1.8 T.Spark 16V Impression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_1_8_t_spark_16v_progression",
+              "title": "2003 Alfa Romeo 156 1.8 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_1_9_jtd_16v_distinctive",
+              "title": "2003 Alfa Romeo 156 1.9 JTD 16V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_1_9_jtd_16v_impression",
+              "title": "2003 Alfa Romeo 156 1.9 JTD 16V Impression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_1_9_jtd_16v_progression",
+              "title": "2003 Alfa Romeo 156 1.9 JTD 16V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_1_9_jtd_distinctive",
+              "title": "2003 Alfa Romeo 156 1.9 JTD Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_1_9_jtd_impression",
+              "title": "2003 Alfa Romeo 156 1.9 JTD Impression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_1_9_jtd_progression",
+              "title": "2003 Alfa Romeo 156 1.9 JTD Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_2_0_jts_16v_distinctive",
+              "title": "2003 Alfa Romeo 156 2.0 JTS 16V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_2_0_jts_16v_impression",
+              "title": "2003 Alfa Romeo 156 2.0 JTS 16V Impression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_2_0_jts_16v_progression",
+              "title": "2003 Alfa Romeo 156 2.0 JTS 16V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_2_0_jts_16v_selespeed_distinctive",
+              "title": "2003 Alfa Romeo 156 2.0 JTS 16V Selespeed Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_2_0_jts_16v_selespeed_progression",
+              "title": "2003 Alfa Romeo 156 2.0 JTS 16V Selespeed Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_2_4_jtd_20v_distinctive",
+              "title": "2003 Alfa Romeo 156 2.4 JTD 20V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_2_4_jtd_20v_progression",
+              "title": "2003 Alfa Romeo 156 2.4 JTD 20V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_2_5_v6_24v_distinctive",
+              "title": "2003 Alfa Romeo 156 2.5 V6 24V Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_2_5_v6_24v_progression",
+              "title": "2003 Alfa Romeo 156 2.5 V6 24V Progression"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_2_5_v6_24v_q_system_distinctive",
+              "title": "2003 Alfa Romeo 156 2.5 V6 24V Q-System Distinctive"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_gta_3_2_v6_24v_selespeed",
+              "title": "2003 Alfa Romeo 156 GTA 3.2 V6 24V Selespeed"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_156_gta_3_2_v6_24v",
+              "title": "2003 Alfa Romeo 156 GTA 3.2 V6 24V"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_156",
+          "title": "Alfa Romeo 156",
+          "children": [
+            {
+              "id": "mod_2002_alfa_romeo_156_1_6_t_spark_16v_progression",
+              "title": "2002 Alfa Romeo 156 1.6 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_1_8_t_spark_16v_progression",
+              "title": "2002 Alfa Romeo 156 1.8 T.Spark 16V Progression"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_1_9_jtd_progression",
+              "title": "2002 Alfa Romeo 156 1.9 JTD Progression"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_2_0_jts_16v_distinctive",
+              "title": "2002 Alfa Romeo 156 2.0 JTS 16V Distinctive"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_2_0_jts_16v_progression",
+              "title": "2002 Alfa Romeo 156 2.0 JTS 16V Progression"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_2_0_jts_16v_selespeed_distinctive",
+              "title": "2002 Alfa Romeo 156 2.0 JTS 16V Selespeed Distinctive"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_2_4_jtd_distinctive",
+              "title": "2002 Alfa Romeo 156 2.4 JTD Distinctive"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_2_4_jtd_progression",
+              "title": "2002 Alfa Romeo 156 2.4 JTD Progression"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_2_5_v6_24v_distinctive",
+              "title": "2002 Alfa Romeo 156 2.5 V6 24V Distinctive"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_2_5_v6_24v_q_system_distinctive",
+              "title": "2002 Alfa Romeo 156 2.5 V6 24V Q-System Distinctive"
+            },
+            {
+              "id": "mod_2002_alfa_romeo_156_gta_3_2_v6_24v",
+              "title": "2002 Alfa Romeo 156 GTA 3.2 V6 24V"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_156",
+          "title": "Alfa Romeo 156",
+          "children": [
+            {
+              "id": "mod_1997_alfa_romeo_156_1_6_t_spark_16v",
+              "title": "1997 Alfa Romeo 156 1.6 T.Spark 16V"
+            },
+            {
+              "id": "mod_1997_alfa_romeo_156_1_8_t_spark_16v",
+              "title": "1997 Alfa Romeo 156 1.8 T.Spark 16V"
+            },
+            {
+              "id": "mod_1997_alfa_romeo_156_1_9_jtd",
+              "title": "1997 Alfa Romeo 156 1.9 JTD"
+            },
+            {
+              "id": "mod_1997_alfa_romeo_156_2_0_t_spark_16v",
+              "title": "1997 Alfa Romeo 156 2.0 T.Spark 16V"
+            },
+            {
+              "id": "mod_1997_alfa_romeo_156_2_4_jtd",
+              "title": "1997 Alfa Romeo 156 2.4 JTD"
+            },
+            {
+              "id": "mod_1997_alfa_romeo_156_2_5_v6_24v",
+              "title": "1997 Alfa Romeo 156 2.5 V6 24V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_spider",
+      "title": "Alfa Romeo Spider",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_spider",
+          "title": "Alfa Romeo Spider",
+          "children": [
+            {
+              "id": "mod_2008_alfa_romeo_spider_2_2_jts",
+              "title": "2008 Alfa Romeo Spider 2.2 JTS"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_spider_2_4_jtdm_20v",
+              "title": "2008 Alfa Romeo Spider 2.4 JTDm 20v"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_spider_3_2_jts_v6_q4",
+              "title": "2008 Alfa Romeo Spider 3.2 JTS V6 Q4"
+            },
+            {
+              "id": "mod_2008_alfa_romeo_spider_3_2_jts_v6",
+              "title": "2008 Alfa Romeo Spider 3.2 JTS V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_spider",
+          "title": "Alfa Romeo Spider",
+          "children": [
+            {
+              "id": "mod_2006_alfa_romeo_spider_2_2_jts_exclusive",
+              "title": "2006 Alfa Romeo Spider 2.2 JTS Exclusive"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_spider_2_2_jts",
+              "title": "2006 Alfa Romeo Spider 2.2 JTS"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_spider_3_2_jts_v6_q4_exclusive",
+              "title": "2006 Alfa Romeo Spider 3.2 JTS V6 Q4 Exclusive"
+            },
+            {
+              "id": "mod_2006_alfa_romeo_spider_3_2_jts_v6_q4",
+              "title": "2006 Alfa Romeo Spider 3.2 JTS V6 Q4"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_spider",
+          "title": "Alfa Romeo Spider",
+          "children": [
+            {
+              "id": "mod_2003_alfa_romeo_spider_2_0_jts_16v",
+              "title": "2003 Alfa Romeo Spider 2.0 JTS 16V"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_spider_2_0_t_spark_16v",
+              "title": "2003 Alfa Romeo Spider 2.0 T.Spark 16V"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_spider_3_2_v6_24v",
+              "title": "2003 Alfa Romeo Spider 3.2 V6 24V"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_spider",
+          "title": "Alfa Romeo Spider",
+          "children": [
+            {
+              "id": "mod_1998_alfa_romeo_spider_1_8_t_spark_16v",
+              "title": "1998 Alfa Romeo Spider 1.8 T.Spark 16V"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_spider_2_0_t_spark_16v_l",
+              "title": "1998 Alfa Romeo Spider 2.0 T.Spark 16V L"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_spider_2_0_t_spark_16v",
+              "title": "1998 Alfa Romeo Spider 2.0 T.Spark 16V"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_spider_3_0_v6_l",
+              "title": "1998 Alfa Romeo Spider 3.0 V6 L"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_spider_3_0_v6",
+              "title": "1998 Alfa Romeo Spider 3.0 V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_spider",
+          "title": "Alfa Romeo Spider",
+          "children": [
+            {
+              "id": "mod_1995_alfa_romeo_spider_2_0_twin_spark_16v_l",
+              "title": "1995 Alfa Romeo Spider 2.0 Twin Spark 16V L"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_spider_2_0_twin_spark_16v",
+              "title": "1995 Alfa Romeo Spider 2.0 Twin Spark 16V"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_spider_3_0_v6_l",
+              "title": "1995 Alfa Romeo Spider 3.0 V6 L"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_spider_3_0_v6",
+              "title": "1995 Alfa Romeo Spider 3.0 V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_spider",
+          "title": "Alfa Romeo Spider",
+          "children": [
+            {
+              "id": "mod_1990_alfa_romeo_spider_2_0",
+              "title": "1990 Alfa Romeo Spider 2.0"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_spider",
+          "title": "Alfa Romeo Spider",
+          "children": [
+            {
+              "id": "mod_1983_alfa_romeo_spider_2_0",
+              "title": "1983 Alfa Romeo Spider 2.0"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_spider",
+          "title": "Alfa Romeo Spider",
+          "children": [
+            {
+              "id": "mod_1971_alfa_romeo_spider_2_0_veloce",
+              "title": "1971 Alfa Romeo Spider 2.0 Veloce"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_146",
+      "title": "Alfa Romeo 146",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_146",
+          "title": "Alfa Romeo 146",
+          "children": [
+            {
+              "id": "mod_1999_alfa_romeo_146_1_4_twin_spark_16v_l",
+              "title": "1999 Alfa Romeo 146 1.4 Twin Spark 16V L"
+            },
+            {
+              "id": "mod_1999_alfa_romeo_146_1_4_twin_spark_16v",
+              "title": "1999 Alfa Romeo 146 1.4 Twin Spark 16V"
+            },
+            {
+              "id": "mod_1999_alfa_romeo_146_1_6_twin_spark_16v_l",
+              "title": "1999 Alfa Romeo 146 1.6 Twin Spark 16V L"
+            },
+            {
+              "id": "mod_1999_alfa_romeo_146_1_8_twin_spark_16v_l",
+              "title": "1999 Alfa Romeo 146 1.8 Twin Spark 16V L"
+            },
+            {
+              "id": "mod_1999_alfa_romeo_146_1_9_jtd_l",
+              "title": "1999 Alfa Romeo 146 1.9 JTD L"
+            },
+            {
+              "id": "mod_1999_alfa_romeo_146_1_9_jtd",
+              "title": "1999 Alfa Romeo 146 1.9 JTD"
+            },
+            {
+              "id": "mod_1999_alfa_romeo_146_ti",
+              "title": "1999 Alfa Romeo 146 TI"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_146",
+          "title": "Alfa Romeo 146",
+          "children": [
+            {
+              "id": "mod_1995_alfa_romeo_146_1_4_i_e_l",
+              "title": "1995 Alfa Romeo 146 1.4 I.e. L"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_146_1_4_i_e",
+              "title": "1995 Alfa Romeo 146 1.4 I.e."
+            },
+            {
+              "id": "mod_1995_alfa_romeo_146_1_6_i_e_l",
+              "title": "1995 Alfa Romeo 146 1.6 I.e. L"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_146_1_6_i_e",
+              "title": "1995 Alfa Romeo 146 1.6 I.e."
+            },
+            {
+              "id": "mod_1995_alfa_romeo_146_1_7_i_e_16v_l",
+              "title": "1995 Alfa Romeo 146 1.7 I.e. 16V L"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_146_2_0_td_l",
+              "title": "1995 Alfa Romeo 146 2.0 TD L"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_146_2_0_td",
+              "title": "1995 Alfa Romeo 146 2.0 TD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_145",
+      "title": "Alfa Romeo 145",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_145",
+          "title": "Alfa Romeo 145",
+          "children": [
+            {
+              "id": "mod_1999_alfa_romeo_145_1_4_twin_spark_16v_l",
+              "title": "1999 Alfa Romeo 145 1.4 Twin Spark 16V L"
+            },
+            {
+              "id": "mod_1999_alfa_romeo_145_1_4_twin_spark_16v",
+              "title": "1999 Alfa Romeo 145 1.4 Twin Spark 16V"
+            },
+            {
+              "id": "mod_1999_alfa_romeo_145_1_6_twin_spark_16v_l",
+              "title": "1999 Alfa Romeo 145 1.6 Twin Spark 16V L"
+            },
+            {
+              "id": "mod_1999_alfa_romeo_145_1_8_twin_spark_16v_l",
+              "title": "1999 Alfa Romeo 145 1.8 Twin Spark 16V L"
+            },
+            {
+              "id": "mod_1999_alfa_romeo_145_1_9_jtd_l",
+              "title": "1999 Alfa Romeo 145 1.9 JTD L"
+            },
+            {
+              "id": "mod_1999_alfa_romeo_145_1_9_jtd",
+              "title": "1999 Alfa Romeo 145 1.9 JTD"
+            },
+            {
+              "id": "mod_1999_alfa_romeo_145_quadrifoglio",
+              "title": "1999 Alfa Romeo 145 Quadrifoglio"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_145",
+          "title": "Alfa Romeo 145",
+          "children": [
+            {
+              "id": "mod_1994_alfa_romeo_145_1_4_i_e_l",
+              "title": "1994 Alfa Romeo 145 1.4 I.e. L"
+            },
+            {
+              "id": "mod_1994_alfa_romeo_145_1_4_i_e",
+              "title": "1994 Alfa Romeo 145 1.4 I.e."
+            },
+            {
+              "id": "mod_1994_alfa_romeo_145_1_6_i_e_l",
+              "title": "1994 Alfa Romeo 145 1.6 I.e. L"
+            },
+            {
+              "id": "mod_1994_alfa_romeo_145_1_6_i_e",
+              "title": "1994 Alfa Romeo 145 1.6 I.e."
+            },
+            {
+              "id": "mod_1994_alfa_romeo_145_1_7_16v",
+              "title": "1994 Alfa Romeo 145 1.7 16V"
+            },
+            {
+              "id": "mod_1994_alfa_romeo_145_2_0_td_l",
+              "title": "1994 Alfa Romeo 145 2.0 TD L"
+            },
+            {
+              "id": "mod_1994_alfa_romeo_145_2_0_td",
+              "title": "1994 Alfa Romeo 145 2.0 TD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_155",
+      "title": "Alfa Romeo 155",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_155",
+          "title": "Alfa Romeo 155",
+          "children": [
+            {
+              "id": "mod_1995_alfa_romeo_155_1_7_twin_spark",
+              "title": "1995 Alfa Romeo 155 1.7 Twin Spark"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_155_1_8_twin_spark_l",
+              "title": "1995 Alfa Romeo 155 1.8 Twin Spark L"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_155_1_8_twin_spark_s",
+              "title": "1995 Alfa Romeo 155 1.8 Twin Spark S"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_155_2_0_16v_turbo_q4",
+              "title": "1995 Alfa Romeo 155 2.0 16V Turbo Q4"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_155_2_0_td",
+              "title": "1995 Alfa Romeo 155 2.0 TD"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_155_2_0_twin_spark_16v_s",
+              "title": "1995 Alfa Romeo 155 2.0 Twin Spark 16V S"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_155_2_0_twin_spark_16v_super",
+              "title": "1995 Alfa Romeo 155 2.0 Twin Spark 16V Super"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_155_2_5_td_s",
+              "title": "1995 Alfa Romeo 155 2.5 TD S"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_155_2_5_v6",
+              "title": "1995 Alfa Romeo 155 2.5 V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_155",
+          "title": "Alfa Romeo 155",
+          "children": [
+            {
+              "id": "mod_1992_alfa_romeo_155_1_8_twin_spark_l",
+              "title": "1992 Alfa Romeo 155 1.8 Twin Spark L"
+            },
+            {
+              "id": "mod_1992_alfa_romeo_155_1_8_twin_spark",
+              "title": "1992 Alfa Romeo 155 1.8 Twin Spark"
+            },
+            {
+              "id": "mod_1992_alfa_romeo_155_2_0_16v_turbo_q4",
+              "title": "1992 Alfa Romeo 155 2.0 16V Turbo Q4"
+            },
+            {
+              "id": "mod_1992_alfa_romeo_155_2_0_twin_spark",
+              "title": "1992 Alfa Romeo 155 2.0 Twin Spark"
+            },
+            {
+              "id": "mod_1992_alfa_romeo_155_2_5_v6",
+              "title": "1992 Alfa Romeo 155 2.5 V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_164",
+      "title": "Alfa Romeo 164",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_164",
+          "title": "Alfa Romeo 164",
+          "children": [
+            {
+              "id": "mod_1993_alfa_romeo_164_2_0_twin_spark_l",
+              "title": "1993 Alfa Romeo 164 2.0 Twin Spark L"
+            },
+            {
+              "id": "mod_1993_alfa_romeo_164_2_0_twin_spark",
+              "title": "1993 Alfa Romeo 164 2.0 Twin Spark"
+            },
+            {
+              "id": "mod_1993_alfa_romeo_164_2_5_turbo_diesel",
+              "title": "1993 Alfa Romeo 164 2.5 Turbo Diesel"
+            },
+            {
+              "id": "mod_1993_alfa_romeo_164_3_0_v6_24v_q",
+              "title": "1993 Alfa Romeo 164 3.0 V6 24V Q"
+            },
+            {
+              "id": "mod_1993_alfa_romeo_164_super_3_0_v6_24v",
+              "title": "1993 Alfa Romeo 164 Super 3.0 V6 24V"
+            },
+            {
+              "id": "mod_1993_alfa_romeo_164_super_3_0_v6",
+              "title": "1993 Alfa Romeo 164 Super 3.0 V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_164",
+          "title": "Alfa Romeo 164",
+          "children": [
+            {
+              "id": "mod_1988_alfa_romeo_164_2_0_twin_spark_s",
+              "title": "1988 Alfa Romeo 164 2.0 Twin Spark (S)"
+            },
+            {
+              "id": "mod_1988_alfa_romeo_164_2_0_twin_spark",
+              "title": "1988 Alfa Romeo 164 2.0 Twin Spark"
+            },
+            {
+              "id": "mod_1988_alfa_romeo_164_3_0_v6",
+              "title": "1988 Alfa Romeo 164 3.0 V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_33_sportwagon",
+      "title": "Alfa Romeo 33 SportWagon",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_33_sportwagon",
+          "title": "Alfa Romeo 33 SportWagon",
+          "children": [
+            {
+              "id": "mod_1992_alfa_romeo_33_sportwagon_1_4_i_e",
+              "title": "1992 Alfa Romeo 33 SportWagon 1.4 I.e."
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_33_sportwagon",
+          "title": "Alfa Romeo 33 SportWagon",
+          "children": [
+            {
+              "id": "mod_1988_alfa_romeo_33_sportwagon_1_3_s",
+              "title": "1988 Alfa Romeo 33 SportWagon 1.3 S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_75",
+      "title": "Alfa Romeo 75",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_75",
+          "title": "Alfa Romeo 75",
+          "children": [
+            {
+              "id": "mod_1989_alfa_romeo_75_1_8_i_e",
+              "title": "1989 Alfa Romeo 75 1.8 I.e."
+            },
+            {
+              "id": "mod_1989_alfa_romeo_75_2_0_twin_spark",
+              "title": "1989 Alfa Romeo 75 2.0 Twin Spark"
+            },
+            {
+              "id": "mod_1989_alfa_romeo_75_3_0_v6",
+              "title": "1989 Alfa Romeo 75 3.0 V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_75",
+          "title": "Alfa Romeo 75",
+          "children": [
+            {
+              "id": "mod_1985_alfa_romeo_75_1_8",
+              "title": "1985 Alfa Romeo 75 1.8"
+            },
+            {
+              "id": "mod_1985_alfa_romeo_75_2_0",
+              "title": "1985 Alfa Romeo 75 2.0"
+            },
+            {
+              "id": "mod_1985_alfa_romeo_75_2_5_v6",
+              "title": "1985 Alfa Romeo 75 2.5 V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_90",
+      "title": "Alfa Romeo 90",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_90",
+          "title": "Alfa Romeo 90",
+          "children": [
+            {
+              "id": "mod_1984_alfa_romeo_90_2_0_motronic",
+              "title": "1984 Alfa Romeo 90 2.0 Motronic"
+            },
+            {
+              "id": "mod_1984_alfa_romeo_90_2_0",
+              "title": "1984 Alfa Romeo 90 2.0"
+            },
+            {
+              "id": "mod_1984_alfa_romeo_90_2_4_turbo_d",
+              "title": "1984 Alfa Romeo 90 2.4 Turbo D"
+            },
+            {
+              "id": "mod_1984_alfa_romeo_90_2_5_qo",
+              "title": "1984 Alfa Romeo 90 2.5 QO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_33_giardinetta",
+      "title": "Alfa Romeo 33 Giardinetta",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_33_giardinetta",
+          "title": "Alfa Romeo 33 Giardinetta",
+          "children": [
+            {
+              "id": "mod_1984_alfa_romeo_33_giardinetta_1_5_4x4",
+              "title": "1984 Alfa Romeo 33 Giardinetta 1.5 4x4"
+            },
+            {
+              "id": "mod_1984_alfa_romeo_33_giardinetta_1_5",
+              "title": "1984 Alfa Romeo 33 Giardinetta 1.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_33",
+      "title": "Alfa Romeo 33",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_33",
+          "title": "Alfa Romeo 33",
+          "children": [
+            {
+              "id": "mod_1990_alfa_romeo_33_1_3_v",
+              "title": "1990 Alfa Romeo 33 1.3 V"
+            },
+            {
+              "id": "mod_1990_alfa_romeo_33_1_7_i_e_16v_s",
+              "title": "1990 Alfa Romeo 33 1.7 I.e. 16V S"
+            },
+            {
+              "id": "mod_1990_alfa_romeo_33_1_7_i_e_16v",
+              "title": "1990 Alfa Romeo 33 1.7 I.e. 16V"
+            },
+            {
+              "id": "mod_1990_alfa_romeo_33_1_7_i_e",
+              "title": "1990 Alfa Romeo 33 1.7 I.e."
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_33",
+          "title": "Alfa Romeo 33",
+          "children": [
+            {
+              "id": "mod_1986_alfa_romeo_33_1_3_s",
+              "title": "1986 Alfa Romeo 33 1.3 S"
+            },
+            {
+              "id": "mod_1986_alfa_romeo_33_1_3",
+              "title": "1986 Alfa Romeo 33 1.3"
+            },
+            {
+              "id": "mod_1986_alfa_romeo_33_1_5_ti",
+              "title": "1986 Alfa Romeo 33 1.5 TI"
+            },
+            {
+              "id": "mod_1986_alfa_romeo_33_1_7_qv",
+              "title": "1986 Alfa Romeo 33 1.7 QV"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_33",
+          "title": "Alfa Romeo 33",
+          "children": [
+            {
+              "id": "mod_1983_alfa_romeo_33_1_3",
+              "title": "1983 Alfa Romeo 33 1.3"
+            },
+            {
+              "id": "mod_1983_alfa_romeo_33_1_5_qv",
+              "title": "1983 Alfa Romeo 33 1.5 QV"
+            },
+            {
+              "id": "mod_1983_alfa_romeo_33_1_5",
+              "title": "1983 Alfa Romeo 33 1.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_gtv",
+      "title": "Alfa Romeo GTV",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_gtv",
+          "title": "Alfa Romeo GTV",
+          "children": [
+            {
+              "id": "mod_2003_alfa_romeo_gtv_2_0_jts_16v",
+              "title": "2003 Alfa Romeo GTV 2.0 JTS 16V"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_gtv_2_0_t_spark_16v",
+              "title": "2003 Alfa Romeo GTV 2.0 T.Spark 16V"
+            },
+            {
+              "id": "mod_2003_alfa_romeo_gtv_3_2_v6_24v",
+              "title": "2003 Alfa Romeo GTV 3.2 V6 24V"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_gtv",
+          "title": "Alfa Romeo GTV",
+          "children": [
+            {
+              "id": "mod_1998_alfa_romeo_gtv_1_8_t_spark_16v",
+              "title": "1998 Alfa Romeo GTV 1.8 T.Spark 16V"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_gtv_2_0_t_spark_16v_l",
+              "title": "1998 Alfa Romeo GTV 2.0 T.Spark 16V L"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_gtv_2_0_t_spark_16v",
+              "title": "1998 Alfa Romeo GTV 2.0 T.Spark 16V"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_gtv_2_0_v6_tb_l",
+              "title": "1998 Alfa Romeo GTV 2.0 V6 TB L"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_gtv_3_0_v6_24v_l",
+              "title": "1998 Alfa Romeo GTV 3.0 V6 24V L"
+            },
+            {
+              "id": "mod_1998_alfa_romeo_gtv_3_0_v6_24v",
+              "title": "1998 Alfa Romeo GTV 3.0 V6 24V"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_gtv",
+          "title": "Alfa Romeo GTV",
+          "children": [
+            {
+              "id": "mod_1995_alfa_romeo_gtv_2_0_twin_spark_16v_l",
+              "title": "1995 Alfa Romeo GTV 2.0 Twin Spark 16V L"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_gtv_2_0_twin_spark_16v",
+              "title": "1995 Alfa Romeo GTV 2.0 Twin Spark 16V"
+            },
+            {
+              "id": "mod_1995_alfa_romeo_gtv_2_0_v6_tb",
+              "title": "1995 Alfa Romeo GTV 2.0 V6 TB"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_gtv",
+          "title": "Alfa Romeo GTV",
+          "children": [
+            {
+              "id": "mod_1981_alfa_romeo_gtv_2_0",
+              "title": "1981 Alfa Romeo GTV 2.0"
+            },
+            {
+              "id": "mod_1981_alfa_romeo_gtv6_2_5",
+              "title": "1981 Alfa Romeo GTV6 2.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_alfasud",
+      "title": "Alfa Romeo Alfasud",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_alfasud",
+          "title": "Alfa Romeo Alfasud",
+          "children": [
+            {
+              "id": "mod_1980_alfa_romeo_alfasud_1_5_ti",
+              "title": "1980 Alfa Romeo Alfasud 1.5 TI"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_alfasud",
+          "title": "Alfa Romeo Alfasud",
+          "children": []
+        },
+        {
+          "id": "gen_alfa_romeo_alfasud",
+          "title": "Alfa Romeo Alfasud",
+          "children": [
+            {
+              "id": "mod_1980_alfa_romeo_alfasud_1_2_n",
+              "title": "1980 Alfa Romeo Alfasud 1.2 N"
+            },
+            {
+              "id": "mod_1980_alfa_romeo_alfasud_1_3_n",
+              "title": "1980 Alfa Romeo Alfasud 1.3 N"
+            },
+            {
+              "id": "mod_1980_alfa_romeo_alfasud_1_5",
+              "title": "1980 Alfa Romeo Alfasud 1.5"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_alfasud",
+          "title": "Alfa Romeo Alfasud",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_alfa_6",
+      "title": "Alfa Romeo Alfa 6",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_alfa_6",
+          "title": "Alfa Romeo Alfa 6",
+          "children": [
+            {
+              "id": "mod_1983_alfa_romeo_alfa_6_2_5_v6",
+              "title": "1983 Alfa Romeo Alfa 6 2.5 V6"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_alfa_6",
+          "title": "Alfa Romeo Alfa 6",
+          "children": [
+            {
+              "id": "mod_1979_alfa_romeo_alfa_6_2_5_v6",
+              "title": "1979 Alfa Romeo Alfa 6 2.5 V6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_giulietta",
+      "title": "Alfa Romeo Giulietta",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_giulietta",
+          "title": "Alfa Romeo Giulietta",
+          "children": [
+            {
+              "id": "mod_2016_alfa_romeo_giulietta_1_4_turbo_120",
+              "title": "2016 Alfa Romeo Giulietta 1.4 Turbo 120"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulietta_1_4_turbo_multiair_150_super",
+              "title": "2016 Alfa Romeo Giulietta 1.4 Turbo MultiAir 150 Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulietta_1_4_turbo_multiair_150",
+              "title": "2016 Alfa Romeo Giulietta 1.4 Turbo MultiAir 150"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulietta_1_4_turbo_multiair_170_super",
+              "title": "2016 Alfa Romeo Giulietta 1.4 Turbo MultiAir 170 Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulietta_1_4_turbo_multiair_170",
+              "title": "2016 Alfa Romeo Giulietta 1.4 Turbo MultiAir 170"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulietta_1_6_jtdm_120_super",
+              "title": "2016 Alfa Romeo Giulietta 1.6 JTDm 120 Super"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulietta_1_6_jtdm_120",
+              "title": "2016 Alfa Romeo Giulietta 1.6 JTDm 120"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulietta_1_750_tbi_veloce",
+              "title": "2016 Alfa Romeo Giulietta 1.750 TBi Veloce"
+            },
+            {
+              "id": "mod_2016_alfa_romeo_giulietta_2_0_jtdm_150_super",
+              "title": "2016 Alfa Romeo Giulietta 2.0 JTDm 150 Super"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_giulietta",
+          "title": "Alfa Romeo Giulietta",
+          "children": [
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_4_turbo_105_distinctive",
+              "title": "2014 Alfa Romeo Giulietta 1.4 Turbo 105 Distinctive"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_4_turbo_105_impression",
+              "title": "2014 Alfa Romeo Giulietta 1.4 Turbo 105 Impression"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_4_turbo_105_progression",
+              "title": "2014 Alfa Romeo Giulietta 1.4 Turbo 105 Progression"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_4_turbo_120_distinctive",
+              "title": "2014 Alfa Romeo Giulietta 1.4 Turbo 120 Distinctive"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_4_turbo_multiair_150_sprint",
+              "title": "2014 Alfa Romeo Giulietta 1.4 Turbo MultiAir 150 Sprint"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_4_turbo_multiair_170_distinctive_lusso",
+              "title": "2014 Alfa Romeo Giulietta 1.4 Turbo MultiAir 170 Distinctive Lusso"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_4_turbo_multiair_170_distinctive",
+              "title": "2014 Alfa Romeo Giulietta 1.4 Turbo MultiAir 170 Distinctive"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_4_turbo_multiair_170_exclusive",
+              "title": "2014 Alfa Romeo Giulietta 1.4 Turbo MultiAir 170 Exclusive"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_4_turbo_multiair_170_progression",
+              "title": "2014 Alfa Romeo Giulietta 1.4 Turbo MultiAir 170 Progression"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_4_turbo_multiair_170_sprint",
+              "title": "2014 Alfa Romeo Giulietta 1.4 Turbo MultiAir 170 Sprint"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_6_jtdm_105_distinctive",
+              "title": "2014 Alfa Romeo Giulietta 1.6 JTDm 105 Distinctive"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_6_jtdm_105_exclusive",
+              "title": "2014 Alfa Romeo Giulietta 1.6 JTDm 105 Exclusive"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_6_jtdm_105_progression",
+              "title": "2014 Alfa Romeo Giulietta 1.6 JTDm 105 Progression"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_6_jtdm_105_sprint",
+              "title": "2014 Alfa Romeo Giulietta 1.6 JTDm 105 Sprint"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_1_750_tbi_quadrifoglio_verde",
+              "title": "2014 Alfa Romeo Giulietta 1.750 TBi Quadrifoglio Verde"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_2_0_jtdm_150_distinctive",
+              "title": "2014 Alfa Romeo Giulietta 2.0 JTDm 150 Distinctive"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_2_0_jtdm_150_exclusive",
+              "title": "2014 Alfa Romeo Giulietta 2.0 JTDm 150 Exclusive"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_2_0_jtdm_150_sprint",
+              "title": "2014 Alfa Romeo Giulietta 2.0 JTDm 150 Sprint"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_2_0_jtdm_175_distinctive",
+              "title": "2014 Alfa Romeo Giulietta 2.0 JTDm 175 Distinctive"
+            },
+            {
+              "id": "mod_2014_alfa_romeo_giulietta_2_0_jtdm_175_exclusive",
+              "title": "2014 Alfa Romeo Giulietta 2.0 JTDm 175 Exclusive"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_giulietta",
+          "title": "Alfa Romeo Giulietta",
+          "children": [
+            {
+              "id": "mod_2010_alfa_romeo_giulietta_1_4_turbo_120_distinctive",
+              "title": "2010 Alfa Romeo Giulietta 1.4 Turbo 120 Distinctive"
+            },
+            {
+              "id": "mod_2010_alfa_romeo_giulietta_1_4_turbo_120_progression",
+              "title": "2010 Alfa Romeo Giulietta 1.4 Turbo 120 Progression"
+            },
+            {
+              "id": "mod_2010_alfa_romeo_giulietta_1_4_turbo_multiair_distinctive",
+              "title": "2010 Alfa Romeo Giulietta 1.4 Turbo MultiAir Distinctive"
+            },
+            {
+              "id": "mod_2010_alfa_romeo_giulietta_1_4_turbo_multiair_progression",
+              "title": "2010 Alfa Romeo Giulietta 1.4 Turbo MultiAir Progression"
+            },
+            {
+              "id": "mod_2010_alfa_romeo_giulietta_1_6_jtdm_105_distinctive",
+              "title": "2010 Alfa Romeo Giulietta 1.6 JTDm 105 Distinctive"
+            },
+            {
+              "id": "mod_2010_alfa_romeo_giulietta_1_6_jtdm_105_progression",
+              "title": "2010 Alfa Romeo Giulietta 1.6 JTDm 105 Progression"
+            },
+            {
+              "id": "mod_2010_alfa_romeo_giulietta_1_750_tbi_quadrifoglio_verde",
+              "title": "2010 Alfa Romeo Giulietta 1.750 TBi Quadrifoglio Verde"
+            },
+            {
+              "id": "mod_2010_alfa_romeo_giulietta_2_0_jtdm_140_distinctive",
+              "title": "2010 Alfa Romeo Giulietta 2.0 JTDm 140 Distinctive"
+            },
+            {
+              "id": "mod_2010_alfa_romeo_giulietta_2_0_jtdm_140_progression",
+              "title": "2010 Alfa Romeo Giulietta 2.0 JTDm 140 Progression"
+            },
+            {
+              "id": "mod_2010_alfa_romeo_giulietta_2_0_jtdm_170_distinctive",
+              "title": "2010 Alfa Romeo Giulietta 2.0 JTDm 170 Distinctive"
+            },
+            {
+              "id": "mod_2010_alfa_romeo_giulietta_2_0_jtdm_170_progression",
+              "title": "2010 Alfa Romeo Giulietta 2.0 JTDm 170 Progression"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_giulietta",
+          "title": "Alfa Romeo Giulietta",
+          "children": [
+            {
+              "id": "mod_1983_alfa_romeo_giulietta_1_6",
+              "title": "1983 Alfa Romeo Giulietta 1.6"
+            },
+            {
+              "id": "mod_1983_alfa_romeo_giulietta_2_0_td",
+              "title": "1983 Alfa Romeo Giulietta 2.0 TD"
+            },
+            {
+              "id": "mod_1983_alfa_romeo_giulietta_2_0",
+              "title": "1983 Alfa Romeo Giulietta 2.0"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_giulietta",
+          "title": "Alfa Romeo Giulietta",
+          "children": [
+            {
+              "id": "mod_1978_alfa_romeo_giulietta_1_6",
+              "title": "1978 Alfa Romeo Giulietta 1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_sprint",
+      "title": "Alfa Romeo Sprint",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_sprint",
+          "title": "Alfa Romeo Sprint",
+          "children": [
+            {
+              "id": "mod_1983_alfa_romeo_sprint_1_3",
+              "title": "1983 Alfa Romeo Sprint 1.3"
+            },
+            {
+              "id": "mod_1983_alfa_romeo_sprint_1_5",
+              "title": "1983 Alfa Romeo Sprint 1.5"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_sprint",
+          "title": "Alfa Romeo Sprint",
+          "children": [
+            {
+              "id": "mod_1978_alfa_romeo_alfasud_sprint_1_5",
+              "title": "1978 Alfa Romeo Alfasud Sprint 1.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_alfetta_gtv",
+      "title": "Alfa Romeo Alfetta GTV",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_alfetta_gtv",
+          "title": "Alfa Romeo Alfetta GTV",
+          "children": [
+            {
+              "id": "mod_1976_alfa_romeo_alfetta_gtv_2000_l",
+              "title": "1976 Alfa Romeo Alfetta GTV 2000 L"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_alfa_romeo_alfetta",
+      "title": "Alfa Romeo Alfetta",
+      "generations": [
+        {
+          "id": "gen_alfa_romeo_alfetta",
+          "title": "Alfa Romeo Alfetta",
+          "children": [
+            {
+              "id": "mod_1983_alfa_romeo_alfetta_1_6",
+              "title": "1983 Alfa Romeo Alfetta 1.6"
+            },
+            {
+              "id": "mod_1983_alfa_romeo_alfetta_1_8",
+              "title": "1983 Alfa Romeo Alfetta 1.8"
+            },
+            {
+              "id": "mod_1983_alfa_romeo_alfetta_2_0",
+              "title": "1983 Alfa Romeo Alfetta 2.0"
+            },
+            {
+              "id": "mod_1983_alfa_romeo_alfetta_2_0i_quadrifoglio",
+              "title": "1983 Alfa Romeo Alfetta 2.0i Quadrifoglio"
+            },
+            {
+              "id": "mod_1983_alfa_romeo_alfetta_2_4_turbo_diesel",
+              "title": "1983 Alfa Romeo Alfetta 2.4 Turbo Diesel"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_alfetta",
+          "title": "Alfa Romeo Alfetta",
+          "children": [
+            {
+              "id": "mod_1981_alfa_romeo_alfetta_1_6",
+              "title": "1981 Alfa Romeo Alfetta 1.6"
+            },
+            {
+              "id": "mod_1981_alfa_romeo_alfetta_1_8",
+              "title": "1981 Alfa Romeo Alfetta 1.8"
+            },
+            {
+              "id": "mod_1981_alfa_romeo_alfetta_2_0",
+              "title": "1981 Alfa Romeo Alfetta 2.0"
+            }
+          ]
+        },
+        {
+          "id": "gen_alfa_romeo_alfetta",
+          "title": "Alfa Romeo Alfetta",
+          "children": [
+            {
+              "id": "mod_1975_alfa_romeo_alfetta_1_6_l",
+              "title": "1975 Alfa Romeo Alfetta 1.6 L"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

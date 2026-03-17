@@ -1,0 +1,40 @@
+{
+  "id": "brand_galloper",
+  "title": "Galloper",
+  "models": [
+    {
+      "id": "model_galloper_galloper",
+      "title": "Galloper Galloper",
+      "generations": [
+        {
+          "id": "gen_galloper_galloper",
+          "title": "Galloper Galloper",
+          "children": [
+            {
+              "id": "mod_1998_galloper_galloper_2_5_tc",
+              "title": "1998 Galloper Galloper 2.5 TC"
+            },
+            {
+              "id": "mod_1998_galloper_galloper_2_5_tci",
+              "title": "1998 Galloper Galloper 2.5 TCI"
+            }
+          ]
+        },
+        {
+          "id": "gen_galloper_galloper",
+          "title": "Galloper Galloper",
+          "children": [
+            {
+              "id": "mod_1998_galloper_galloper_2_5_tc",
+              "title": "1998 Galloper Galloper 2.5 TC"
+            },
+            {
+              "id": "mod_1998_galloper_galloper_2_5_tci",
+              "title": "1998 Galloper Galloper 2.5 TCI"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

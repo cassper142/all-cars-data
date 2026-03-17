@@ -1,0 +1,22 @@
+{
+  "id": "brand_princess",
+  "title": "Princess",
+  "models": [
+    {
+      "id": "model_princess_2000",
+      "title": "Princess 2000",
+      "generations": [
+        {
+          "id": "gen_princess_2000",
+          "title": "Princess 2000",
+          "children": [
+            {
+              "id": "mod_1978_princess_2000",
+              "title": "1978 Princess 2000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

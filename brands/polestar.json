@@ -1,0 +1,38 @@
+{
+  "id": "brand_polestar",
+  "title": "Polestar",
+  "models": [
+    {
+      "id": "model_polestar_1",
+      "title": "Polestar 1",
+      "generations": [
+        {
+          "id": "gen_polestar_1",
+          "title": "Polestar 1",
+          "children": [
+            {
+              "id": "mod_2020_polestar_1_t8r",
+              "title": "2020 Polestar 1 T8R"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "model_polestar_2",
+      "title": "Polestar 2",
+      "generations": [
+        {
+          "id": "gen_polestar_2",
+          "title": "Polestar 2",
+          "children": [
+            {
+              "id": "mod_2020_polestar_2_intro",
+              "title": "2020 Polestar 2 Intro"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
